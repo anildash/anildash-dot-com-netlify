@@ -1,10 +1,16 @@
 headersOrigin = "config"
-plugins = []
 redirects = []
 
 [functions]
 
 [functions."*"]
+
+[[plugins]]
+origin = "ui"
+package = "@netlify/plugin-lighthouse"
+pinned_version = "6"
+
+[plugins.inputs]
 
 [build]
 publish = "/Users/anildash/Developer/anildash-dot-com-netlify/build"

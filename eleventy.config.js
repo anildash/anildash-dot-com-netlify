@@ -223,4 +223,5 @@ export default function (eleventyConfig) {
   
   return Image.generateHTML(metadata, imageAttributes);
 });
+eleventyConfig.addPassthroughCopy("src/admin");
 };
