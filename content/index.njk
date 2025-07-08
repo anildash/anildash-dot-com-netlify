@@ -4,26 +4,29 @@ const eleventyNavigation = {
 	order: 1
 };
 
-const numberOfLatestPostsToShow = 3;
+const numberOfLatestPostsToShow = 12;
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+
+<div class="intro">
+  <div class="intro-text">
+    <h1>Hi, I'm Anil Dash</h1>
+    
+    <p>I'm a tech entrepreneur and writer trying to make the technology world more thoughtful, creative and humane. You can read more <a href="/about">about me</a> here.</p>
+    
+    <p>This is a blog about how culture is made, continuously updated since 1999. While you're here, check out my writing about <a href="/tags/tech">tech</a>, <a href="/tags/systems">systems</a>, <a href="/tags/Prince">Prince</a>, <a href="/tags/nyc">nyc</a>, or the <a href="/tags/Best%20Of">Best Of</a> the first 25 years of this blog.</p>
+  </div>
+
+  <figure class="feature-pic">
+    <div class="feature-pic-image" style="background-image: url(https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/headshot-2022-square.jpeg?v=1698766406592);"> </div>
+  </figure>
+</div>
+
+<h2>The latest</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% set morePosts = collections.posts | length - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
-
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
