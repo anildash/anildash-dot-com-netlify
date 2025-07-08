@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown CMS for 11ty</title>
+  <style>
+    :root {
+      /* Light mode colors */
+      --primary: #4a6da7;
+      --primary-light: #748fb8;
+      --secondary: #a3be8c;
+      --dark: #2e3440;
+      --light: #eceff4;
+      --danger: #bf616a;
+      --warning: #ebcb8b;
+      --border-radius: 4px;
+      --bg-color: #f9f9fb;
+      --card-bg: #ffffff;
+      --text-color: #2e3440;
+      --border-color: #ddd;
+      --header-bg: #4a6da7;
+      --header-color: white;
+      --preview-bg: #ffffff;
+    }
+    
+    [data-theme="dark"] {
+      /* Dark mode colors */
+      --primary: #81a1c1;
+      --primary-light: #88c0d0;
+      --secondary: #a3be8c;
+      --dark: #eceff4;
+      --light: #2e3440;
+      --border-radius: 4px;
+      --bg-color: #2e3440;
+      --card-bg: #3b4252;
+      --text-color: #eceff4;
+      --border-color: #4c566a;
+      --header-bg: #3b4252;
+      --header-color: #eceff4;
+      --preview-bg: #434c5e;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-color);
+      background-color: var(--bg-color);
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.3s ease;
+    }
+    
+    body.highlight {
+      outline: 2px dashed var(--primary);
+      outline-offset: -10px;
+      background-color: rgba(74, 109, 167, 0.05);
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+    
+    header {
+      background-color: var(--header-bg);
+      color: var(--header-color);
+      padding: 1rem 0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: background-color 0.3s ease;
+    }
+    
+    h1, h2, h3, h4 {
+      margin-top: 0;
+      color: var(--text-color);
+    }
+    
+    button, .button {
+      background-color: var(--primary);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: var(--border-radius);
+      cursor: pointer;
+      font-size: 1rem;
+      transition: background-color 0.2s;
+      margin-right: 0.5rem;
+    }
+    
+    button:hover, .button:hover {
+      background-color: var(--primary-light);
+    }
+    
+    button.secondary {
+      background-color: var(--secondary);
+    }
+    
+    button.danger {
+      background-color: var(--danger);
+    }
+    
+    input, textarea, select {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid var(--border-color);
+      border-radius: var(--border-radius);
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      background-color: var(--card-bg);
+      color: var(--text-color);
+    }
+    
+    textarea {
+      min-height: 400px;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      resize: vertical;
+    }
+    
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--border-radius);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      transition: background-color 0.3s ease;
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+    
+    .flex {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    
+    .tabs {
+      display: flex;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .tab {
+      padding: 0.75rem 1.25rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      margin-right: 2px;
+      border-top-left-radius: var(--border-radius);
+      border-top-right-radius: var(--border-radius);
+    }
+    
+    .tab.active {
+      background-color: var(--primary);
+      color: white;
+      font-weight: bold;
+    }
+    
+    .tab:hover:not(.active) {
+      background-color: rgba(74, 109, 167, 0.1);
+    }
+    
+    .hidden {
+      display: none;
+    }
+    
+    .content-list {
+      margin-top: 2rem;
+    }
+    
+    .content-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+      border-bottom: 1px solid var(--border-color);
+      transition: background-color 0.3s ease;
+    }
+    
+    .content-item:hover {
+      background-color: rgba(74, 109, 167, 0.05);
+    }
+    
+    .content-meta {
+      color: var(--text-color);
+      opacity: 0.7;
+      font-size: 0.9rem;
+    }
+    
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.5rem;
+      border-radius: 50px;
+      font-size: 0.8rem;
+      margin-left: 0.5rem;
+    }
+    
+    .badge.published {
+      background-color: var(--secondary);
+      color: white;
+    }
+    
+    .badge.draft {
+      background-color: var(--warning);
+      color: var(--dark);
+    }
+    
+    .editor-container {
+      display: flex;
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    
+    .editor-main {
+      flex: 3;
+    }
+    
+    .editor-sidebar {
+      flex: 1;
+    }
+    
+    .preview-container {
+      background-color: var(--preview-bg);
+      border: 1px solid var(--border-color);
+      padding: 2rem;
+      border-radius: var(--border-radius);
+      min-height: 500px;
+      overflow-y: auto;
+      color: var(--text-color);
+    }
+    
+    .preview-container h1,
+    .preview-container h2,
+    .preview-container h3,
+    .preview-container h4,
+    .preview-container h5,
+    .preview-container h6 {
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    .preview-container p {
+      margin-bottom: 1rem;
+    }
+    
+    .preview-container img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    .preview-container pre {
+      background-color: rgba(0, 0, 0, 0.1);
+      padding: 1rem;
+      border-radius: var(--border-radius);
+      overflow-x: auto;
+    }
+    
+    .preview-container code {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 0.9em;
+      background-color: rgba(0, 0, 0, 0.1);
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+    }
+    
+    .preview-container pre code {
+      background-color: transparent;
+      padding: 0;
+    }
+    
+    .preview-container blockquote {
+      border-left: 4px solid var(--primary);
+      padding-left: 1rem;
+      margin-left: 0;
+      color: var(--text-color);
+      opacity: 0.8;
+    }
+    
+    .loading {
+      opacity: 0.5;
+      pointer-events: none;
+    }
+    
+    .theme-toggle {
+      background: none;
+      border: none;
+      color: var(--header-color);
+      cursor: pointer;
+      margin-left: 1rem;
+      padding: 0.5rem;
+      font-size: 1.2rem;
+    }
+    
+    .file-actions {
+      display: flex;
+      margin-bottom: 1rem;
+    }
+    
+    .form-group {
+      margin-bottom: 1rem;
+    }
+    
+    small {
+      color: var(--text-color);
+      opacity: 0.8;
+      font-size: 0.8rem;
+    }
+    
+    .footer {
+      text-align: center;
+      margin-top: 2rem;
+      padding: 1rem;
+      color: var(--text-color);
+      opacity: 0.7;
+      font-size: 0.9rem;
+    }
+    
+    .draft-status {
+      display: inline-block;
+      background-color: var(--warning);
+      color: var(--dark);
+      font-size: 0.8rem;
+      padding: 0.25rem 0.5rem;
+      border-radius: 50px;
+      margin-left: 0.5rem;
+    }
+    
+    .draft-info {
+      font-style: italic;
+      color: var(--text-color);
+      opacity: 0.7;
+      margin-top: 0.5rem;
+    }
+    
+    .last-saved {
+      font-size: 0.8rem;
+      color: var(--text-color);
+      opacity: 0.7;
+      margin-top: 0.5rem;
+      text-align: right;
+    }
+    
+    .search-bar {
+      margin-bottom: 1rem;
+      display: flex;
+      gap: 0.5rem;
+    }
+    
+    .search-bar input {
+      flex: 1;
+      margin-bottom: 0;
+    }
+    
+    .export-all-container {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border-color);
+    }
+    
+    @media (max-width: 768px) {
+      .editor-container {
+        flex-direction: column;
+      }
+      
+      .flex {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .flex > div {
+        margin-top: 1rem;
+        display: flex;
+        width: 100%;
+      }
+      
+      .flex > div button {
+        flex: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container flex">
+      <h1>Markdown CMS</h1>
+      <div>
+        <button id="theme-toggle" class="theme-toggle">🌙</button>
+      </div>
+    </div>
+  </header>
+  
+  <main class="container">
+    <div class="tabs">
+      <div class="tab active" data-tab="list">Drafts</div>
+      <div class="tab" data-tab="editor">Editor</div>
+      <div class="tab" data-tab="preview">Preview</div>
+    </div>
+    
+    <div class="tab-content" id="list-tab">
+      <div class="flex">
+        <h2>Saved Drafts</h2>
+        <div>
+          <button id="new-content-btn">New Draft</button>
+          <button id="export-all-btn" class="secondary">Export All</button>
+        </div>
+      </div>
+      
+      <div class="content-list" id="content-list">
+        <!-- Content items will be populated here -->
+      </div>
+    </div>
+    
+    <div class="tab-content hidden" id="editor-tab">
+      <div class="flex">
+        <h2>Editor</h2>
+        <div class="file-actions">
+          <button id="open-file-btn" class="secondary">Open File</button>
+          <input type="file" id="file-input" accept=".md,.markdown" style="display: none;">
+          <button id="save-draft-btn" class="secondary">Save Draft</button>
+          <button id="save-file-btn">Export File</button>
+        </div>
+      </div>
+      
+      <div class="editor-container">
+        <div class="editor-main">
+          <input type="text" id="title" placeholder="Title">
+          <textarea id="content" placeholder="Write your content here using Markdown..."></textarea>
+        </div>
+        
+        <div class="editor-sidebar card">
+          <div class="form-group">
+            <label for="date-published">Date Published</label>
+            <input type="datetime-local" id="date-published">
+          </div>
+          
+          <div class="form-group">
+            <label for="slug">Slug</label>
+            <input type="text" id="slug" placeholder="custom-url-slug">
+            <small>Leave empty to generate from title</small>
+          </div>
+          
+          <div class="form-group">
+            <label for="tags">Tags (comma separated)</label>
+            <input type="text" id="tags" placeholder="tag1, tag2, tag3">
+          </div>
+          
+          <div class="form-group">
+            <label for="hero-image">Hero/Featured Image URL</label>
+            <input type="text" id="hero-image" placeholder="https://example.com/image.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="tab-content hidden" id="preview-tab">
+      <div class="flex">
+        <h2>Preview</h2>
+        <div>
+          <button id="preview-refresh-btn" class="secondary">Refresh Preview</button>
+        </div>
+      </div>
+      
+      <div class="preview-container" id="preview-container">
+        <!-- Preview content will be shown here -->
+      </div>
+    </div>
+  </main>
+  
+  <div class="footer">
+    <p>Markdown CMS for 11ty | <span id="storage-info">0 drafts in local storage</span> | Auto-save every 30 seconds</p>
+  </div>
+  
+  <!-- Include Marked.js for Markdown parsing -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  
+  <!-- Include JSZip for exporting multiple files -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  
+  <script>
+    // Global variables
+    let contents = [];
+    let currentContentId = null;
+    let isEditing = false;
+    const storageKey = 'js-cms-drafts';
+    let autoSaveTimer = null;
+    const autoSaveInterval = 30000; // 30 seconds
+    
+    // Initialize the application
+    function initialize() {
+      // Check for saved theme preference
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      updateThemeToggle(savedTheme);
+      
+      // Load content from localStorage
+      loadContentFromStorage();
+      
+      // Display content list
+      displayContentList();
+      
+      // Set up event listeners
+      setupEventListeners();
+      
+      // Set up drag and drop
+      setupDragAndDrop();
+      
+      // Set up Marked.js options
+      marked.setOptions({
+        breaks: true,
+        gfm: true,
+        headerIds: true,
+        sanitize: false
+      });
+      
+      // Set up auto-save
+      setupAutoSave();
+      
+      // Update storage info
+      updateStorageInfo();
+    }
+    
+    // Update theme toggle button
+    function updateThemeToggle(theme) {
+      const toggleBtn = document.getElementById('theme-toggle');
+      toggleBtn.textContent = theme === 'dark' ? '☀️' : '🌙';
+    }
+    
+    // Toggle theme
+    function toggleTheme() {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      updateThemeToggle(newTheme);
+    }
+    
+    // Load content from localStorage
+    function loadContentFromStorage() {
+      const storedContent = localStorage.getItem(storageKey);
+      if (storedContent) {
+        try {
+          contents = JSON.parse(storedContent);
+        } catch (e) {
+          console.error('Failed to parse stored content:', e);
+          contents = [];
+        }
+      }
+    }
+    
+    // Save content to localStorage
+    function saveContentToStorage() {
+      localStorage.setItem(storageKey, JSON.stringify(contents));
+      updateStorageInfo();
+    }
+    
+    // Update storage info in footer
+    function updateStorageInfo() {
+      const storageInfo = document.getElementById('storage-info');
+      if (storageInfo) {
+        const count = contents.length;
+        const size = new Blob([JSON.stringify(contents)]).size;
+        const sizeInKB = Math.round(size / 1024 * 10) / 10;
+        
+        storageInfo.textContent = `${count} draft${count !== 1 ? 's' : ''} in local storage (${sizeInKB} KB)`;
+      }
+    }
+    
+    // Display content list
+    function displayContentList() {
+      const contentList = document.getElementById('content-list');
+      contentList.innerHTML = '';
+      
+      // Add search bar
+      const searchBarDiv = document.createElement('div');
+      searchBarDiv.className = 'search-bar';
+      
+      const searchInput = document.createElement('input');
+      searchInput.type = 'text';
+      searchInput.placeholder = 'Search drafts...';
+      searchInput.id = 'search-input';
+      searchInput.addEventListener('input', function() {
+        const searchTerm = this.value.toLowerCase();
+        filterContentList(searchTerm);
+      });
+      
+      searchBarDiv.appendChild(searchInput);
+      contentList.appendChild(searchBarDiv);
+      
+      // Create container for draft items
+      const draftsContainer = document.createElement('div');
+      draftsContainer.id = 'drafts-container';
+      contentList.appendChild(draftsContainer);
+      
+      if (contents.length > 0) {
+        contents.sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt));
+        
+        contents.forEach(content => {
+          const contentItem = document.createElement('div');
+          contentItem.className = 'content-item';
+          contentItem.dataset.id = content.id;
+          
+          const contentInfo = document.createElement('div');
+          const title = document.createElement('strong');
+          title.className = 'content-title';
+          title.textContent = content.title || 'Untitled Draft';
+          
+          const draftStatus = document.createElement('span');
+          draftStatus.className = 'draft-status';
+          draftStatus.textContent = 'Draft';
+          
+          const meta = document.createElement('div');
+          meta.className = 'content-meta';
+          const lastUpdated = new Date(content.updatedAt).toLocaleDateString() + ' ' + 
+                             new Date(content.updatedAt).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+          meta.textContent = 'Last edited: ' + lastUpdated;
+          
+          if (content.slug) {
+            meta.textContent += ' | Slug: ' + content.slug;
+          }
+          
+          contentInfo.appendChild(title);
+          contentInfo.appendChild(draftStatus);
+          contentInfo.appendChild(meta);
+          
+          if (content.tags && content.tags.length > 0) {
+            const tagsList = document.createElement('div');
+            tagsList.className = 'tags-list';
+            tagsList.textContent = 'Tags: ' + content.tags.join(', ');
+            contentInfo.appendChild(tagsList);
+          }
+          
+          const actions = document.createElement('div');
+          const editBtn = document.createElement('button');
+          editBtn.textContent = 'Edit';
+          editBtn.addEventListener('click', () => {
+            loadContentEditor(content.id);
+          });
+          
+          const exportBtn = document.createElement('button');
+          exportBtn.textContent = 'Export';
+          exportBtn.className = 'secondary';
+          exportBtn.addEventListener('click', () => {
+            exportDraft(content.id);
+          });
+          
+          const deleteBtn = document.createElement('button');
+          deleteBtn.textContent = 'Delete';
+          deleteBtn.className = 'danger';
+          deleteBtn.addEventListener('click', () => {
+            if (confirm('Are you sure you want to delete this draft?')) {
+              deleteContent(content.id);
+            }
+          });
+          
+          actions.appendChild(editBtn);
+          actions.appendChild(exportBtn);
+          actions.appendChild(deleteBtn);
+          
+          contentItem.appendChild(contentInfo);
+          contentItem.appendChild(actions);
+          
+          draftsContainer.appendChild(contentItem);
+        });
+      } else {
+        draftsContainer.innerHTML = '<p>No drafts available. Click "New Draft" to create one.</p>';
+      }
+    }
+    
+    // Filter content list based on search term
+    function filterContentList(searchTerm) {
+      const contentItems = document.querySelectorAll('.content-item');
+      
+      contentItems.forEach(item => {
+        const title = item.querySelector('.content-title').textContent.toLowerCase();
+        const tags = item.querySelector('.tags-list') ? 
+                    item.querySelector('.tags-list').textContent.toLowerCase() : '';
+        
+        if (title.includes(searchTerm) || tags.includes(searchTerm)) {
+          item.style.display = '';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    }
+    
+    // Load content editor
+    function loadContentEditor(id = null, fileData = null) {
+      // Clear auto-save timer when loading new content
+      if (autoSaveTimer) {
+        clearInterval(autoSaveTimer);
+      }
+      
+      // Switch to editor tab
+      switchTab('editor');
+      
+      if (id === null && fileData === null) {
+        // New content
+        isEditing = false;
+        currentContentId = null;
+        document.getElementById('title').value = '';
+        document.getElementById('content').value = '';
+        document.getElementById('slug').value = '';
+        document.getElementById('hero-image').value = '';
+        document.getElementById('tags').value = '';
+        
+        // Set current date and time in the date input
+        const now = new Date();
+        const dateStr = formatDateForInput(now);
+        document.getElementById('date-published').value = dateStr;
+        
+        // Reset last saved info
+        updateLastSavedInfo('');
+      } else if (fileData !== null) {
+        // Loading from a file
+        isEditing = false;
+        currentContentId = null;
+        
+        document.getElementById('title').value = fileData.title || '';
+        document.getElementById('content').value = fileData.content || '';
+        document.getElementById('tags').value = (fileData.tags || []).join(', ');
+        document.getElementById('slug').value = fileData.slug || '';
+        
+        // Handle hero image
+        document.getElementById('hero-image').value = fileData.metadata && (fileData.metadata.heroimage || fileData.metadata.image) || '';
+        
+        // Handle date
+        if (fileData.metadata && fileData.metadata.date_published) {
+          const date = new Date(fileData.metadata.date_published);
+          document.getElementById('date-published').value = formatDateForInput(date);
+        } else {
+          const now = new Date();
+          document.getElementById('date-published').value = formatDateForInput(now);
+        }
+        
+        // Reset last saved info
+        updateLastSavedInfo('');
+      } else {
+        // Edit existing content
+        isEditing = true;
+        currentContentId = id;
+        const content = contents.find(c => c.id === id);
+        
+        document.getElementById('title').value = content.title || '';
+        document.getElementById('content').value = content.content || '';
+        document.getElementById('tags').value = (content.tags || []).join(', ');
+        document.getElementById('slug').value = content.slug || '';
+        document.getElementById('hero-image').value = content.heroImage || '';
+        
+        // Handle date
+        if (content.datePublished) {
+          const date = new Date(content.datePublished);
+          document.getElementById('date-published').value = formatDateForInput(date);
+        } else {
+          const date = new Date(content.createdAt);
+          document.getElementById('date-published').value = formatDateForInput(date);
+        }
+        
+        // Update last saved info
+        updateLastSavedInfo(content.updatedAt ? new Date(content.updatedAt) : '');
+      }
+      
+      // Start auto-save timer
+      setupAutoSave();
+    }
+    
+    // Setup auto-save functionality
+    function setupAutoSave() {
+      if (autoSaveTimer) {
+        clearInterval(autoSaveTimer);
+      }
+      
+      autoSaveTimer = setInterval(() => {
+        // Only auto-save if we're in the editor tab
+        if (document.getElementById('editor-tab').classList.contains('hidden')) {
+          return;
+        }
+        
+        // Check if there's content to save
+        const title = document.getElementById('title').value;
+        const content = document.getElementById('content').value;
+        
+        if (title || content) {
+          saveDraft(false); // silent save without notification
+        }
+      }, autoSaveInterval);
+    }
+    
+    // Update last saved info
+    function updateLastSavedInfo(timestamp) {
+      const lastSavedInfo = document.getElementById('last-saved-info') || document.createElement('div');
+      lastSavedInfo.id = 'last-saved-info';
+      lastSavedInfo.className = 'last-saved';
+      
+      if (timestamp) {
+        const date = timestamp instanceof Date ? timestamp : new Date(timestamp);
+        lastSavedInfo.textContent = `Last saved: ${date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit', second:'2-digit'})}`;
+      } else {
+        lastSavedInfo.textContent = '';
+      }
+      
+      // Add to DOM if it doesn't exist
+      if (!document.getElementById('last-saved-info')) {
+        document.querySelector('.editor-sidebar').appendChild(lastSavedInfo);
+      }
+    }
+    
+    // Format date for datetime-local input
+    function formatDateForInput(date) {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      const hours = String(date.getHours()).padStart(2, '0');
+      const minutes = String(date.getMinutes()).padStart(2, '0');
+      
+      return `${year}-${month}-${day}T${hours}:${minutes}`;
+    }
+    
+    // Generate slug from title
+    function generateSlug(title) {
+      return title
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '') // Remove special characters
+        .replace(/\s+/g, '-')     // Replace spaces with hyphens
+        .replace(/-+/g, '-');     // Remove duplicate hyphens
+    }
+    
+    // Save draft to localStorage
+    function saveDraft(showNotification = true) {
+      const title = document.getElementById('title').value;
+      const contentText = document.getElementById('content').value;
+      const tagsString = document.getElementById('tags').value;
+      const customSlug = document.getElementById('slug').value;
+      const heroImage = document.getElementById('hero-image').value;
+      const datePublishedInput = document.getElementById('date-published').value;
+      
+      // Convert the date input value to ISO string format
+      let datePublished;
+      if (datePublishedInput) {
+        datePublished = new Date(datePublishedInput).toISOString();
+      } else {
+        datePublished = new Date().toISOString();
+      }
+      
+      const tags = tagsString.split(',').map(tag => tag.trim()).filter(tag => tag !== '');
+      
+      // Generate slug if not provided
+      const slug = customSlug || (title ? generateSlug(title) : '');
+      
+      const now = new Date();
+      
+      if (isEditing && currentContentId !== null) {
+        // Update existing content
+        const contentIndex = contents.findIndex(c => c.id === currentContentId);
+        if (contentIndex !== -1) {
+          contents[contentIndex] = {
+            ...contents[contentIndex],
+            title,
+            content: contentText,
+            slug,
+            tags,
+            heroImage,
+            datePublished,
+            updatedAt: now.toISOString()
+          };
+        }
+      } else {
+        // Create new content
+        const newContent = {
+          id: currentContentId || Date.now(),
+          title,
+          content: contentText,
+          slug,
+          tags,
+          heroImage,
+          datePublished,
+          createdAt: now.toISOString(),
+          updatedAt: now.toISOString()
+        };
+        
+        if (isEditing) {
+          // Replace existing content
+          const contentIndex = contents.findIndex(c => c.id === currentContentId);
+          if (contentIndex !== -1) {
+            contents[contentIndex] = newContent;
+          } else {
+            contents.unshift(newContent);
+          }
+        } else {
+          // Create new content
+          currentContentId = newContent.id;
+          isEditing = true;
+          contents.unshift(newContent);
+        }
+      }
+      
+      // Save to localStorage
+      saveContentToStorage();
+      
+      // Update last saved info
+      updateLastSavedInfo(now);
+      
+      // Show notification if needed
+      if (showNotification) {
+        // Create and show a temporary notification
+        const notification = document.createElement('div');
+        notification.style.position = 'fixed';
+        notification.style.bottom = '20px';
+        notification.style.right = '20px';
+        notification.style.padding = '10px 20px';
+        notification.style.backgroundColor = 'var(--secondary)';
+        notification.style.color = 'white';
+        notification.style.borderRadius = 'var(--border-radius)';
+        notification.style.boxShadow = '0 2px 10px rgba(0,0,0,0.2)';
+        notification.style.zIndex = '1000';
+        notification.textContent = 'Draft saved!';
+        
+        document.body.appendChild(notification);
+        
+        // Remove notification after 2 seconds
+        setTimeout(() => {
+          document.body.removeChild(notification);
+        }, 2000);
+      }
+      
+      return currentContentId;
+    }
+    
+    // Export the current draft as a file
+    function exportDraft(id = null) {
+      const idToExport = id || currentContentId;
+      
+      if (!idToExport) {
+        // If we're creating a new draft, save it first
+        if (document.getElementById('title').value || document.getElementById('content').value) {
+          const newId = saveDraft();
+          if (newId) {
+            exportDraftFile(newId);
+          }
+        } else {
+          alert('Please enter a title or content first');
+        }
+      } else {
+        exportDraftFile(idToExport);
+      }
+    }
+    
+    // Export a single draft as a markdown file
+    function exportDraftFile(id) {
+      const content = contents.find(c => c.id === id);
+      if (!content) return;
+      
+      if (window.showSaveFilePicker) {
+        generateMarkdownFile(
+          content.title, 
+          content.content, 
+          content.slug, 
+          content.datePublished, 
+          content.tags, 
+          content.heroImage
+        );
+      } else {
+        downloadMarkdownFile(
+          content.title, 
+          content.content, 
+          content.slug, 
+          content.datePublished, 
+          content.tags, 
+          content.heroImage
+        );
+      }
+    }
+    
+    // Export all drafts
+    function exportAllDrafts() {
+      if (contents.length === 0) {
+        alert('No drafts to export');
+        return;
+      }
+      
+      // Create a zip file with JSZip
+      if (typeof JSZip === 'undefined') {
+        // If JSZip is not loaded, fall back to JSON export
+        exportAllAsJson();
+        return;
+      }
+      
+      const zip = new JSZip();
+      
+      // Add each draft as a markdown file
+      contents.forEach(content => {
+        const fileName = content.slug ? `${content.slug}.md` : `draft-${content.id}.md`;
+        const fileContent = generateFileContent(
+          content.title,
+          content.content,
+          content.slug,
+          content.datePublished,
+          content.tags,
+          content.heroImage
+        );
+        
+        zip.file(fileName, fileContent);
+      });
+      
+      // Generate the zip file
+      zip.generateAsync({type: 'blob'}).then(function(blob) {
+        // Create download link
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'markdown-drafts.zip';
+        document.body.appendChild(a);
+        a.click();
+        
+        // Clean up
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      });
+    }
+    
+    // Export all drafts as JSON
+    function exportAllAsJson() {
+      const blob = new Blob([JSON.stringify(contents, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'markdown-drafts.json';
+      document.body.appendChild(a);
+      a.click();
+      
+      // Clean up
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+    
+    // Generate file content with YAML front matter
+    function generateFileContent(title, content, slug, date, tags, heroImage) {
+      let frontMatter = '---\n';
+      frontMatter += `title: "${title}"\n`;
+      frontMatter += `slug: ${slug}\n`;
+      frontMatter += `date_published: ${date}\n`;
+      
+      if (heroImage) {
+        frontMatter += `heroimage: ${heroImage}\n`;
+        frontMatter += `image: ${heroImage}\n`;
+      }
+      
+      if (tags && tags.length > 0) {
+        frontMatter += `tags: [${tags.map(tag => tag).join(', ')}]\n`;
+      }
+      
+      frontMatter += '---\n\n';
+      
+      return frontMatter + content;
+    }
+    
+    // Generate markdown file using File System Access API (for modern browsers)
+    async function generateMarkdownFile(title, content, slug, date, tags, heroImage) {
+      try {
+        // Create file content
+        const fileContent = generateFileContent(title, content, slug, date, tags, heroImage);
+        
+        // Use File System Access API if available
+        const options = {
+          suggestedName: `${slug || 'draft'}.md`,
+          types: [{
+            description: 'Markdown Files',
+            accept: { 'text/markdown': ['.md'] }
+          }]
+        };
+        
+        try {
+          const fileHandle = await window.showSaveFilePicker(options);
+          const writable = await fileHandle.createWritable();
+          await writable.write(fileContent);
+          await writable.close();
+          alert('File saved successfully!');
+        } catch (err) {
+          console.error('Error saving file:', err);
+          // Fallback to download if user cancels file picker
+          if (err.name !== 'AbortError') {
+            downloadMarkdownFile(title, content, slug, date, tags, heroImage);
+          }
+        }
+      } catch (error) {
+        console.error('Failed to generate file:', error);
+        alert('Failed to generate file: ' + error.message);
+      }
+    }
+    
+    // Download markdown file (fallback for browsers without File System Access API)
+    function downloadMarkdownFile(title, content, slug, date, tags, heroImage) {
+      const fileContent = generateFileContent(title, content, slug, date, tags, heroImage);
+      
+      const blob = new Blob([fileContent], { type: 'text/markdown' });
+      const url = URL.createObjectURL(blob);
+      
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${slug || 'draft'}.md`;
+      document.body.appendChild(a);
+      a.click();
+      
+      // Clean up
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+    
+    // Delete content
+    function deleteContent(id) {
+      const contentIndex = contents.findIndex(c => c.id === id);
+      if (contentIndex !== -1) {
+        contents.splice(contentIndex, 1);
+        saveContentToStorage();
+        displayContentList();
+      }
+    }
+    
+    // Refresh preview
+    function refreshPreview() {
+      const title = document.getElementById('title').value;
+      const content = document.getElementById('content').value;
+      const previewContainer = document.getElementById('preview-container');
+      
+      // Generate HTML with Marked.js
+      const htmlContent = marked.parse(content);
+      
+      // Add title
+      previewContainer.innerHTML = `
+        <h1 style="margin-top: 0;">${title || 'Untitled Document'}</h1>
+        ${htmlContent}
+      `;
+    }
+    
+    // Open and parse a markdown file
+    function openMarkdownFile(file) {
+      const reader = new FileReader();
+      
+      reader.onload = function(e) {
+        const content = e.target.result;
+        parseMarkdownFile(content, file.name);
+      };
+      
+      reader.readAsText(file);
+    }
+    
+    // Parse markdown file with YAML front matter
+    function parseMarkdownFile(fileContent, fileName) {
+      // Extract the slug from the filename
+      const slug = fileName.replace(/\.(md|markdown)$/, '');
+      
+      // Check if the file has YAML front matter
+      const frontMatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
+      const match = fileContent.match(frontMatterRegex);
+      
+      if (!match) {
+        // No front matter, treat as plain content
+        loadContentEditor(null, {
+          title: slug,
+          content: fileContent,
+          tags: [],
+          metadata: {}
+        });
+        return;
+      }
+      
+      // Extract front matter and content
+      const frontMatter = match[1];
+      const content = fileContent.replace(frontMatterRegex, '');
+      
+      // Parse front matter
+      const metadata = {};
+      let title = '';
+      let customSlug = '';
+      let date_published = new Date().toISOString();
+      let tags = [];
+      
+      // Parse each line of front matter
+      frontMatter.split('\n').forEach(line => {
+        // Handle both formats: key: value and "key": "value"
+        const quotedRegex = /^[\s]*"([^"]+)"[\s]*:[\s]*"([^"]*)"/;
+        const singleQuotedRegex = /^[\s]*'([^']+)'[\s]*:[\s]*'([^']*)'/;
+        const unquotedRegex = /^[\s]*([^:]+)[\s]*:[\s]*(.+)/;
+        
+        let key, value;
+        
+        if (quotedRegex.test(line)) {
+          const match = line.match(quotedRegex);
+          key = match[1].trim();
+          value = match[2].trim();
+        } else if (singleQuotedRegex.test(line)) {
+          const match = line.match(singleQuotedRegex);
+          key = match[1].trim();
+          value = match[2].trim();
+        } else if (unquotedRegex.test(line)) {
+          const match = line.match(unquotedRegex);
+          key = match[1].trim();
+          value = match[2].trim();
+        } else {
+          // Skip lines that don't match our patterns
+          return;
+        }
+        
+        // Handle special fields
+        switch (key) {
+          case 'title':
+            title = value.replace(/^["']|["']$/g, ''); // Remove quotes if present
+            break;
+          case 'slug':
+            customSlug = value;
+            break;
+          case 'date_published':
+            date_published = value;
+            metadata.date_published = value;
+            break;
+          case 'heroimage':
+            metadata.heroimage = value;
+            break;
+          case 'image':
+            metadata.image = value;
+            break;
+          case 'tags':
+            // Could be in format [tag1, tag2] or list format
+            if (value.startsWith('[') && value.endsWith(']')) {
+              tags = value.slice(1, -1).split(',').map(tag => tag.trim().replace(/^["']|["']$/g, ''));
+            }
+            break;
+          default:
+            metadata[key] = value;
+            break;
+        }
+      });
+      
+      // Load content into editor
+      loadContentEditor(null, {
+        title,
+        content,
+        slug: customSlug,
+        tags,
+        metadata
+      });
+      
+      // Switch to editor tab
+      switchTab('editor');
+    }
+    
+    // Set up drag and drop functionality
+    function setupDragAndDrop() {
+      const dropArea = document.body;
+      
+      ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+        dropArea.addEventListener(eventName, preventDefaults, false);
+      });
+      
+      function preventDefaults(e) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+      
+      ['dragenter', 'dragover'].forEach(eventName => {
+        dropArea.addEventListener(eventName, highlight, false);
+      });
+      
+      ['dragleave', 'drop'].forEach(eventName => {
+        dropArea.addEventListener(eventName, unhighlight, false);
+      });
+      
+      function highlight() {
+        document.body.classList.add('highlight');
+      }
+      
+      function unhighlight() {
+        document.body.classList.remove('highlight');
+      }
+      
+      dropArea.addEventListener('drop', handleDrop, false);
+      
+      function handleDrop(e) {
+        const dt = e.dataTransfer;
+        const files = dt.files;
+        
+        if (files.length > 0) {
+          const file = files[0];
+          if (file.name.endsWith('.md') || file.name.endsWith('.markdown')) {
+            openMarkdownFile(file);
+          } else {
+            alert('Please drop a Markdown (.md) file');
+          }
+        }
+      }
+    }
+    
+    // Set up event listeners
+    function setupEventListeners() {
+      // Tab switching
+      document.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          switchTab(tab.dataset.tab);
+        });
+      });
+      
+      // Theme toggle
+      document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+      
+      // New content button
+      document.getElementById('new-content-btn').addEventListener('click', () => {
+        loadContentEditor();
+      });
+      
+      // Open file button and hidden file input
+      const openFileBtn = document.getElementById('open-file-btn');
+      const fileInput = document.getElementById('file-input');
+      
+      openFileBtn.addEventListener('click', () => {
+        fileInput.click();
+      });
+      
+      fileInput.addEventListener('change', (event) => {
+        if (event.target.files.length > 0) {
+          openMarkdownFile(event.target.files[0]);
+        }
+      });
+      
+      // Save draft button
+      document.getElementById('save-draft-btn').addEventListener('click', () => {
+        saveDraft();
+        displayContentList();
+      });
+      
+      // Save and export file button
+      document.getElementById('save-file-btn').addEventListener('click', () => {
+        // Save draft first, then export
+        saveDraft(false);
+        exportDraft();
+      });
+      
+      // Export all button
+      if (document.getElementById('export-all-btn')) {
+        document.getElementById('export-all-btn').addEventListener('click', exportAllDrafts);
+      }
+      
+      // Preview tab and refresh button
+      document.getElementById('preview-refresh-btn').addEventListener('click', refreshPreview);
+      
+      // Setup key shortcuts
+      document.addEventListener('keydown', (e) => {
+        // Ctrl/Cmd + S to save draft
+        if ((e.ctrlKey || e.metaKey) && e.key === 's') {
+          e.preventDefault();
+          saveDraft();
+        }
+      });
+    }
+    
+    // Switch between tabs
+    function switchTab(tabId) {
+      // Hide all tab content
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.add('hidden');
+      });
+      
+      // Show selected tab content
+      document.getElementById(`${tabId}-tab`).classList.remove('hidden');
+      
+      // Update active tab
+      document.querySelectorAll('.tab').forEach(tab => {
+        if (tab.dataset.tab === tabId) {
+          tab.classList.add('active');
+        } else {
+          tab.classList.remove('active');
+        }
+      });
+      
+      // If switching to preview tab, refresh the preview
+      if (tabId === 'preview') {
+        refreshPreview();
+      }
+    }
+    
+    // Initialize when DOM is loaded
+    document.addEventListener('DOMContentLoaded', initialize);
+  </script>
+</body>
+</html>

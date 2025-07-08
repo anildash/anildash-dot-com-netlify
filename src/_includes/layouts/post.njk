@@ -1,0 +1,85 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+<article class="post">
+  <header class="post__header">
+
+    <div class="post__details">
+      <time datetime="{{ page.date | htmlDateString }}">
+        {{ page.date | readableDate }}
+      </time>
+      <div class="post__tags">
+      {% for tag in tags | pageTags %}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}">{{ tag }}</a>
+      {% endfor %}
+      </div>
+      <button id="share-link" aria-label="share"></button>
+    </div>
+    
+    {% if heroimage %}
+    <figure class="heroimage" style="background-image: url({{heroimage}});">
+      
+    </figure>
+    {% elif image %}
+    <figure class="heroimage" style="background-image: url({{image}});">
+      
+    </figure>
+    {% endif %}
+    
+    <h1>{{ title }}</h1>
+
+
+  </header>
+
+  <main class="post__content">
+    {{ content | safe }}
+  </main>
+
+  <aside class="post__aside">
+
+    <nav class="post__pagination">
+
+
+      {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+      {%- if previousPost %}
+
+        <a href="{{ previousPost.url | url }}">
+          <span>←</span>
+          <span>{{ previousPost.data.title }}</span>
+        </a>
+
+      {% endif %}
+      {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+      {%- if nextPost %}
+
+        <a href="{{ nextPost.url | url }}">
+          <span>{{ nextPost.data.title }}</span>
+          <span>→</span>
+        </a>
+
+      {% endif %}
+      
+    </nav>
+  </aside>
+
+</article>
+
+  <script>
+    const shareData = {
+      title: '{{  title or site.name | escape }}',
+      url: '{{ site.url + page.url }}'
+    }
+
+    const btn = document.querySelector('#share-link');
+
+    // Share must be triggered by "user activation"
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.share(shareData);
+      } catch (err) {
+      }
+    });  
+  </script>

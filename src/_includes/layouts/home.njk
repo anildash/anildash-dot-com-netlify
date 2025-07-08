@@ -1,0 +1,45 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+<header class="hero">
+  <div class="hero-content">
+    <div class="intro">
+      {{ content | safe }}
+    </div>
+
+  </div>
+
+</header>
+
+<h2>
+  My most recent writing
+</h2>
+
+<section class="post-list__wrapper">
+
+  {% set postslist = collections.posts | head(-12) %}
+  {% include "posts-list.njk" %}
+
+</section>
+
+<section class="additional-posts">
+  <h2>A little less recent</h2>
+  <ul class="post-list-compact">
+    {# Get all posts in reverse chronological order, then skip the first 12 #}
+    {% set allReversedPosts = collections.posts | reverse %}
+    {% for post in allReversedPosts %}
+      {% if loop.index > 12 and loop.index <= 42 %}
+        <li class="post-list-item">
+          <a href="{{ post.url }}">
+            <h3 class="post-list-title">{{ post.data.title }}</h3>
+            <span class="post-list-date">
+              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+            </span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>

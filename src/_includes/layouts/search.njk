@@ -1,0 +1,87 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-search
+---
+
+<header class="hero">
+  <div class="hero-content">
+    <div class="intro">
+      {{ content | safe }}
+    </div>
+
+  </div>
+
+</header>
+
+<h2>
+  Search this site
+</h2>
+
+
+<form autocomplete="on" id="search" method="POST">
+    <label for="search-input"></label>
+    <input aria-label="Search" id="search-input" minlength="3" name="query" placeholder="blogs" type="search">
+</form>
+
+  <section class="post-list__wrapper">
+    <div class="post-feed">
+      <div id="search-results">
+
+
+  {% set postslist = collections.posts | head(-12) %}
+  {% include "posts-list.njk" %}
+
+      </div>
+    </div>
+  </section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("search-input");
+    const resultsContainer = document.getElementById("search-results");
+
+    let index = [];
+
+    // Fetch the search index
+    fetch("/search.json")
+      .then(response => response.json())
+      .then(data => index = data)
+      .catch(err => console.error("Error loading search index:", err));
+
+    // Filter and display results
+    searchInput.addEventListener("input", function () {
+      const query = searchInput.value.toLowerCase();
+      const results = index.filter(post =>
+        post.title.toLowerCase().includes(query) ||
+        post.content.toLowerCase().includes(query) ||
+        (post.tags && post.tags.join(" ").toLowerCase().includes(query))
+      );
+
+      displayResults(results);
+    });
+
+    function displayResults(results) {
+      resultsContainer.innerHTML = results.map(post => `
+
+        <article class="post-card post">
+          <a class="post-card-image-link" href="${post.url}">
+            <img class="post-card-image image" src="${post.image}" alt="${post.title}" loading="lazy" />
+          </a>
+          <div class="post-card-content">
+            <a class="post-card-content-link" href="${post.url}">
+              <header class="post-card-header">
+                <h2 class="post-card-title">${post.title}</h2>
+              </header>
+              <section class="post-card-excerpt">
+                <p>${post.content}</p>
+              </section>
+            </a>
+          </div>
+
+        </article>
+
+      `).join("");
+    }
+  });
+</script>
+

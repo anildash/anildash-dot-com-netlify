@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+{# This is the template for the Posts page–it lists the posts in the collection #}
+
+<div class="wrapper home">
+  <div class="content">
+    {{ content | safe }}
+  {% set postslist = collections.posts %}
+  {% include "posts-list.njk" %}
+
+  </div>
+</div>

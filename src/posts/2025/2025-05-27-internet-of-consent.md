@@ -1,0 +1,38 @@
+---
+title: "The Internet of Consent"
+slug: internet-of-consent
+date_published: 2025-05-27T07:00:00.000Z
+heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/moralis-tsai-MpKdCe4YXF0.jpg?v=1748329059166
+image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/moralis-tsai-MpKdCe4YXF0.jpg?v=1748329059166
+tags: [internet, web, consent, tos]
+---
+
+Click “I agree” to continue.
+
+You didn’t click it, though. Or maybe you did? I don’t know, it doesn’t matter.
+
+The concept of consent doesn’t exist on the modern internet. You didn’t read the terms of service. You didn’t agree to accept cookies. I didn’t consent to having my site pulled into the training model for that artificial intelligence system that’s going to use to sell the fruit of my labor for profit. I didn’t agree to have my activity tracked across all these different websites and cobbled together into a creepy and inaccurate profile of my preferences that gets sold without my permission. Nobody asks for anything, they just take it. There’s not even an _acknowledgement_, that any of this stuff is happening let alone a conversation about it.
+
+Meanwhile, we’ve been telling our kids that the standard for decent people is enthusiastic consent. That’s very evidently not the case for the tycoons running the technology industry.
+
+## The Internet of Creeps
+
+At the beginning of the web, people used to get together and create informal standards for how to describe what you would allow people to do to your website, or to your content on the internet. It was so broadly understood that you would respect the visitors to your site that you didn’t even _have_ to ask their permission, because there would be a massive user uproar if you were to do something so hostile as to surveil them or track them. You treated visitors to your website with the same respect that a restauranteur would treat patrons who had sat down to eat a meal; it would be exceedingly weird and creepy if you were to film them eating, or if you wrote down every word they said to each other and sold them to a stranger, or if you sniffed them while they ate and then said “I think I can guess what brand of perfume you’re wearing, can I order some more of it for you?”
+
+Obviously, gradually the standards shifted and all of the major websites became creeps who sniff their patrons. First, it was tracking what you clicked on, and what you searched for. Later, it was what search terms _brought_ you to the website. There was a _huge_ fight in the late 90s about the technology that Google later acquired, which allowed for tracking users _across_ different websites, with activists (correctly!) saying it would allow for unprecedented spying on users, and open up individuals to tracking by entities like governments, both foreign and domestic. Between the Snowden revelations and platforms like Facebook rapidly expanding to unimaginable levels of global surveillance of billions of users, the reality turned out to be far, far worse than even the worst-case scenarios that those 90s-era activists had warned about.
+
+## It’s Worse Than You Think
+
+Now, people don’t even really understand the degree to which things are happening without their consent online. Have you ever gone to type a message in a comment box on social media, or began entering a search term online, and then thought the better of it and deleted it without actually submitting the form? Did you know that those sites _used the words you typed anyway_ and incorporated them into their profile of your interests and preferences?
+
+What about every site that you’ve signed up for in the past, when you _did_ check that “I agree” box when you were creating your account — did you read the whole terms of service? I didn’t think so. Well, I’ve not only read the terms of service, I’ve _written_ more of those TOS than I care to recall, and the wild thing about them is that generally, they all say “we can change this any time we want”.  <em>Thirteen years ago</em> I <a href="https://www.wired.com/2012/08/ts-column/">wrote a column in Wired</a> about how Facebook was unilaterally changing its TOS while offering no recourse to its users. Just in the <a href="https://mattmckeon.com/facebook-privacy/">first five years alone</a> of Facebook’s existence, they modified their privacy settings countless times to shift nearly all content from being virtually completely within your circle of friends to completely visible to the entire internet, without ever asking for user consent for any of the changes.
+
+Creators and artists have always been the community most at risk for tech companies to make choices about their work without their consent. When Napster launched at the end of the last century, musicians' work was shared without their consent, and the debate was framed as being about software innovation vs. record labels, instead of centering artists and their rights, since it was easy for fans to hate labels. When YouTube launched 20 years ago and countless videos were uploaded without the permission of their creators, it again got framed as a battle between big media companies and upstart tech platforms, with the same tactic of focusing on user convenience to distract from the issue of creators' consent. 
+
+We're seeing the same playbook being used again, but this time many regular consumers are not falling for the AI companies disregarding creators' right to consent in how their work is used. While extremists behind some of the AI platforms (and their corrupt cronies in positions of political power) are even willing to destroy the entire copyright system to enable this heist, it's an interesting evolution of culture that fans have aligned to stand behind the artists they love.
+
+## Consent Culture Comes Online
+
+I'm not surprised to see the expectations shifting around consent online. We've seen a generation grow up with expectations that they should have control over what happens to them, and that they should have agency over their work and their lives. They're extremely fluent in the impacts of the digital platforms that they use every day, and even if people don't explicitly think about digital experiences in terms of consent, they intuitively understand when it's missing. The growing frustration around "enshittification" is, in no small part, grounded in a huge frustration around having a constant feeling of being _forced_ to use features and tools that don't respect our choices. We're constantly wrestling with platforms that don't respect our boundaries. And we have an uncanny sense that the giant tech companies are going behind our backs and into our lives in ways that we don't know about and certainly wouldn't agree to if we did.
+
+As I've been spending time building tools to help people fight back, like giving creators tools to protect their sites or apps or content from AI bots, or teaching people how to lock down their personal profiles online, I'm finding a lot of enthusiasm, even from people who don't see themselves as being very technical, in taking control of their digital lives. There's a common thread that ties together concerns about privacy, security, even just basic usability for so many of the tech products we use today. It just boils down to whether the people who make the technology that we use believe that we should be in control. It's simple: Technology should only ever do exactly what we have explicitly given it our consent to do. The institutions that don't understand that basic principle need to start paying a heavy cost for their transgressions.

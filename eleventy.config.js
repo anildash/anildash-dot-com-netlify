@@ -1,164 +1,208 @@
-import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
-import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
-import pluginNavigation from "@11ty/eleventy-navigation";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { DateTime } from "luxon";
+import fs, { readFileSync } from "fs";
+import pluginSEO from "eleventy-plugin-seo";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+const seo = JSON.parse(readFileSync("./src/seo.json", "utf-8"));
+const NOT_FOUND_PATH = "/app/build/404.html";
 
-import pluginFilters from "./_config/filters.js";
+export default function (eleventyConfig) {
+  eleventyConfig.setTemplateFormats([
+    // Templates:
+    "html",
+    "njk",
+    "md",
+    // Static Assets:
+    "css",
+    "jpeg",
+    "jpg",
+    "png",
+    "svg",
+    "woff",
+    "woff2",
+  ]);
+  eleventyConfig.addPassthroughCopy("public");
 
-/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
-export default async function(eleventyConfig) {
-	// Drafts, see also _data/eleventyDataSchema.js
-	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-			return false;
-		}
-	});
+  /* From: https://github.com/artstorm/eleventy-plugin-seo
+  
+  Adds SEO settings to the top of all pages
+  The "glitch-default" bit allows someone to set the url in seo.json while
+  still letting it have a proper glitch.me address via PROJECT_DOMAIN
+  */
 
-	// Copy the contents of the `public` folder to the output folder
-	// For example, `./public/css/` ends up in `_site/css/`
-	eleventyConfig
-		.addPassthroughCopy({
-			"./public/": "/"
-		})
-		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
+  if (seo.url === "glitch-default") {
+    seo.url = `https://www.anildash.com`;
+  }
+  eleventyConfig.addPlugin(pluginSEO, seo);
+  eleventyConfig.addPlugin(pluginRss);
 
-	// Run Eleventy when these files change:
-	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
+  // Filters let you modify the content https://www.11ty.dev/docs/filters/
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
 
-	// Watch CSS files
-	eleventyConfig.addWatchTarget("css/**/*.css");
-	// Watch images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+  eleventyConfig.addFilter("dateToIso", (dateString) => {
+    return new Date(dateString).toISOString();
+  });
 
-	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
-	// Bundle <style> content and adds a {% css %} paired shortcode
-	eleventyConfig.addBundle("css", {
-		toFileDirectory: "dist",
-		// Add all <style> content to `css` bundle (use <style eleventy:ignore> to opt-out)
-		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
-		bundleHtmlContentFromSelector: "style",
-	});
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL yyyy"
+    );
+  });
 
-	// Bundle <script> content and adds a {% js %} paired shortcode
-	eleventyConfig.addBundle("js", {
-		toFileDirectory: "dist",
-		// Add all <script> content to the `js` bundle (use <script eleventy:ignore> to opt-out)
-		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
-		bundleHtmlContentFromSelector: "script",
-	});
+  // Helper for ISO date formatting for structured data
+  eleventyConfig.addFilter("dateToISOString", function (date) {
+    if (!date) return "";
+    return new Date(date).toISOString();
+  });
 
-	// Official plugins
-	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
-		preAttributes: { tabindex: 0 }
-	});
-	eleventyConfig.addPlugin(pluginNavigation);
-	eleventyConfig.addPlugin(HtmlBasePlugin);
-	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+  // Helper for absolute URLs
+  eleventyConfig.addFilter("absoluteUrl", function (url, base) {
+    if (!url) return "";
+    if (!base) base = "https://anildash.com";
 
-	eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom", // or "rss", "json"
-		outputPath: "/feed/feed.xml",
-		stylesheet: "pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
-		},
-		collection: {
-			name: "posts",
-			limit: 10,
-		},
-		metadata: {
-			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
-			author: {
-				name: "Your Name"
-			}
-		}
-	});
+    // Remove trailing slash from base if present
+    if (base.endsWith("/")) {
+      base = base.slice(0, -1);
+    }
 
-	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
+    // Ensure url starts with slash
+    if (!url.startsWith("/")) {
+      url = "/" + url;
+    }
 
-		// widths: ["auto"],
+    return base + url;
+  });
 
-		failOnError: false,
-		htmlOptions: {
-			imgAttributes: {
-				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-				loading: "lazy",
-				decoding: "async",
-			}
-		},
+  // Current year helper for copyright
+  eleventyConfig.addGlobalData("helpers", {
+    currentYear: () => new Date().getFullYear(),
+  });
 
-		sharpOptions: {
-			animated: true,
-		},
-	});
+  // Enhanced excerpt functionality for meta descriptions
+  eleventyConfig.addFilter("excerpt", function (content) {
+    if (!content) return "";
 
-	// Filters
-	eleventyConfig.addPlugin(pluginFilters);
+    // Handle when content is a string (from post content)
+    if (typeof content === 'string') {
+      // Remove HTML tags and get the first 160 characters
+      const plainText = content.replace(/<[^>]+>/gi, " ");
+      return plainText.substring(0, 160).trim() + "...";
+    }
+    
+    // The original implementation for post objects
+    try {
+      const plainText = content.replace(/(<([^>]+)>)/gi, "");
+      return plainText.substr(0, plainText.lastIndexOf(" ", 250)) + "...";
+    } catch (e) {
+      return "";
+    }
+  });
 
-	eleventyConfig.addPlugin(IdAttributePlugin, {
-		// by default we use Eleventy’s built-in `slugify` filter:
-		// slugify: eleventyConfig.getFilter("slugify"),
-		// selector: "h1,h2,h3,h4,h5,h6", // default
-	});
+  // Convert tags to comma-separated list
+  eleventyConfig.addFilter("join", function (array, separator) {
+    if (!array || !Array.isArray(array)) return "";
+    return array.join(separator || ", ");
+  });
 
-	eleventyConfig.addShortcode("currentBuildDate", () => {
-		return (new Date()).toISOString();
-	});
+  // Truncate strings for SEO titles (Google displays ~70 chars)
+  eleventyConfig.addFilter("truncate", function (string, length) {
+    if (!string) return "";
+    length = length || 70;
+    if (string.length <= length) return string;
+    return string.substring(0, length) + "...";
+  });
 
-	// Features to make your build faster (when you need them)
+  // Unique filter to remove duplicate tags
+  eleventyConfig.addFilter("unique", (array) => {
+    return [...new Set(array)];
+  });
 
-	// If your passthrough copy gets heavy and cumbersome, add this line
-	// to emulate the file copy on the dev server. Learn more:
-	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
+  // Flatten filter to merge nested arrays into a single array
+  eleventyConfig.addFilter("flatten", (array) => {
+    return array.reduce((flat, toFlatten) => flat.concat(toFlatten), []);
+  });
 
-	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
-};
+  // Map filter to retrieve a specific property from each object in an array
+  eleventyConfig.addFilter("map", (array, key) => {
+    return array.map((item) => item[key]);
+  });
 
-export const config = {
-	// Control which files Eleventy will process
-	// e.g.: *.md, *.njk, *.html, *.liquid
-	templateFormats: [
-		"md",
-		"njk",
-		"html",
-		"liquid",
-		"11ty.js",
-	],
+  eleventyConfig.addFilter("head", (array, n) => {
+    if (n < 0) {
+      return array.slice(n);
+    }
+    return array.slice(0, n);
+  });
 
-	// Pre-process *.md files with: (default: `liquid`)
-	markdownTemplateEngine: "njk",
+  eleventyConfig.addCollection("tagList", function (collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(function (item) {
+      if ("tags" in item.data) {
+        let tags = item.data.tags;
 
-	// Pre-process *.html files with: (default: `liquid`)
-	htmlTemplateEngine: "njk",
+        tags = tags.filter(function (item) {
+          switch (item) {
+            case "all":
+            case "nav":
+            case "post":
+            case "posts":
+              return false;
+          }
 
-	// These are all optional:
-	dir: {
-		input: "content",          // default: "."
-		includes: "../_includes",  // default: "_includes" (`input` relative)
-		data: "../_data",          // default: "_data" (`input` relative)
-		output: "_site"
-	},
+          return true;
+        });
 
-	// -----------------------------------------------------------------
-	// Optional items:
-	// -----------------------------------------------------------------
+        for (const tag of tags) {
+          tagSet.add(tag);
+        }
+      }
+    });
 
-	// If your site deploys to a subdirectory, change `pathPrefix`.
-	// Read more: https://www.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix
+    return [...tagSet];
+  });
 
-	// When paired with the HTML <base> plugin https://www.11ty.dev/docs/plugins/html-base/
-	// it will transform any absolute URLs in your HTML to include this
-	// folder name and does **not** affect where things go in the output folder.
+  eleventyConfig.addFilter("pageTags", (tags) => {
+    const generalTags = ["all", "nav", "post", "posts"];
 
-	// pathPrefix: "/",
+    return tags
+      .toString()
+      .split(",")
+      .filter((tag) => {
+        return !generalTags.includes(tag);
+      });
+  });
+
+  /* Build the collection of posts to list in the site
+     - Read the Next Steps post to learn how to extend this
+  */
+  eleventyConfig.addCollection("posts", function (collection) {
+    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
+       - https://www.11ty.dev/docs/collections/
+    */
+
+    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
+    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
+    const coll = collection.getFilteredByTag("posts");
+
+    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
+    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
+    for (let i = 0; i < coll.length; i++) {
+      const prevPost = coll[i - 1];
+      const nextPost = coll[i + 1];
+
+      coll[i].data["prevPost"] = prevPost;
+      coll[i].data["nextPost"] = nextPost;
+    }
+    return coll;
+  });
+
+  return {
+    dir: {
+      input: "src",
+      includes: "_includes",
+      data: "data",
+      output: "build",
+    },
+  };
 };
