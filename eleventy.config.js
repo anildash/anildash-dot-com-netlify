@@ -22,6 +22,7 @@ export default function (eleventyConfig) {
     "woff2",
   ]);
   eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy("src/admin");
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
@@ -223,5 +224,4 @@ export default function (eleventyConfig) {
   
   return Image.generateHTML(metadata, imageAttributes);
 });
-eleventyConfig.addPassthroughCopy("src/admin");
 };
