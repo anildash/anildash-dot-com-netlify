@@ -6,7 +6,7 @@ date_updated: 2006-07-17T16:01:36.000Z
 tags: [Best Of, music]
 ---
 
-[![Justin Timberlake - FutureSex/LoveSounds](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/futuresex.jpg?v=1730095117013)
+[![Justin Timberlake - FutureSex/LoveSounds](/images/futuresex.jpg)
 ](http://www.amazon.com/exec/obidos/ASIN/B000H305U0/2020-20) Four years is a long time in pop music, but that’s how long it’s been since Justin Timberlake’s “Like I Love You” heralded his launch as a solo singer and led the parade of singles from *[Justified](http://www.amazon.com/exec/obidos/ASIN/B000070GVR/2020-20)*. But it’s summertime, time for hit singles, and this time JT’s got “SexyBack”.
 
 It’s not an instant classic; Neither was “Like I Love You”. Part of the reason for this is that modern music marketing for massive artists holds that the best practice is the counterintuitive habit of *not* always leading with an album’s strongest single. Instead, the label will put out a strong first single, especially one that plays to deeper demographics that form an artist’s core. For many artists, this takes the form of a club-oriented track, a dance remix, a guest appearance on a mix tape, or in rare cases, promo-only singles that don’t even end up on the album. (Beyonce’s cover of 50 Cent’s “In Da Club” was probably the best example of this, helping to set up “Crazy In Love”.)

@@ -2,8 +2,8 @@
 title: "Who washes their hands?"
 slug: who-is-clean
 date_published: 2025-05-29T05:00:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/kelly-sikkema-hUuGUG9gdRg.jpg?v=1748496250768
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/kelly-sikkema-hUuGUG9gdRg.jpg?v=1748496250768
+heroimage: /images/kelly-sikkema-hUuGUG9gdRg.jpg
+image: /images/kelly-sikkema-hUuGUG9gdRg.jpg
 tags: [culture]
 ---
 

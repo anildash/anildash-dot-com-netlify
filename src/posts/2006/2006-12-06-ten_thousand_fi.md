@@ -17,7 +17,7 @@ Though there’s [no evidence anybody’s died](http://ask.metafilter.com/mefi/4
 
 There aren’t yet detailed statistics on [wrap rage](http://en.wikipedia.org/wiki/Wrap_rage); The closest thing to research on the topic is Consumer Reports’ [Oyster Awards](http://www.consumerreports.org/cro/personal-finance/hardtoopen-packages-306/overview/index.htm), where they give out awards to the packages that are most difficult to open.
 
-![iPod Packaging Reduction](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/ipod-box.gif?v=1727918760515) 
+![iPod Packaging Reduction](/images/ipod-box.gif) 
 
 And this got me thinking about the much-praised packaging for the Apple iPod. There’s no shortage of (deserved) [raves for the box that the iPod comes in](http://www.idonline.com/adr04/dd_pack_1.asp#two), even though more recent ones have been less lavishly packaged as Apple tries to save money and lessen the [environmental impact](http://www.apple.com/environment/design/) of their product.
 

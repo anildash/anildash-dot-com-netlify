@@ -3,7 +3,7 @@ title: On Location with Foursquare
 slug: on_location_with_foursquare
 date_published: 2013-08-06 22:01:11+00:00
 date_updated: 2013-08-06 22:01:11+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-ball.png?v=1670307069239
+image: /images/foursquare-ball.png
 tags: [tech]
 ---
 There’s a great, deep story by Austin Carr in Fast Company today giving a [broad overview of where Foursquare is headed](http://www.fastcompany.com/3014821/will-foursquare-ceo-dennis-crowley-finally-get-it-right), as a product and as a company. I was quoted a few times in the piece, and spent a good bit of time talking to Austin, and I thought it might make sense to explain the non-obvious parts of my perspective on Foursquare.

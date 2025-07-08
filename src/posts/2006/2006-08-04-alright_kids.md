@@ -6,7 +6,7 @@ date_updated: 2006-08-04 16:09:47+00:00
 tags: [random ha-ha, links]
 ---
 
-![Fancy Cheese is Good](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fancy-cheese.jpg?v=1730095262207)
+![Fancy Cheese is Good](/images/fancy-cheese.jpg)
 
 You want links? You got links.
 

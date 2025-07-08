@@ -3,7 +3,7 @@ title: Beyond Doing Half the Parenting
 slug: beyond_doing_half_the_parenting
 date_published: 2015-11-25 17:42:59+00:00
 date_updated: 2015-11-25 17:42:59+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-on-drums.jpg?v=1669958367128
+image: /images/malcolm-on-drums.jpg
 tags: [Most Popular, personal]
 ---
 ### Doing my fair share for my son means I have to start carrying my weight in other areas at home.

@@ -3,7 +3,7 @@ title: 4th Day of November...
 slug: 4th_day_of_november
 date_published: 2017-11-14 17:43:24+00:00
 date_updated: 2018-04-08 04:48:30+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-anil-1024x1024.jpg?v=1669783413614
+image: /images/prince-anil-1024x1024.jpg
 tags: [Prince, music, podcasts, culture]
 ---
 I struggled for a long time when the nice folks at the [Heat Rocks podcast](http://www.maximumfun.org/shows/heat-rocks) asked me which Prince album I’d want to talk about on their show. Oliver Wang and Morgan Rhodes run an amazing podcast, where every episode is a deep-dive into a classic album.

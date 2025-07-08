@@ -3,7 +3,7 @@ title: Heaven, Hell, Marvin, Prince and the Party
 slug: heaven_hell_marvin_prince_and_the_pious_party
 date_published: 2013-01-04 23:12:09+00:00
 date_updated: 2018-08-12 06:22:46+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/barnes-sugarshack1.jpg?v=1670398946641
+image: /images/barnes-sugarshack1.jpg
 tags: [Best Of, music, Prince, Marvin Gaye]
 ---
 Every great career in rhythm and blues leads only to heaven or hell. The path to hell is obvious: From Sam Cooke gunned down to James Brown leading a multi-state police chase to Sly Stone strung out on crack and living in a van to Whitney Houston’s body lying dead as the industry partied a few floors below, our culture’s never treated the shining lights of our most soulful genre with kindness. The archetype of this path is Marvin Gaye, facing his demons at the wrong end of a gun aimed by the man who gave him his name and his life.

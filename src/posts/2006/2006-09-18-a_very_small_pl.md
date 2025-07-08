@@ -5,7 +5,7 @@ date_published: 2006-09-18T06:00:02.000Z
 date_updated: 2006-09-18T06:00:02.000Z
 ---
 
-![The Blue Marble](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/blue-marble-white.jpg?v=1730096308850)
+![The Blue Marble](/images/blue-marble-white.jpg)
 
 When I was about 8 or 9 years old, I got to go to a conference on soil mechanics. It’s not as bad as it sounds; My dad has a PhD in soil mechanics, so I learned a lot, and the conference was in Orlando, so we visited Disney World, too. Plus, I got to meet an astronaut: [Jack Schmitt](http://www.jsc.nasa.gov/Bios/htmlbios/schmitt-hh.html), the last man on the moon.
 

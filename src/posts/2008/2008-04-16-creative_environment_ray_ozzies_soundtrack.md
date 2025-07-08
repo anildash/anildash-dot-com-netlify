@@ -5,7 +5,7 @@ date_published: 2008-04-16 15:33:24+00:00
 date_updated: 2008-04-16 15:33:24+00:00
 tags: [Best Of, tech]
 ---
-[![brothers-in-arms.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/brothers-in-arms.jpg?v=1674630670971)](http://www.amazon.com/exec/obidos/ASIN/B00004Y6NP/2020-20)
+[![brothers-in-arms.jpg](/images/brothers-in-arms.jpg)](http://www.amazon.com/exec/obidos/ASIN/B00004Y6NP/2020-20)
 
 Early in my efforts to document the [creative environment](/2008/04/the-creative-environment) where great technology projects happen, I reached out to [Ray Ozzie](http://en.wikipedia.org/wiki/Ray_Ozzie). Ray is of course a software industry legend, today the Chief Software Architect of Microsoft, in addition to having been the father of Lotus Notes.
 

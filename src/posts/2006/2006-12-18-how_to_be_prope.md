@@ -9,7 +9,7 @@ tags: [random ha-ha, memes]
 
 - A few months ago, *Giant* ran [This Week in Goatse](http://www.giantmag.com/2006/08/movies/this-week-in-goatse-johnny-knoxville/), featuring Johnny Knoxville’s cover image in *Out*. Of course, if *Time* really meant it when they named [web geeks as the Person of the Year](http://www.time.com/time/covers/0,16641,20061225,00.html), they would have slipped in a hidden Goatse as they did in their [infamous immigration cover](http://www.time.com/time/covers/0,16641,20040920,00.html) two years ago.
 
-![Goatse of the Year](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/time-poy-goatse.jpg?v=1725319832409)
+![Goatse of the Year](/images/time-poy-goatse.jpg)
 
 - Then, two weeks ago, Niall Kennedy [replaced an image on a Microsoft blog](http://www.niallkennedy.com/blog/archives/2006/12/microsoft-copyright-photograph.html) which had hot-linked to one of his Flickr photos. This one’s not as open-and-shut (sorry!) a case to me. One, Niall used to work at Microsoft, which means these folks may well have been his coworkers just a few months ago, and it’s not very cool to leave people you work with hanging out to dry.
 

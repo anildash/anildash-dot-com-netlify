@@ -5,7 +5,7 @@ date_published: 2001-06-01T07:17:31.000Z
 date_updated: 2001-06-01T07:17:31.000Z
 ---
 
-[![metafilter server setup](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesofilter.jpg?v=1729991499042)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesovision.gif?v=1729991559643)
+[![metafilter server setup](/images/quesofilter.jpg)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesovision.gif?v=1729991559643)
 
 So, yeah, [Jason](http://q.queso.com/2001/05/31) is the proud host of [MetaFilter](http://www.metafilter.com) now, and, through the magic of **QuesoVision**, you can watch him set up the MeFi box here in New York in [vibrant, living color](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesovision.gif?v=1729991559643).
 

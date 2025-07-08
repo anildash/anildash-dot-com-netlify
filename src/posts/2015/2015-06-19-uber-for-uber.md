@@ -2,8 +2,8 @@
 title: "Uber for Uber: 10 Simple Steps to Improve Ride Sharing"
 slug: uber-for-uber
 date_published: 2015-06-19T16:00:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/uber-for-uber.png?v=1747370056794
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/uber-for-uber.png?v=1747370056794
+heroimage: /images/uber-for-uber.png
+image: /images/uber-for-uber.png
 tags: [uber, tech]
 ---
 
@@ -24,4 +24,4 @@ Maybe so. Perhaps we could better serve people who live in cities today but aren
 
 Together, we can achieve Uber CEO Travis Kalanick’s dream of nobody having to own a private car.
 
-<img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/metrocard-big.png?v=1747370030805" alt="a Metrocard, you know, for actually riding mass transit" />
+<img src="/images/metrocard-big.png" alt="a Metrocard, you know, for actually riding mass transit" />

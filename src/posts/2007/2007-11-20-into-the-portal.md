@@ -5,14 +5,14 @@ date_published: 2007-11-21 00:58:19+00:00
 date_updated: 2007-11-21 00:58:19+00:00
 tags: [music, tech, gaming]
 ---
-[![The Orange Box](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/orange-box.jpg?v=1674870392654)](http://www.amazon.com/exec/obidos/ASIN/B000PS2XES/2020-20)
+[![The Orange Box](/images/orange-box.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000PS2XES/2020-20)
 
 Many of my nerd friends are all excited about [Portal](http://orange.half-life2.com/portal.html), Valve’s brilliant reworking of [Narbacular Drop](http://en.wikipedia.org/wiki/Narbacular_Drop). I’ve only played about five minutes of the game myself, but have had a lot of thoughts about it, so at the urging of some friends, here’s a couple of quick thoughts:
 
 - Talking to [Jesse](http://blog.jjg.net/) and [Rebecca](http://www.rebeccablood.net/) about Portal, they both described it as a “perfect short story”. That’s a fantastic compliment to the game, and a rather damning indictment of the ego of traditional game development (or the constraints of traditional game distribution), where everyone feels compelled to try to create the Great American Novel every time out. (Incidentally, [Bioshock](http://www.amazon.com/exec/obidos/ASIN/B000MK694E/2020-20) was praised as being as much of a leap over Half Life and its ilk as Half Life was over previous first-person shooters: Half Life introduced real narrative to the genre, and Bioshock demonstrated that the narrative could be truly literary.)
 - The fundamental element of Portal’s gameplay, the ability to move from disconnected parts of a level, is essentially similar to abilities that were considered bugs in early first-person shooters. Anyone who’s ever messed around with making FPS levels is familiar with clipping errors and the hall-of-mirrors effect, and there were a lot of ways in games like Doom and Quake to be able to see “through” parts of a level if it was improperly constructed. Instead of seeing this as a bug, Portal sees it as a feature.
 
-![Portal](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/portal-logo.gif?v=1674869676122)
+![Portal](/images/portal-logo.gif)
 
 - Pac-Man’s side exits and Mario’s pipes are both really just portals, aren’t they? (Think of Mario Bros.-era pipes, not the 2D platfomers.)
 - It’s kind of astounding that the Portal gameplay *didn’t* come from Nintendo. The fundamental idea of transforming an environment and fighting enemies without having a traditional weapon seems right up their alley.

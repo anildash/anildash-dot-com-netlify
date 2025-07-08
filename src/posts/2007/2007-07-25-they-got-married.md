@@ -5,7 +5,7 @@ date_published: 2007-07-25 16:06:26+00:00
 date_updated: 2007-07-25 16:06:26+00:00
 tags: [random ha-ha, tech]
 ---
-![They Got Married](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/they-got-married.jpg?v=1714796180629)
+![They Got Married](/images/they-got-married.jpg)
 
 If you’ve been on the Internet at all in the past, oh, ten years, you’ll have seen the ad for Classmates.com that features an improbable matrimonial matchup of a bookish young woman and a dreamy young man. “They Got Married??!!!” screams the headline above their images, and this is supposed to entice us to go register for the site. (Does Classmates.com still charge money in this post-Facebook era?)
 

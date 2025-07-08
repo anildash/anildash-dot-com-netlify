@@ -3,8 +3,8 @@ title: This is what you should read on the web
 slug: have-some-links
 date_published: 2006-11-16 04:13:40+00:00
 date_updated: 2006-11-16 04:13:40+00:00
-heroimage: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/jay-z-ceo.jpg?v=1729981265640
-image: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/jay-z-ceo.jpg?v=1729981265640
+heroimage: /images/jay-z-ceo.jpg
+image: /images/jay-z-ceo.jpg
 tags: [links]
 ---
 - So maybe [Gracenote](http://www.gracenote.com/) (formerly CDDB) [isn’t evil after all](http://www.wired.com/news/columns/1,72105-2.html)? I love anything that challenges the conventional wisdom, especially when someone’s gotten a bad rap. Good reporting, Eliot Van Buskirk! I’d been accepting the received wisdom about this company for years, apparently unfairly. Do we have a tech equivalent term for “urban legend”?

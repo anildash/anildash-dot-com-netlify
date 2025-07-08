@@ -2,8 +2,8 @@
 title: "The Internet of Consent"
 slug: internet-of-consent
 date_published: 2025-05-27T07:00:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/moralis-tsai-MpKdCe4YXF0.jpg?v=1748329059166
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/moralis-tsai-MpKdCe4YXF0.jpg?v=1748329059166
+heroimage: /images/moralis-tsai-MpKdCe4YXF0.jpg
+image: /images/moralis-tsai-MpKdCe4YXF0.jpg
 tags: [internet, web, consent, tos]
 ---
 

@@ -3,7 +3,7 @@ title: Stop Publishing Web Pages
 slug: stop_publishing_web_pages
 date_published: 2012-08-14 21:03:26+00:00
 date_updated: 2018-04-21 08:20:10+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stream-wireframes.png?v=1670729826246
+image: /images/stream-wireframes.png
 tags: [media, tech, web]
 ---
 Most users on the web spend most of their time in apps. The most popular of those apps, like Facebook, Twitter, Gmail, Tumblr and others, are primarily focused on a single, simple stream that offers a river of news which users can easily scroll through, skim over, and click on to read in more depth.
@@ -30,7 +30,7 @@ Stream-based content naturally flows across different devices and media, from ti
 
 Streams of content can easily be read in friendly native apps on mobile platforms with the content flowing through simple APIs. Pages get squeezed into faux-mobile app experiences that look just enough like native apps to be frustrating and annoying when they don’t perform correctly. Pages tell users there’s no mobile version of this story available, or accidentally redirect an interested user to the site’s homepage, from where they quickly depart. Pages stop your flow.
 
-![Pages vs. Streams](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stream-wireframes.png?v=1670729826246)
+![Pages vs. Streams](/images/stream-wireframes.png)
 
 ## Let’s Fix This
 

@@ -3,7 +3,7 @@ title: Eighteen is History
 slug: eighteen-is-history
 date_published: 2019-09-11 09:17:39+00:00
 date_updated: 2019-09-11 21:49:43+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/towers-of-light.jpeg?v=1669585604529
+image: /images/towers-of-light.jpeg
 tags: [nyc]
 ---
 There are kids now who are old enough to go fight in wars that were justified back when they still had their umbilical cords attached. For them, the attacks are only history; that's all they ever were.

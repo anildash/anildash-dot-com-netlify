@@ -9,7 +9,7 @@ This weekend here in NYC is [Transportation Camp](http://transportationcamp.org/
 
 Last May, the MTA hosted an [Unconference for Developers](http://mta.info/developers/conf.html), where I got to moderate a panel before MTA CEO Jay Walder announced the [MTA’s open data sets](http://mta.info/developers/) that were made newly available for use by developers. There was amazing response from the developer community, as well as [accolades from transit geeks](http://secondavenuesagas.com/2010/04/28/mta-google-to-host-developers-unconference/) like Benjamin Kabak at [Second Avenue Sagas](http://secondavenuesagas.com/) (one of my favorite blogs).
 
-![MTA Whiz Kid](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whiz-kid.jpg?v=1670801933142)
+![MTA Whiz Kid](/images/whiz-kid.jpg)
 
 Today, less than a year later, it seems like the effort is really succeeding. Just a few weeks ago, Alexander Chen’s brilliant, beautiful [MTA.ME](http://mta.me/) caught an enormous amount of attention for its combination of realtime subway data and unabashed artistry. You can read [Alexander’s own explanation](http://blog.chenalexander.com/2011/conductor-mta/), but the core takeaway I got from the popularity of MTA.ME was that he’d succeeded in reaching an audience of people who may not be transit geeks, and almost certainly didn’t have to have a prior interest in realtime subway data. That’s a measure of exactly the sort of success I think we all hoped to see at the moment the data sets were released.
 

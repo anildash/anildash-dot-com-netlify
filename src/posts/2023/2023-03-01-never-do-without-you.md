@@ -2,7 +2,7 @@
 title: 'Never Do Without You: Adding the seasoning'
 slug: never-do-without-you
 date_published: 2023-03-01 20:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/oberheim.jpg?v=1677732192339
+image: /images/oberheim.jpg
 tags: [music, Janet Jackson]
 ---
 Back in 2021, my friend Jesse Thorn interviewed two of my creative heroes, Jimmy Jam and Terry Lewis, for an absolutely indispensible episode of <a href="https://maximumfun.org/transcripts/bullseye-with-jesse-thorn/transcript-bullseye-with-jesse-thorn-jimmy-jam-and-terry-lewis/">Bullseye</a>. The whole show is incredible, but the highlight for me is at the 47:43 mark:

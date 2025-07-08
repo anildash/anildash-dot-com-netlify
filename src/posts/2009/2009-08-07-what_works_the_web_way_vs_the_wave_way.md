@@ -18,7 +18,7 @@ Now, if we take a look at some examples of what *has* worked, we can see how var
 
 Ajax had a similar adoption pattern. It took a little bit more time to comprehend, but not much more than an afternoon, and the development effort required for adding Ajax enhancements to an application started as a weekend-scale project and has only gone down over time. Following the principles of [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement), well-designed implementations performed just fine on older browsers or systems that couldn’t handle the new features. And most sites that have added Ajax features have done so by adding the requirements as a checklist item in the course of normal ongoing updates, not as standalone efforts to migrate to a new technology.
 
-![190-google-wave-thumb](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-wave-thumb.jpg?v=1730099044369)
+![190-google-wave-thumb](/images/google-wave-thumb.jpg)
 
 This brings us to Wave. Wave offers excellent opportunities to extend its core features and to add richness to its “wavelets”, and I have no criticisms over its utility as a developer platform that third parties can build upon. But the fundamental Wave protocols are, I fear, a bit too complex to ever be fully and correctly implemented by anyone other than Google. Interoperability is likely to be a challenge that plagues the platform for its entire existence. In short: It’s likely that nobody will ever build a fully-compatible clone of Wave that competes with Google’s own implementation.
 

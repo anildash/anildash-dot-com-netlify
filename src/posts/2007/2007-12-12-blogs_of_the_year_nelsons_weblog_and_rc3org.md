@@ -7,7 +7,7 @@ tags: [tech, blogs]
 ---
 **Today’s Blog of the Year Picks:** [Some Bits: Nelson’s Weblog](http://www.somebits.com/weblog/) and [RC3.org](http://www.rc3.org/).
 
-![nelsons-weblog.png](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/nelsons-weblog.png?v=1674863218894)
+![nelsons-weblog.png](/images/nelsons-weblog.png)
 
 These two are just for me, some real old-school-blogging nerd picks. Some Bits: Nelson’s Weblog is the work of Nelson Minar. Formerly of Google (where he helped pioneer their API work), and lately assisting with Twitter, Nelson is a geek’s geek, reveling in coding and gaming and exploring the edges of web culture. But honestly, there are *lots* of blogs that try to cover that territory. What I love is that there’s a real humanity to the way Nelson presents his posts, and he frequently veers from the technical to the political or even the worlds of food and travel while retaining that characteristic warmth. Frankly, if you’ve been reading or writing blogs long enough, you can remember how blogging used to be, and Nelson’s Weblog is old-fashioned in a great way, not least because he still calls it a “weblog”. That the sidebar linkblog is so incredibly well-curated and consistently good is the icing on the cake.
 

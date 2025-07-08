@@ -3,7 +3,7 @@ title: Another Round on me!
 slug: another_round_on_me
 date_published: 2016-10-06 16:59:00+00:00
 date_updated: 2022-11-20 07:41:15+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anotherround-012.jpg?v=1669865033780
+image: /images/anotherround-012.jpg
 tags: [Best Of, podcasts]
 ---
 OMG I can’t believe it! I got to be on my very favorite podcast, BuzzFeed’s “[Another Round](https://www.wnyc.org/shows/another-round)“. I can verify that Tracy Clayton and Heben Nigatu are every bit as amazing in real life as they seem to be when you listen to the show.

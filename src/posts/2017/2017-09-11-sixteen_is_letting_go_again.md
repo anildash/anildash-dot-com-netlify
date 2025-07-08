@@ -3,7 +3,7 @@ title: Sixteen is Letting Go Again
 slug: sixteen_is_letting_go_again
 date_published: 2017-09-11 13:07:05+00:00
 date_updated: 2018-09-11 22:31:50+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oculus-roof.jpeg?v=1669784171416
+image: /images/oculus-roof.jpeg
 tags: [nyc]
 ---
 A couple of times a week, I end up walking by the World Trade Center, either the new train station at the site, or one of the new malls that’s sprung up flanking the memorial. It’s a normal part of my day now, not a tentative and fraught moment that forces me to catch my breath. It’s just part of my day.

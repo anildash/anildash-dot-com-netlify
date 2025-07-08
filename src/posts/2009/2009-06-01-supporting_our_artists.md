@@ -7,13 +7,13 @@ tags: [nyc, tech, arts]
 ---
 Last week’s issue of The New Yorker attracted a lot of attention for its cover art, which was [created on an iPhone](http://www.newyorker.com/online/blogs/tny/2009/05/jorge-colombo-iphone-cover.html) by artist [Jorge Colombo](http://www.jorgecolombo.com/).
 
-![Colombo TNY cover](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/colombo-cover.jpg?v=1730098844596)
+![Colombo TNY cover](/images/colombo-cover.jpg)
 
 From the [New York Times](http://www.nytimes.com/2009/05/25/business/media/25yorker.html?_r=1) to [gadget blogs](http://gizmodo.com/5268926/june-1st-new-yorker-cover-drawn-entirely-on-the-iphone) to design sites, the work certainly got a lot of attention. But while a few stories did a decent job of [talking to the artist behind the work](http://news.cnet.com/8301-1023_3-10250989-93.html) in addition to covering the technology involved, most seemed like they were fixated on the tools instead of the end result. That’d be understandable if all of these venues were filled with people who’d never seen an iPhone before, but even the tech-savvy got pulled into the “gee whiz, a small computer can make *pictures*!” aspect of it.
 
 The truth is, Colombo has been creating art for The New Yorker (albeit not covers) for a decade and a half — he didn’t suddenly become a recognized artist by using an iPhone. It’s not surprising that the magazine would encourage an established talent to use new media to express himself. But that odd fixation on tools over talent perhaps reached its apotheosis in the [New York Times’s story on *Brushes*](http://bits.blogs.nytimes.com/2009/05/27/new-yorker-iphone-cover-boosts-sales-for-brushes-app/), Steve Sprang’s clever little app that Colombo used for his artwork. The piece offers a link for buying the application, but doesn’t explain how to buy any of Colombo’s work. While I’m glad to see the application’s creator recognized, it seemed odd that in all this coverage, very few people talked about how to support the *artist who made the cover itself*.
 
-[![colombo isketches](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/colombo_isketch-thumbs.jpg?v=1730098878198)](http://www.20x200.com/aaa/jorge-colombo/)
+[![colombo isketches](/images/colombo_isketch-thumbs.jpg)](http://www.20x200.com/aaa/jorge-colombo/)
 
 Fortunately, we have the means to support Jorge Colombo’s work within our community as well. [Colombo has been featured on 20×200 a number of times](http://www.20x200.com/aaa/jorge-colombo/), and in fact his iPhone editions [made their debut back in April](http://www.20x200.com/email/edition-announcement-156-jorge-colombo.html) on the site, as Jen Bekman [gleefully notes here](http://www.20x200.com/email/jorge-colombo-reprise2.html).
 

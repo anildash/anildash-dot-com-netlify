@@ -11,7 +11,7 @@ Ron Carmel is the co-founder of 2D Boy (which created World of Goo), and partner
 
 ## [Ron Carmel](https://twitter.com/roncarmel)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/roncarmel_normal.jpg?v=1670739167716)
+![](/images/roncarmel_normal.jpg)
 
 Projects: **[World of Goo](http://www.worldofgoo.com/)**
 

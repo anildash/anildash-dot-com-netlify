@@ -7,7 +7,7 @@ tags: [music, nyc, blogs]
 ---
 **Today’s Blog of the Year Pick:** [Ill Doctrine](http://www.illdoctrine.com).
 
-![Ill Doctrine](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/ill-doc-screen.png?v=1674864602154)
+![Ill Doctrine](/images/ill-doc-screen.png)
 
 Put simply, Jay Smooth’s Ill Doctrine is the best video blog on the web. (At least the best one that’s in English.) As you’d expect from the founder of [hiphopmusic.com](http://hiphopmusic.com), Ill Doc starts from a base of reporting on hip hop music and culture. But from that starting point, Jay branches into ruminations on celebrity, culture, politics, and art with real feeling. I don’t think anybody else could make me both roll my eyes at *and* empathize with Amy Winehouse in the space of just a few minutes, let alone [turn “Chocolate Rain” into a non-ironic jam](http://www.illdoctrine.com/2007/08/chocolate_radiohead.html). And for casual viewers, nobody does a better job of breaking down complex topics like the [bust of DJ Drama](http://www.illdoctrine.com/2007/06/dj_drama_and_the_riaa.html) by the RIAA than Ill Doctrine.
 

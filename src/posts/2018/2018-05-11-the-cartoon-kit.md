@@ -3,7 +3,7 @@ title: The Cartoon Kit
 slug: the-cartoon-kit
 date_published: 2018-05-11 06:09:01+00:00
 date_updated: 2021-08-02 04:02:47+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-jerry.jpeg?v=1669624841516
+image: /images/tom-jerry.jpeg
 tags: [cartoons]
 ---
 Anything worth doing is worth doing meta. And *Tom and Jerry* is no exception.

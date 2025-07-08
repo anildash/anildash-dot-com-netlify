@@ -12,6 +12,6 @@ There’s been some great writing on Vignelli’s map:
 - [Visual Complexity’s look at the map](http://www.visualcomplexity.com/vc/project_details.cfm?index=266&amp;id=266&amp;domain=), which I linked to last year, is wonderful.
 - Design Observer offers [Mr. Vignelli’s Map](http://www.designobserver.com/archives/000218.html), which was published a few years ago in observance of the subway’s centennial.
 
-![1972 NYC Subway Map](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nyc-subway-map-1972.jpg?v=1730096258158)
+![1972 NYC Subway Map](/images/nyc-subway-map-1972.jpg)
 
 But perhaps one of the coolest recent bits of media about Massimo Vignelli and his work on the subway map is [this outtake footage](http://www.helveticafilm.com/vignellimap.html) from the documentary film [Helvetica](http://www.helveticafilm.com/). It’s well worth a look for those enchanted with the fellow who said, [The only thing you are interested in is the spaghetti.](/2006/09/draw-the-map-dr.html)

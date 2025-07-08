@@ -7,7 +7,7 @@ tags: [tech, microsoft, magazine]
 ---
 Microsoft’s been promoting its [Tablet PC](http://www.microsoft.com/windowsxp/tabletpc/)s for about a year now. Despite all the claims, they’re more evolutionary than revolutionary, of course. But that’s the not the surprising thing about them. The surprising thing about Tablet PCs is that they’re going to succeed.
 
-![Convertible Tablet PC](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tabletpcanim.gif?v=1730091430268)convertible tablet pc
+![Convertible Tablet PC](/images/tabletpcanim.gif)convertible tablet pc
 
 First, the basics: They’re laptop computers, most of them. Just like you’re already used to using. Due to a combination of cowardice and conservativism, every single design I’ve seen for a commercial Tablet PC is using the "convertible" design where the standard notebook design can be inverted (perverted?) by swiveling the screen 180 degrees and folding it back over the keyboard, covering it up and yielding a standalone screen that’s then viewed in portrait orientation instead of landscape. Ideally, they’d have super-light keyboardless versions of these, true digital slates to write on. But for now we’ll probably have to settle for transformable units in relatively standard configurations.
 
@@ -19,7 +19,7 @@ Why, then, will these tablets succeed, despite commanding a several hundred doll
 
 The human factors are very telling. Think back to the highest-level meetings you’ve had in your career. Whatever major decision-maker or principal who was the Big Presence in the meeting almost certainly didn’t have a laptop with him in the conference room. If anything, he (yes, sadly, it was probably a he) had a standard legal pad and a big fat fancy pen. Maybe the legal pad was in a leather binder. The poor pasty lackey to his side, or maybe at the end of the table, had the laptop with the supporting data and relevant background information. The only, rare, exceptions to these arrangments are in extremely technical disciplines.
 
-![Tablet PC Prototype](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tabletprototype.jpg?v=1730091430603)tablet pc prototype
+![Tablet PC Prototype](/images/tabletprototype.jpg)tablet pc prototype
 
 This dynamic has been established for a number of reasons. That the old suit probably didn’t know how to *work* a computer was undoubtedly high on the list. And he certainly wanted to impress upon those present that he was such an authority that he could command a tech lackey to handle "that computer stuff", of course. But the key thing was body language. A legal pad doesn’t interfere in a meeting. It doesn’t prevent a glower or glare or raised eyebrow the way that these human reactions are hidden when a person is turned to face a monitor or when shielded behind even the most svelte PowerBook screen.
 

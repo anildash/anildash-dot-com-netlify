@@ -5,7 +5,7 @@ date_published: 2001-02-02T06:56:50.000Z
 date_updated: 2001-02-02T06:56:50.000Z
 ---
 
-[![nothing says love better.](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ship.gif?v=1730089620648)](http://www.explodingdog.com/june19/sayslove.html)
+[![nothing says love better.](/images/ship.gif)](http://www.explodingdog.com/june19/sayslove.html)
 
 The first date I ever went on, we stopped by Toys R Us while driving around for a few hours. I bought a model ship, since I was head over heels for the girl and I intended to finish the model in time to give it to her on some significant anniversary in the future.
 

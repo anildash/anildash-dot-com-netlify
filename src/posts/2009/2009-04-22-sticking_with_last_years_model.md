@@ -7,7 +7,7 @@ tags: [tech, Best Of]
 ---
 Here’s the idea: We can fix the false impression that the newest gadgets are the only interesting ones by simply promoting the fact that we’re getting a lot out of our existing products.
 
-[![Last Year's Model](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/lastyears-badge.jpg?v=1730098646033)](http://lastyearsmodel.org/)
+[![Last Year's Model](/images/lastyears-badge.jpg)](http://lastyearsmodel.org/)
 
 I am lucky — I get to talk to some of the smartest geeks in the world, and to learn from their example about cutting-edge technologies. One of the most interesting things I’ve seen is that, while so much of the talk in tech circles is about the latest-and-greatest, even alpha geeks often don’t run out and buy the newest gadgets and electronics the minute they come out.
 
@@ -15,7 +15,7 @@ But you wouldn’t know it from the way we talk about our gadgetry.
 
 Instead, there’s an incessant focus on what’s just been released on the market, or what’s becoming available in the future. It makes even those of us who have great, fancy, expensive devices feel like, well, we’re slipping behind.
 
-![LYM](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ps3-sex-box.png?v=1730098674954)
+![LYM](/images/ps3-sex-box.png)
 
 It ain’t necessarily so. I bounced this idea off of a few tech experts I know, and they all agreed that the constant pursuit of novelty over *actual value* takes a lot of the joy out of loving great technology. So, to help promote the idea of being thoughtful about what we buy, and how long we hold on to it, I created [Last Year’s Model](http://lastyearsmodel.org/), with a design from my friend Mike Monteiro of [Mule Design](http://muledesign.com/).
 

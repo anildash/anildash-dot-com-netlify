@@ -2,7 +2,7 @@
 title: Today's AI is unreasonable.
 slug: ai-is-unreasonable
 date_published: 2023-06-08 11:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/victor-3YW2jxSblE8-unsplash.jpg?v=1686235653044
+image: /images/victor-3YW2jxSblE8-unsplash.jpg
 tags: [tech]
 ---
 There's an extraordinary amount of hype around "AI" right now, perhaps even greater than in past cycles, where we've seen an AI bubble about once per decade. This time, the focus is on generative systems, particularly LLMs and other tools designed to generate plausible outputs that either make people feel like the response is correct, or where the response is sufficient to fill in for domains where correctness doesn't matter.

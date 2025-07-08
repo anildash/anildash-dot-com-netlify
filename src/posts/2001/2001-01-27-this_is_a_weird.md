@@ -11,4 +11,4 @@ Now, besides the fact that **no one would ever go out of their way to get more a
 
 But of course, the geek in me is intrigued. I haven’t had my PDA with me while walking by this ad yet, but judging by their website, it looks like it requires a software download that is Palm OS only anyway, so I’m outta luck. Or more accurately, I’m *in* luck. Is this foolishness going on anywhere else?
 
-[![stupid idea, ugly ad: streetbeam!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/beamthumb.jpg?v=1730089358226)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/beamposter.jpg?v=1730089357780)
+[![stupid idea, ugly ad: streetbeam!](/images/beamthumb.jpg)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/beamposter.jpg?v=1730089357780)

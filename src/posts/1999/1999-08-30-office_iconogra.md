@@ -12,6 +12,6 @@ They’re almost childlike in their simplicity, they’re extremely distinct fro
 
 Here’s a sampling:
 
-![Office 2000 Icons](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/officeicons.gif?v=1730089614433)![Large Office 2000 Icons](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/bigicons.gif?v=1730089598954)
+![Office 2000 Icons](/images/officeicons.gif)![Large Office 2000 Icons](/images/bigicons.gif)
 
 My **favorite** of all of these is **Outlook**. Besides being a kind of neat program with a horrible interface, the small icon for the program evokes not just the "clock" element of the product’s time-management features, but also consists of an **O** and an **L**. OL = **O**ut**l**ook. Cool!

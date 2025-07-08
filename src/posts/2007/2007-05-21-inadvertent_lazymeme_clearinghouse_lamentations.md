@@ -17,6 +17,6 @@ If you want to get a feel for what the realm looks like, here’s a random sampl
 - Research indicating that [emoticons are tied to cultural context](http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WJB-4JT38WP-1&amp;_user=10&amp;_coverDate=03%2F31%2F2007&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=fdf2602bea942cf42f24c9e0647165b8). Duh! The [discussion on Ars Technica](http://arstechnica.com/news.ars/post/20070514-emoticons-carry-cultural-baggage.html) is a little less dense than the [original research](http://lynx.let.hokudai.ac.jp/~myuki/paper/Yuki_Face_paper_JESP.pdf) [ (PDF format), but that one seemed like an obvious call.
 - Unsettling Gawker fave Kreepie Kats ]() [considers the meme](http://gawker.com/news/kreepie-kats/u-cant-has-cheezburger-259653.php).
 - And there’s even a nod in a recent episode of current geek-fave web comic [xkcd](http://xkcd.com/c262.html).
-![ran out of staples](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/in_ur_reality.png?v=1714969657834)
+![ran out of staples](/images/in_ur_reality.png)
 
 And that’s all I have to say about that subject for now.

@@ -11,7 +11,7 @@ Jen Bekman is the founder and CEO of 20×200, a marketplace helping artists make
 
 ## [Jen Bekman](https://twitter.com/jenbee)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jbcanarysq_normal.jpg?v=1670739985352)
+![](/images/jbcanarysq_normal.jpg)
 
 Company: **[20×200](http://www.20x200.com)**
 
@@ -23,7 +23,7 @@ The $20 print is the gateway drug of the art world. She’s showing the “unbox
 
 Because people have lots of hang-ups about feeling too inexpert or inexperienced to buy arts, and so offering a newsletter helped educate buyers about the artwork. And your inbox is a safe place where nobody is looking over your shoulder while you learn about art. The whole experience is designed to be very customer-oriented, so that it’s not as exclusionary as traditional art collection, but something everyone does, just like watching a movie or reading a book.
 
-![Jen Bekman sees art as a gateway drug](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jen-bekman-slide.jpg?v=1670740012947)
+![Jen Bekman sees art as a gateway drug](/images/jen-bekman-slide.jpg)
 
 “It’s a much richer experience than buying a poster at Ikea.” Browsing artwork by color is something that’s verboten in the art world, but by making a consumer experience based on the idea that you like a particular color is a great way of bringing new people into the world of collecting art. And at the same time, having a physical gallery keeps the company relevant and connected to the traditional art world.  
 

@@ -3,7 +3,7 @@ title: What Medium Is
 slug: what_medium_is
 date_published: 2013-08-23 18:59:11+00:00
 date_updated: 2013-08-23 18:59:11+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium-logos.webp?v=1670307728772
+image: /images/medium-logos.webp
 tags: [media, blogs, tech, software]
 ---
 First, some disclaimers: I’m writing this as I sit a few feet away from Medium’s NYC team. (I even asked them for tech support while writing this!) Ev Williams, founder of Medium, is an old friend of mine, whom I became a fan of as I was the first public user of Blogger, which he cofounded. And Ev explained the idea of Medium to me before he’d even decided on the name. So, in addition to offering the falsely-humble way of bragging that such disclosures always provide, it should be pretty clear that I’m far from objective about Medium. I like it, because I like blogging, and I want it to succeed. This piece [originally appeared on Medium](https://medium.com/the-web-we-make/b7a98098b342).

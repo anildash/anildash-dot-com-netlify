@@ -3,7 +3,7 @@ title: If your website's full of assholes, it's your fault
 slug: if_your_websites_full_of_assholes_its_your_fault-2
 date_published: 2011-07-20 21:13:33+00:00
 date_updated: 2019-07-23 06:48:42+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/walking.jpg?v=1670196131056
+image: /images/walking.jpg
 tags: [Best Of, Most Popular, tech, culture, twitter]
 ---
 We’re twenty years in to this world wide web thing. Today, I myself celebrate twelve years of writing this blog. And yet those of us who love this medium, who’ve had our lives changed by the possibility of publishing our words to the world without having to ask permission, are constantly charged with defending this wonderful, expressive medium in a way that creators in every other discipline seldom find themselves obligated to do.

@@ -4,7 +4,7 @@ title: "It\u2019s time for Asian American men to stop being the \u201CModel Mino
 slug: its_time_to_stop_being_the_model_minority
 date_published: 2014-10-10 12:00:46+00:00
 date_updated: 2018-08-12 05:42:49+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/green-switches.jpeg?v=1670197419105
+image: /images/green-switches.jpeg
 tags: [tech, culture, Best Of]
 ---
 We all know tech is excluding most people from participating. But one group is actually over represented. And we’ve been conspicuously silent.

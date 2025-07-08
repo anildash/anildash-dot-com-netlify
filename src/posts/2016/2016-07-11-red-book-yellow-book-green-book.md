@@ -3,7 +3,7 @@ title: Coloring Books
 slug: red-book-yellow-book-green-book
 date_published: 2016-07-11 20:59:00+00:00
 date_updated: 2018-04-15 09:17:55+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/color-books.jpeg?v=1669866330863
+image: /images/color-books.jpeg
 tags: [music, highways, transportation, race, policy]
 ---
 ## Red Book, Yellow Book, Green Book

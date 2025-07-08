@@ -3,7 +3,7 @@ title: A billion dollar gift for Twitter
 slug: a-billion-dollar-gift-for-twitter
 date_published: 2016-12-30 19:21:00+00:00
 date_updated: 2022-10-31 06:25:11+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-yin-yang.png?v=1669860158356
+image: /images/twitter-yin-yang.png
 tags: [twitter, tech]
 ---
 Jack asked us for ideas on how to fix Twitter. A coherent plan for fixing Twitter would make millions of people happier, and pick up a billion dollars in market cap along the way. C’mon, it’ll be great!

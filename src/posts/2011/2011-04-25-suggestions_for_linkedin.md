@@ -3,7 +3,7 @@ title: Suggestions for LinkedIn
 slug: suggestions_for_linkedin
 date_published: 2011-04-25 20:25:06+00:00
 date_updated: 2011-04-25 20:25:06+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-lets-get-started.png?v=1670802246389
+image: /images/linkedin-lets-get-started.png
 tags: [tech]
 ---
 I know lots of people use LinkedIn and like it. It seems more like a sort of obligation for me, but I know lots of nice people who work there, so I thought I’d collect some of my frustrations with the service and turn them intro constructive suggestions. You folks can work on these features while you’re enduring the quiet period before your IPO!
@@ -16,7 +16,7 @@ Now, here’s the thing: My profile *is* 75% complete. So maybe there’s just a
 
 Here’s the thing, though: My education’s all already *in there*. I didn’t go to college. It’s another facet of [the flaw in drop-down identities](http://smarterware.org/7388/the-case-against-drop-down-identities) that LinkedIn assumes someone in my social context had to have learned in a traditional way in order to participate in the career that I have.
 
-![linkedin-75-percent.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-75-percent.png?v=1670802313210) 
+![linkedin-75-percent.png](/images/linkedin-75-percent.png) 
 
 More broadly, the annoyances with publishing my profile updates reflect this social tension as well: Not everyone can afford to publicize the changes they’re making to their job information. Now, **I know that you can turn that setting off**. It’s possible, if you dig deeply enough into LinkedIn’s settings, that you can keep people from seeing your every tweak.
 

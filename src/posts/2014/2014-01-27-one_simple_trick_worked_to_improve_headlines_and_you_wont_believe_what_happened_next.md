@@ -4,7 +4,7 @@ title: One Simple Trick Worked to Improve Headlines, and You Won't Believe What 
 slug: one_simple_trick_worked_to_improve_headlines_and_you_wont_believe_what_happened_next
 date_published: 2014-01-27 16:40:10+00:00
 date_updated: 2014-01-27 16:40:10+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/upworthy.jpeg?v=1670297976672
+image: /images/upworthy.jpeg
 tags: [media, tech]
 ---
 Upworthy is barely over two years old, and it’s among the top 50 most visited sites in the United States. But its perception among the self-involved media discussion class is entirely defined by its headlines.

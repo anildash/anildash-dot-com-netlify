@@ -5,7 +5,7 @@ date_published: 2006-07-10 11:00:00+00:00
 date_updated: 2006-07-10 11:00:00+00:00
 tags: [Best Of, tech]
 ---
-[![The Long Tail](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/longtail.jpg?v=1730094968711)](http://www.amazon.com/exec/obidos/ASIN/1401302378/2020-20)
+[![The Long Tail](/images/longtail.jpg)](http://www.amazon.com/exec/obidos/ASIN/1401302378/2020-20)
 
 I’d started reading *[The Long Tail](http://www.amazon.com/exec/obidos/ASIN/1401302378/2020-20)* (You’ve read [the blog](http://www.thelongtail.com/), now buy [the book](http://www.amazon.com/exec/obidos/ASIN/1401302378/2020-20)!) by surprising myself with how excited I was to read the book; After all, I’d read [the original article](http://www.wired.com/wired/archive/12.10/tail.html) in Wired when it came out, and have been following Chris’ blog since it started. Was there really anything new left? How could I still be interested in a topic that long ago became part of the scenery for the Web 2.0 and VC crowd?
 

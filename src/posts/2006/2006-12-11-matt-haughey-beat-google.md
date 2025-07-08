@@ -9,7 +9,7 @@ tags: [Best Of, tech, Most Popular, google, seo, content moderation]
 
 Why was Matt successful where Google was not? Let’s take a look.
 
-![Ask MetaFilter](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/ask-metafilter.jpg?v=1727918679781)
+![Ask MetaFilter](/images/ask-metafilter.jpg)
 
 ### A Motivated Community
 

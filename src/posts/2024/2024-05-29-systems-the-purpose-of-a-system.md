@@ -2,8 +2,8 @@
 title: ['Systems: The Purpose of a System is What It Does']
 slug: systems-the-purpose-of-a-system
 date_published: 2024-04-09 00:44:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/machine-white.jpeg?v=1717040852094
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/machine-white.jpeg?v=1717040852094
+heroimage: /images/machine-white.jpeg
+image: /images/machine-white.jpeg
 tags: [systems]
 ---
 When trying to understand systems, one really eye-opening and fundamental insight is to realize that _the machine is never broken_. What I mean by this is, when observing the outcomes of a particular system or institution, it’s very useful to start from the assumption that the outputs or impacts of that system are precisely what it was designed to do — whether we find those results to be good, bad or mixed.

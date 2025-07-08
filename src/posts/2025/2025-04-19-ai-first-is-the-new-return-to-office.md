@@ -2,8 +2,8 @@
 title: '"AI-first" is the new Return To Office'
 slug: ai-first-is-the-new-return-to-office
 date_published: 2025-04-30T03:00:00.000Z
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg?v=1745983904931
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg?v=1745983904931
+image: /images/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg
+heroimage: /images/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg
 tags: [ai, ceos, tech]
 ---
 

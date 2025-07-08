@@ -9,7 +9,7 @@ There weren’t a whole lot of really *new* things announced at the Web 2.0 conf
 
 I got a chance to talk to the folks behind Stikkit a bit at the event, and I’ve been friends with them for years. So instead of “hey, what does it do, what are the features?” we ended up talking a little more generally about what starting a business, and launching a product, actually *means*.
 
-![Running](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/running-stripe.jpg?v=1725321295859)
+![Running](/images/running-stripe.jpg)
 
 Michael [sums it up well](http://www.michaelbuffington.com/articles/2006/11/10/stikkit-is-go) on his blog:
 

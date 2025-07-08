@@ -3,7 +3,7 @@ title: It's unrecognizable
 slug: its-unrecognizable
 date_published: 2023-09-11 16:25:09+00:00
 date_updated: 2023-09-11 16:25:09+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/tomas-martinez-wtc-nyc.jpg?v=1694471884095
+image: /images/tomas-martinez-wtc-nyc.jpg
 tags: [nyc]
 ---
 I didn't think I'd keep reflecting on this day, but somehow I can't. It's been with me for most of my lifetime that I can remember, and perhaps more importantly, the world's narrative about what happened that day is completely unrecognizable to me. I suppose I have to keep reflecting on it not just for those who tell me these reflections have value to them, but also for myself, to shake away that feeling that the popular narrative is gaslighting me, and to remember what I know to be true.

@@ -27,7 +27,7 @@ In fact, you *have to* do so.
 
 The *only* tools that succeed in an enterprise situation are those which are so compelling that people choose to use them in their free time. Look at email, instant messaging, hell — look at the telephone. These staples of business communication are so popular because they meet the “I want this as part of my life” threshold. They can even be so good as to [inspire addiction, complete with withdrawal in their absence](http://www.nytimes.com/2007/04/19/technology/19blackberry.html?ex=1334635200&amp;en=6613977af214b57d&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss).
 
-[![Movable Type on an iPhone](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/iphone-sm.jpg?v=1714791279463)]
+[![Movable Type on an iPhone](/images/iphone-sm.jpg)]
 
 (http://www.movabletype.org/2007/07/psst-iphone-nerds.html) If you create a tool as powerful as instant messaging, for example, you *won’t be able to stop* adoption in the enterprise — you’ll just need to add enterprise features. And to those who proudly point out that the iPhone is “too cool to ever go to work”, you can’t *also* claim that enterprise IT will have to deal with it because it’s popular. Unless you want to perpetuate the myth that we somehow transform into emotionless robots when we go to work, you have to acknowledge that Apple’s *going* to make more and more improvements to accommodate them, and that’s a *good* thing.
 

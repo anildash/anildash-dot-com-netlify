@@ -3,7 +3,7 @@ title: It's time to discover Prince
 slug: its_time_to_discover_prince
 date_published: 2017-02-12 16:53:20+00:00
 date_updated: 2021-08-09 07:00:41+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-herb-ritts.jpg?v=1669786811539
+image: /images/prince-herb-ritts.jpg
 tags: [Most Popular, music, Best Of, Prince]
 ---
 With the recent availability of nearly all of Prince’s catalog on the most popular streaming services, it’s a great time to (re?)discover the breadth of Prince’s incredible body of work.

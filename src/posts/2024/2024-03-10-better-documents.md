@@ -2,8 +2,8 @@
 title: Make better documents.
 slug: make-better-documents
 date_published: 2024-03-10 18:00:05+00:00
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/documents-ink.jpeg?v=1710433195212
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/documents-ink.jpeg?v=1710433195212
+heroimage: /images/documents-ink.jpeg
+image: /images/documents-ink.jpeg
 tags: [Best Of, tech, systems]
 ---
 Whether it's resumes or reports, budgets or broadsides, I'm pretty regularly sent working documents from a wide range of people, and over the years I've noticed some consistent patterns that lead those documents to be less effective than they should be. Even very smart, capable communicators routinely send important documents that distract from, or even undermine, their goals. 
@@ -34,7 +34,7 @@ Start from common ground, identify the shared goal that you and your audience ha
 
 This classic from <a href="https://www.darkhorseanalytics.com/blog/clear-off-the-table">Joey Cherdarchuk at Dark Horse Analytics</a> has been kicking around for a full decade, and I still end up sending it to someone about once a week.
 
-<img src="https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/IMG_3448.gif?v=1710026408381" alt="Dark Horse analytics provides a step-by-step set of instructions for removing common causes of clutter in formatting tables and spreadsheets" >
+<img src="/images/IMG_3448.gif" alt="Dark Horse analytics provides a step-by-step set of instructions for removing common causes of clutter in formatting tables and spreadsheets" >
 
 If I had one bit of advice that I'd build into these tools, it would be this: **Stop overusing formatting!** Look at the formatting bar, and ignore almost all of the buttons. You can use bold, sparingly. You can use italics, rarely. Just... never use underlines. Underlining basically only exists now to confuse people into thinking something is a link that they can click on. 
 

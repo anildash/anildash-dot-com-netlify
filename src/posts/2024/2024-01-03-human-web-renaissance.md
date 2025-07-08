@@ -2,7 +2,7 @@
 title: The Web Renaissance takes off
 slug: human-web-renaissance
 date_published: 2024-01-03 00:10:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/markus-bluthner.jpg?v=1704264364518
+image: /images/markus-bluthner.jpg
 tags: [tech, web, culture]
 ---
 Not too long ago, <a href="/2022/04/13/a-web-renaissance/">I said</a> "Thanks to the mistrust of big tech, the creation of better tools for developers, and the weird and wonderful creativity of ordinary people, we’re seeing an incredibly unlikely comeback: the web is thriving again." And at the time, there was some skepticism, both due to fair questions about whether this was just wishful thinking on my part, and also because many felt it would take a pretty massive shift in the power dynamics of the mainstream technology industry to enable the open, human web to re-emerge as a major social force.

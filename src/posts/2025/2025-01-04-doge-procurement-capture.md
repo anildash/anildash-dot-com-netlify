@@ -2,8 +2,8 @@
 title: "Understanding DOGE as Procurement Capture"
 slug: DOGE-procurement-capture
 date_published: 2025-01-04T17:00:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/dog-leash-isolated-white-close-up.jpg?v=1736031210224
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/dog-leash-isolated-white-close-up.jpg?v=1736031210224
+heroimage: /images/dog-leash-isolated-white-close-up.jpg
+image: /images/dog-leash-isolated-white-close-up.jpg
 tags: [doge, government, policy]
 ---
  

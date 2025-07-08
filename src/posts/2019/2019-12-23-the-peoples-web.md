@@ -3,7 +3,7 @@ title: The People's Web
 slug: the-peoples-web
 date_published: 2019-12-24 03:21:36+00:00
 date_updated: 2019-12-24 03:22:23+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airy-library.jpeg?v=1669584686549
+image: /images/airy-library.jpeg
 tags: [web, culture, tech]
 ---
 Every day, millions of people rely on independent websites that are mostly created by regular people, weren't designed as mobile apps, connect deeply to culture, and aren't run by the giant tech companies. These are a vision of not just what the web once was, but what it can be again.

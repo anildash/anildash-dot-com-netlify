@@ -5,7 +5,7 @@ date_published: 2001-06-03T06:53:49.000Z
 date_updated: 2001-06-03T06:53:49.000Z
 ---
 
-![With this ring...](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/therings.jpg?v=1730089622845)
+![With this ring...](/images/therings.jpg)
 
 I’m back from my friends’ wedding. I’ve tried, since they got engaged half a year ago, to keep up the cyncial, world-weary facade with which I carry out the rituals of my life in place when talking to them. But today was too much for even my jaded exterior to endure. My reluctant, curmudgeonly inner romantic reared his head early in the day, ("*Damn* if they don’t look great in gown and tux…") and never relented, even now, almost 16 hours later.
 

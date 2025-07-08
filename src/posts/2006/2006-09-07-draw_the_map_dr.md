@@ -6,7 +6,7 @@ date_updated: 2006-09-07 15:30:36+00:00
 tags: [Best Of, nyc, maps]
 ---
 The Sunday New York Times ran a fantastic article by Alex Mindlin, [Win, Lose, Draw: The Great Subway Map Wars](http://www.nytimes.com/2006/09/03/nyregion/thecity/03maps.html?ex=1314936000&amp;en=cf4c07d233866403&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss) that details a battle that has brewed, off and on, for the past 30 years.
-![1930 NYC Subway map](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nyc-subway-map-1930.jpg?v=1730096257672)
+![1930 NYC Subway map](/images/nyc-subway-map-1930.jpg)
 
 There are, it seems, at least two distinct systems of belief about what constitutes the proper set of assumptions for the New York City subway map. The core tension between the camps is a debate about the goals of a map this ubiquitous, one so frequently used by millions of people. Should the Metropolitan Transit Authority strive for an idealized conceptual diagram that helps people understand the system at the expense of literal accuracy? Or should the map reflect the true environment that the subway system lives in, providing necessary context even at the expense of superficial clarity?
 
@@ -14,7 +14,7 @@ The right answer, of course, is that we all want both. But the pendulum swings b
 
 The map used in the 1930s, excerpted above, was fairly uncontroversial. As the Times story notes, the classic London Tube map was an influence on the entire genre. But the heart of the Times story is the debate over the 1972 map, which was the first NYC Subway map I ever collected, and is excerpted here, showing roughly the same area as the 1930s-era map above.
 
-![1972 NYC Subway Map](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nyc-subway-map-1972.jpg?v=1730096258158)
+![1972 NYC Subway Map](/images/nyc-subway-map-1972.jpg)
 
 The elegance of this map is even more delightful when you know about the sheer contrariness of its creator, Massimo Vignelli. He’s quoted in the Time story defending the liberties taken in the 1972 map:
 

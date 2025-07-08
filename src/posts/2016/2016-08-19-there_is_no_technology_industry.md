@@ -3,7 +3,7 @@ title: There is no "technology industry"
 slug: there_is_no_technology_industry
 date_published: 2016-08-19 17:07:44+00:00
 date_updated: 2022-01-14 05:38:38+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/honeycomb.jpg?v=1669865590169
+image: /images/honeycomb.jpg
 tags: [Best Of, tech]
 ---
 The label’s become too big to be useful, and tech could suffer for it.

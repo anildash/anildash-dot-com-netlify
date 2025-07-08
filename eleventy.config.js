@@ -2,6 +2,7 @@ import { DateTime } from "luxon";
 import fs, { readFileSync } from "fs";
 import pluginSEO from "eleventy-plugin-seo";
 import pluginRss from "@11ty/eleventy-plugin-rss";
+import Image from "@11ty/eleventy-img";
 const seo = JSON.parse(readFileSync("./src/seo.json", "utf-8"));
 const NOT_FOUND_PATH = "/app/build/404.html";
 
@@ -205,4 +206,21 @@ export default function (eleventyConfig) {
       output: "build",
     },
   };
+  eleventyConfig.addAsyncShortcode("image", async function(src, alt, sizes) {
+  let metadata = await Image(src, {
+    widths: [300, 600, 900, 1200],
+    formats: ["webp", "jpeg"],
+    outputDir: "./build/img/",
+    urlPath: "/img/",
+  });
+  
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+  
+  return Image.generateHTML(metadata, imageAttributes);
+});
 };

@@ -11,7 +11,7 @@ Josh Reich is the CEO and co-founder of Simple, which was created to radically i
 
 ## [Josh Reich](https://twitter.com/i2pi)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/josh_cat_shoulder_normal.jpg?v=1670740125825)
+![](/images/josh_cat_shoulder_normal.jpg)
 
 Company: **[Simple](https://www.simple.com/)**
 

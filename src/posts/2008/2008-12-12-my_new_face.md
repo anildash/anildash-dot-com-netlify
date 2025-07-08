@@ -9,6 +9,6 @@ I regularly use about a dozen different social web services, with dozens more th
 
 The other evening, I spent about an hour replacing my image on as many sites as I could find, because I thought it was time to replace my photo with a picture I discovered a few weeks ago. It’s the awesomest photo ever.
 
-![Hey dog what up?.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Hey%20dog%20what%20up%3F.jpg?v=1674062987862)
+![Hey dog what up?.jpg](/images/Hey%20dog%20what%20up%3F.jpg)
 
 ‘Sup, dog?

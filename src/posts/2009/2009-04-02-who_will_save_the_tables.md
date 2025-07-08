@@ -3,13 +3,13 @@ title: Who will save the tables?
 slug: who_will_save_the_tables
 date_published: 2009-04-02 04:14:07+00:00
 date_updated: 2009-04-02 04:14:07+00:00
-heroimage: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/table.jpg?v=1730098493596
-image: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/table.jpg?v=1730098493596
+heroimage: /images/table.jpg
+image: /images/table.jpg
 tags: [tech]
 ---
 About a decade ago, the web development industry made a decisive shift towards [support for web standards](http://www.webstandards.org/). Though the effort encompassed many related efforts around HTML, CSS, the DOM and related technologies, perhaps the signature work of the movement was to encourage CSS-based layouts instead of the then-common practice of using HTML tables to design a page’s visual appearance.
 
-![Table](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/table.jpg?v=1730098493596)
+![Table](/images/table.jpg)
 
 The campaign was extraordinarily effective, to the degree that most new sites that launch today use CSS as their primary system for styling and positioning. And the more socially inept web geeks out there still consider those who use tables for layout worthy of their derision, instead of opportunities for education. Tables have fallen so far out of favor that it’s not uncommon for people to be reluctant to use them even for the presentation of *tabular data*.
 

@@ -3,7 +3,7 @@ title: How to Redesign Your App Without Pissing Everybody Off
 slug: how_to_redesign_your_app_without_pissing_everybody_off
 date_published: 2013-01-09 18:33:44+00:00
 date_updated: 2019-07-23 07:23:49+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/user-generated-discontent.jpg?v=1670400568448
+image: /images/user-generated-discontent.jpg
 tags: [Best Of, tech, software]
 ---
 The era of User Generated Discontent began about a decade ago, when a critical mass of people started using social apps on the web often enough that they felt a bit proprietary over the user interface and design of those services. Inevitably, that led to mass revolts and widespread complaints any time a company changed even the most minor parts of its user experience.

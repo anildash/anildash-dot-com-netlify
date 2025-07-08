@@ -7,7 +7,7 @@ tags: [blogs]
 ---
 Back in 2001, I got laid off from a job right around the same time as Sam Brown, the creator of [Exploding Dog](http://www.explodingdog.com/). Over the course of that year, as I looked for work and worked to remake a lot of my life, Sam spent much of his time creating illustrations based on captions submitted from his audience. I took a lot of inspiration from the work that Sam did on the site.
 
-[![This Is Special](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/thisisspecial-sm.png?v=1714969177635)](http://www.explodingdog.com/shirtorder/items/explodingdog2001/)
+[![This Is Special](/images/thisisspecial-sm.png)](http://www.explodingdog.com/shirtorder/items/explodingdog2001/)
 
 We met for the first time later that year at a meet-up for his fans (He insists that I was proclaiming adamantly at the time that I wasn’t into blogging) and have run into each other a number of times along the way, especially at Mark Hurst’s [Gel Conference](http://www.gelconference.com/). In some ways, as the popularity of his site has grown, I’ve felt a bit like someone watching a favorite local band start to become a well-known name. Except without the feeling that the artist has sold out.
 

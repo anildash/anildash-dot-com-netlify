@@ -3,7 +3,7 @@ title: Ending Healthcare
 slug: ending-healthcare
 date_published: 2022-06-24 16:58:17+00:00
 date_updated: 2022-06-24 16:58:17+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Eugene-Chystiakov-vials.jpeg?v=1670218332870
+image: /images/Eugene-Chystiakov-vials.jpeg
 tags: [policy]
 ---
 Just to document a conversation that I've had a number of times in the last year, its important to understand the implications (and indeed, the motivations) of much of current public health policy.

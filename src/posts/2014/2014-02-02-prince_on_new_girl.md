@@ -3,7 +3,7 @@ title: Prince on New Girl
 slug: prince_on_new_girl
 date_published: 2014-02-03 03:52:24+00:00
 date_updated: 2014-02-03 03:52:24+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/butterfly.gif?v=1670296827319
+image: /images/butterfly.gif
 tags: [music, Prince]
 ---
 **[11:05pm]** Well, that’s a wrap. It’s hard for me to say how that ranked as a New Girl episode, but it seemed the narrative of the show may have been subordinated to getting Prince some good lines. That being said, the little man certainly acquitted himself well, and I would absolutely watch a weekly show with Prince in character as this version of himself.

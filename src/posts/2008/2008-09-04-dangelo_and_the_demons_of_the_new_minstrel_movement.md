@@ -3,7 +3,7 @@ title: D'Angelo and the Demons of the New Minstrel Movement
 slug: dangelo_and_the_demons_of_the_new_minstrel_movement
 date_published: 2008-09-05 03:02:17+00:00
 date_updated: 2008-09-05 03:02:17+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dangelo.jpg?v=1674097032445
+image: /images/dangelo.jpg
 tags: [Best Of, music]
 ---
 Spin Magazine’s piece covering the [rise and fall, and perhaps second rise](https://books.google.com/books?id=Ul7jcf4HvN4C&lpg=PP1&pg=PA64#v=onepage&q&f=false) of D’Angelo has been lingering in my mind for weeks. As you might expect, I was a fan of D’Angelo’s from the start.

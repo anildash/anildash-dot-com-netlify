@@ -17,7 +17,7 @@ So, I’m in favor of the tech industry getting more organized in talking to pol
 
 The convention is to hate Jar Jar Binks for his role as a buffoonish Stepin-Fetchit-meets-mincing-nelly stereotype, or for representing George Lucas’ insistence on CGI taking the place of plot development, or for demonstrating that a ham fist is able to wield a sledge hammer when it comes to hitting you over the head with infantile punchlines. The more evolved amongst us hate him for doing the impossible and making fart and poop jokes unfunny.
 
-![jar-jar-senate.jpeg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jar-jar-senate.jpeg?v=1670740696750)
+![jar-jar-senate.jpeg](/images/jar-jar-senate.jpeg)
 
 But I quibble with Jar Jar on grounds of policy and governance. It’s often overlooked, but Jar Jar Binks created the Empire.
 

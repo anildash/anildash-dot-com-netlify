@@ -11,6 +11,6 @@ Well, it would appear that [today’s news](http://macosrumors.com/?powerexpress
 
 The took the **ugly, unusable feel of QuickTime 4** and slopped it all over the OS. Now granted, they added semi-transparent menus and fading options like Windows 2000, which I *do* like the look of. But what a mess… it’s a shame, really.
 
-![Gem and the Holograms](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/gems.jpg?v=1729991372685)
+![Gem and the Holograms](/images/gems.jpg)
 
 And let’s try to guess what the hell that picture above is supposed to be… Stop, Slow, Go? Nope, it’s Close, Minimize, and Maximize. **Dumb, Dumb, and Dumb**. See also the complaints I had on September 20, where I linked to [Isys Information Systems](http://www.iarchitect.com/qtime.htm).

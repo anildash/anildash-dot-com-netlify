@@ -7,7 +7,7 @@ tags: [tech, marketing]
 ---
 I’ve been amused for weeks by 37signals marketing for their upcoming micro-CRM app [Highrise](http://www.highrisehq.com/) because of the example contacts they’ve been using.
 
-[![highrise-person.png](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/highrise-person.png?v=1730097872010)](http://www.37signals.com/svn/images/tour-person.png)
+[![highrise-person.png](/images/highrise-person.png)](http://www.37signals.com/svn/images/tour-person.png)
 
 Every single screenshot has a list of contacts including the Wall Street Journal’s Walt Mossberg, Apple’s Steve Jobs, Amazon founder (and 37signals investor) Jeff Bezos, and Newsweek scribe Steven Levy. The big product shot is a full-screen profile of Walt Mossberg that has [DHH](http://www.loudthinking.com/) reverently quoting *Wired* calling Walt a “kingmaker”. I’m sure it’s gonna be a good product, and I’ve always been alternately pleased and bemused by the swaggering chutzpah of the Chicago boy band. But the *real* lesson I’m reminded of here is that you can do a lot worse than name-dropping those whom you want to impress.
 

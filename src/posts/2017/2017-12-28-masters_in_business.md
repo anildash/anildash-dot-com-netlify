@@ -3,7 +3,7 @@ title: Masters in Business
 slug: masters_in_business
 date_published: 2017-12-28 15:27:45+00:00
 date_updated: 2021-08-02 04:08:30+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Masters-in-Business.png?v=1669781728752
+image: /images/Masters-in-Business.png
 tags: [tech, podcasts]
 ---
 A few months ago, I got the wonderful opportunity to talk to Barry Ritholtz, who’s best known as a Bloomberg View columnist and for his excellent “Masters in Business” podcast, but whom I’ve known online for many years.

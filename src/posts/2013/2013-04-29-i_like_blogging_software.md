@@ -3,7 +3,7 @@ title: I like blogging software.
 slug: i_like_blogging_software
 date_published: 2013-04-29 18:27:22+00:00
 date_updated: 2013-04-29 18:27:22+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ghost-kickstarter.jpg.webp?v=1670559878259
+image: /images/ghost-kickstarter.jpg.webp
 tags: [tech, web, software, blogs]
 ---
 I lament the end of the personal CMS market; I was happy to back [Ghost](http://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform) on Kickstarter today for the same reason that I back pretty much any effort at making blogging software — I think these tools matter. I find it interesting, and telling, that there are still [so many static publishing tools](https://news.ycombinator.com/item?id=4857473) that geeks care about, and though I think WordPress is an awesome tool, I lament the virtual monoculture that’s resulted from its success in the run-your-own blogging software market.

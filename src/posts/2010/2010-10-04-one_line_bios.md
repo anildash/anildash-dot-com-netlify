@@ -3,7 +3,7 @@ title: Your Whole Life In One Tweet
 slug: one_line_bios
 date_published: 2010-10-04 04:48:28+00:00
 date_updated: 2021-04-22 20:00:53+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/conan-twitter-bio.png?v=1670823760124
+image: /images/conan-twitter-bio.png
 tags: [tech, media, software, twitter]
 ---
 There’s an odd tendency in web culture to see all features as obvious, even inevitable. While most of the artifacts of our computing experience have been invented recently, in living memory, we treat them as if they existed centuries ago and that the names of their creators have been lost to history. But the features that pervade the social web were created by people, sometimes not even by teams, but by individual men and women. And because the web itself is so young, these creators are overwhelmingly still alive, still active in creating the web, and working in our midst where we can learn from their lessons.

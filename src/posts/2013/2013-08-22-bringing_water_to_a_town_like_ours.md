@@ -3,7 +3,7 @@ title: Bringing Water to A Town Like Ours
 slug: bringing_water_to_a_town_like_ours
 date_published: 2013-08-22 17:52:53+00:00
 date_updated: 2013-08-22 17:52:53+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charity-water.png?v=1670305303133
+image: /images/charity-water.png
 tags: [Best Of, Most Popular, water]
 ---
 I’ve had the good fortune to get to speak in public hundreds of times, about any manner of subjects. But I’ve never, never had the moments following one of my talks bring me to tears.

@@ -3,7 +3,7 @@ title: Clouds for People, or the Consumerization of the Cloud
 slug: clouds_for_people_or_the_consumerization_of_the_cloud
 date_published: 2012-06-28 17:52:22+00:00
 date_updated: 2012-06-28 17:52:22+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-cloud-engine.png?v=1670724296899
+image: /images/google-cloud-engine.png
 tags: [tech, web]
 ---
 Right now, there’s no App Store for Amazon EC2. Today’s just-announced “[Google Compute Engine](http://cloud.google.com/)” isn’t plugged in to Google Play, the Android Music and app store. Microsoft seems to be moving toward unifying the various Windows and Zune and XBox stores into one great super-store of content, but stuff that lives on the Azure cloud is a world apart.

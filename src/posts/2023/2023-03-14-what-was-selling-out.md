@@ -2,7 +2,7 @@
 title: What was selling out?
 slug: what-was-selling-out
 date_published: 2023-04-18 20:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sold-out.jpg?v=1678846434828
+image: /images/sold-out.jpg
 tags: [music, culture]
 ---
 Back in the latter part of the 20th century, a lot of subcultures held onto a concept called "selling out", a nebulously-defined idea based on a negative view of compromising one's values or creative expression in the pursuit of money or, sometimes, power.
@@ -11,7 +11,7 @@ And the thing is, like a lot of taboos or loosely-defined cultural norms, the "s
 
 I thought for sure I had misremembered what <em>Time</em> wrote about the event back then, but no, my childhood memory served me — the weekly newsmagazine of record <em>really did</em> <a href="https://time.com/vault/issue/1987-05-18/page/86/">compare Michael Jackson to John Lennon's murderer</a> in criticizing his role in permitting a Beatles song to be used in a sneaker ad.
 
-<img src="https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/revolution-time.png?v=1678850063731" alt="Mark David Chapman killed him. But it took a couple of record execs, one sneaker company and a soul brother to turn him into a jingle writer." />
+<img src="/images/revolution-time.png" alt="Mark David Chapman killed him. But it took a couple of record execs, one sneaker company and a soul brother to turn him into a jingle writer." />
 
 ## Corporate Rock Still Sells
 

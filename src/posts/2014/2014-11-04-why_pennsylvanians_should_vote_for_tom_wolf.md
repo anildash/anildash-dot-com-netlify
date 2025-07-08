@@ -3,7 +3,7 @@ title: Why Pennsylvanians should vote for Tom Wolf
 slug: why_pennsylvanians_should_vote_for_tom_wolf
 date_published: 2014-11-04 12:03:58+00:00
 date_updated: 2018-10-13 18:14:45+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-wolf-orissa-thumb-800xauto-412.jpg?v=1670107289789
+image: /images/tom-wolf-orissa-thumb-800xauto-412.jpg
 tags: [policy]
 ---
 Though I was born and raised in Pennsylvania, I haven’t lived there for years. So why should anybody in the state listen to me about who to vote for as their governor? Because, this time, I can personally attest to the character of the best man for the job.

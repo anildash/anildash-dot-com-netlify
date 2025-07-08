@@ -18,7 +18,7 @@ Both of these archives are exactly what you’d expect, with the Best Of featuri
 
 I’ve brought back the [Action Streams](http://www.movabletype.org/2008/01/building_action_streams.html) that I had on the site earlier, and will be doing more to incorporate my various online presences into my site here. I don’t plan to just dump my Twitter updates and my bookmarks and crap into the stream of posts here unless you folks think I should. (I’m guessing not.) There’s also different ads on the site. I’ve experimented with a number of different advertising ideas over the years without much objection, so I’ll likely continue to do so. Unsurprisingly, the ads are provided by [SIx Apart Media](http://www.sixapart.com/advertising/).
 
-![Old Dashes.com Designs](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dashes-designs-retro.png?v=1674098966021)
+![Old Dashes.com Designs](/images/dashes-designs-retro.png)
 
 I’ll be doing more with giving folks the chance to vote on things on the site, as well. Coming up with my own list of my best blog posts seems a little ridiculous, even for someone who’s as shameless as I am about self-promotion. I’d love to hear more from readers about what posts were interesting, or what I should write more about.
 

@@ -2,7 +2,7 @@
 title: "\u201CWherever you get your podcasts\u201D is a radical statement."
 slug: wherever-you-get-podcasts
 date_published: 2024-02-06 00:01:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/microphone-pandelache.jpg?v=1706588470713
+image: /images/microphone-pandelache.jpg
 tags: [tech, Best Of, Most Popular]
 ---
 You've heard the call to action at the end of nearly every podcast you've ever listened to: "Listen to us on your favorite podcast app", or in the phrasing of podcaster extraordinare Roman Mars, "...wherever you find podcasts". (By the way, you should be radicalized by the recent 99 Percent Invisible episode on how <a href="https://99percentinvisible.org/episode/cooking-with-gas/">"cooking with gas" is mostly a conspiracy</a>, and inspired by the absolutely incredible <a href="https://99percentinvisible.org/club/">Power Broker book club</a>.)

@@ -11,7 +11,7 @@ But I spent a lot of time watching, learning about, and customizing office appli
 
 We can all learn a lot of lessons from the history of DDE/OLE/ OLE3/COM /ActiveX/DCOM /COM+ (you can start [reading up](http://en.wikipedia.org/wiki/ActiveX)[on Wikipedia](http://en.wikipedia.org/wiki/Object_linking_and_embedding) to get some background) and how we went from everyone using best-of-breed standalone apps to one integrated, nearly monolithic Office.
 
-[![The Holy Grail](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/holygrail-thumb.png?v=1730094735082)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/holygrail.png?v=1730094735616)
+[![The Holy Grail](/images/holygrail-thumb.png)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/holygrail.png?v=1730094735616)
 
 It basically all started with copy and paste. People who never spent a lot of time in singletasking, character-mode operating environments like the DOS command line don’t recall that simply copying-and-pasting information between apps was difficult at the time. And part of the revelation of Windows for mainstream users (or Mac, for leading-edge tech fans), was being able to easily share data in that way. This was different than what Unix users were used to with the command-line pipe, or from what most applications do with feeds today, in allowing structured information flows between applications.
 

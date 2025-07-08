@@ -14,7 +14,7 @@ The part that really got me, though, was how much of the quality of a pizza was 
 > 
 > I’ve seen many bogus things about the use of starters. A classic is that you can start a wild culture by setting out some flour, water and baker’s yeast and the baker’s yeast will ‘attract’ other yeasts. This is alchemy. It’s like saying I put out dandelions and they attracted peaches. It makes no sense. Another myth is that you can get the same flavor out of packaged yeast as you can out of a sourdough culture if you handle it right. This is also alchemy. Can you get parsley to taste like thyme if you handle it right? These are distinct organism, like spices, that all have a different flavor. If you use a starter, and you should, then learn from Ed Wood.
 
-[![Classic Sourdoughs](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sourdoughs.jpg?v=1730096338962)](http://www.amazon.com/exec/obidos/ASIN/1580083447/2020-20)
+[![Classic Sourdoughs](/images/sourdoughs.jpg)](http://www.amazon.com/exec/obidos/ASIN/1580083447/2020-20)
 
 The Ed Wood that he refers to is Dr. Edward Wood, a pathologist who realized [while working in Saudi Arabia](http://sourdo.com/who_we_are.html) that he wanted to master the history and variety of sourdough yeasts that people all over the world use to make dough. [sourdo.com](http://sourdo.com/) is the home for his book, a source for buying [starter cultures](http://sourdo.com/culture.htm), and a fascinating testament to his passion for a subject most would consider arcane.
 

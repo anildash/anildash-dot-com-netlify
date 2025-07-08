@@ -3,7 +3,7 @@ title: When Every App Crashes
 slug: when-everything-crashes
 date_published: 2020-05-07 07:34:42+00:00
 date_updated: 2020-05-07 07:36:54+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lego-flats.jpeg?v=1669583630904
+image: /images/lego-flats.jpeg
 tags: [tech, culture, web, software]
 ---
 Today, for about half an hour in the afternoon, pretty much every app that you might try on your iPhone would likely have crashed upon opening it. It's probably worth understanding why, but more importantly, worth understanding what that reality *means*. And here, I'm addressing people who aren't coders, aren't engineers, aren't programmers — just regular users of apps.

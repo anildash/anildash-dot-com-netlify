@@ -2,7 +2,7 @@
 title: Personal blogs are where tech news happens.
 slug: personal-blogs-tech-news
 date_published: 2024-01-19 15:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/glasses-laptop-unsplash.jpg?v=1705608903940
+image: /images/glasses-laptop-unsplash.jpg
 tags: [tech]
 ---
 It has been a full generation since the last time I can remember the definitive, most credible perspectives on a major tech news story happening across multiple people's personal blogs, but amazingly, the <a href="https://www.anildash.com/2024/01/03/human-web-renaissance/">open web renaissance</a> has brought us the kind of human moment that hasn't been seen since the early 2000s.

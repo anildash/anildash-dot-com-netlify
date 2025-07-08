@@ -16,7 +16,7 @@ If you like something you read, please tell a friend and share it with them so o
 </div>
 
 <figure class="feature-pic" >
-<div class="feature-pic-image" style="background-image: url(https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/2025-headshot-square-1600.jpeg?v=1749429463025);"></div>
+<div class="feature-pic-image" style="background-image: url(/image/2025-headshot-square-1600.jpeg);"></div>
 </figure>
 
 <div class="intro-text">

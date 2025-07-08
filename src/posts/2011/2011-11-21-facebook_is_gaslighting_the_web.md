@@ -11,7 +11,7 @@ In this post I intend to not only document the practices which enable this attac
 
 ## 1. You Cannot Bring Your Content In To Facebook
 
-![Screen-Shot-2011-11-09-at-7.07.42-PM](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/changes-to-sharing.png?v=1670804589433)
+![Screen-Shot-2011-11-09-at-7.07.42-PM](/images/changes-to-sharing.png)
 
 This warning appeared on Facebook two weeks ago to advise publishers (including this site) that syndicate their content to Facebook Notes via RSS that the capability would be removed starting tomorrow. Facebook’s [proposed remedy](https://www.facebook.com/help/?faq=206051139465982#My-blog-isn't-importing-to-Facebook.) involves either completely recreating one’s content within Facebook’s own Notes feature, or manually creating status updates which link to each post on the original blog. Remember that second option, linking to each post manually — we’ll return to it later.
 
@@ -29,7 +29,7 @@ As Molly’s piece eloquently explains, what Facebook is calling “frictionless
 
 As you’ll notice below, I use Facebook comments on this site, to make it convenient for many people to comment, and to make sure I fully understand the choices they are making as a platform provider. Sometimes I get a handful of comments, but on occasion I see some very active comment threads. When a commenter left a comment on [my post about Readability](/2011/11/17/readability_and_intention) last week, I got a notification message in the top bar of my Facebook page to let me know. Clicking on that notification yielded this warning message:
 
-![facebook-dashes-warning](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/facebook-dashes-warning.png?v=1670804633550)
+![facebook-dashes-warning](/images/facebook-dashes-warning.png)
 
 What’s remarkable about this warning message is not merely that an ordinary, simple web content page is being presented as a danger to a user. No, it’s far worse:
 
@@ -38,7 +38,7 @@ What’s remarkable about this warning message is not merely that an ordinary, s
 
 To illustrate this second point, I’ll include what is a fairly nerdy illustration for those interested. If you’re sufficiently interested in the technical side of this, what’s being shown is Facebook’s own URL linter, as viewed through the social plugins area in the developer console for a site. In this view, it verifies not only that the Open Graph meta tags are in place (minus an image placeholder, as the referenced post has no images), but that Facebook has crawled the site and verified enough of the content of the page to know their own comment system is in place on the page. (Click to view the whole page, with only the app ID numbers redacted.)
 
-![FB-open-graph-debug](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/FB-open-graph-debug.png?v=1670804678642)
+![FB-open-graph-debug](/images/FB-open-graph-debug.png)
 
 ## How to Address This Attack
 

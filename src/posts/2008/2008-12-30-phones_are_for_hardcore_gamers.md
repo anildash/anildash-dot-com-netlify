@@ -3,7 +3,7 @@ title: Phones are For Hardcore Gamers
 slug: phones_are_for_hardcore_gamers
 date_published: 2008-12-30 23:14:35+00:00
 date_updated: 2008-12-30 23:14:35+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/wiimote.jpg?v=1674059109263
+image: /images/wiimote.jpg
 tags: [tech, gaming, nintendo]
 ---
 Please (re-)visit Dan Cook’s seminal [Nintendo’s Genre Innovation Strategy](https://lostgarden.home.blog/2005/09/17/nintendos-genre-innovation-strategy-thoughts-on-the-revolutions-new-controller/) essay from 2005. It’s chock-full of his signature revelatory insights, in this case inspired by the excitement and skepticism surrounding the announcement of the controller for the Nintendo Wii (then known as the Revolution).

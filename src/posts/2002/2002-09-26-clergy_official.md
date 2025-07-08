@@ -7,4 +7,4 @@ tags: [nyc]
 ---
 Just another one of those great things about living in the Village:
 
-[![50k jpeg image](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/officialbiz.jpg?v=1730089614799)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/clergy.jpg?v=1730091730372)
+[![50k jpeg image](/images/officialbiz.jpg)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/clergy.jpg?v=1730091730372)

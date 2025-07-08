@@ -3,7 +3,7 @@ title: "20 Years of Blogging: What I\u2019ve Learned"
 slug: 20-years-of-blogging-what-ive-learned
 date_published: 2019-07-23 07:50:35+00:00
 date_updated: 2021-08-02 03:07:23+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pawel-czerwinski-not-jupiter.jpeg?v=1669585679659
+image: /images/pawel-czerwinski-not-jupiter.jpeg
 tags: [Best Of, blogs, culture]
 ---
 ## This week marks the 20th anniversary of this blog. 
@@ -15,7 +15,7 @@ I thought the best way to observe the milestone, and to try to pass along some o
 It’s almost impossible for me to remember my life when I started this site, or to really understand how much it’s changed after tens of thousands of hours spent on social media in the decades since. More than anything, my response to twenty years of writing and sharing things on this site is an overwhelming gratitude for all the opportunities it’s opened up, and a deep appreciation for the relationships and connections that it’s made possible.
 
 Now, I’m hardly an expert on major aspects of life. But If you have enough of a high profile, or spend enough time who are at a different stage of life, you’ll regularly end up being asked for advice. So, while I may not have any particularly unique insights, I hope that simply sharing my most responses to the types of questions I’m asked most frequently may have value to people. And of course, if you disagree or have any corrections for things I’ve gotten wrong, please don’t hesitate to write about such things on your own site and let me know that you did!
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/orange-bar-1.jpeg?v=1669585755257)
+![](/images/orange-bar-1.jpeg)
 
 ## Understanding Technology in Society
 

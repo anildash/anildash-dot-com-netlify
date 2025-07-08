@@ -3,7 +3,7 @@ title: (Twitter) Famous!
 slug: twitter_famous
 date_published: 2014-11-13 20:16:17+00:00
 date_updated: 2014-11-13 20:16:17+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-sxsw.jpeg?v=1670106620875
+image: /images/anil-sxsw.jpeg
 tags: [twitter, absurdity]
 ---
 What a delight to be [interviewed by Bijan Stephens for Vanity Fair](http://www.vanityfair.com/online/daily/2014/11/twitter-anil-dash), especially as so much of the focus was on me as a dad and a person, rather than just the usual tech stuff.

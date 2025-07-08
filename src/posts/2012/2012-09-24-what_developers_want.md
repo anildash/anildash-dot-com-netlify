@@ -9,7 +9,7 @@ There are lots of different ways to measure how friendly a company is toward dev
 
 The problem is, it’s hard to do that in the current world of tech writing; people want to bring their own biases (things like whether a company is “good” or “bad”, or whether a particular technology or strategy is “open”) rather than applying a fairly consistent set of evaluations to all the players in a space.
 
-![jobs-iphone-quadrants.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jobs-iphone-quadrants.jpg?v=1670740783170)
+![jobs-iphone-quadrants.jpg](/images/jobs-iphone-quadrants.jpg)
 
 One useful recent example is the conversations about Twitter’s APIs. When I wrote [What Twitter’s API Announcement Could Have Said](/2012/08/16/what-twitters-api-announcement-could-have-said.html), people both mistook it to be my *personal* feelings about what the company could have said, or my literal interpretation of what Twitter was trying to describe. It was neither. Instead, it was an attempt to show a developer community that’s largely abandoned any attempt at logically understanding a platform’s changes and is now fully in the throes of emotional responses to anything that happens. Now, I understand that Twitter’s own communications have been part of the reason there’s been that breakdown, but *all big companies are bad at communicating*. That’s just a fact. So we have to have a more reasonable way of reading the tea leaves.
 

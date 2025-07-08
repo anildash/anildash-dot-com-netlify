@@ -3,7 +3,7 @@ title: ThinkUp and What the Web Can Be
 slug: thinkup_and_what_the_web_can_be
 date_published: 2013-10-15 19:40:31+00:00
 date_updated: 2013-10-15 19:40:31+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-logo-ss-1920.png?v=1670302781353
+image: /images/thinkup-logo-ss-1920.png
 tags: [Best Of, tech, twitter, web]
 ---
 I spend so much time writing, and thinking, about technology and tech companies. And so much of it’s critical. I point the finger at how the apps and sites we build aren’t meaningful, how the systems and institutions that support them aren’t inclusive, that the process and the economics which make technology available to the world are broken, or at least problematic.

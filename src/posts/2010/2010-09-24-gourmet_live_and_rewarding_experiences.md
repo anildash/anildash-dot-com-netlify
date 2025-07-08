@@ -11,7 +11,7 @@ The short version: Gourmet Live, the new iPad app that reimagines Gourmet as a s
 
 The longer version: Gourmet Live is something new, and interesting, and I’m excited that Gourmet Live is doing so well — as I write this, it’s the #1 iPad Lifestyle app in the store, and just below the Top 10 for free apps overall. But I’m far more proud of the ideas that inform and inspire it, because while the app is just in its very first version, the ideas are deep enough to support Gourmet Live evolving into something truly fantastic. So I thought I’d offer a little peek behind the scenes, because I think it represents something new, and it’s gonna take a ton of insight from a bigger community to help it reach its potential.## Now Playing
 
-![gourmet-live-debut-issue-small.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-debut-issue-small.jpg?v=1670822598795)
+![gourmet-live-debut-issue-small.jpg](/images/gourmet-live-debut-issue-small.jpg)
 
 At [Activate](http://activate.com/), we’ve been collaborating with the folks at Condé Nast on strategy for some time, and about six months ago, we started what became the Gourmet Live project by asking what a modern, thoughtful, completely native app would look like on devices like the (then not-yet-released) iPad. Because honestly, Condé has already sort of reached the apotheosis of the magazine-forward model of making an iPad app; From simple, clean experiences like the GQ and Vanity Fair apps to the elaborate and beautiful Wired app, they were setting the standard.
 
@@ -25,7 +25,7 @@ It’s significant that a game like Scrabble happens to be experiencing the grea
 
 With those ideas in mind, we tried an experiment to create a small nimble startup within this giant media company. This startup was going to try to do what the best new app makers do, but using one of the great media names of all time as the foundation. We’d work with Conde Nast to build a team of awesomely talented folks by drafting from within the company and across the world of tech and media.
 
-![Gourmet Live](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-logo-small.jpg?v=1670822644008)
+![Gourmet Live](/images/gourmet-live-logo-small.jpg)
 
 Astonishingly, the smart people in charge like Conde Nast CEO Chuck Townsend and President Bob Sauerberg heard this idea and after a bit of thought said, “Yes. Let’s do it.” Frankly, I spend a lot of time around startup folks who are always saying “Sure, let’s give it a try!” But I spend a lot less time around folks who have the responsibility of running huge media companies, and my surprise at their agreement was overshadowed by the huge respect I found for seeing that they had that level of curiosity and willingness to try something new.
 
@@ -33,7 +33,7 @@ Ultimately, Gourmet Live began by bringing together people at opposite ends of t
 
 ## How It Works
 
-![Gourmet Live reward](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-reward.png?v=1670822679101)
+![Gourmet Live reward](/images/gourmet-live-reward.png)
 
 The deceptively simple appearance of the Gourmet Live app that’s available in the app store masks some pretty ambitious technology. It’s probably worth describing how the experience works, if only so you can understand what’s new about the whole thing.
 
@@ -76,7 +76,7 @@ But what’s actually happening behind the scenes is even more awesome from a te
 
 What becomes clear pretty quickly is that this thing is going to evolve, and change shape, almost immediately. I try to pay pretty close attention to this stuff, and I haven’t seen a single other app that’s trying to combine a really clean design and some really ambitious gameplay elements and a really smart architecture all backing up the best possible content with world-class writing and photography.
 
-[![app-store-badge.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/app-store-badge.png?v=1670822780238)](http://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&amp;subid=&amp;offerid=146261.1&amp;type=10&amp;tmpid=3909&amp;RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8%20%3Chttp://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&amp;subid=&amp;offerid=146261.1&amp;type=10&amp;tmpid=3909&amp;RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8)
+[![app-store-badge.png](/images/app-store-badge.png)](http://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&amp;subid=&amp;offerid=146261.1&amp;type=10&amp;tmpid=3909&amp;RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8%20%3Chttp://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&amp;subid=&amp;offerid=146261.1&amp;type=10&amp;tmpid=3909&amp;RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8)
 
 I can guarantee that not every idea in Gourmet Live is going to work. But it’s more important that it can start to be a framework for building ideas that *will* work. For almost a decade, I’ve been writing about ideas like [microcontent clients](/2002/11/introducing_microcontent_client) and [cloudtop apps](/2010/09/14/cloudtop_applications) and [the pushbutton web](/2009/07/the_pushbutton_web_realtime_becomes_real) and [the web way](/2009/08/what_works_the_web_way_vs_the_wave_way) and all these other concepts that sound like theoretical bullshit. But the reason why is because sometimes it takes a decade for really good ideas to mature into something great.
 

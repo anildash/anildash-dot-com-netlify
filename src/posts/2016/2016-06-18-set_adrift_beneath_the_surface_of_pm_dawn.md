@@ -3,7 +3,7 @@ title: 'Set Adrift: Beneath the Surface of P.M. Dawn'
 slug: set_adrift_beneath_the_surface_of_pm_dawn
 date_published: 2016-06-19 00:06:55+00:00
 date_updated: 2022-01-14 05:29:05+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-be-silhouette.png?v=1669868759248
+image: /images/prince-be-silhouette.png
 tags: [music, Best Of, PM Dawn]
 ---
 Today, P.M. Dawn exists as a faded memory for most music fans, if they’re remembered at all. But Attrell Cordes made songs like nothing that came before. Beautiful, sweeping melodies paired with lyrics of regret, remorse, heartache and profound loss. And then there were those surreal, recurring images of water.

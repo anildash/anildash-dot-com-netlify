@@ -11,11 +11,11 @@ Studio Neat’s first product was the Glif, an iPhone kickstand. And their secon
 
 ## [Dan Provost](https://twitter.com/danprovost)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ProfilePic_Square_normal.jpg?v=1670737824809)
+![](/images/ProfilePic_Square_normal.jpg)
 
 ## [Tom Gerhardt](https://twitter.com/tomgerhardt)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/image_normal-2.jpg?v=1670737875489)
+![](/images/image_normal-2.jpg)
 
 Company: **[Studio Neat](http://www.studioneat.com/)**
 
@@ -27,8 +27,8 @@ Four products on the market, and a sustainable business. Fifteen things they lea
 
 1. **Scratch your own itch.** Glif helped them overcome the frustration of blurry photos that result from not having a tripod. “If you have a problem, someone else probably has the same one.” They also use their own products & eat their own dogfood.’
 2. **Keep it simple.** An essential part of their design process is simplicity, and their business operations are built around defending that simplicity. This is how they can operate as a two-man company, by design. “We have to say ‘no’ a lot.” and that’s how they defend focus.
-3. **Sell your stuff (For money)** Louis C.K.’s success narrative was “actually quite refreshing” – but what about the rest of us? What if we’re not known and established? Kevin Kelly’s long argued that you should have 1,000 true fans in order to sustain your work. There’s a sweet spot between blockbuster and obscurity, and it lets you have a much smaller audience than you might imagine.![studio-neat-slide-2.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-2.png?v=1670737962887)
-4. You can’t please everyone. The Glif was only designed for the iPhone 4, the latest and greatest. It brought clarity to design, but greatly limited the market. ![Studio Neat Point #5](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-1.jpg?v=1670737963709)
+3. **Sell your stuff (For money)** Louis C.K.’s success narrative was “actually quite refreshing” – but what about the rest of us? What if we’re not known and established? Kevin Kelly’s long argued that you should have 1,000 true fans in order to sustain your work. There’s a sweet spot between blockbuster and obscurity, and it lets you have a much smaller audience than you might imagine.![studio-neat-slide-2.png](/images/studio-neat-slide-2.png)
+4. You can’t please everyone. The Glif was only designed for the iPhone 4, the latest and greatest. It brought clarity to design, but greatly limited the market. ![Studio Neat Point #5](/images/studio-neat-slide-1.jpg)
 5. **Learn by doing.** Kubrick encouraged young filmmakers to just get started and make a film. Prior to their first product, they had no industrial design or manufacturing experience. Their second product was significantly more complex, and consequently was delayed several times, to the dismay of 6,000 customers. But those folks also kept the motivation going. “Jump off the cliff and build the plane on the way down.”
 6. **Atoms are the new bits.** (Suspect this might become a refrain this weekend.) Made a lot of use of 3D printing. From moleskin sketches to real plastic only took a few weeks. Incredibly empowering to round-trip products so quickly.
 7. **Keep the core in-house and outsource the rest.** Your inclination may be to do everything yourself, but you don’t always need to DIY. Things like bookkeeping, accounting and order fulfillment can be handed off to let you focus on design and what you do best.
@@ -41,4 +41,4 @@ Four products on the market, and a sustainable business. Fifteen things they lea
 14. **The Gruber effect.** There have always been people with great influence. Oprah. And John Gruber. Like a lot of people with lots of influence within a niche market, a single recommendation can make an enormous difference in your success. Find the one person who can make all the difference in your area.
 15. **Passion.** “Passion should be the main motivator.” Examples of folks like SwissMiss show off how creative people often build on side projects and one-off hacks that help take advantage of your passion and also build your audience. “Work on something you are passionate about, because if it becomes successful you’ll have to do it all the time.”
 
-![studio-neat-slide-3.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-3.png?v=1670737963348)
+![studio-neat-slide-3.png](/images/studio-neat-slide-3.png)

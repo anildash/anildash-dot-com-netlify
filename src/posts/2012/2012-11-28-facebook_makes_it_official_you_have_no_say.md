@@ -5,7 +5,7 @@ date_published: 2012-11-28 18:57:54+00:00
 date_updated: 2012-11-28 18:57:54+00:00
 tags: [tech]
 ---
-[![anil-dash-wired-tos-column.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-wired-tos-column.jpg?v=1670799979075)](https://www.wired.com/2012/08/ts-column/)
+[![anil-dash-wired-tos-column.jpg](/images/anil-dash-wired-tos-column.jpg)](https://www.wired.com/2012/08/ts-column/)
 
 Late on Wednesday, just as Americans were taking off for the Thanksgiving holiday, Facebook [announced its intention](http://newsroom.fb.com/News/535/Proposed-Updates-to-our-Governing-Documents) to change the feedback process for the policies which govern use of its service.
 
@@ -40,11 +40,11 @@ Now imagine if, instead of posting a “fact check”, Facebook had responded to
 
 The same brief explanation that users retain copyright on their content could be followed by two simple controls, the first reiterating the existing site’s existing controls for privacy:
 
-![fb-privacy-controls.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fb-privacy-controls.png?v=1670800092057)
+![fb-privacy-controls.png](/images/fb-privacy-controls.png)
 
 And then a second one (this is just a quick, silly mockup I made) could default to the existing rights and protections, but offer a simple interface for Creative Commons or similar license for sharing content.
 
-![fb-rights-controls.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fb-rights-controls.png?v=1670800112757)
+![fb-rights-controls.png](/images/fb-rights-controls.png)
 
 “But wait!” you cry. “Isn’t this much more complicated? Isn’t it a bad UX to force a choice on a user?” To which I reply: Not when a desire for control is what they’re expressing.
 

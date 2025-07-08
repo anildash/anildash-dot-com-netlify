@@ -3,7 +3,7 @@ title: The Spreadsheet of Prince Recordings
 slug: the-spreadsheet-of-prince-recordings
 date_published: 2021-09-18 02:45:54+00:00
 date_updated: 2021-09-21 20:29:58+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-spreadsheet-web.jpeg?v=1669524612655
+image: /images/prince-spreadsheet-web.jpeg
 tags: [Prince, music, culture]
 ---
 Recently, a motivated Prince fan created a spreadsheet that attempts to catalog the entirety of Prince's *thousands* of recordings over the course of his career. Beginning in 1973 as a then-15-year-old Prince taped his first few tracks, and going through (so far) the end of the 80s, it's a remarkable document. The spreadsheet is valuable even though this information has been available in various places in the past because this comprehensive list, and its novel system for assigning ID numbers to each of these recordings, represent a big leap forward in making study and discussion of Prince's work more systematic and consistent. 

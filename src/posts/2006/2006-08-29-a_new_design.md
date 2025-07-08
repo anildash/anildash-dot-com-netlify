@@ -8,7 +8,7 @@ tags: [blogs]
 
 I launched a new design for my blog about two weeks ago, but I’d been waiting until I had a chance to shake out a few of the more egregious bugs to mention the new layout and to describe some of the thinking behind it.
 
-![Anil Dash blog screenshot](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/dashes-screenshot.jpg?v=1730096127572)
+![Anil Dash blog screenshot](/images/dashes-screenshot.jpg)
 
 First, the page should look at least *something* like the screenshot you see above. The markup’s mostly valid, the CSS is mostly not hacked, but more importantly, it looks kind of like how i think my site should look.
 

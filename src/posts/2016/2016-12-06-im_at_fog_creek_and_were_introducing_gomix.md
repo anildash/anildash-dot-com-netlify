@@ -3,7 +3,7 @@ title: I'm at Fog Creek. And we're introducing Glitch!
 slug: im_at_fog_creek_and_were_introducing_gomix
 date_published: 2016-12-06 13:27:01+00:00
 date_updated: 2018-04-17 17:42:12+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fog-creek-product-history.png?v=1669862394565
+image: /images/fog-creek-product-history.png
 tags: [tech, software, glitch]
 ---
 Okay, here’s the story: **I’m the new CEO of [Fog Creek Software](https://fogcreek.com/)!** And we have an awesome new tool called Glitch that just launched today, and you should go try it out and build the app of your dreams in a few minutes.

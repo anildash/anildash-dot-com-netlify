@@ -28,7 +28,7 @@ Since most of my readers are geeks who like technology, and care about issues ra
 
 There’s a lot more trivia I can spout, and I love the man’s work because it’s funky, not because he’s been a pioneer in digital distribution. But my geek friends are always surprised to find out that “that guy who wrote Kiss” is also seriously on the edge of technology and tech culture in many ways.
 
-![Prince is snagged by the Invisible Fishhook of Funk](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/44Prince_298992k.jpg?v=1725319395477)
+![Prince is snagged by the Invisible Fishhook of Funk](/images/44Prince_298992k.jpg)
 
 If you want a sneak peek at what he’s going to be performing at the Superbowl this Sunday, ther are some [great video clips](http://cbs4.com/entertainment/local_story_032151044.html) from the CBS affiliate in Miami. Prince had told reporters he’d be answering some questions in a press conference, but played 3 songs for them instead. The station then staked out his rehearsal stage (shaped like the symbol!) with a helicopter and shot footage from the chopper. Judging by the lighting and choreography, since there’s no sound, it looks like we’ll see a medley of 5 or 6 songs, with Purple Rain thrown in towards the middle. There’s a marching band, the Florida A&M University Marching 100, and if they actually release doves then he’ll probably have to play “When Doves Cry”. And Tipper Gore will have to apologize to us all for saying he was offensive, because Prince isn’t offensive, he’s *cheesy*.
 

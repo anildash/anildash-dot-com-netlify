@@ -3,7 +3,7 @@ title: Nobody Famous
 slug: nobody_famous
 date_published: 2015-05-24 19:25:22+00:00
 date_updated: 2022-11-20 07:38:24+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nobody-famous.jpeg?v=1669939074989
+image: /images/nobody-famous.jpeg
 tags: [Best Of, Most Popular, twitter]
 ---
 ## What it’s like to have the social network of a celebrity, without actually being famous

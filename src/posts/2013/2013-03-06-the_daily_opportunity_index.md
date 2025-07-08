@@ -3,7 +3,7 @@ title: The Daily Opportunity Index
 slug: the_daily_opportunity_index
 date_published: 2013-03-06 17:30:25+00:00
 date_updated: 2013-03-06 17:30:25+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/distribution-of-us-stock-market-wealth-2007.png?v=1670477131354
+image: /images/distribution-of-us-stock-market-wealth-2007.png
 tags: [culture, media]
 ---
 Every single day, almost every mainstream news source in America offers live updates throughout the day on a few metrics which have almost no meaning for most Americans. Whether it’s a radio broadcast, a local TV station going to commercials, or the homepage of most big news sites, you’ll see a nod to how the stock market is doing, despite the fact that stocks exist as, at best, an abstraction having to do with a theoretical future retirement for all but the wealthiest in the United States.
@@ -22,7 +22,7 @@ Let’s look a few key traits a meaningful opportunity index would have to inclu
 - **Daily:** This is one of the most contentious aspects of such an index, from the perspective of those concerned about data quality and relevance. While we’re used to the stock market trading at light speed ([literally](http://www.youtube.com/watch?v=TDaFwnOiKVE)!) with the backing of some of the riches and most powerful companies in the world, our measurements of real people’s financial lives are typically done by small, underfunded non-profit organizations and government agencies, with results coming out monthly or even annually. It will take both a cultural change from those institutions and the use of smarter, faster data to power a meaningful measure of opportunity. For this reason, it may make sense to base some parts of the measure on very dynamic existing metrics like the markets for financial instruments, but to consider them through an algorithm that’s weighted by relevance to average people’s economic concerns.
 - **A simple number:** One of the oldest, and most valid, criticisms of the big market index numbers is that they’re such blunt instruments that they don’t actually represent anything useful. But the very *simplicity* of the indices is what makes them so powerful in our culture. I’d reckon that most folks don’t actually understand what makes up that “Dow” number they hear about on the news, or that its components change, or that almost all of the new entrants to the index are not “industrial” in any recognizable classic interpretation of the term. But that one number people hear about? It goes up or down. It can be charted and tracked. For all the murkiness of what it’s actually measuring, its role in society is clear. And an index that tracks measurements which represent ordinary concerns could be even more powerful.
 
-[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/distribution-of-us-stock-market-wealth-2007.png?v=1670477131354)](http://inequality.org/)
+[![](/images/distribution-of-us-stock-market-wealth-2007.png)](http://inequality.org/)
 
 ## Who Can Do This?
 

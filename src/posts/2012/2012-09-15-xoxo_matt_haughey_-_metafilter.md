@@ -11,7 +11,7 @@ Matt Haughey’s the founder of MetaFilter, one of the web’s longest-running a
 
 ## [Matt Haughey](https://twitter.com/mathowie)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wweek-headshot_normal.jpg?v=1670738873581)
+![](/images/wweek-headshot_normal.jpg)
 
 Projects: **[MetaFilter](http://www.metafilter.com/)**
 

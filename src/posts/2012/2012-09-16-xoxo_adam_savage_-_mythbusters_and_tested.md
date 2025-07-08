@@ -11,7 +11,7 @@ Adam Savage is an obsessive model maker, passionate defender of maker culture, a
 
 ## [Adam Savage](https://twitter.com/donttrythis)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/FotoFlexer_Photo_normal.jpg?v=1670739299465)
+![](/images/FotoFlexer_Photo_normal.jpg)
 
 Projects: **[Mythbusters](http://dsc.discovery.com/tv/mythbusters/)** and **[Tested](http://www.tested.com/)**
 

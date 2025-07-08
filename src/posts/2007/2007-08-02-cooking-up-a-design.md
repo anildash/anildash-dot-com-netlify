@@ -7,7 +7,7 @@ tags: [tech]
 ---
 Ryan Freitas, whose culinary wisdom I can personally vouch for, just [shared some insights](http://www.adaptivepath.com/blog/2007/07/26/lessons-from-the-kitchen/) into his idea that designers can learn a lot from the discipline of a well-run kitchen.
 
-![Ambidextrous - Cooking and Design](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/ryan-cooking-design.jpg?v=1714792957358)
+![Ambidextrous - Cooking and Design](/images/ryan-cooking-design.jpg)
 
 The article in Ambidextrous magazine (download the [three-page PDF](http://www.adaptivepath.com/blog/wp-content/uploads/2007/07/ambidextrous_article.pdf), it should only take a minute) starts with a simple parallel between the two disciplines:
 

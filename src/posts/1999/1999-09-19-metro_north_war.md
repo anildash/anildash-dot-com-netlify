@@ -9,7 +9,7 @@ So for every "rule" of web design, there are of course **necessary exceptions**.
 
 (Link above is double-duty. Refers to hurricane, and **answers everyone’s questions** to me last week about where the naming system comes from. Why did everyone ask me? And why did I know the answer?)
 
-![Metro North Emergency!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/emermnr.gif?v=1730089605285)
+![Metro North Emergency!](/images/emermnr.gif)
 
 But why the hell doesn’t the last row of pixels in "Click Here" blink? Curse me and my obsessiveness…
 

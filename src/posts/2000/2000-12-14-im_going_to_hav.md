@@ -7,4 +7,4 @@ date_updated: 2000-12-14T20:46:47.000Z
 
 I’m going to have to redesign again soon to incorporate this picture I’ve wanted to use on my blog for ages. But until then, here’s the picture:
 
-![Made in India](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sewer.jpg?v=1729993147260)
+![Made in India](/images/sewer.jpg)

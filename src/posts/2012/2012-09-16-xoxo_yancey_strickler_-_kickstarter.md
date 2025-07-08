@@ -11,7 +11,7 @@ Yancey Strickler is co-founder of Kickstarter, the world’s largest funding pla
 
 ## [Yancey Strickler](https://twitter.com/ystrickler)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Screen_Shot_2011-12-05_at_12.04.56_PM_normal.png?v=1670740385383)
+![](/images/Screen_Shot_2011-12-05_at_12.04.56_PM_normal.png)
 
 Projects: **[Kickstarter](http://www.kickstarter.com)**
 
@@ -40,7 +40,7 @@ Portland has the most Kickstarter projects by capita of any place in the world �
 
 - [Montage of Kickstarter game videos]
 
-![kickstarter-stats.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/kickstarter-stats.png?v=1670740383248)
+![kickstarter-stats.png](/images/kickstarter-stats.png)
 
 The explosion of Kickstarter success has led people to have concerns, and led people ot think the company is bigger than it is. But they’ve got only 40 people, half on product and half on community. The founding team aren’t business people – they’re figuring it out as they go along. A photo of their whole team shows an old pencil factory in Greenpoint, Brooklyn, where Kickstarter intends to “put down [their] roots forever”. The first Kickstarter project was [Drawing for Dollars](http://www.kickstarter.com/projects/darkpony/drawing-for-dollars) for just $35. And if XOXO is the Andy Baio-con, you have to think of the meta-universe, all the weird things people do and how this is the perfect place to talk about some of these oddities.
 

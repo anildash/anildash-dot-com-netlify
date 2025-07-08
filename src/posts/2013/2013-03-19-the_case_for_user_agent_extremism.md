@@ -3,7 +3,7 @@ title: The Case for User Agent Extremism
 slug: the_case_for_user_agent_extremism
 date_published: 2013-03-19 15:20:02+00:00
 date_updated: 2013-03-19 15:20:02+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium_f785c8ecc86771db3afec31e66872d55.png?v=1670477235331
+image: /images/medium_f785c8ecc86771db3afec31e66872d55.png
 tags: [web, software, tech]
 ---
 One of my favorite aspects of the infrastructure of the web is that the way we refer to web browsers in a technical context: User Agents. Divorced from its geeky context, the simple phrase seems to be laden with social, even political, implications.

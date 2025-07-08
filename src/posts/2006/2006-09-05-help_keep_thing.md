@@ -6,7 +6,7 @@ date_updated: 2006-09-05 04:16:28+00:00
 tags: [nyc]
 ---
 
-![jenn-marathon](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/marathon-finishing.jpg?v=1730096229240) 
+![jenn-marathon](/images/marathon-finishing.jpg) 
 
 Today’s my birthday! And I’m hoping you’ll do me a favor on my birthday: Donate to a good cause, and with a good reason.
 

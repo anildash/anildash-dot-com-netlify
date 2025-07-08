@@ -1,0 +1,3362 @@
+[
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/estamp.gif?v=1730089606439",
+    "newFilename": "estamp.gif",
+    "localPath": "/images/estamp.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/officeicons.gif?v=1730089614433",
+    "newFilename": "officeicons.gif",
+    "localPath": "/images/officeicons.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/bigicons.gif?v=1730089598954",
+    "newFilename": "bigicons.gif",
+    "localPath": "/images/bigicons.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/emermnr.gif?v=1730089605285",
+    "newFilename": "emermnr.gif",
+    "localPath": "/images/emermnr.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/mspass.gif?v=1730089612443",
+    "newFilename": "mspass.gif",
+    "localPath": "/images/mspass.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passport.gif?v=1730089615138",
+    "newFilename": "passport.gif",
+    "localPath": "/images/passport.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passsignin.gif?v=1730089615459",
+    "newFilename": "passsignin.gif",
+    "localPath": "/images/passsignin.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passsignout.gif?v=1730089615762",
+    "newFilename": "passsignout.gif",
+    "localPath": "/images/passsignout.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/gems.jpg?v=1729991372685",
+    "newFilename": "gems.jpg",
+    "localPath": "/images/gems.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fedexlogo.gif?v=1729991408887",
+    "newFilename": "fedexlogo.gif",
+    "localPath": "/images/fedexlogo.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/mahir1.gif?v=1729991452992",
+    "newFilename": "mahir1.gif",
+    "localPath": "/images/mahir1.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/mahir2.gif?v=1729991453460",
+    "newFilename": "mahir2.gif",
+    "localPath": "/images/mahir2.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/liquid.gif?v=1729992824567",
+    "newFilename": "liquid.gif",
+    "localPath": "/images/liquid.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/obiwan.gif?v=1729992864673",
+    "newFilename": "obiwan.gif",
+    "localPath": "/images/obiwan.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/skylinesm.jpg?v=1729993017348",
+    "newFilename": "skylinesm.jpg",
+    "localPath": "/images/skylinesm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/skyline2.jpg?v=1729993016751",
+    "newFilename": "skyline2.jpg",
+    "localPath": "/images/skyline2.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/esbsunsetsm.jpg?v=1729993022849",
+    "newFilename": "esbsunsetsm.jpg",
+    "localPath": "/images/esbsunsetsm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/esbsunset.jpg?v=1729993022415",
+    "newFilename": "esbsunset.jpg",
+    "localPath": "/images/esbsunset.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/danceguy.gif?v=1729993119882",
+    "newFilename": "danceguy.gif",
+    "localPath": "/images/danceguy.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sewer.jpg?v=1729993147260",
+    "newFilename": "sewer.jpg",
+    "localPath": "/images/sewer.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/mestor.gif?v=1729993177538",
+    "newFilename": "mestor.gif",
+    "localPath": "/images/mestor.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/beamthumb.jpg?v=1730089358226",
+    "newFilename": "beamthumb.jpg",
+    "localPath": "/images/beamthumb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/beamposter.jpg?v=1730089357780",
+    "newFilename": "beamposter.jpg",
+    "localPath": "/images/beamposter.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ship.gif?v=1730089620648",
+    "newFilename": "ship.gif",
+    "localPath": "/images/ship.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/paypagesm.jpg?v=1730089616638",
+    "newFilename": "paypagesm.jpg",
+    "localPath": "/images/paypagesm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/paypage.jpg?v=1730089616194",
+    "newFilename": "paypage.jpg",
+    "localPath": "/images/paypage.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tux.jpg?v=1730089624072",
+    "newFilename": "tux.jpg",
+    "localPath": "/images/tux.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/peacelovelinux.jpg?v=1730089617010",
+    "newFilename": "peacelovelinux.jpg",
+    "localPath": "/images/peacelovelinux.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/shavehead.gif?v=1729991165706",
+    "newFilename": "shavehead.gif",
+    "localPath": "/images/shavehead.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/buddybot.jpg?v=1730089601523",
+    "newFilename": "buddybot.jpg",
+    "localPath": "/images/buddybot.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesofilter.jpg?v=1729991499042",
+    "newFilename": "quesofilter.jpg",
+    "localPath": "/images/quesofilter.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/quesovision.gif?v=1729991559643",
+    "newFilename": "quesovision.gif",
+    "localPath": "/images/quesovision.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/therings.jpg?v=1730089622845",
+    "newFilename": "therings.jpg",
+    "localPath": "/images/therings.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/michaels.gif?v=1730090234372",
+    "newFilename": "michaels.gif",
+    "localPath": "/images/michaels.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/danceguy.gif?v=1730089604105",
+    "newFilename": "danceguy-1.gif",
+    "localPath": "/images/danceguy-1.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/linkandthink.gif?v=1730089609457",
+    "newFilename": "linkandthink.gif",
+    "localPath": "/images/linkandthink.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/stoner.gif?v=1730089622016",
+    "newFilename": "stoner.gif",
+    "localPath": "/images/stoner.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/cinderella2sm.jpg?v=1730089602717",
+    "newFilename": "cinderella2sm.jpg",
+    "localPath": "/images/cinderella2sm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/cinderella2.jpg?v=1730089602368",
+    "newFilename": "cinderella2.jpg",
+    "localPath": "/images/cinderella2.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/harrecent.gif?v=1730089608193",
+    "newFilename": "harrecent.gif",
+    "localPath": "/images/harrecent.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/bikersm.jpg?v=1730089599858",
+    "newFilename": "bikersm.jpg",
+    "localPath": "/images/bikersm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/biker.jpg?v=1730089599395",
+    "newFilename": "biker.jpg",
+    "localPath": "/images/biker.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/kingandprince.jpg?v=1730091347994",
+    "newFilename": "kingandprince.jpg",
+    "localPath": "/images/kingandprince.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tabletpcanim.gif?v=1730091430268",
+    "newFilename": "tabletpcanim.gif",
+    "localPath": "/images/tabletpcanim.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tabletprototype.jpg?v=1730091430603",
+    "newFilename": "tabletprototype.jpg",
+    "localPath": "/images/tabletprototype.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/msoffkbd.jpg?v=1730091421349",
+    "newFilename": "msoffkbd.jpg",
+    "localPath": "/images/msoffkbd.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/macosxdock.jpg?v=1730091419089",
+    "newFilename": "macosxdock.jpg",
+    "localPath": "/images/macosxdock.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/hbgsenators.gif?v=1730091417760",
+    "newFilename": "hbgsenators.gif",
+    "localPath": "/images/hbgsenators.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/flowers.gif?v=1730089607118",
+    "newFilename": "flowers.gif",
+    "localPath": "/images/flowers.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/officialbiz.jpg?v=1730089614799",
+    "newFilename": "officialbiz.jpg",
+    "localPath": "/images/officialbiz.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/clergy.jpg?v=1730091730372",
+    "newFilename": "clergy.jpg",
+    "localPath": "/images/clergy.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/msblog.jpg?v=1730091420963",
+    "newFilename": "msblog.jpg",
+    "localPath": "/images/msblog.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sharepointlist_thumb.png?v=1730091428077",
+    "newFilename": "sharepointlist_thumb.png",
+    "localPath": "/images/sharepointlist_thumb.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sharepointlist.png?v=1730091428500",
+    "newFilename": "sharepointlist.png",
+    "localPath": "/images/sharepointlist.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/gears.gif?v=1730091415722",
+    "newFilename": "gears.gif",
+    "localPath": "/images/gears.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/simpleelements.gif?v=1730091429862",
+    "newFilename": "simpleelements.gif",
+    "localPath": "/images/simpleelements.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/elements_cover.jpg?v=1730091415304",
+    "newFilename": "elements_cover.jpg",
+    "localPath": "/images/elements_cover.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fontbox.png?v=1730092134428",
+    "newFilename": "fontbox.png",
+    "localPath": "/images/fontbox.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/wtcrecordsthumb.jpg?v=1730092237239",
+    "newFilename": "wtcrecordsthumb.jpg",
+    "localPath": "/images/wtcrecordsthumb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/wtcrecords.jpg?v=1730092236779",
+    "newFilename": "wtcrecords.jpg",
+    "localPath": "/images/wtcrecords.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Dylan.jpg?v=1679884419089",
+    "newFilename": "Dylan.jpg",
+    "localPath": "/images/Dylan.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/seo_image.png?v=1730092890662",
+    "newFilename": "seo_image.png",
+    "localPath": "/images/seo_image.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/Surreal-thumb.jpg?v=1730093053103",
+    "newFilename": "Surreal-thumb.jpg",
+    "localPath": "/images/Surreal-thumb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sparkline-ish.png?v=1730094268197",
+    "newFilename": "sparkline-ish.png",
+    "localPath": "/images/sparkline-ish.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/hickory.jpg?v=1730094311669",
+    "newFilename": "hickory.jpg",
+    "localPath": "/images/hickory.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/obfeomc.gif?v=1730094369916",
+    "newFilename": "obfeomc.gif",
+    "localPath": "/images/obfeomc.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/flip99.png?v=1730094375221",
+    "newFilename": "flip99.png",
+    "localPath": "/images/flip99.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ipod-nano-black.jpg?v=1730094523558",
+    "newFilename": "ipod-nano-black.jpg",
+    "localPath": "/images/ipod-nano-black.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/Rock%20Your%20BillG-thumb.jpg?v=1730094677471",
+    "newFilename": "Rock%20Your%20BillG-thumb.jpg",
+    "localPath": "/images/Rock%20Your%20BillG-thumb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/Rock%20Your%20BillG.jpg?v=1730094678021",
+    "newFilename": "Rock%20Your%20BillG.jpg",
+    "localPath": "/images/Rock%20Your%20BillG.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/holygrail-thumb.png?v=1730094735082",
+    "newFilename": "holygrail-thumb.png",
+    "localPath": "/images/holygrail-thumb.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/holygrail.png?v=1730094735616",
+    "newFilename": "holygrail.png",
+    "localPath": "/images/holygrail.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/daniel-henninger.jpg?v=1730094785501",
+    "newFilename": "daniel-henninger.jpg",
+    "localPath": "/images/daniel-henninger.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/office-2007.jpg?v=1730094889812",
+    "newFilename": "office-2007.jpg",
+    "localPath": "/images/office-2007.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/word2007.png?v=1730094935394",
+    "newFilename": "word2007.png",
+    "localPath": "/images/word2007.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/longtail.jpg?v=1730094968711",
+    "newFilename": "longtail.jpg",
+    "localPath": "/images/longtail.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/add-to-google.gif?v=1730095035087",
+    "newFilename": "add-to-google.gif",
+    "localPath": "/images/add-to-google.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/add-to-bloglines.gif?v=1730095034731",
+    "newFilename": "add-to-bloglines.gif",
+    "localPath": "/images/add-to-bloglines.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/add-to-aol.gif?v=1730095034345",
+    "newFilename": "add-to-aol.gif",
+    "localPath": "/images/add-to-aol.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/add-to-msn.gif?v=1730095035772",
+    "newFilename": "add-to-msn.gif",
+    "localPath": "/images/add-to-msn.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/add-to-livejournal.gif?v=1730095035434",
+    "newFilename": "add-to-livejournal.gif",
+    "localPath": "/images/add-to-livejournal.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/futuresex.jpg?v=1730095117013",
+    "newFilename": "futuresex.jpg",
+    "localPath": "/images/futuresex.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/massages.png?v=1730095160828",
+    "newFilename": "massages.png",
+    "localPath": "/images/massages.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ticket-purple.jpg?v=1730095209331",
+    "newFilename": "ticket-purple.jpg",
+    "localPath": "/images/ticket-purple.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/crkgks_hed_logo.jpg?v=1730095241575",
+    "newFilename": "crkgks_hed_logo.jpg",
+    "localPath": "/images/crkgks_hed_logo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fancy-cheese.jpg?v=1730095262207",
+    "newFilename": "fancy-cheese.jpg",
+    "localPath": "/images/fancy-cheese.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/timeshares.png?v=1730095302483",
+    "newFilename": "timeshares.png",
+    "localPath": "/images/timeshares.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/hooraycholesterol.png?v=1730095348062",
+    "newFilename": "hooraycholesterol.png",
+    "localPath": "/images/hooraycholesterol.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/complaint-letter.jpg?v=1730095374153",
+    "newFilename": "complaint-letter.jpg",
+    "localPath": "/images/complaint-letter.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/waytoomuch.png?v=1730095395524",
+    "newFilename": "waytoomuch.png",
+    "localPath": "/images/waytoomuch.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/clutterdialog.png?v=1730095427415",
+    "newFilename": "clutterdialog.png",
+    "localPath": "/images/clutterdialog.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nikeplusshot.jpg?v=1730095468206",
+    "newFilename": "nikeplusshot.jpg",
+    "localPath": "/images/nikeplusshot.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/100pxnikeplus.png?v=1730095510715",
+    "newFilename": "100pxnikeplus.png",
+    "localPath": "/images/100pxnikeplus.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nikeplusfob.jpg?v=1730095504353",
+    "newFilename": "nikeplusfob.jpg",
+    "localPath": "/images/nikeplusfob.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/amazongoldboxshot.png?v=1730095574056",
+    "newFilename": "amazongoldboxshot.png",
+    "localPath": "/images/amazongoldboxshot.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/100pxgoldbox.png?v=1730095510305",
+    "newFilename": "100pxgoldbox.png",
+    "localPath": "/images/100pxgoldbox.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/voxneighborhoodshot.png?v=1730095669970",
+    "newFilename": "voxneighborhoodshot.png",
+    "localPath": "/images/voxneighborhoodshot.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/100pxvox.png?v=1730095511064",
+    "newFilename": "100pxvox.png",
+    "localPath": "/images/100pxvox.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-signup.gif?v=1730095747125",
+    "newFilename": "google-apps-signup.gif",
+    "localPath": "/images/google-apps-signup.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-setup.gif?v=1730095746639",
+    "newFilename": "google-apps-setup.gif",
+    "localPath": "/images/google-apps-setup.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-account-setup.gif?v=1730095746199",
+    "newFilename": "google-apps-account-setup.gif",
+    "localPath": "/images/google-apps-account-setup.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/office20conf.gif?v=1730095876557",
+    "newFilename": "office20conf.gif",
+    "localPath": "/images/office20conf.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/dashes-screenshot.jpg?v=1730096127572",
+    "newFilename": "dashes-screenshot.jpg",
+    "localPath": "/images/dashes-screenshot.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/uranusisnext.jpg?v=1730096160112",
+    "newFilename": "uranusisnext.jpg",
+    "localPath": "/images/uranusisnext.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/august-shackleford-banks.jpg?v=1730096185718",
+    "newFilename": "august-shackleford-banks.jpg",
+    "localPath": "/images/august-shackleford-banks.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/marathon-finishing.jpg?v=1730096229240",
+    "newFilename": "marathon-finishing.jpg",
+    "localPath": "/images/marathon-finishing.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nyc-subway-map-1930.jpg?v=1730096257672",
+    "newFilename": "nyc-subway-map-1930.jpg",
+    "localPath": "/images/nyc-subway-map-1930.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nyc-subway-map-1972.jpg?v=1730096258158",
+    "newFilename": "nyc-subway-map-1972.jpg",
+    "localPath": "/images/nyc-subway-map-1972.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/blue-marble-white.jpg?v=1730096308850",
+    "newFilename": "blue-marble-white.jpg",
+    "localPath": "/images/blue-marble-white.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sourdoughs.jpg?v=1730096338962",
+    "newFilename": "sourdoughs.jpg",
+    "localPath": "/images/sourdoughs.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/business_blogging_promo_ims.gif?v=1730096398626",
+    "newFilename": "business_blogging_promo_ims.gif",
+    "localPath": "/images/business_blogging_promo_ims.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/the-ghost-map.jpg?v=1730096428614",
+    "newFilename": "the-ghost-map.jpg",
+    "localPath": "/images/the-ghost-map.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/guns-germs-steel.jpg?v=1730096455373",
+    "newFilename": "guns-germs-steel.jpg",
+    "localPath": "/images/guns-germs-steel.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/petri-dish.jpg?v=1730096520800",
+    "newFilename": "petri-dish.jpg",
+    "localPath": "/images/petri-dish.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/pizza-round.jpg?v=1730096564345",
+    "newFilename": "pizza-round.jpg",
+    "localPath": "/images/pizza-round.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/reading.jpg?v=1729981840627",
+    "newFilename": "reading.jpg",
+    "localPath": "/images/reading.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/boba-white.jpg?v=1729981712595",
+    "newFilename": "boba-white.jpg",
+    "localPath": "/images/boba-white.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/Layout04.jpg?v=1729981643743",
+    "newFilename": "Layout04.jpg",
+    "localPath": "/images/Layout04.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/avery-fisher-hall.jpg?v=1729981592676",
+    "newFilename": "avery-fisher-hall.jpg",
+    "localPath": "/images/avery-fisher-hall.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/darwin-i-think.jpg?v=1729981445597",
+    "newFilename": "darwin-i-think.jpg",
+    "localPath": "/images/darwin-i-think.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/brown-zune.jpg?v=1729981342104",
+    "newFilename": "brown-zune.jpg",
+    "localPath": "/images/brown-zune.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/jay-z-ceo.jpg?v=1729981265640",
+    "newFilename": "jay-z-ceo.jpg",
+    "localPath": "/images/jay-z-ceo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/lonelygirl.jpg?v=1725321409082",
+    "newFilename": "lonelygirl.jpg",
+    "localPath": "/images/lonelygirl.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/running-stripe.jpg?v=1725321295859",
+    "newFilename": "running-stripe.jpg",
+    "localPath": "/images/running-stripe.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/evangelist.jpg?v=1725321114734",
+    "newFilename": "evangelist.jpg",
+    "localPath": "/images/evangelist.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/u-shape.jpg?v=1725320906998",
+    "newFilename": "u-shape.jpg",
+    "localPath": "/images/u-shape.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/target-death-wagon.jpg?v=1725320737424",
+    "newFilename": "target-death-wagon.jpg",
+    "localPath": "/images/target-death-wagon.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/ipod-box.gif?v=1727918760515",
+    "newFilename": "ipod-box.gif",
+    "localPath": "/images/ipod-box.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/ask-metafilter.jpg?v=1727918679781",
+    "newFilename": "ask-metafilter.jpg",
+    "localPath": "/images/ask-metafilter.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/time-poy-goatse.jpg?v=1725319832409",
+    "newFilename": "time-poy-goatse.jpg",
+    "localPath": "/images/time-poy-goatse.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/helix-nebula.jpg?v=1727918533804",
+    "newFilename": "helix-nebula.jpg",
+    "localPath": "/images/helix-nebula.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/word2007.png?v=1727918444542",
+    "newFilename": "word2007-1.png",
+    "localPath": "/images/word2007-1.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/seagate.jpg?v=1727918326710",
+    "newFilename": "seagate.jpg",
+    "localPath": "/images/seagate.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/james-brown.jpg?v=1727918214127",
+    "newFilename": "james-brown.jpg",
+    "localPath": "/images/james-brown.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/james-brown-20greatest.jpg?v=1727918274086",
+    "newFilename": "james-brown-20greatest.jpg",
+    "localPath": "/images/james-brown-20greatest.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/crkgks_hed_logo.jpg?v=1727918165282",
+    "newFilename": "crkgks_hed_logo-1.jpg",
+    "localPath": "/images/crkgks_hed_logo-1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/purpleaxxe.png?v=1730097351333",
+    "newFilename": "purpleaxxe.png",
+    "localPath": "/images/purpleaxxe.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/aiga-boots.jpg?v=1730097381056",
+    "newFilename": "aiga-boots.jpg",
+    "localPath": "/images/aiga-boots.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/web-circle.png?v=1730097471427",
+    "newFilename": "web-circle.png",
+    "localPath": "/images/web-circle.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/death-ray.jpg?v=1730097492893",
+    "newFilename": "death-ray.jpg",
+    "localPath": "/images/death-ray.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/44Prince_298992k.jpg?v=1725319395477",
+    "newFilename": "44Prince_298992k.jpg",
+    "localPath": "/images/44Prince_298992k.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/interwebdiagram.jpg?v=1730097512104",
+    "newFilename": "interwebdiagram.jpg",
+    "localPath": "/images/interwebdiagram.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes-logo-lg.gif?v=1730097681767",
+    "newFilename": "yahoo-pipes-logo-lg.gif",
+    "localPath": "/images/yahoo-pipes-logo-lg.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ceci-nes-pas-une-pipe.jpg?v=1730097541076",
+    "newFilename": "ceci-nes-pas-une-pipe.jpg",
+    "localPath": "/images/ceci-nes-pas-une-pipe.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes.gif?v=1730097563804",
+    "newFilename": "yahoo-pipes.gif",
+    "localPath": "/images/yahoo-pipes.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes-ide.png?v=1730097563415",
+    "newFilename": "yahoo-pipes-ide.png",
+    "localPath": "/images/yahoo-pipes-ide.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/the-head-of-clay-shirky.jpg?v=1730097721569",
+    "newFilename": "the-head-of-clay-shirky.jpg",
+    "localPath": "/images/the-head-of-clay-shirky.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/is-the-new.gif?v=1730097755005",
+    "newFilename": "is-the-new.gif",
+    "localPath": "/images/is-the-new.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/japan-sdf-cartoon.jpg?v=1730097777867",
+    "newFilename": "japan-sdf-cartoon.jpg",
+    "localPath": "/images/japan-sdf-cartoon.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/radiationsymbol.gif?v=1730097803285",
+    "newFilename": "radiationsymbol.gif",
+    "localPath": "/images/radiationsymbol.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/teaiki.jpg?v=1730097825101",
+    "newFilename": "teaiki.jpg",
+    "localPath": "/images/teaiki.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/top5percent-sm.png?v=1730097852696",
+    "newFilename": "top5percent-sm.png",
+    "localPath": "/images/top5percent-sm.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/highrise-person.png?v=1730097872010",
+    "newFilename": "highrise-person.png",
+    "localPath": "/images/highrise-person.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/time-machine.jpg?v=1730097913097",
+    "newFilename": "time-machine.jpg",
+    "localPath": "/images/time-machine.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/apple-time-machine.jpg?v=1730097932051",
+    "newFilename": "apple-time-machine.jpg",
+    "localPath": "/images/apple-time-machine.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/20070402pbjdiagram.jpg?v=1730097990323",
+    "newFilename": "20070402pbjdiagram.jpg",
+    "localPath": "/images/20070402pbjdiagram.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fff-personal-pies.png?v=1730098017928",
+    "newFilename": "fff-personal-pies.png",
+    "localPath": "/images/fff-personal-pies.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history.png?v=1730095748411",
+    "newFilename": "google-web-history.png",
+    "localPath": "/images/google-web-history.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history-trends.png?v=1730095747578",
+    "newFilename": "google-web-history-trends.png",
+    "localPath": "/images/google-web-history-trends.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history-web-activity.png?v=1730095747940",
+    "newFilename": "google-web-history-web-activity.png",
+    "localPath": "/images/google-web-history-web-activity.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256",
+    "newFilename": "lolcats-kitty-pidgin.jpg",
+    "localPath": "/images/lolcats-kitty-pidgin.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/pidgin2.png?v=1730098102873",
+    "newFilename": "pidgin2.png",
+    "localPath": "/images/pidgin2.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/invisble_bike_crash.jpg?v=1714969796880",
+    "newFilename": "invisble_bike_crash.jpg",
+    "localPath": "/images/invisble_bike_crash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/invisible-caption.png?v=1714969817279",
+    "newFilename": "invisible-caption.png",
+    "localPath": "/images/invisible-caption.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/fortuitous-logo.png?v=1714969736887",
+    "newFilename": "fortuitous-logo.png",
+    "localPath": "/images/fortuitous-logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/in_ur_reality.png?v=1714969657834",
+    "newFilename": "in_ur_reality.png",
+    "localPath": "/images/in_ur_reality.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/kyu-mango.jpg?v=1714969461111",
+    "newFilename": "kyu-mango.jpg",
+    "localPath": "/images/kyu-mango.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/thisisspecial-sm.png?v=1714969177635",
+    "newFilename": "thisisspecial-sm.png",
+    "localPath": "/images/thisisspecial-sm.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/water-bottle.jpg?v=1714969119748",
+    "newFilename": "water-bottle.jpg",
+    "localPath": "/images/water-bottle.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/hayden-planetarium.jpg?v=1714968820145",
+    "newFilename": "hayden-planetarium.jpg",
+    "localPath": "/images/hayden-planetarium.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/manhattan-skyline.jpg?v=1714968704467",
+    "newFilename": "manhattan-skyline.jpg",
+    "localPath": "/images/manhattan-skyline.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/chron-lolcats.jpg?v=1714968610953",
+    "newFilename": "chron-lolcats.jpg",
+    "localPath": "/images/chron-lolcats.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/humpbackwhaleanddolphin.jpg?v=1714967624028",
+    "newFilename": "humpbackwhaleanddolphin.jpg",
+    "localPath": "/images/humpbackwhaleanddolphin.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/bad-comics.gif?v=1714967146378",
+    "newFilename": "bad-comics.gif",
+    "localPath": "/images/bad-comics.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/crate-barrel.jpg?v=1714961239640",
+    "newFilename": "crate-barrel.jpg",
+    "localPath": "/images/crate-barrel.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/they-got-married.jpg?v=1714796180629",
+    "newFilename": "they-got-married.jpg",
+    "localPath": "/images/they-got-married.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/square-graphs.png?v=1730098191887",
+    "newFilename": "square-graphs.png",
+    "localPath": "/images/square-graphs.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/ryan-cooking-design.jpg?v=1714792957358",
+    "newFilename": "ryan-cooking-design.jpg",
+    "localPath": "/images/ryan-cooking-design.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/iphone-sm.jpg?v=1714791279463",
+    "newFilename": "iphone-sm.jpg",
+    "localPath": "/images/iphone-sm.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/mt4-bug-mt-white.png?v=1714791125198",
+    "newFilename": "mt4-bug-mt-white.png",
+    "localPath": "/images/mt4-bug-mt-white.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/soundwave-mp3.jpg?v=1714789813706",
+    "newFilename": "soundwave-mp3.jpg",
+    "localPath": "/images/soundwave-mp3.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/apple-iphone.jpg?v=1712641485525",
+    "newFilename": "apple-iphone.jpg",
+    "localPath": "/images/apple-iphone.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/blackberry-curve.jpg?v=1712641589634",
+    "newFilename": "blackberry-curve.jpg",
+    "localPath": "/images/blackberry-curve.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/excel-pixelart.png?v=1683168420864",
+    "newFilename": "excel-pixelart.png",
+    "localPath": "/images/excel-pixelart.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/david-byrne-EEEI-Arrows-thumb-126x94.jpg?v=1683168420159",
+    "newFilename": "david-byrne-EEEI-Arrows-thumb-126x94.jpg",
+    "localPath": "/images/david-byrne-EEEI-Arrows-thumb-126x94.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/futuresex.jpg?v=1675742625299",
+    "newFilename": "futuresex-1.jpg",
+    "localPath": "/images/futuresex-1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/language-map.png?v=1675741186248",
+    "newFilename": "language-map.png",
+    "localPath": "/images/language-map.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blog-278483295.jpg?v=1675738450864",
+    "newFilename": "blog-278483295.jpg",
+    "localPath": "/images/blog-278483295.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/rising-from-ruin.png?v=1675738525380",
+    "newFilename": "rising-from-ruin.png",
+    "localPath": "/images/rising-from-ruin.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/CRLA.jpg?v=1675491497214",
+    "newFilename": "CRLA.jpg",
+    "localPath": "/images/CRLA.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/osx-bluescreen.jpg?v=1675486279928",
+    "newFilename": "osx-bluescreen.jpg",
+    "localPath": "/images/osx-bluescreen.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/android.gif?v=1675484478023",
+    "newFilename": "android.gif",
+    "localPath": "/images/android.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/orange-box.jpg?v=1674870392654",
+    "newFilename": "orange-box.jpg",
+    "localPath": "/images/orange-box.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/portal-logo.gif?v=1674869676122",
+    "newFilename": "portal-logo.gif",
+    "localPath": "/images/portal-logo.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/clear-logo.gif?v=1674867225572",
+    "newFilename": "clear-logo.gif",
+    "localPath": "/images/clear-logo.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/clear-card.jpg?v=1674867225119",
+    "newFilename": "clear-card.jpg",
+    "localPath": "/images/clear-card.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/mozy-logo.png?v=1674867059836",
+    "newFilename": "mozy-logo.png",
+    "localPath": "/images/mozy-logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Virgin_America_logo.png?v=1674866520012",
+    "newFilename": "Virgin_America_logo.png",
+    "localPath": "/images/Virgin_America_logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/virgin-cabin.jpg?v=1674866520426",
+    "newFilename": "virgin-cabin.jpg",
+    "localPath": "/images/virgin-cabin.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/virgin-remote.jpg?v=1674866520728",
+    "newFilename": "virgin-remote.jpg",
+    "localPath": "/images/virgin-remote.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/limoliner-logo.gif?v=1674866464562",
+    "newFilename": "limoliner-logo.gif",
+    "localPath": "/images/limoliner-logo.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/zipcar-logo.gif?v=1674866380758",
+    "newFilename": "zipcar-logo.gif",
+    "localPath": "/images/zipcar-logo.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/ill-doc-screen.png?v=1674864602154",
+    "newFilename": "ill-doc-screen.png",
+    "localPath": "/images/ill-doc-screen.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/serious-eats.png?v=1674864531005",
+    "newFilename": "serious-eats.png",
+    "localPath": "/images/serious-eats.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/nelsons-weblog.png?v=1674863218894",
+    "newFilename": "nelsons-weblog.png",
+    "localPath": "/images/nelsons-weblog.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/fortuitous-screen.gif?v=1674707770247",
+    "newFilename": "fortuitous-screen.gif",
+    "localPath": "/images/fortuitous-screen.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/me-and-snoop.jpg?v=1730098276928",
+    "newFilename": "me-and-snoop.jpg",
+    "localPath": "/images/me-and-snoop.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/travis-isaacs-workspace.jpg?v=1674631135163",
+    "newFilename": "travis-isaacs-workspace.jpg",
+    "localPath": "/images/travis-isaacs-workspace.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/workspace-desk.jpg?v=1674631086168",
+    "newFilename": "workspace-desk.jpg",
+    "localPath": "/images/workspace-desk.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/brothers-in-arms.jpg?v=1674630670971",
+    "newFilename": "brothers-in-arms.jpg",
+    "localPath": "/images/brothers-in-arms.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sixapart-office-locations.gif?v=1674628841185",
+    "newFilename": "sixapart-office-locations.gif",
+    "localPath": "/images/sixapart-office-locations.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/6a%20logo%20white.png?v=1674629174358",
+    "newFilename": "6a%20logo%20white.png",
+    "localPath": "/images/6a%20logo%20white.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/8088B1.jpg?v=1674625574667",
+    "newFilename": "8088B1.jpg",
+    "localPath": "/images/8088B1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/gates-bio.jpg?v=1674101945300",
+    "newFilename": "gates-bio.jpg",
+    "localPath": "/images/gates-bio.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/twitter.png?v=1674101812607",
+    "newFilename": "twitter.png",
+    "localPath": "/images/twitter.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/nowpublic-logo.png?v=1674101019721",
+    "newFilename": "nowpublic-logo.png",
+    "localPath": "/images/nowpublic-logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/klf-million-quid.jpg?v=1674352718900",
+    "newFilename": "klf-million-quid.jpg",
+    "localPath": "/images/klf-million-quid.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dashes-designs-retro.png?v=1674098966021",
+    "newFilename": "dashes-designs-retro.png",
+    "localPath": "/images/dashes-designs-retro.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/obama-bicycle.jpg?v=1674098009666",
+    "newFilename": "obama-bicycle.jpg",
+    "localPath": "/images/obama-bicycle.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dangelo.jpg?v=1674097032445",
+    "newFilename": "dangelo.jpg",
+    "localPath": "/images/dangelo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/American_Pork_Cuts.svg?v=1674084659242",
+    "newFilename": "American_Pork_Cuts.svg",
+    "localPath": "/images/American_Pork_Cuts.svg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/prince-alan-leeds.jpg?v=1674070005505",
+    "newFilename": "prince-alan-leeds.jpg",
+    "localPath": "/images/prince-alan-leeds.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/gregory_g_garre_2.jpg?v=1674063853205",
+    "newFilename": "gregory_g_garre_2.jpg",
+    "localPath": "/images/gregory_g_garre_2.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Hey%20dog%20what%20up%3F.jpg?v=1674062987862",
+    "newFilename": "Hey%20dog%20what%20up%3F.jpg",
+    "localPath": "/images/Hey%20dog%20what%20up%3F.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/vista-box.png?v=1674059335816",
+    "newFilename": "vista-box.png",
+    "localPath": "/images/vista-box.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/wiimote.jpg?v=1674059109263",
+    "newFilename": "wiimote.jpg",
+    "localPath": "/images/wiimote.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/Jabba-SW4-SP1.jpg?v=1730098320054",
+    "newFilename": "Jabba-SW4-SP1.jpg",
+    "localPath": "/images/Jabba-SW4-SP1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/the-dream-love-vs-money.jpeg?v=1698327623465",
+    "newFilename": "the-dream-love-vs-money.jpeg",
+    "localPath": "/images/the-dream-love-vs-money.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/table.jpg?v=1730098493596",
+    "newFilename": "table.jpg",
+    "localPath": "/images/table.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/shiva-temple-500px.jpg?v=1730098540778",
+    "newFilename": "shiva-temple-500px.jpg",
+    "localPath": "/images/shiva-temple-500px.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/lastyears-badge.jpg?v=1730098646033",
+    "newFilename": "lastyears-badge.jpg",
+    "localPath": "/images/lastyears-badge.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ps3-sex-box.png?v=1730098674954",
+    "newFilename": "ps3-sex-box.png",
+    "localPath": "/images/ps3-sex-box.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/windows3-flag-small.gif?v=1730098749727",
+    "newFilename": "windows3-flag-small.gif",
+    "localPath": "/images/windows3-flag-small.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/windows-7-green.jpg?v=1730098806772",
+    "newFilename": "windows-7-green.jpg",
+    "localPath": "/images/windows-7-green.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/windows-7-flag-overlay.jpg?v=1730098778077",
+    "newFilename": "windows-7-flag-overlay.jpg",
+    "localPath": "/images/windows-7-flag-overlay.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/colombo-cover.jpg?v=1730098844596",
+    "newFilename": "colombo-cover.jpg",
+    "localPath": "/images/colombo-cover.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/colombo_isketch-thumbs.jpg?v=1730098878198",
+    "newFilename": "colombo_isketch-thumbs.jpg",
+    "localPath": "/images/colombo_isketch-thumbs.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/and-then-theres-this.jpg?v=1730098914463",
+    "newFilename": "and-then-theres-this.jpg",
+    "localPath": "/images/and-then-theres-this.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nymag-viral-promo.jpg?v=1730098940106",
+    "newFilename": "nymag-viral-promo.jpg",
+    "localPath": "/images/nymag-viral-promo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/nymag-lolcat-cover-thumb.png?v=1730098970542",
+    "newFilename": "nymag-lolcat-cover-thumb.png",
+    "localPath": "/images/nymag-lolcat-cover-thumb.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-microsoft-chrome-480.jpg?v=1730096076559",
+    "newFilename": "google-microsoft-chrome-480.jpg",
+    "localPath": "/images/google-microsoft-chrome-480.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/anil-dash-merlin-mann.jpg?v=1729987110859",
+    "newFilename": "anil-dash-merlin-mann.jpg",
+    "localPath": "/images/anil-dash-merlin-mann.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589941",
+    "newFilename": "pushbutton-delivery.png",
+    "localPath": "/images/pushbutton-delivery.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589539",
+    "newFilename": "pushbutton-delivery-1.png",
+    "localPath": "/images/pushbutton-delivery-1.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/wired-push.jpg?v=1671507816907",
+    "newFilename": "wired-push.jpg",
+    "localPath": "/images/wired-push.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/jobs-1984.jpg?v=1730099006383",
+    "newFilename": "jobs-1984.jpg",
+    "localPath": "/images/jobs-1984.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-wave-thumb.jpg?v=1730099044369",
+    "newFilename": "google-wave-thumb.jpg",
+    "localPath": "/images/google-wave-thumb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/gov-sites.jpg?v=1730096014933",
+    "newFilename": "gov-sites.jpg",
+    "localPath": "/images/gov-sites.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/imation-hard-drive.jpg?v=1670808675460",
+    "newFilename": "imation-hard-drive.jpg",
+    "localPath": "/images/imation-hard-drive.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4201-BatmanilandRobrad.jpg?v=1670808812062",
+    "newFilename": "4201-BatmanilandRobrad.jpg",
+    "localPath": "/images/4201-BatmanilandRobrad.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1514472-how-anil-dash-applies-the-lessons-of-web-20-to-government-rotator.webp?v=1670809046414",
+    "newFilename": "1514472-how-anil-dash-applies-the-lessons-of-web-20-to-government-rotator.webp",
+    "localPath": "/images/1514472-how-anil-dash-applies-the-lessons-of-web-20-to-government-rotator.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/3272079115_2b4df52445_k.jpg?v=1670809557555",
+    "newFilename": "3272079115_2b4df52445_k.jpg",
+    "localPath": "/images/3272079115_2b4df52445_k.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wh-gc.png?v=1670809794540",
+    "newFilename": "wh-gc.png",
+    "localPath": "/images/wh-gc.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Snake%20swallowing%20an%20onion-15.png?v=1670812559648",
+    "newFilename": "Snake%20swallowing%20an%20onion-15.png",
+    "localPath": "/images/Snake%20swallowing%20an%20onion-15.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/github-fork-map.png?v=1670812703180",
+    "newFilename": "github-fork-map.png",
+    "localPath": "/images/github-fork-map.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/github-fork.png?v=1670812734225",
+    "newFilename": "github-fork.png",
+    "localPath": "/images/github-fork.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zuckerberg.jpg?v=1670812944977",
+    "newFilename": "zuckerberg.jpg",
+    "localPath": "/images/zuckerberg.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/sixapart-logo.png?v=1670813078649",
+    "newFilename": "sixapart-logo.png",
+    "localPath": "/images/sixapart-logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-debut-issue-small.jpg?v=1670822598795",
+    "newFilename": "gourmet-live-debut-issue-small.jpg",
+    "localPath": "/images/gourmet-live-debut-issue-small.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-logo-small.jpg?v=1670822644008",
+    "newFilename": "gourmet-live-logo-small.jpg",
+    "localPath": "/images/gourmet-live-logo-small.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gourmet-live-reward.png?v=1670822679101",
+    "newFilename": "gourmet-live-reward.png",
+    "localPath": "/images/gourmet-live-reward.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/app-store-badge.png?v=1670822780238",
+    "newFilename": "app-store-badge.png",
+    "localPath": "/images/app-store-badge.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/revive-phone.jpg?v=1670823050142",
+    "newFilename": "revive-phone.jpg",
+    "localPath": "/images/revive-phone.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/conan-twitter-bio.png?v=1670823760124",
+    "newFilename": "conan-twitter-bio.png",
+    "localPath": "/images/conan-twitter-bio.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gawker-twitter-columns.png?v=1670825178541",
+    "newFilename": "gawker-twitter-columns.png",
+    "localPath": "/images/gawker-twitter-columns.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/readability-revenues.png?v=1670801829713",
+    "newFilename": "readability-revenues.png",
+    "localPath": "/images/readability-revenues.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whiz-kid.jpg?v=1670801933142",
+    "newFilename": "whiz-kid.jpg",
+    "localPath": "/images/whiz-kid.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/radiation-tmi.png?v=1670802068326",
+    "newFilename": "radiation-tmi.png",
+    "localPath": "/images/radiation-tmi.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-lets-get-started.png?v=1670802246389",
+    "newFilename": "linkedin-lets-get-started.png",
+    "localPath": "/images/linkedin-lets-get-started.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-75-percent.png?v=1670802313210",
+    "newFilename": "linkedin-75-percent.png",
+    "localPath": "/images/linkedin-75-percent.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wsj-sparktweet.png?v=1670802364830",
+    "newFilename": "wsj-sparktweet.png",
+    "localPath": "/images/wsj-sparktweet.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-bloomberg-sterne.JPG?v=1670802703096",
+    "newFilename": "nyc-bloomberg-sterne.JPG",
+    "localPath": "/images/nyc-bloomberg-sterne.JPG"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-twitter.png?v=1670802785093",
+    "newFilename": "apple-twitter.png",
+    "localPath": "/images/apple-twitter.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/davoriting-hd.png?v=1670819553087",
+    "newFilename": "davoriting-hd.png",
+    "localPath": "/images/davoriting-hd.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr_lo0td2lRdj1qzcq51o1_500.gif?v=1670803207299",
+    "newFilename": "tumblr_lo0td2lRdj1qzcq51o1_500.gif",
+    "localPath": "/images/tumblr_lo0td2lRdj1qzcq51o1_500.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/walking.jpg?v=1670196131056",
+    "newFilename": "walking.jpg",
+    "localPath": "/images/walking.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixel-strip.jpg?v=1670804240684",
+    "newFilename": "mixel-strip.jpg",
+    "localPath": "/images/mixel-strip.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixel-icon.jpg?v=1670804270221",
+    "newFilename": "mixel-icon.jpg",
+    "localPath": "/images/mixel-icon.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/follower-charts-700x309.png?v=1670804347369",
+    "newFilename": "follower-charts-700x309.png",
+    "localPath": "/images/follower-charts-700x309.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/timeline-thumbnail.png?v=1670804372675",
+    "newFilename": "timeline-thumbnail.png",
+    "localPath": "/images/timeline-thumbnail.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/100%25-nice-people.png?v=1670804418635",
+    "newFilename": "100%25-nice-people.png",
+    "localPath": "/images/100%25-nice-people.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/changes-to-sharing.png?v=1670804589433",
+    "newFilename": "changes-to-sharing.png",
+    "localPath": "/images/changes-to-sharing.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/facebook-dashes-warning.png?v=1670804633550",
+    "newFilename": "facebook-dashes-warning.png",
+    "localPath": "/images/facebook-dashes-warning.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/FB-open-graph-debug.png?v=1670804678642",
+    "newFilename": "FB-open-graph-debug.png",
+    "localPath": "/images/FB-open-graph-debug.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/teleport.jpg?v=1670805065726",
+    "newFilename": "teleport.jpg",
+    "localPath": "/images/teleport.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-crown.png?v=1670712925953",
+    "newFilename": "foursquare-crown.png",
+    "localPath": "/images/foursquare-crown.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-icons-4.png?v=1670712923066",
+    "newFilename": "foursquare-icons-4.png",
+    "localPath": "/images/foursquare-icons-4.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-ghraib.jpg?v=1670714392819",
+    "newFilename": "google-ghraib.jpg",
+    "localPath": "/images/google-ghraib.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/how-laws-made.jpg?v=1670714904624",
+    "newFilename": "how-laws-made.jpg",
+    "localPath": "/images/how-laws-made.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/votizen-button.png?v=1670714904162",
+    "newFilename": "votizen-button.png",
+    "localPath": "/images/votizen-button.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-pops.jpg?v=1670715035986",
+    "newFilename": "nyc-pops.jpg",
+    "localPath": "/images/nyc-pops.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/GO0064.jpg?v=1670720599077",
+    "newFilename": "GO0064.jpg",
+    "localPath": "/images/GO0064.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oglivy-notes-gawker-comments.jpg?v=1670720759787",
+    "newFilename": "oglivy-notes-gawker-comments.jpg",
+    "localPath": "/images/oglivy-notes-gawker-comments.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse_year_in_review_2011-thumbnail.jpg?v=1670721505914",
+    "newFilename": "whitehouse_year_in_review_2011-thumbnail.jpg",
+    "localPath": "/images/whitehouse_year_in_review_2011-thumbnail.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse_year_in_review_2011.jpg?v=1670721337882",
+    "newFilename": "whitehouse_year_in_review_2011.jpg",
+    "localPath": "/images/whitehouse_year_in_review_2011.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-at-pop.jpg?v=1670722326707",
+    "newFilename": "prince-at-pop.jpg",
+    "localPath": "/images/prince-at-pop.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1_friend_connect_image.jpg?v=1670723466768",
+    "newFilename": "1_friend_connect_image.jpg",
+    "localPath": "/images/1_friend_connect_image.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ashton_a.jpg?v=1670723632113",
+    "newFilename": "ashton_a.jpg",
+    "localPath": "/images/ashton_a.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/traf-o-data-card.jpg?v=1670724148155",
+    "newFilename": "traf-o-data-card.jpg",
+    "localPath": "/images/traf-o-data-card.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-cloud-engine.png?v=1670724296899",
+    "newFilename": "google-cloud-engine.png",
+    "localPath": "/images/google-cloud-engine.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tobias-reich-7GfStLsf2k4-unsplash.jpg?v=1670477470980",
+    "newFilename": "tobias-reich-7GfStLsf2k4-unsplash.jpg",
+    "localPath": "/images/tobias-reich-7GfStLsf2k4-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stream-wireframes.png?v=1670729826246",
+    "newFilename": "stream-wireframes.png",
+    "localPath": "/images/stream-wireframes.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bre-1_normal.jpg?v=1670737440610",
+    "newFilename": "bre-1_normal.jpg",
+    "localPath": "/images/bre-1_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/image_normal.jpg?v=1670737636770",
+    "newFilename": "image_normal.jpg",
+    "localPath": "/images/image_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ProfilePic_Square_normal.jpg?v=1670737824809",
+    "newFilename": "ProfilePic_Square_normal.jpg",
+    "localPath": "/images/ProfilePic_Square_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/image_normal-2.jpg?v=1670737875489",
+    "newFilename": "image_normal-2.jpg",
+    "localPath": "/images/image_normal-2.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-2.png?v=1670737962887",
+    "newFilename": "studio-neat-slide-2.png",
+    "localPath": "/images/studio-neat-slide-2.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-1.jpg?v=1670737963709",
+    "newFilename": "studio-neat-slide-1.jpg",
+    "localPath": "/images/studio-neat-slide-1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/studio-neat-slide-3.png?v=1670737963348",
+    "newFilename": "studio-neat-slide-3.png",
+    "localPath": "/images/studio-neat-slide-3.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/0jkgb7fyjq8290v1x9os_normal.jpeg?v=1670738270590",
+    "newFilename": "0jkgb7fyjq8290v1x9os_normal.jpeg",
+    "localPath": "/images/0jkgb7fyjq8290v1x9os_normal.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/emily-martin.jpg?v=1670738194991",
+    "newFilename": "emily-martin.jpg",
+    "localPath": "/images/emily-martin.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/emily-martin-slide.jpg?v=1670738194417",
+    "newFilename": "emily-martin-slide.jpg",
+    "localPath": "/images/emily-martin-slide.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/-3-1_normal.jpg?v=1670738617352",
+    "newFilename": "-3-1_normal.jpg",
+    "localPath": "/images/-3-1_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/IndieGameTheMovieNewVimeo_normal.png?v=1670738724626",
+    "newFilename": "IndieGameTheMovieNewVimeo_normal.png",
+    "localPath": "/images/IndieGameTheMovieNewVimeo_normal.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RedCarpet_2_normal.jpg?v=1670738755124",
+    "newFilename": "RedCarpet_2_normal.jpg",
+    "localPath": "/images/RedCarpet_2_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wweek-headshot_normal.jpg?v=1670738873581",
+    "newFilename": "wweek-headshot_normal.jpg",
+    "localPath": "/images/wweek-headshot_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/matt-haughey-slide.png?v=1670738948799",
+    "newFilename": "matt-haughey-slide.png",
+    "localPath": "/images/matt-haughey-slide.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/coffeepot-twitter_normal.png?v=1670739086421",
+    "newFilename": "coffeepot-twitter_normal.png",
+    "localPath": "/images/coffeepot-twitter_normal.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/roncarmel_normal.jpg?v=1670739167716",
+    "newFilename": "roncarmel_normal.jpg",
+    "localPath": "/images/roncarmel_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/FotoFlexer_Photo_normal.jpg?v=1670739299465",
+    "newFilename": "FotoFlexer_Photo_normal.jpg",
+    "localPath": "/images/FotoFlexer_Photo_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chad01-desaturated_MG_0795.cropped_normal.jpg?v=1670739399753",
+    "newFilename": "chad01-desaturated_MG_0795.cropped_normal.jpg",
+    "localPath": "/images/chad01-desaturated_MG_0795.cropped_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chad-dickerson-slide.jpg?v=1670739485210",
+    "newFilename": "chad-dickerson-slide.jpg",
+    "localPath": "/images/chad-dickerson-slide.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/988HB3KU_400x400.jpg?v=1670739703251",
+    "newFilename": "988HB3KU_400x400.jpg",
+    "localPath": "/images/988HB3KU_400x400.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RollTide_sm_normal.jpg?v=1670739803865",
+    "newFilename": "RollTide_sm_normal.jpg",
+    "localPath": "/images/RollTide_sm_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jdubs-headshot-by-irene5_normal.jpg?v=1670739900313",
+    "newFilename": "jdubs-headshot-by-irene5_normal.jpg",
+    "localPath": "/images/jdubs-headshot-by-irene5_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jbcanarysq_normal.jpg?v=1670739985352",
+    "newFilename": "jbcanarysq_normal.jpg",
+    "localPath": "/images/jbcanarysq_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jen-bekman-slide.jpg?v=1670740012947",
+    "newFilename": "jen-bekman-slide.jpg",
+    "localPath": "/images/jen-bekman-slide.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/josh_cat_shoulder_normal.jpg?v=1670740125825",
+    "newFilename": "josh_cat_shoulder_normal.jpg",
+    "localPath": "/images/josh_cat_shoulder_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Photo_113_normal.jpg?v=1670740239795",
+    "newFilename": "Photo_113_normal.jpg",
+    "localPath": "/images/Photo_113_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jvd_press_normal.jpg?v=1670740239468",
+    "newFilename": "jvd_press_normal.jpg",
+    "localPath": "/images/jvd_press_normal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cash-music-slide-bk.jpg?v=1670740289761",
+    "newFilename": "cash-music-slide-bk.jpg",
+    "localPath": "/images/cash-music-slide-bk.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Screen_Shot_2011-12-05_at_12.04.56_PM_normal.png?v=1670740385383",
+    "newFilename": "Screen_Shot_2011-12-05_at_12.04.56_PM_normal.png",
+    "localPath": "/images/Screen_Shot_2011-12-05_at_12.04.56_PM_normal.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/kickstarter-stats.png?v=1670740383248",
+    "newFilename": "kickstarter-stats.png",
+    "localPath": "/images/kickstarter-stats.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lexington-map.jpg?v=1670740533850",
+    "newFilename": "lexington-map.jpg",
+    "localPath": "/images/lexington-map.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jar-jar-senate.jpeg?v=1670740696750",
+    "newFilename": "jar-jar-senate.jpeg",
+    "localPath": "/images/jar-jar-senate.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jobs-iphone-quadrants.jpg?v=1670740783170",
+    "newFilename": "jobs-iphone-quadrants.jpg",
+    "localPath": "/images/jobs-iphone-quadrants.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/virgin-america.jpg?v=1670798419785",
+    "newFilename": "virgin-america.jpg",
+    "localPath": "/images/virgin-america.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Build2012Dev_mid.mp4?v=1670799506455",
+    "newFilename": "Build2012Dev_mid.mp4",
+    "localPath": "/images/Build2012Dev_mid.mp4"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/secession-map.png?v=1670799840699",
+    "newFilename": "secession-map.png",
+    "localPath": "/images/secession-map.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/afterbeers_LJ-0110.jpg?v=1670799938878",
+    "newFilename": "afterbeers_LJ-0110.jpg",
+    "localPath": "/images/afterbeers_LJ-0110.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-wired-tos-column.jpg?v=1670799979075",
+    "newFilename": "anil-dash-wired-tos-column.jpg",
+    "localPath": "/images/anil-dash-wired-tos-column.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fb-privacy-controls.png?v=1670800092057",
+    "newFilename": "fb-privacy-controls.png",
+    "localPath": "/images/fb-privacy-controls.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fb-rights-controls.png?v=1670800112757",
+    "newFilename": "fb-rights-controls.png",
+    "localPath": "/images/fb-rights-controls.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-berkman-crop.jpg?v=1670196932302",
+    "newFilename": "anil-dash-berkman-crop.jpg",
+    "localPath": "/images/anil-dash-berkman-crop.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/barnes-sugarshack1.jpg?v=1670398946641",
+    "newFilename": "barnes-sugarshack1.jpg",
+    "localPath": "/images/barnes-sugarshack1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-going-viral-expanded.PNG?v=1670399889375",
+    "newFilename": "whitehouse-going-viral-expanded.PNG",
+    "localPath": "/images/whitehouse-going-viral-expanded.PNG"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chartbeat-charts.PNG?v=1670399887606",
+    "newFilename": "chartbeat-charts.PNG",
+    "localPath": "/images/chartbeat-charts.PNG"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/47574a7f-e81d-405a-bdb8-1104be404a72/facebook-charts.png?v=1664818186601",
+    "newFilename": "facebook-charts.png",
+    "localPath": "/images/facebook-charts.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-upcoming-milestone.png?v=1670399887606",
+    "newFilename": "whitehouse-upcoming-milestone.png",
+    "localPath": "/images/whitehouse-upcoming-milestone.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-interesting-users-expanded.png?v=1670399887606",
+    "newFilename": "whitehouse-interesting-users-expanded.png",
+    "localPath": "/images/whitehouse-interesting-users-expanded.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-upcoming-milestone-expanded.png?v=1670399888337",
+    "newFilename": "whitehouse-upcoming-milestone-expanded.png",
+    "localPath": "/images/whitehouse-upcoming-milestone-expanded.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/user-generated-discontent.jpg?v=1670400568448",
+    "newFilename": "user-generated-discontent.jpg",
+    "localPath": "/images/user-generated-discontent.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-dashboard-old.png?v=1670400662053",
+    "newFilename": "thinkup-dashboard-old.png",
+    "localPath": "/images/thinkup-dashboard-old.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-dashboard-new.png?v=1670400661875",
+    "newFilename": "thinkup-dashboard-new.png",
+    "localPath": "/images/thinkup-dashboard-new.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/branch-screenshot.png?v=1670475285709",
+    "newFilename": "branch-screenshot.png",
+    "localPath": "/images/branch-screenshot.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tour-how-d1748b8941de869f55316391701f99e0.mp4?v=1670400966451",
+    "newFilename": "tour-how-d1748b8941de869f55316391701f99e0.mp4",
+    "localPath": "/images/tour-how-d1748b8941de869f55316391701f99e0.mp4"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bloomberg-nytech.jpg?v=1670475474975",
+    "newFilename": "bloomberg-nytech.jpg",
+    "localPath": "/images/bloomberg-nytech.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/un-dev-goals.png?v=1670476018247",
+    "newFilename": "un-dev-goals.png",
+    "localPath": "/images/un-dev-goals.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/childhood-mortality.png?v=1670476141666",
+    "newFilename": "childhood-mortality.png",
+    "localPath": "/images/childhood-mortality.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/immunize_rise_line.png?v=1670476140984",
+    "newFilename": "immunize_rise_line.png",
+    "localPath": "/images/immunize_rise_line.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/extreme-poverty.png?v=1670476141302",
+    "newFilename": "extreme-poverty.png",
+    "localPath": "/images/extreme-poverty.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-10-confirmation.png?v=1670476503039",
+    "newFilename": "tverified-10-confirmation.png",
+    "localPath": "/images/tverified-10-confirmation.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-01-direct-message.png?v=1670476506416",
+    "newFilename": "tverified-01-direct-message.png",
+    "localPath": "/images/tverified-01-direct-message.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-02-start-setup.png?v=1670476506093",
+    "newFilename": "tverified-02-start-setup.png",
+    "localPath": "/images/tverified-02-start-setup.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-03-good-tweeting.png?v=1670476505792",
+    "newFilename": "tverified-03-good-tweeting.png",
+    "localPath": "/images/tverified-03-good-tweeting.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-04-double-your-rate.png?v=1670476505426",
+    "newFilename": "tverified-04-double-your-rate.png",
+    "localPath": "/images/tverified-04-double-your-rate.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-05-ask-questions.png?v=1670476505011",
+    "newFilename": "tverified-05-ask-questions.png",
+    "localPath": "/images/tverified-05-ask-questions.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-06-increase-engagement.png?v=1670476504609",
+    "newFilename": "tverified-06-increase-engagement.png",
+    "localPath": "/images/tverified-06-increase-engagement.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-08-follow-verified-users.png?v=1670476503846",
+    "newFilename": "tverified-08-follow-verified-users.png",
+    "localPath": "/images/tverified-08-follow-verified-users.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-09-phone-number.png?v=1670476503410",
+    "newFilename": "tverified-09-phone-number.png",
+    "localPath": "/images/tverified-09-phone-number.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-11-follow-notification.png?v=1670476502654",
+    "newFilename": "tverified-11-follow-notification.png",
+    "localPath": "/images/tverified-11-follow-notification.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/distribution-of-us-stock-market-wealth-2007.png?v=1670477131354",
+    "newFilename": "distribution-of-us-stock-market-wealth-2007.png",
+    "localPath": "/images/distribution-of-us-stock-market-wealth-2007.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium_f785c8ecc86771db3afec31e66872d55.png?v=1670477235331",
+    "newFilename": "medium_f785c8ecc86771db3afec31e66872d55.png",
+    "localPath": "/images/medium_f785c8ecc86771db3afec31e66872d55.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mountaintop.webp?v=1670477680740",
+    "newFilename": "mountaintop.webp",
+    "localPath": "/images/mountaintop.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/berkman-anil-dash.jpg?v=1670559133442",
+    "newFilename": "berkman-anil-dash.jpg",
+    "localPath": "/images/berkman-anil-dash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/peter-herrmann-hT4R4jR7W2s-unsplash.jpg?v=1670559723735",
+    "newFilename": "peter-herrmann-hT4R4jR7W2s-unsplash.jpg",
+    "localPath": "/images/peter-herrmann-hT4R4jR7W2s-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ghost-kickstarter.jpg.webp?v=1670559878259",
+    "newFilename": "ghost-kickstarter.jpg.webp",
+    "localPath": "/images/ghost-kickstarter.jpg.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fwd-us-logo.jpeg.webp?v=1670560884310",
+    "newFilename": "fwd-us-logo.jpeg.webp",
+    "localPath": "/images/fwd-us-logo.jpeg.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/statue_mz_quote.png?v=1670560024865",
+    "newFilename": "statue_mz_quote.png",
+    "localPath": "/images/statue_mz_quote.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/computerkeyboard.jpg?v=1670561305453",
+    "newFilename": "computerkeyboard.jpg",
+    "localPath": "/images/computerkeyboard.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr-oct-2007.png?v=1670561542680",
+    "newFilename": "tumblr-oct-2007.png",
+    "localPath": "/images/tumblr-oct-2007.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr-2007-screenshot.png?v=1670561377107",
+    "newFilename": "tumblr-2007-screenshot.png",
+    "localPath": "/images/tumblr-2007-screenshot.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/theskies.jpg.webp?v=1670562042718",
+    "newFilename": "theskies.jpg.webp",
+    "localPath": "/images/theskies.jpg.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/guide_to_s744_corker_hoeven_final_12-02-13.jpg?v=1670562328685",
+    "newFilename": "guide_to_s744_corker_hoeven_final_12-02-13.jpg",
+    "localPath": "/images/guide_to_s744_corker_hoeven_final_12-02-13.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gt-room.jpg?v=1670563355612",
+    "newFilename": "gt-room.jpg",
+    "localPath": "/images/gt-room.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RSS-Feed.jpg?v=1670563452624",
+    "newFilename": "RSS-Feed.jpg",
+    "localPath": "/images/RSS-Feed.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/paulgraham_2202_8322705.jpeg?v=1670563534484",
+    "newFilename": "paulgraham_2202_8322705.jpeg",
+    "localPath": "/images/paulgraham_2202_8322705.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charltonhestonmoses_hdv.jpg?v=1670563705021",
+    "newFilename": "charltonhestonmoses_hdv.jpg",
+    "localPath": "/images/charltonhestonmoses_hdv.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-ball.png?v=1670307069239",
+    "newFilename": "foursquare-ball.png",
+    "localPath": "/images/foursquare-ball.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4sq-connected-services-crop.png?v=1670306116191",
+    "newFilename": "4sq-connected-services-crop.png",
+    "localPath": "/images/4sq-connected-services-crop.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/poweredByFoursquare_gray.png?v=1670306221792",
+    "newFilename": "poweredByFoursquare_gray.png",
+    "localPath": "/images/poweredByFoursquare_gray.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/shushing-theater.jpg?v=1670305836164",
+    "newFilename": "shushing-theater.jpg",
+    "localPath": "/images/shushing-theater.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charity-water.png?v=1670305303133",
+    "newFilename": "charity-water.png",
+    "localPath": "/images/charity-water.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium-logos.webp?v=1670307728772",
+    "newFilename": "medium-logos.webp",
+    "localPath": "/images/medium-logos.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/XOXO-2013-041.jpg?v=1670303614458",
+    "newFilename": "XOXO-2013-041.jpg",
+    "localPath": "/images/XOXO-2013-041.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-logo-ss-1920.png?v=1670302781353",
+    "newFilename": "thinkup-logo-ss-1920.png",
+    "localPath": "/images/thinkup-logo-ss-1920.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Twitter-IPO.webp?v=1670302675172",
+    "newFilename": "Twitter-IPO.webp",
+    "localPath": "/images/Twitter-IPO.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-bridge.jpeg?v=1670302039375",
+    "newFilename": "malcolm-bridge.jpeg",
+    "localPath": "/images/malcolm-bridge.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/upworthy.jpeg?v=1670297976672",
+    "newFilename": "upworthy.jpeg",
+    "localPath": "/images/upworthy.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/butterfly.gif?v=1670296827319",
+    "newFilename": "butterfly.gif",
+    "localPath": "/images/butterfly.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/breakfast-can-wait.jpeg?v=1670296527814",
+    "newFilename": "breakfast-can-wait.jpeg",
+    "localPath": "/images/breakfast-can-wait.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-new-girl-pr.jpg?v=1670296672798",
+    "newFilename": "prince-new-girl-pr.jpg",
+    "localPath": "/images/prince-new-girl-pr.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/steve-case-ad.jpg?v=1670295154667",
+    "newFilename": "steve-case-ad.jpg",
+    "localPath": "/images/steve-case-ad.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/people-connection.gif?v=1670296000390",
+    "newFilename": "people-connection.gif",
+    "localPath": "/images/people-connection.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/q-link-music.gif?v=1670296000082",
+    "newFilename": "q-link-music.gif",
+    "localPath": "/images/q-link-music.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/quantum-link-menu.gif?v=1670295999742",
+    "newFilename": "quantum-link-menu.gif",
+    "localPath": "/images/quantum-link-menu.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg?v=1670294659242",
+    "newFilename": "slyfox-photography-BYtFC4Iyk0c-unsplash.jpg",
+    "localPath": "/images/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gadiel-lazcano-5udmhGcRWV0-unsplash.jpg?v=1670294524178",
+    "newFilename": "gadiel-lazcano-5udmhGcRWV0-unsplash.jpg",
+    "localPath": "/images/gadiel-lazcano-5udmhGcRWV0-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-floppy.jpg?v=1669964516546",
+    "newFilename": "prince-floppy.jpg",
+    "localPath": "/images/prince-floppy.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Prince-19830803.jpeg?v=1669964649871",
+    "newFilename": "Prince-19830803.jpeg",
+    "localPath": "/images/Prince-19830803.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pr-lyrics.jpg?v=1669965227958",
+    "newFilename": "pr-lyrics.jpg",
+    "localPath": "/images/pr-lyrics.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linn-drum.jpg?v=1669965367462",
+    "newFilename": "linn-drum.jpg",
+    "localPath": "/images/linn-drum.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-1983-08-03-mic.jpg?v=1669965459768",
+    "newFilename": "prince-1983-08-03-mic.jpg",
+    "localPath": "/images/prince-1983-08-03-mic.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-and-the-revolution.jpg?v=1669965536585",
+    "newFilename": "prince-and-the-revolution.jpg",
+    "localPath": "/images/prince-and-the-revolution.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-triumphant.jpg?v=1669965705862",
+    "newFilename": "prince-triumphant.jpg",
+    "localPath": "/images/prince-triumphant.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/FT_14.02.20_TwitterPoster-1.png?v=1670202695680",
+    "newFilename": "FT_14.02.20_TwitterPoster-1.png",
+    "localPath": "/images/FT_14.02.20_TwitterPoster-1.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg?v=1670201374535",
+    "newFilename": "lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg",
+    "localPath": "/images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/green-switches.jpeg?v=1670197419105",
+    "newFilename": "green-switches.jpeg",
+    "localPath": "/images/green-switches.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-adobe.jpeg?v=1670197418667",
+    "newFilename": "google-adobe.jpeg",
+    "localPath": "/images/google-adobe.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/regis-hari-bouchard-QzivCWSYEug-unsplash.jpg?v=1670293684609",
+    "newFilename": "regis-hari-bouchard-QzivCWSYEug-unsplash.jpg",
+    "localPath": "/images/regis-hari-bouchard-QzivCWSYEug-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-wolf-orissa-thumb-800xauto-412.jpg?v=1670107289789",
+    "newFilename": "tom-wolf-orissa-thumb-800xauto-412.jpg",
+    "localPath": "/images/tom-wolf-orissa-thumb-800xauto-412.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-sxsw.jpeg?v=1670106620875",
+    "newFilename": "anil-sxsw.jpeg",
+    "localPath": "/images/anil-sxsw.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/good-web-bundle-logo-alt.svg?v=1670105426057",
+    "newFilename": "good-web-bundle-logo-alt.svg",
+    "localPath": "/images/good-web-bundle-logo-alt.svg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/good-web-bundle-site-logos.png?v=1670105425793",
+    "newFilename": "good-web-bundle-site-logos.png",
+    "localPath": "/images/good-web-bundle-site-logos.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/changing-america.png?v=1670031961006",
+    "newFilename": "changing-america.png",
+    "localPath": "/images/changing-america.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-graduation.jpg?v=1670003339644",
+    "newFilename": "anil-graduation.jpg",
+    "localPath": "/images/anil-graduation.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/01state-pic-superJumbo.jpg?v=1669942510333",
+    "newFilename": "01state-pic-superJumbo.jpg",
+    "localPath": "/images/01state-pic-superJumbo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/motherboard.png?v=1669943039027",
+    "newFilename": "motherboard.png",
+    "localPath": "/images/motherboard.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Pac-Man-thumb-800xauto-419.jpg?v=1669940088745",
+    "newFilename": "Pac-Man-thumb-800xauto-419.jpg",
+    "localPath": "/images/Pac-Man-thumb-800xauto-419.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/99u-2015.webp?v=1670104867534",
+    "newFilename": "99u-2015.webp",
+    "localPath": "/images/99u-2015.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/comedy-hack-day.png?v=1670104491951",
+    "newFilename": "comedy-hack-day.png",
+    "localPath": "/images/comedy-hack-day.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nobody-famous.jpeg?v=1669939074989",
+    "newFilename": "nobody-famous.jpeg",
+    "localPath": "/images/nobody-famous.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-analytics.png?v=1669939073928",
+    "newFilename": "twitter-analytics.png",
+    "localPath": "/images/twitter-analytics.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/uber-for-uber.png?v=1747370056794",
+    "newFilename": "uber-for-uber.png",
+    "localPath": "/images/uber-for-uber.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/metrocard-big.png?v=1747370030805",
+    "newFilename": "metrocard-big.png",
+    "localPath": "/images/metrocard-big.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/indian-american-voting.png?v=1669938887637",
+    "newFilename": "indian-american-voting.png",
+    "localPath": "/images/indian-american-voting.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/will.i.am-twitter.jpeg?v=1669938481996",
+    "newFilename": "will.i.am-twitter.jpeg",
+    "localPath": "/images/will.i.am-twitter.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-chirp-logo.png?v=1669938482542",
+    "newFilename": "twitter-chirp-logo.png",
+    "localPath": "/images/twitter-chirp-logo.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-too-hard.jpeg?v=1669938482262",
+    "newFilename": "twitter-too-hard.jpeg",
+    "localPath": "/images/twitter-too-hard.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-sacca.jpeg?v=1669938481679",
+    "newFilename": "twitter-sacca.jpeg",
+    "localPath": "/images/twitter-sacca.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Salieri-Amadeus.jpg?v=1670032565073",
+    "newFilename": "Salieri-Amadeus.jpg",
+    "localPath": "/images/Salieri-Amadeus.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Lower-East-Side-Girls-Club.jpg?v=1670032406294",
+    "newFilename": "Lower-East-Side-Girls-Club.jpg",
+    "localPath": "/images/Lower-East-Side-Girls-Club.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/rock-with-you-single.jpg?v=1669920294288",
+    "newFilename": "rock-with-you-single.jpg",
+    "localPath": "/images/rock-with-you-single.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-on-drums.jpg?v=1669958367128",
+    "newFilename": "malcolm-on-drums.jpg",
+    "localPath": "/images/malcolm-on-drums.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gambarighanda.jpg?v=1669871137848",
+    "newFilename": "gambarighanda.jpg",
+    "localPath": "/images/gambarighanda.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/well-1.jpg?v=1669871137486",
+    "newFilename": "well-1.jpg",
+    "localPath": "/images/well-1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/water-sign.jpg?v=1669871137108",
+    "newFilename": "water-sign.jpg",
+    "localPath": "/images/water-sign.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/water-sign-shed.jpg?v=1669871136734",
+    "newFilename": "water-sign-shed.jpg",
+    "localPath": "/images/water-sign-shed.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/well-2.jpg?v=1669871136292",
+    "newFilename": "well-2.jpg",
+    "localPath": "/images/well-2.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-final.jpg?v=1669870539295",
+    "newFilename": "prince-final.jpg",
+    "localPath": "/images/prince-final.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/prince-avalon.jpg?v=1744775420775",
+    "newFilename": "prince-avalon.jpg",
+    "localPath": "/images/prince-avalon.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/text-from-scott.jpg?v=1744773732507",
+    "newFilename": "text-from-scott.jpg",
+    "localPath": "/images/text-from-scott.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/invite-to-prince-oscar-party.jpeg?v=1744773730063",
+    "newFilename": "invite-to-prince-oscar-party.jpeg",
+    "localPath": "/images/invite-to-prince-oscar-party.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/declining-prince-invite.jpeg?v=1744773673820",
+    "newFilename": "declining-prince-invite.jpeg",
+    "localPath": "/images/declining-prince-invite.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/the-dawn-postcard.png?v=1744347797661",
+    "newFilename": "the-dawn-postcard.png",
+    "localPath": "/images/the-dawn-postcard.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819",
+    "newFilename": "symbol.gif",
+    "localPath": "/images/symbol.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-the_hits__the_b-sides_a.jpg?v=1669869988585",
+    "newFilename": "prince-the_hits__the_b-sides_a.jpg",
+    "localPath": "/images/prince-the_hits__the_b-sides_a.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-hits-liner-notes.jpg?v=1669869988224",
+    "newFilename": "prince-hits-liner-notes.jpg",
+    "localPath": "/images/prince-hits-liner-notes.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-be-silhouette.png?v=1669868759248",
+    "newFilename": "prince-be-silhouette.png",
+    "localPath": "/images/prince-be-silhouette.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-interview.jpeg?v=1669869328121",
+    "newFilename": "pm-dawn-interview.jpeg",
+    "localPath": "/images/pm-dawn-interview.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-usa-today.jpeg?v=1669869327783",
+    "newFilename": "pm-dawn-usa-today.jpeg",
+    "localPath": "/images/pm-dawn-usa-today.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-krs-one.jpeg?v=1669869327304",
+    "newFilename": "pm-dawn-krs-one.jpeg",
+    "localPath": "/images/pm-dawn-krs-one.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-news-article.png?v=1669869327017",
+    "newFilename": "pm-dawn-news-article.png",
+    "localPath": "/images/pm-dawn-news-article.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/sts-135-launch.jpeg?v=1669867612901",
+    "newFilename": "sts-135-launch.jpeg",
+    "localPath": "/images/sts-135-launch.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/me-and-shuttle.webp?v=1669868311478",
+    "newFilename": "me-and-shuttle.webp",
+    "localPath": "/images/me-and-shuttle.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/color-books.jpeg?v=1669866330863",
+    "newFilename": "color-books.jpeg",
+    "localPath": "/images/color-books.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cd-laser.webp?v=1669867612400",
+    "newFilename": "cd-laser.webp",
+    "localPath": "/images/cd-laser.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1965-highway-status.gif?v=1669867612039",
+    "newFilename": "1965-highway-status.gif",
+    "localPath": "/images/1965-highway-status.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/minneapolis-highways.webp?v=1669867611747",
+    "newFilename": "minneapolis-highways.webp",
+    "localPath": "/images/minneapolis-highways.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/green-books.webp?v=1669867611433",
+    "newFilename": "green-books.webp",
+    "localPath": "/images/green-books.webp"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nypl-room.jpeg?v=1669865990954",
+    "newFilename": "nypl-room.jpeg",
+    "localPath": "/images/nypl-room.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/astor-cube.jpeg?v=1669865991439",
+    "newFilename": "astor-cube.jpeg",
+    "localPath": "/images/astor-cube.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tiles.jpeg?v=1669865733893",
+    "newFilename": "tiles.jpeg",
+    "localPath": "/images/tiles.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/honeycomb.jpg?v=1669865590169",
+    "newFilename": "honeycomb.jpg",
+    "localPath": "/images/honeycomb.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bookwave.jpeg?v=1669865589846",
+    "newFilename": "bookwave.jpeg",
+    "localPath": "/images/bookwave.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/one-wtc.jpeg?v=1669865495158",
+    "newFilename": "one-wtc.jpeg",
+    "localPath": "/images/one-wtc.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/notebook-notebook.jpeg?v=1669865122148",
+    "newFilename": "notebook-notebook.jpeg",
+    "localPath": "/images/notebook-notebook.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anotherround-012.jpg?v=1669865033780",
+    "newFilename": "anotherround-012.jpg",
+    "localPath": "/images/anotherround-012.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/screen-of-code.jpeg?v=1669864782607",
+    "newFilename": "screen-of-code.jpeg",
+    "localPath": "/images/screen-of-code.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/classic-tv.jpeg?v=1669864844940",
+    "newFilename": "classic-tv.jpeg",
+    "localPath": "/images/classic-tv.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jumbled-tools.jpeg?v=1669864893559",
+    "newFilename": "jumbled-tools.jpeg",
+    "localPath": "/images/jumbled-tools.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/growth.jpeg?v=1669862931067",
+    "newFilename": "growth.jpeg",
+    "localPath": "/images/growth.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fog-creek-product-history.png?v=1669862394565",
+    "newFilename": "fog-creek-product-history.png",
+    "localPath": "/images/fog-creek-product-history.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-yin-yang.png?v=1669860158356",
+    "newFilename": "twitter-yin-yang.png",
+    "localPath": "/images/twitter-yin-yang.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-mac.png?v=1669860365887",
+    "newFilename": "twitter-mac.png",
+    "localPath": "/images/twitter-mac.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/witter-media-gallery.png?v=1669860466511",
+    "newFilename": "witter-media-gallery.png",
+    "localPath": "/images/witter-media-gallery.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/on-being.jpg?v=1669787839343",
+    "newFilename": "on-being.jpg",
+    "localPath": "/images/on-being.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Debbie%2BMillman%2B1.jpg?v=1669787771382",
+    "newFilename": "Debbie%2BMillman%2B1.jpg",
+    "localPath": "/images/Debbie%2BMillman%2B1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/E53_St_Citibike_station_loaded_jeh.jpg?v=1669786964129",
+    "newFilename": "E53_St_Citibike_station_loaded_jeh.jpg",
+    "localPath": "/images/E53_St_Citibike_station_loaded_jeh.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-herb-ritts.jpg?v=1669786811539",
+    "newFilename": "prince-herb-ritts.jpg",
+    "localPath": "/images/prince-herb-ritts.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/smashed-monitor.jpeg?v=1669786278771",
+    "newFilename": "smashed-monitor.jpeg",
+    "localPath": "/images/smashed-monitor.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-1.png?v=1669786367175",
+    "newFilename": "fake-markets-1.png",
+    "localPath": "/images/fake-markets-1.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-2.png?v=1669786367639",
+    "newFilename": "fake-markets-2.png",
+    "localPath": "/images/fake-markets-2.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-3.png?v=1669786367957",
+    "newFilename": "fake-markets-3.png",
+    "localPath": "/images/fake-markets-3.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-4.png?v=1669786368205",
+    "newFilename": "fake-markets-4.png",
+    "localPath": "/images/fake-markets-4.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-chart.png?v=1669786368694",
+    "newFilename": "fake-markets-chart.png",
+    "localPath": "/images/fake-markets-chart.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-5.png?v=1669786368462",
+    "newFilename": "fake-markets-5.png",
+    "localPath": "/images/fake-markets-5.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dig-if-u-will-podcast.jpeg?v=1669785890436",
+    "newFilename": "dig-if-u-will-podcast.jpeg",
+    "localPath": "/images/dig-if-u-will-podcast.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stack-overflow-podcast.jpg?v=1669785802153",
+    "newFilename": "stack-overflow-podcast.jpg",
+    "localPath": "/images/stack-overflow-podcast.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/community-pulse.png?v=1669785695429",
+    "newFilename": "community-pulse.png",
+    "localPath": "/images/community-pulse.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/with-friends-like-these-podcast.jpeg?v=1669785592546",
+    "newFilename": "with-friends-like-these-podcast.jpeg",
+    "localPath": "/images/with-friends-like-these-podcast.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-park-donut.jpg?v=1669784455579",
+    "newFilename": "apple-park-donut.jpg",
+    "localPath": "/images/apple-park-donut.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wsj-apple-park.png?v=1669784645217",
+    "newFilename": "wsj-apple-park.png",
+    "localPath": "/images/wsj-apple-park.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/office-space-printer.jpeg?v=1669784248477",
+    "newFilename": "office-space-printer.jpeg",
+    "localPath": "/images/office-space-printer.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oculus-roof.jpeg?v=1669784171416",
+    "newFilename": "oculus-roof.jpeg",
+    "localPath": "/images/oculus-roof.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Obama-Foundation-Summit-Closing-Session.jpg?v=1669783996732",
+    "newFilename": "Obama-Foundation-Summit-Closing-Session.jpg",
+    "localPath": "/images/Obama-Foundation-Summit-Closing-Session.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-anil-1024x1024.jpg?v=1669783413614",
+    "newFilename": "prince-anil-1024x1024.jpg",
+    "localPath": "/images/prince-anil-1024x1024.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/star-wars-minute.jpg?v=1669783236961",
+    "newFilename": "star-wars-minute.jpg",
+    "localPath": "/images/star-wars-minute.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-1.jpeg?v=1669782582770",
+    "newFilename": "type-curve-1.jpeg",
+    "localPath": "/images/type-curve-1.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/typewriter-keys.jpeg?v=1669782631717",
+    "newFilename": "typewriter-keys.jpeg",
+    "localPath": "/images/typewriter-keys.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys.jpeg?v=1669782630996",
+    "newFilename": "type-keys.jpeg",
+    "localPath": "/images/type-keys.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-closeup.jpeg?v=1669782582297",
+    "newFilename": "type-closeup.jpeg",
+    "localPath": "/images/type-closeup.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys-line.jpeg?v=1669782630628",
+    "newFilename": "type-keys-line.jpeg",
+    "localPath": "/images/type-keys-line.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-punctuation.png?v=1669782631376",
+    "newFilename": "type-punctuation.png",
+    "localPath": "/images/type-punctuation.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-2.jpeg?v=1669782583099",
+    "newFilename": "type-curve-2.jpeg",
+    "localPath": "/images/type-curve-2.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg?v=1669781859688",
+    "newFilename": "4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg",
+    "localPath": "/images/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Masters-in-Business.png?v=1669781728752",
+    "newFilename": "Masters-in-Business.png",
+    "localPath": "/images/Masters-in-Business.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/hip-hop-bbq.jpg?v=1669625651678",
+    "newFilename": "hip-hop-bbq.jpg",
+    "localPath": "/images/hip-hop-bbq.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-01.jpeg?v=1669625487351",
+    "newFilename": "building-blocks-berries-01.jpeg",
+    "localPath": "/images/building-blocks-berries-01.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-04.jpeg?v=1669625486996",
+    "newFilename": "building-blocks-berries-04.jpeg",
+    "localPath": "/images/building-blocks-berries-04.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-03.jpeg?v=1669625486626",
+    "newFilename": "building-blocks-berries-03.jpeg",
+    "localPath": "/images/building-blocks-berries-03.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-02.jpeg?v=1669625486272",
+    "newFilename": "building-blocks-berries-02.jpeg",
+    "localPath": "/images/building-blocks-berries-02.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-05.jpeg?v=1669625485904",
+    "newFilename": "building-blocks-berries-05.jpeg",
+    "localPath": "/images/building-blocks-berries-05.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567",
+    "newFilename": "cassette.jpeg",
+    "localPath": "/images/cassette.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/corded-phone.jpeg?v=1669625301261",
+    "newFilename": "corded-phone.jpeg",
+    "localPath": "/images/corded-phone.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/camera.jpeg?v=1669625300967",
+    "newFilename": "camera.jpeg",
+    "localPath": "/images/camera.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-plug.jpeg?v=1669625300721",
+    "newFilename": "usb-plug.jpeg",
+    "localPath": "/images/usb-plug.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record.jpeg?v=1669625300439",
+    "newFilename": "record.jpeg",
+    "localPath": "/images/record.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record-player.jpg?v=1669625212456",
+    "newFilename": "record-player.jpg",
+    "localPath": "/images/record-player.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-jerry.jpeg?v=1669624841516",
+    "newFilename": "tom-jerry.jpeg",
+    "localPath": "/images/tom-jerry.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-unfollow.png?v=1669624499447",
+    "newFilename": "anil-dash-unfollow.png",
+    "localPath": "/images/anil-dash-unfollow.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/followings-spreadsheet.png?v=1669624499116",
+    "newFilename": "followings-spreadsheet.png",
+    "localPath": "/images/followings-spreadsheet.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-c-lightning-thermal.jpg?v=1669624310335",
+    "newFilename": "usb-c-lightning-thermal.jpg",
+    "localPath": "/images/usb-c-lightning-thermal.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/MNF82_AV2_GEO_US.jpg?v=1669624372987",
+    "newFilename": "MNF82_AV2_GEO_US.jpg",
+    "localPath": "/images/MNF82_AV2_GEO_US.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wtc-the-vantage-point-741917.jpeg?v=1669624247284",
+    "newFilename": "wtc-the-vantage-point-741917.jpeg",
+    "localPath": "/images/wtc-the-vantage-point-741917.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pencils.jpeg?v=1669624196943",
+    "newFilename": "pencils.jpeg",
+    "localPath": "/images/pencils.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/flooding.jpeg?v=1669624048650",
+    "newFilename": "flooding.jpeg",
+    "localPath": "/images/flooding.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-flood-zones.png?v=1669624105027",
+    "newFilename": "nyc-flood-zones.png",
+    "localPath": "/images/nyc-flood-zones.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/murmuration-hd.gif?v=1669623964746",
+    "newFilename": "murmuration-hd.gif",
+    "localPath": "/images/murmuration-hd.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-greatest-romance.gif?v=1669612285494",
+    "newFilename": "prince-greatest-romance.gif",
+    "localPath": "/images/prince-greatest-romance.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lrc-spin.gif?v=1669612550583",
+    "newFilename": "lrc-spin.gif",
+    "localPath": "/images/lrc-spin.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/scandalous.jpg?v=1669613538111",
+    "newFilename": "scandalous.jpg",
+    "localPath": "/images/scandalous.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-one-song.mp4?v=1669622877128",
+    "newFilename": "prince-one-song.mp4",
+    "localPath": "/images/prince-one-song.mp4"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/janet-jackson-1100-1.jpg?v=1669611620127",
+    "newFilename": "janet-jackson-1100-1.jpg",
+    "localPath": "/images/janet-jackson-1100-1.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/crowd-jomo.jpeg?v=1669611496124",
+    "newFilename": "crowd-jomo.jpeg",
+    "localPath": "/images/crowd-jomo.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/playdate-device-interior-80.jpg?v=1669585909286",
+    "newFilename": "playdate-device-interior-80.jpg",
+    "localPath": "/images/playdate-device-interior-80.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/playdate-promo.jpg?v=1669586067075",
+    "newFilename": "playdate-promo.jpg",
+    "localPath": "/images/playdate-promo.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pawel-czerwinski-not-jupiter.jpeg?v=1669585679659",
+    "newFilename": "pawel-czerwinski-not-jupiter.jpeg",
+    "localPath": "/images/pawel-czerwinski-not-jupiter.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/orange-bar-1.jpeg?v=1669585755257",
+    "newFilename": "orange-bar-1.jpeg",
+    "localPath": "/images/orange-bar-1.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/towers-of-light.jpeg?v=1669585604529",
+    "newFilename": "towers-of-light.jpeg",
+    "localPath": "/images/towers-of-light.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fire-escapes.jpeg?v=1669585474348",
+    "newFilename": "fire-escapes.jpeg",
+    "localPath": "/images/fire-escapes.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixing-board.jpeg?v=1669585118919",
+    "newFilename": "mixing-board.jpeg",
+    "localPath": "/images/mixing-board.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fort.jpeg?v=1669585048076",
+    "newFilename": "fort.jpeg",
+    "localPath": "/images/fort.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airpods.jpeg?v=1669584885063",
+    "newFilename": "airpods.jpeg",
+    "localPath": "/images/airpods.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slow-knife.jpeg?v=1669584763145",
+    "newFilename": "slow-knife.jpeg",
+    "localPath": "/images/slow-knife.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airy-library.jpeg?v=1669584686549",
+    "newFilename": "airy-library.jpeg",
+    "localPath": "/images/airy-library.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dark-clouds.jpeg?v=1670563921858",
+    "newFilename": "dark-clouds.jpeg",
+    "localPath": "/images/dark-clouds.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-mural.jpeg?v=1669583864980",
+    "newFilename": "prince-mural.jpeg",
+    "localPath": "/images/prince-mural.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lego-flats.jpeg?v=1669583630904",
+    "newFilename": "lego-flats.jpeg",
+    "localPath": "/images/lego-flats.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-skies.jpeg?v=1669582695971",
+    "newFilename": "purple-skies.jpeg",
+    "localPath": "/images/purple-skies.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tour-ticket.png?v=1669582861697",
+    "newFilename": "purple-rain-tour-ticket.png",
+    "localPath": "/images/purple-rain-tour-ticket.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tourbook-page-3.jpg?v=1669582861467",
+    "newFilename": "purple-rain-tourbook-page-3.jpg",
+    "localPath": "/images/purple-rain-tourbook-page-3.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tour-screen-title.png?v=1669582861155",
+    "newFilename": "purple-rain-tour-screen-title.png",
+    "localPath": "/images/purple-rain-tour-screen-title.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gett-off-damn-near-10-minutes.jpg?v=1669582860833",
+    "newFilename": "gett-off-damn-near-10-minutes.jpg",
+    "localPath": "/images/gett-off-damn-near-10-minutes.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/the-revolution-spins.gif?v=1669582860627",
+    "newFilename": "the-revolution-spins.gif",
+    "localPath": "/images/the-revolution-spins.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/del-lgc-middle-section.mp3?v=1669583190595",
+    "newFilename": "del-lgc-middle-section.mp3",
+    "localPath": "/images/del-lgc-middle-section.mp3"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Lisa-coleman.jpg?v=1669582859005",
+    "newFilename": "Lisa-coleman.jpg",
+    "localPath": "/images/Lisa-coleman.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wendy-melvoin-purple-rain-tourbook.jpg?v=1669582858693",
+    "newFilename": "wendy-melvoin-purple-rain-tourbook.jpg",
+    "localPath": "/images/wendy-melvoin-purple-rain-tourbook.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Parental_Advisory_label.png?v=1669582857501",
+    "newFilename": "Parental_Advisory_label.png",
+    "localPath": "/images/Parental_Advisory_label.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/surveillance-camera.jpeg?v=1669582586845",
+    "newFilename": "surveillance-camera.jpeg",
+    "localPath": "/images/surveillance-camera.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fading-flowers.jpeg?v=1669582504422",
+    "newFilename": "fading-flowers.jpeg",
+    "localPath": "/images/fading-flowers.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/passport.jpeg?v=1669582414085",
+    "newFilename": "passport.jpeg",
+    "localPath": "/images/passport.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fraying-knots.jpeg?v=1669582261896",
+    "newFilename": "fraying-knots.jpeg",
+    "localPath": "/images/fraying-knots.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/windows-95-future.jpeg?v=1669582109489",
+    "newFilename": "windows-95-future.jpeg",
+    "localPath": "/images/windows-95-future.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chinatown-wtc.jpeg?v=1669582026545",
+    "newFilename": "chinatown-wtc.jpeg",
+    "localPath": "/images/chinatown-wtc.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/keyboard-closeup.jpeg?v=1669581887215",
+    "newFilename": "keyboard-closeup.jpeg",
+    "localPath": "/images/keyboard-closeup.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ducks-following.jpeg?v=1669529893324",
+    "newFilename": "ducks-following.jpeg",
+    "localPath": "/images/ducks-following.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/file-folders.jpeg?v=1669529571342",
+    "newFilename": "file-folders.jpeg",
+    "localPath": "/images/file-folders.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/finder-contents.mp4?v=1669529658758",
+    "newFilename": "finder-contents.mp4",
+    "localPath": "/images/finder-contents.mp4"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/moynihan.JPG?v=1669529079506",
+    "newFilename": "moynihan.JPG",
+    "localPath": "/images/moynihan.JPG"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/elmgreen.jpeg?v=1669529135915",
+    "newFilename": "elmgreen.jpeg",
+    "localPath": "/images/elmgreen.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wiley.jpeg?v=1669529134351",
+    "newFilename": "wiley.jpeg",
+    "localPath": "/images/wiley.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/grass-net.jpeg?v=1670564048193",
+    "newFilename": "grass-net.jpeg",
+    "localPath": "/images/grass-net.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/workshop-drawers.jpeg?v=1669528992249",
+    "newFilename": "workshop-drawers.jpeg",
+    "localPath": "/images/workshop-drawers.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/capitol-lights.jpeg?v=1669528860078",
+    "newFilename": "capitol-lights.jpeg",
+    "localPath": "/images/capitol-lights.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dule-rocker.jpg?v=1669528611352",
+    "newFilename": "dule-rocker.jpg",
+    "localPath": "/images/dule-rocker.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/safer-streets.jpeg?v=1669528499617",
+    "newFilename": "safer-streets.jpeg",
+    "localPath": "/images/safer-streets.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Robin-Byrd-show.jpeg?v=1669528407903",
+    "newFilename": "Robin-Byrd-show.jpeg",
+    "localPath": "/images/Robin-Byrd-show.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Prince-Jonathan-Daniel_o.jpg?v=1669527682646",
+    "newFilename": "Prince-Jonathan-Daniel_o.jpg",
+    "localPath": "/images/Prince-Jonathan-Daniel_o.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-opening-for-the-stones.jpg?v=1669527731608",
+    "newFilename": "prince-opening-for-the-stones.jpg",
+    "localPath": "/images/prince-opening-for-the-stones.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-thanks.gif?v=1669527995966",
+    "newFilename": "prince-thanks.gif",
+    "localPath": "/images/prince-thanks.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/super-bowl-paisley-park.jpg?v=1669528060627",
+    "newFilename": "super-bowl-paisley-park.jpg",
+    "localPath": "/images/super-bowl-paisley-park.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zelda-window.jpeg?v=1669527405633",
+    "newFilename": "zelda-window.jpeg",
+    "localPath": "/images/zelda-window.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tourists.jpeg?v=1669527246224",
+    "newFilename": "tourists.jpeg",
+    "localPath": "/images/tourists.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/verified.jpg?v=1669526964731",
+    "newFilename": "verified.jpg",
+    "localPath": "/images/verified.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Charanjit-Chana-d-pad.jpg?v=1669526899195",
+    "newFilename": "Charanjit-Chana-d-pad.jpg",
+    "localPath": "/images/Charanjit-Chana-d-pad.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/manhattan-1985.jpeg?v=1669526801634",
+    "newFilename": "manhattan-1985.jpeg",
+    "localPath": "/images/manhattan-1985.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/embedded-logo-1.png?v=1669526672667",
+    "newFilename": "embedded-logo-1.png",
+    "localPath": "/images/embedded-logo-1.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Austin-Scherbarth-wtc-myth.jpeg?v=1669526104727",
+    "newFilename": "Austin-Scherbarth-wtc-myth.jpeg",
+    "localPath": "/images/Austin-Scherbarth-wtc-myth.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/more-than-ever.jpg?v=1669526153366",
+    "newFilename": "more-than-ever.jpg",
+    "localPath": "/images/more-than-ever.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-spreadsheet-web.jpeg?v=1669524612655",
+    "newFilename": "prince-spreadsheet-web.jpeg",
+    "localPath": "/images/prince-spreadsheet-web.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-dm-credits.PNG?v=1669525868205",
+    "newFilename": "prince-dm-credits.PNG",
+    "localPath": "/images/prince-dm-credits.PNG"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Mika-Baumeister-speech-bubbles.jpeg?v=1669524180647",
+    "newFilename": "Mika-Baumeister-speech-bubbles.jpeg",
+    "localPath": "/images/Mika-Baumeister-speech-bubbles.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Alexander%20Andrews-broken-phone.jpeg?v=1669523043836",
+    "newFilename": "Alexander%20Andrews-broken-phone.jpeg",
+    "localPath": "/images/Alexander%20Andrews-broken-phone.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Jeremy-Bezanger-macbook-pro.jpeg?v=1669522353112",
+    "newFilename": "Jeremy-Bezanger-macbook-pro.jpeg",
+    "localPath": "/images/Jeremy-Bezanger-macbook-pro.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/macbook-battery-control-panel.jpeg?v=1669522628176",
+    "newFilename": "macbook-battery-control-panel.jpeg",
+    "localPath": "/images/macbook-battery-control-panel.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/geekbench-macbook-comparison.png?v=1669522717966",
+    "newFilename": "geekbench-macbook-comparison.png",
+    "localPath": "/images/geekbench-macbook-comparison.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bady-abbas-lights.jpeg?v=1669522236867",
+    "newFilename": "bady-abbas-lights.jpeg",
+    "localPath": "/images/bady-abbas-lights.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Ugo-Mendes-Donelli-dice.jpeg?v=1669522133491",
+    "newFilename": "Ugo-Mendes-Donelli-dice.jpeg",
+    "localPath": "/images/Ugo-Mendes-Donelli-dice.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/98f9ae05-a402-4da9-9cb1-88a05470f35a/Raffaele-Nicolussi-mlk-memorial.jpeg?v=1669498844228",
+    "newFilename": "Raffaele-Nicolussi-mlk-memorial.jpeg",
+    "localPath": "/images/Raffaele-Nicolussi-mlk-memorial.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Nick-Fewings-arrow.jpeg?v=1669519763737",
+    "newFilename": "Nick-Fewings-arrow.jpeg",
+    "localPath": "/images/Nick-Fewings-arrow.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/kevin-andre-broken-record.jpeg?v=1669511042979",
+    "newFilename": "kevin-andre-broken-record.jpeg",
+    "localPath": "/images/kevin-andre-broken-record.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20David-Taffet-dog.jpeg?v=1669519663487",
+    "newFilename": "%20David-Taffet-dog.jpeg",
+    "localPath": "/images/%20David-Taffet-dog.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20Greg-Rosenke-bricks.jpeg?v=1669519589433",
+    "newFilename": "%20Greg-Rosenke-bricks.jpeg",
+    "localPath": "/images/%20Greg-Rosenke-bricks.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/light-field.jpeg?v=1669519480985",
+    "newFilename": "light-field.jpeg",
+    "localPath": "/images/light-field.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/trophies.jpg?v=1669518643619",
+    "newFilename": "trophies.jpg",
+    "localPath": "/images/trophies.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/vulture-puzzle.png?v=1669518599224",
+    "newFilename": "vulture-puzzle.png",
+    "localPath": "/images/vulture-puzzle.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/boston-globe-puzzle.png?v=1669518574441",
+    "newFilename": "boston-globe-puzzle.png",
+    "localPath": "/images/boston-globe-puzzle.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/globe-puzzle-answer.png?v=1669526559236",
+    "newFilename": "globe-puzzle-answer.png",
+    "localPath": "/images/globe-puzzle-answer.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Eugene-Chystiakov-vials.jpeg?v=1670218332870",
+    "newFilename": "Eugene-Chystiakov-vials.jpeg",
+    "localPath": "/images/Eugene-Chystiakov-vials.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oceanside.jpeg?v=1669518300800",
+    "newFilename": "oceanside.jpeg",
+    "localPath": "/images/oceanside.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tomas-martinez-wtc.jpeg?v=1669518151801",
+    "newFilename": "tomas-martinez-wtc.jpeg",
+    "localPath": "/images/tomas-martinez-wtc.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pickled-onions.png?v=1669517076392",
+    "newFilename": "pickled-onions.png",
+    "localPath": "/images/pickled-onions.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/traffic-light.jpg?v=1673922589925",
+    "newFilename": "traffic-light.jpg",
+    "localPath": "/images/traffic-light.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blindfold.jpg?v=1677543002592",
+    "newFilename": "blindfold.jpg",
+    "localPath": "/images/blindfold.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/oberheim.jpg?v=1677732192339",
+    "newFilename": "oberheim.jpg",
+    "localPath": "/images/oberheim.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sold-out.jpg?v=1678846434828",
+    "newFilename": "sold-out.jpg",
+    "localPath": "/images/sold-out.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/revolution-time.png?v=1678850063731",
+    "newFilename": "revolution-time.png",
+    "localPath": "/images/revolution-time.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/victor-3YW2jxSblE8-unsplash.jpg?v=1686235653044",
+    "newFilename": "victor-3YW2jxSblE8-unsplash.jpg",
+    "localPath": "/images/victor-3YW2jxSblE8-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blue-distortion.jpg?v=1688738173842",
+    "newFilename": "blue-distortion.jpg",
+    "localPath": "/images/blue-distortion.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/single-puzzle.png?v=1691543857774",
+    "newFilename": "single-puzzle.png",
+    "localPath": "/images/single-puzzle.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/tomas-martinez-wtc-nyc.jpg?v=1694471884095",
+    "newFilename": "tomas-martinez-wtc-nyc.jpg",
+    "localPath": "/images/tomas-martinez-wtc-nyc.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/white-mug.jpg?v=1699633792846",
+    "newFilename": "white-mug.jpg",
+    "localPath": "/images/white-mug.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/markus-bluthner.jpg?v=1704264364518",
+    "newFilename": "markus-bluthner.jpg",
+    "localPath": "/images/markus-bluthner.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/glasses-laptop-unsplash.jpg?v=1705608903940",
+    "newFilename": "glasses-laptop-unsplash.jpg",
+    "localPath": "/images/glasses-laptop-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/microphone-pandelache.jpg?v=1706588470713",
+    "newFilename": "microphone-pandelache.jpg",
+    "localPath": "/images/microphone-pandelache.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/documents-ink.jpeg?v=1710433195212",
+    "newFilename": "documents-ink.jpeg",
+    "localPath": "/images/documents-ink.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/IMG_3448.gif?v=1710026408381",
+    "newFilename": "IMG_3448.gif",
+    "localPath": "/images/IMG_3448.gif"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/prince-letterman.png?v=1710215577245",
+    "newFilename": "prince-letterman.png",
+    "localPath": "/images/prince-letterman.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Prince-The-Gold-Experience-Flyer.jpg?v=1710214871451",
+    "newFilename": "Prince-The-Gold-Experience-Flyer.jpg",
+    "localPath": "/images/Prince-The-Gold-Experience-Flyer.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/faded-heart.jpeg?v=1712642743509",
+    "newFilename": "faded-heart.jpeg",
+    "localPath": "/images/faded-heart.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/machine-white.jpeg?v=1717040852094",
+    "newFilename": "machine-white.jpeg",
+    "localPath": "/images/machine-white.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/flock-imag-crop.jpeg?v=1718411838633",
+    "newFilename": "flock-imag-crop.jpeg",
+    "localPath": "/images/flock-imag-crop.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg?v=1718931202635",
+    "newFilename": "yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg",
+    "localPath": "/images/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg?v=1719461843875",
+    "newFilename": "afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg",
+    "localPath": "/images/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg?v=1719933428151",
+    "newFilename": "joshua-hoehne-ouPTL4-f_mg-unsplash.jpg",
+    "localPath": "/images/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/3273911092_5e4cba68dc_k.jpg?v=1725152457994",
+    "newFilename": "3273911092_5e4cba68dc_k.jpg",
+    "localPath": "/images/3273911092_5e4cba68dc_k.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/lerone-pieters-MU_OlJ_EQWU-unsplash.jpg?v=1726155599949",
+    "newFilename": "lerone-pieters-MU_OlJ_EQWU-unsplash.jpg",
+    "localPath": "/images/lerone-pieters-MU_OlJ_EQWU-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/f03d6739-980b-47cc-938b-9f609e337e14/chili-pepper.jpg?v=1726469796258",
+    "newFilename": "chili-pepper.jpg",
+    "localPath": "/images/chili-pepper.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907",
+    "newFilename": "DECK%20COAI.pdf",
+    "localPath": "/images/DECK%20COAI.pdf"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/internet-explorer-6.jpg?v=1729061812984",
+    "newFilename": "internet-explorer-6.jpg",
+    "localPath": "/images/internet-explorer-6.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/parchment.jpg?v=1732054196424",
+    "newFilename": "parchment.jpg",
+    "localPath": "/images/parchment.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/flame.jpeg?v=1732993424998",
+    "newFilename": "flame.jpeg",
+    "localPath": "/images/flame.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/dog-leash-isolated-white-close-up.jpg?v=1736031210224",
+    "newFilename": "dog-leash-isolated-white-close-up.jpg",
+    "localPath": "/images/dog-leash-isolated-white-close-up.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/priority-zero.png?v=1743137761403",
+    "newFilename": "priority-zero.png",
+    "localPath": "/images/priority-zero.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/Dolly-Parton-Rockstar-recolor.jpg?v=1744340389470",
+    "newFilename": "Dolly-Parton-Rockstar-recolor.jpg",
+    "localPath": "/images/Dolly-Parton-Rockstar-recolor.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/dolly-on-prince.jpg?v=1744336582819",
+    "newFilename": "dolly-on-prince.jpg",
+    "localPath": "/images/dolly-on-prince.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg?v=1745983904931",
+    "newFilename": "andrea-de-santis-wc5F6AmvuIU-unsplash.jpg",
+    "localPath": "/images/andrea-de-santis-wc5F6AmvuIU-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/alexas_fotos-Bg0Qaj38le0-unsplash.jpg?v=1746151950592",
+    "newFilename": "alexas_fotos-Bg0Qaj38le0-unsplash.jpg",
+    "localPath": "/images/alexas_fotos-Bg0Qaj38le0-unsplash.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/plug.jpg?v=1747720764194",
+    "newFilename": "plug.jpg",
+    "localPath": "/images/plug.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andor-concept-art.jpg?v=1747971740176",
+    "newFilename": "andor-concept-art.jpg",
+    "localPath": "/images/andor-concept-art.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/moralis-tsai-MpKdCe4YXF0.jpg?v=1748329059166",
+    "newFilename": "moralis-tsai-MpKdCe4YXF0.jpg",
+    "localPath": "/images/moralis-tsai-MpKdCe4YXF0.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/kelly-sikkema-hUuGUG9gdRg.jpg?v=1748496250768",
+    "newFilename": "kelly-sikkema-hUuGUG9gdRg.jpg",
+    "localPath": "/images/kelly-sikkema-hUuGUG9gdRg.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/sly-stone.jpg?v=1749525309808",
+    "newFilename": "sly-stone.jpg",
+    "localPath": "/images/sly-stone.jpg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/juliana-malta-BGZU3Xq-Kg0-square.jpeg?v=1749661882675",
+    "newFilename": "juliana-malta-BGZU3Xq-Kg0-square.jpeg",
+    "localPath": "/images/juliana-malta-BGZU3Xq-Kg0-square.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/headshot-2022-square.jpeg?v=1698766406592",
+    "newFilename": "headshot-2022-square.jpeg",
+    "localPath": "/images/headshot-2022-square.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/headshot-2022-square.jpeg?v=1698766406592{%",
+    "newFilename": "headshot-2022-square-1.jpeg",
+    "localPath": "/images/headshot-2022-square-1.jpeg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-touch-icon.png?v=1670219223610",
+    "newFilename": "apple-touch-icon.png",
+    "localPath": "/images/apple-touch-icon.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/favicon-32x32.png?v=1670219224099",
+    "newFilename": "favicon-32x32.png",
+    "localPath": "/images/favicon-32x32.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/favicon-16x16.png?v=1670219223859",
+    "newFilename": "favicon-16x16.png",
+    "localPath": "/images/favicon-16x16.png"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/rss.svg?v=1669925974414",
+    "newFilename": "rss.svg",
+    "localPath": "/images/rss.svg"
+  },
+  {
+    "originalUrl": "https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/2025-headshot-square-1600.jpeg?v=1749429463025",
+    "newFilename": "2025-headshot-square-1600.jpeg",
+    "localPath": "/images/2025-headshot-square-1600.jpeg"
+  }
+]

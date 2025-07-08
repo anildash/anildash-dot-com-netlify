@@ -7,7 +7,7 @@ tags: [tech, blogs]
 ---
 **Today’s Blog of the Year Picks:** [Ask the Wizard](http://www.burningdoor.com/askthewizard/) and [Fortuitous](http://fortuito.us).
 
-![fortuitous](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/fortuitous-screen.gif?v=1674707770247)
+![fortuitous](/images/fortuitous-screen.gif)
 
 Between these two blogs, there have barely been twenty posts this year. Yet either one alone could be the best small-business (or small *tech* business) site of the year. Dick Costolo, co-founder and CEO of FeedBurner (now part of Google) writes Ask the Wizard, and Matt Haughey, proprietor of MetaFilter, is behind Fortuitous. Both these guys are a little too busy running their businesses to post more often than they do, but I’ll take what I can get. And both are creative, funny, honest writers whose openness and candor are inspiring.
 

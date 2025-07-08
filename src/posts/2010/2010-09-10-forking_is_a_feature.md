@@ -9,7 +9,7 @@ While Linus Torvalds is best known as the creator of Linux, it’s one of his mo
 
 Perhaps the technologies that let us easily collaborate together online have finally matured enough to let our work reflect the reality that some problems are better solved with lots of different efforts instead of one committee-built compromise.
 
-![GitHub's map of code forks](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/github-fork-map.png?v=1670812703180)
+![GitHub's map of code forks](/images/github-fork-map.png)
 
 The idea of “open source” in the technology world is really a set of cultural beliefs, despite usually masquerading as technical or legal choices made by a community. All cultures have norms, and standards of behavior, and most importantly, they have behaviors they consider antisocial or destructive.
 
@@ -31,7 +31,7 @@ Until a git named Linus changed that.
 
 You know Linus Torvalds, he’s the guy who created (and nearly eponymized) Linux. But perhaps his *most* impressive act of creating technological culture is in fathering Git, the enormously popular distributed revision control system. That mouthful of a description basically means “system that lets a decentralized group of creators efficiently collaborate on a complicated bit of software”. Other systems had enabled distributed revision control before, making it easier to rapidly evolve software, and to appropriately assign blame to whomever had introduced a bug into the program, but few had found any notable degree of popularity.
 
-![Forking on GitHub](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/github-fork.png?v=1670812734225)
+![Forking on GitHub](/images/github-fork.png)
 
 But Linus’ pedigree, influence and outstanding implementation immediately put Git at the forefront of choices to solve this class of problem. Even better, his credibility with the new generation of social software creators inspired the rapid launch and brilliant evolution of [GitHub](http://github.com/), a social network for developers that relies on the technology of Git as its underpinnings, but has also embraced the *philosophy* of Git as its fundamental interaction model.
 

@@ -13,7 +13,7 @@ At the end of yesterday’s exciting episode, **User X was waiting**, mouse-fing
 
 The sign in graphic is a standard Passport graphic, probably pulled from the user’s cache, because all links to the graphic are **from the passport server**.
 
-![Passport Sign In](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passsignin.gif?v=1730089615459)
+![Passport Sign In](/images/passsignin.gif)
 
 Our user already has a Passport profile, since they use Hotmail. However, the potential for **discord in our harmonious user experience** begins here, as the "standard" Passport screen is provided by Passport’s server.
 
@@ -33,7 +33,7 @@ Basically, two rectangular areas are provided where the Passport page will optio
 
 In either of those cases, being able to include your logo on the standard sign in screen would be valuable, but it remains be seen whether the tradeoff in design flexibility will result in overall usability gains.
 
-![Passport Sign Out](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passsignout.gif?v=1730089615762)
+![Passport Sign Out](/images/passsignout.gif)
 
 ### Conclusion
 

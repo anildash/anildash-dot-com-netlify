@@ -11,4 +11,4 @@ However, some of the reports I’ve read say they authorized *four* providers, w
 
 **Addendum**: It *is* only the two providers who have been authorized. And the postage uses the **two-dimensional barcode** (like [UPS](http://www.ups.com) uses) to store the information. It looks like **this**:
 
-![Internet Postage Barcode](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/estamp.gif?v=1730089606439)
+![Internet Postage Barcode](/images/estamp.gif)

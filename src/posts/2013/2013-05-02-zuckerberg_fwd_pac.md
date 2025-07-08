@@ -3,7 +3,7 @@ title: 'Zuckerberg''s FWD: Making Sure They Get It Right'
 slug: zuckerberg_fwd_pac
 date_published: 2013-05-02 18:00:32+00:00
 date_updated: 2013-05-02 18:00:32+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fwd-us-logo.jpeg.webp?v=1670560884310
+image: /images/fwd-us-logo.jpeg.webp
 tags: [tech, policy]
 ---
 Mark Zuckerberg built himself a political action committee called [FWD.us](http://www.fwd.us/), and they’re diving headfirst into trying to change immigration policy as their first priority. They seem to have good goals, and they’ve already adopted some extremely polarizing tactics, so I’ve tried to collect my thoughts here, as informed by a roundtable conversation yesterday which included FWD.us President and co-founder Joe Green. Spoilers: I don’t have a simple, easy “It sucks!” or “It’s great!” conclusion about FWD.us, but hopefully I’ve put together enough perspective here to help inform the discussion, provide some specific areas of improvement for the PAC, and offer a useful starting point for the discussion within the tech community of how we’d like to be effective in driving policy, whether specifically about immigration or on any broader issue.

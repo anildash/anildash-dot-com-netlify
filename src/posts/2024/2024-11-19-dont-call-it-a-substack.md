@@ -2,8 +2,8 @@
 title: "Don't call it a Substack."
 slug: dont-call-it-a-substack
 date_published: 2024-11-19T12:00:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/parchment.jpg?v=1732054196424
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/parchment.jpg?v=1732054196424
+heroimage: /images/parchment.jpg
+image: /images/parchment.jpg
 tags: [tech, internet, blogs]
 ---
 

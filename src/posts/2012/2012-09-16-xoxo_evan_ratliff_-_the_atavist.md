@@ -11,7 +11,7 @@ Evan Ratliff is a Wired journalist who became a startup founder, creating The At
 
 ## [Evan Ratliff](https://twitter.com/ev_rat)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RollTide_sm_normal.jpg?v=1670739803865)
+![](/images/RollTide_sm_normal.jpg)
 
 Company: **[The Atavist](http://www.atavist.com/)**
 

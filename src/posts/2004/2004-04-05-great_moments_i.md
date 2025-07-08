@@ -3,7 +3,7 @@ title: Great Moments in Advertising
 slug: great_moments_i
 date_published: 2004-04-05 09:04:27+00:00
 date_updated: 2004-04-05 09:04:27+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Dylan.jpg?v=1679884419089
+image: /images/Dylan.jpg
 tags: [music]
 ---
 About 250 years ago, Josiah Wedwood invented the concept of the [celebrity endorsement](http://www.forbes.com/2004/03/15/cx_dd_mibp_0315wedgwood.html). A scant two and a half centuries later, his clever marketing strategy has reached its ominous and terrifying nadir. If I understand correctly, the worst idea in the entire history of advertising was recently unveiled: [Bob Dylan selling lingerie](http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2004/04/03/MNGRI608A81.DTL). [Bob Dylan and lacy underthings](http://advertising.wsj.com/marketing_stories/J20040402000138.htm), together at last.

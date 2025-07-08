@@ -11,7 +11,7 @@ In advance of the conversation, I [began a conversation](http://beta.branch.com/
 
 Then to the main event. We had a terrific turnout within the room, and responses to the interview started almost immediately. Within the room, Andrew Federman was illustrating our conversation for Ogilvy’s visual notes series:
 
-[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oglivy-notes-gawker-comments.jpg?v=1670720759787)](https://web.archive.org/web/20120511093652/https://ogilvynotes.com/49790/454990/sxsw-2012/the-nick-denton-interview-the-failure-of-comments "Sketch notes on Gawker comments converastion")
+[![](/images/oglivy-notes-gawker-comments.jpg)](https://web.archive.org/web/20120511093652/https://ogilvynotes.com/49790/454990/sxsw-2012/the-nick-denton-interview-the-failure-of-comments "Sketch notes on Gawker comments converastion")
 
 Mat Honan also followed up almost immediately [on Gizmodo](http://gizmodo.com/5892301/heres-what-nick-denton-said-about-his-own-commenters), with a series of [curated tweets](http://storify.com/mat/nick-denton-talks-about-you) that managed to capture a lot of the highlights of the conversation.
 

@@ -3,8 +3,8 @@ title: 'Google Office: Google Apps for Your Domain'
 slug: google_office_g
 date_published: 2006-08-28 04:00:23+00:00
 date_updated: 2006-08-28 04:00:23+00:00
-heroimage: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-signup.gif?v=1730095747125
-image: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-signup.gif?v=1730095747125
+heroimage: /images/google-apps-signup.gif
+image: /images/google-apps-signup.gif
 tags: [Best Of, Most Popular, tech, google, web2.0]
 ---
 
@@ -14,13 +14,13 @@ The first version of [Google Apps for Your Domain](https://www.google.com/a/) ha
 
 The basic offerings that make up Google Apps are probably fairly familiar: Gmail, Google Calendar, and Google Talk are all fairly well-adopted, and even those who don’t use them regularly are familiar with the influence and impact they’ve had over each of their categories. Google Pages, which makes up the Google Page Creator part of the offering, received more criticism at launch, but is still more than adequate for making standalone static web pages. There’s also the ability to create simple email lists, which seems appropriate, as the full Google Groups functionality would be overkill for this audience.
 
-![Google Apps Setup Page](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-setup.gif?v=1730095746639)
+![Google Apps Setup Page](/images/google-apps-setup.gif)
 
 Of course these applications all existed, and in the case of Gmail, have been around for more than 2 years. That means the primary addition in Apps is a management interface for creating user accounts and assigning permissions. Fortunately, the account interface is simple and offers all the basic account creation and management functions required, albeit in a fairly homely interface.
 
 As a side note, it’s interesting to see the convergence around simple .CSV files as the defacto standard for lightweight user account creation. [Movable Type Enterprise](http://www.sixapart.com/business/movable-type/enterprise) supports this same mechanism for users who don’t want to hook it up to a full LDAP server, and I’m always surprised just how enthusiastic admins can be about the idea of just uploading a text file instead of doing something more complicated.
 
-![Google Apps Account Setup Page](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-account-setup.gif?v=1730095746199)
+![Google Apps Account Setup Page](/images/google-apps-account-setup.gif)
 
 ### Google Apps doesn’t compete with Microsoft Office
 
@@ -58,7 +58,7 @@ We’ve seen the strengths of Google Apps, an overview of how it compares to Mic
 - Google Base, and more importantly, [Gdata](http://code.google.com/apis/gdata/index.html), seems roughly equivalent in both capability and user interface ugliness to Microsoft Access version 1.1, (and I say that with warm affection for both) so let’s say there’s a **database application** on the way. The killer app would be to hook the Gdata interface up to a database-backed web publishing tool. Of course you can’t spell “killer app” without “[a-p-p](http://bitworking.org/projects/atom/draft-ietf-atompub-protocol-09.html)“.
 - An online advertising/promotional/campaign management suite. I’m sure it’s the path Google’s already on, but reading my Sitemaps reports and determining what drives people to my site should connect to my Analytics output to make sure they’re actualy buying stuff, and then automatically update my AdWords buys to make sure more people find my site. Then, you know, send me a Google Alert through Google talk to celebrate my successes.
 
-![Google Apps for Your Domain](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-apps-signup.gif?v=1730095747125)
+![Google Apps for Your Domain](/images/google-apps-signup.gif)
 
 ### In Conclusion
 

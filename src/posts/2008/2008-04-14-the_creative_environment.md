@@ -3,7 +3,7 @@ title: The Creative Environment
 slug: the_creative_environment
 date_published: 2008-04-14 12:43:49+00:00
 date_updated: 2008-04-14 12:43:49+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/travis-isaacs-workspace.jpg?v=1674631135163
+image: /images/travis-isaacs-workspace.jpg
 tags: [Best Of, tech]
 ---
 In the world of business, and especially the world of technology, we have some archetypical stories of entrepreneurs in the garage, working to create new products and new companies. But too many of those stories seem to neglect the *creative* environment in which great ideas and inventions happen.
@@ -12,7 +12,7 @@ This is especially unfortunate because inspiration for this type of work doesn�
 
 Worse, we hear about things like Celebrity Playlists and the artworks that people appreciate long *after* they’ve been successful, after they’ve already proven they have the ability to achieve, but seldom with a focus on what was playing at the time when they did the first work they were recognized for.
 
-![workspace-desk.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/workspace-desk.jpg?v=1674631086168)
+![workspace-desk.jpg](/images/workspace-desk.jpg)
 
 So, some time ago, I began a project to start to document some of these environments, inspired by the entrepreneurs and creative talents that I’ve had the chance to work with or be inspired by. Among others, I’ve gotten some great responses from Ray Ozzie of Microsoft (and of course Lotus); Jeff Bezos of Amazon; Pierre Omidyar of eBay; Dan Bricklin, co-creator of VisiCalc, and some more contributors along the way. As I start to share what I’ve found, I’d like to ask the same questions of you that I’ve asked of these people already.
 

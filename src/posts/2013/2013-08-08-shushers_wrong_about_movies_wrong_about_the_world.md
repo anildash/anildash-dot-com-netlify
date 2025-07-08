@@ -3,7 +3,7 @@ title: 'Shushers: Wrong about movies. Wrong about the world.'
 slug: shushers_wrong_about_movies_wrong_about_the_world
 date_published: 2013-08-08 05:00:27+00:00
 date_updated: 2018-09-14 16:56:41+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/shushing-theater.jpg?v=1670305836164
+image: /images/shushing-theater.jpg
 tags: [Most Popular, absurdity, film]
 ---
 There’s been a delightful debate the last few days about how to accommodate the increasing number of people who want the experience of watching movies in public theaters to fit in with the way they live the rest of their lives: Connected to others, and augmented or even mediated through digital technology.

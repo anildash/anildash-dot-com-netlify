@@ -2,8 +2,8 @@
 title: "A Bug Report is a Gift"
 slug: a-bug-report-is-a-gift
 date_published: 2025-03-28T01:01:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/priority-zero.png?v=1743137761403
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/priority-zero.png?v=1743137761403
+heroimage: /images/priority-zero.png
+image: /images/priority-zero.png
 tags: [coding, community, tech]
 ---
 

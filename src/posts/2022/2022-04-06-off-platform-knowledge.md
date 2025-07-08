@@ -3,7 +3,7 @@ title: Community Safety and Ignoring the World
 slug: off-platform-knowledge
 date_published: 2022-04-06 08:52:42+00:00
 date_updated: 2022-04-07 04:44:14+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20David-Taffet-dog.jpeg?v=1669519663487
+image: /images/%20David-Taffet-dog.jpeg
 tags: [twitter, tech, policy, web]
 ---
 Security reports from other sites are welcome. Why aren’t safety reports?

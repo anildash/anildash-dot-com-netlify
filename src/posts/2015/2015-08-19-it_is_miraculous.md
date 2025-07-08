@@ -3,7 +3,7 @@ title: It is miraculous.
 slug: it_is_miraculous
 date_published: 2015-08-20 02:16:37+00:00
 date_updated: 2015-08-20 02:16:37+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Salieri-Amadeus.jpg?v=1670032565073
+image: /images/Salieri-Amadeus.jpg
 tags: [music, absurdity]
 ---
 Sometimes I get an idea in my head and I just can’t let it go. For a few months, I’ve heard this nagging sound in the back of my mind, asking me to revisit *Amadeus*, one of my favorite films ever.

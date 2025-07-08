@@ -3,7 +3,7 @@ title: Talking to Steve Case
 slug: talking_to_steve_case
 date_published: 2014-02-26 04:48:29+00:00
 date_updated: 2019-03-25 07:41:18+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/steve-case-ad.jpg?v=1670295154667
+image: /images/steve-case-ad.jpg
 tags: [tech, aol, steve case]
 ---
 I had the chance to <a href="https://socialmediaweek.org/conference/event/keynote-steve-case-on-leaders-of-the-next-revolution-interviewed-by-anil-dash/"></a>interview Steve Case for Social Media Week</a> the other day, and though it was a brief conversation, I was really pleased with how it went. Steve’s earliest work on Quantum Link, a predecessor to what would someday become AOL, was formative in my understanding of what computers could be used for, and it was great to get to talk to him in some depth about that.

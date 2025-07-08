@@ -11,7 +11,7 @@ First, a great example of prior art for the commercial use of lolcats is Twitter
 
 More important is some of the additional understanding I’ve gained about *why* some forms of kitty pidgin are so delightful. Take, for example, [invisible bike](http://www.flickr.com/search/?q=invisible+bike&amp;s=int) and its variations. Part of the delight of invisible item cat pictures is the element of surprise, the realization of where the missing item fits into the picture yields an “a-ha!” moment that’s much more satisfying than a more literal image would be. This isn’t surprising — a lot of humor relies on the element of surprise.
 
-![Invisible Bike Crash!](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/invisble_bike_crash.jpg?v=1714969796880)
+![Invisible Bike Crash!](/images/invisble_bike_crash.jpg)
 
 But there’s something more subtle going on here. If you’ve ever read [Scott McCloud](http://www.scottmccloud.com/)‘s [Understanding Comics](http://www.amazon.com/exec/obidos/ASIN/006097625X/2020-20), you might be familiar with the concept of “closure”. There are many meanings for the word closure, of course, but in comics, it represents the crucial construct of allowing your reader or viewer to make the final connection with your media. This is wonderful for many reasons — it’s trusting the intelligence and creativity of your audience, knowing that they’ll make the mental connection in their minds. It’s also allowing for spontaneity and inspiration, instead of constraining the ideas (or humor) of an image to merely whatever the original author created. And most importantly, leaving space for your audience to interact with something as prosaic as a cat picture is just plain *fun*.
 
@@ -26,6 +26,6 @@ You need an example. Let’s go to the world’s *worst* humorous cat pictures: 
 > I was impressed to find that Eric Burns and The Strip Doctor broke down what is most fundamentally flawed with Garfield’s humor. Redundancy. The problem with Garfield is redundancy. It’s redundant. The humor is. Redundant.
 
 I could tell you about this, but that would contradict the premise. Take a look:
-![Invisible Caption](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/invisible-caption.png?v=1714969817279)
+![Invisible Caption](/images/invisible-caption.png)
 
 Invisible captions! LOL.

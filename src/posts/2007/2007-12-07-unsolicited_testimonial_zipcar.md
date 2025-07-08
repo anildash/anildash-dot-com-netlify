@@ -5,7 +5,7 @@ date_published: 2007-12-07 14:02:45+00:00
 date_updated: 2007-12-07 14:02:45+00:00
 tags: [nyc]
 ---
-![zipcar-logo.gif](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/zipcar-logo.gif?v=1674866380758)
+![zipcar-logo.gif](/images/zipcar-logo.gif)
 
 **What It Is**: [ZipCar](http://www.zipcar.com) is a car sharing service, which lets you rent (or share, if you prefer) a variety of cars by the hour for a low fee that includes everything — even gas. ZipCar recently acquired Flexcar, so they’ve got cars in a good number of cities, and I’ve been able to live in both San Francisco and New York without owning a car at all, thanks to mass transit and ZipCar.
 

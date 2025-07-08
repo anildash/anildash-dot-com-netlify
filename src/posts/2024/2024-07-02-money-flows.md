@@ -2,8 +2,8 @@
 title: 'Systems: How the Ultra-Wealthy Think About Money'
 slug: money-flows
 date_published: 2024-07-02 12:00:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg?v=1719933428151
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg?v=1719933428151
+heroimage: /images/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg
+image: /images/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg
 tags: [systems]
 ---
 A lot of the ways that the ultra-wealthy think about, and act about, money seem almost incomprehensible to those outside of their orbit. Having had a chance to get some visibility into how a number of billionaires and centimillionaires think and work, I thought it might be useful to share a key insight that explains so many behaviors that might otherwise be inexplicable.

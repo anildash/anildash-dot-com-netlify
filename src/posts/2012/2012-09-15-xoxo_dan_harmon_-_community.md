@@ -11,7 +11,7 @@ Dan Harmon is the Emmy-winning writer, former executive producer of Community, c
 
 ## [Dan Harmon](https://twitter.com/danharmon)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/image_normal.jpg?v=1670737636770)
+![](/images/image_normal.jpg)
 
 Projects: **[Community](http://www.nbc.com/community/)** and **[Channel 101](http://www.channel101.com/)**
 

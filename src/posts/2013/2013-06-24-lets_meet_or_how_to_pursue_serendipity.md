@@ -3,7 +3,7 @@ title: Let's Meet! Or, How To Pursue Serendipity
 slug: lets_meet_or_how_to_pursue_serendipity
 date_published: 2013-06-24 20:40:54+00:00
 date_updated: 2013-06-24 20:40:54+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gt-room.jpg?v=1670563355612
+image: /images/gt-room.jpg
 tags: [nyc, personal]
 ---
 One of the things I love most is meeting new people who are outside of the usual circles that I travel in, who can teach me about things that I’d never learn about otherwise. To that end, I devote as much time as is possible in a busy schedule to having coffee or a quick chat with people around NYC when I’m able. And one of the most interesting people I’ve met that way in the past year is someone who makes those kinds of connections for a living, [Ted Pearlman](https://web.archive.org/web/20131014012451/http://usistwo.com/#faqaboutme).

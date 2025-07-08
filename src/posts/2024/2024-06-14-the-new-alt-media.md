@@ -2,8 +2,8 @@
 title: The New Alt Media and the Future of Publishing
 slug: the-new-alt-media
 date_published: 2024-06-14 19:20:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/flock-imag-crop.jpeg?v=1718411838633
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/flock-imag-crop.jpeg?v=1718411838633
+heroimage: /images/flock-imag-crop.jpeg
+image: /images/flock-imag-crop.jpeg
 tags: [media, publishing, blogs]
 ---
 You might have noticed, it’s not a super fun time to be in the publishing industry, especially if you’re trying to do journalism. The years-long drumbeat of bad news issuing from nearly every newsroom has left people understandably despairing about what’s going to happen next.

@@ -7,7 +7,7 @@ tags: [Best Of, Most Popular, tech]
 ---
 An interesting infographic trend: Square blocks of color are now being used to represent percentage-based statistics instead of the traditional pie chart. Some recent examples are shown here.
 
-![Square Charts](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/square-graphs.png?v=1730098191887)
+![Square Charts](/images/square-graphs.png)
 
 The chart on the left is from [a NY Times story on atheism and the afterlife](http://www.nytimes.com/2007/07/29/magazine/29wwln-lede-t.html?ref=magazine), making its choice of colors seem a little weird. And is that empty white block in the center supposed to represent the empty hole in our souls? On the right, a detail from a [Wired story on how much Americans spend on gadgets](http://www.wired.com/techbiz/it/magazine/15-08/st_infoporn). Charles M. Blow created the graphic for the Times; Arno Ghelfi did the honors for Wired.
 

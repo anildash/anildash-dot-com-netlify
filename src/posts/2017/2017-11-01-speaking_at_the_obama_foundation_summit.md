@@ -3,7 +3,7 @@ title: Speaking at the Obama Foundation Summit
 slug: speaking_at_the_obama_foundation_summit
 date_published: 2017-11-01 23:52:41+00:00
 date_updated: 2021-08-02 03:59:19+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Obama-Foundation-Summit-Closing-Session.jpg?v=1669783996732
+image: /images/Obama-Foundation-Summit-Closing-Session.jpg
 tags: [Best Of, events, policy, tech]
 ---
 I’ve been fortunate enough to get to speak at a lot of events over the years, in front of an amazing variety of audiences around the world. But I can honestly say I’ve never been more impressed by the reaction of an audience member than in [the panel I hosted](https://www.obama.org/summit/breakouts/#block3) earlier today.

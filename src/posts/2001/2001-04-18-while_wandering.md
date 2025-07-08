@@ -7,7 +7,7 @@ date_updated: 2001-04-19T00:24:12.000Z
 
 While wandering around the neighborhood the other day, I noticed that there were spray-painted stencil graphics on every sidewalk corner for many, many blocks. A Peace symbol. A heart. And [Tux](http://www.isc.tamu.edu/~lewing/linux/). I didn’t see the print ads accompanying the plan until this past weekend, so I didn’t know it was for [IBM](http://www.ibm.com)‘s Linux effort, but I had guessed it wasn’t just some self-styled hacker street team trying to promote the OS.
 
-[![](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/tux.jpg?v=1730089624072)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/peacelovelinux.jpg?v=1730089617010)
+[![](/images/tux.jpg)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/peacelovelinux.jpg?v=1730089617010)
 
 Now, of course, this is just about the stupidest thing possible. The only way they could have made it worse was if they had planted a [StreetBeam](http://www.streetbeam.com) transmitter next to each piece of graffiti. Beside being a defacement of a public thoroughfare for advertising purposes, it’s preposterous as a marketing strategy. Was there some focus group of high-level IT executives who described their decision-making process for past platform choices?
 

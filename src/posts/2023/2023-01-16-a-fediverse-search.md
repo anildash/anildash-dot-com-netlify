@@ -2,7 +2,7 @@
 title: How you could build a search that the fediverse would welcome
 slug: a-fediverse-search
 date_published: 2023-01-16 20:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/traffic-light.jpg?v=1673922589925
+image: /images/traffic-light.jpg
 tags: [tech, web, twitter, fediverse]
 ---
 Mastodon and the fediverse are clearly taking off, bringing in millions of new users, and also organically inspiring a wave of technical innovation that dwarfs all of the efforts that the bribes and empty promises of the Web3 crypto bubble couldn't touch. I'm even enjoying having settled into a relatively permanent new fediverse address at <a href="https://me.dm/@anildash">@anildash@me.dm</a>, on Medium's new <a href="https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11">Mastodon instance</a>, which (along with Mozilla's similar <a href="https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/">upcoming instance</a>) should do a lot to legitimize the nascent open system. It's all great to see, though of course there are huge challenges that come along with this growth, and most of them (as always, with social media) are largely about people and culture, not technology.

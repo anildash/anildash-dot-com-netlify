@@ -3,7 +3,7 @@ title: How To Fix Popchips' Racist Ad Campaign
 slug: fixing_popchips
 date_published: 2012-05-02 20:16:24+00:00
 date_updated: 2018-08-12 05:58:48+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ashton_a.jpg?v=1670723632113
+image: /images/ashton_a.jpg
 tags: [Best Of, Most Popular, culture]
 ---
 **Update:** I just got off the phone with Popchips founder Keith Belling, who was sincere and contrite as he offered a thoughtful, apologetic response that indicates he understood much of what I was trying to say here. I’m cautiously optimistic to see the company’s response, and willing to give them time to do it properly. Maybe we can get a good result.

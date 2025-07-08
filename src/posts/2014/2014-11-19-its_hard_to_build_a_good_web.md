@@ -3,7 +3,7 @@ title: It's hard to build a good web
 slug: its_hard_to_build_a_good_web
 date_published: 2014-11-20 01:39:09+00:00
 date_updated: 2019-07-23 07:19:09+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/good-web-bundle-logo-alt.svg?v=1670105426057
+image: /images/good-web-bundle-logo-alt.svg
 tags: [web, tech]
 ---
 Every single day we’re hearing about the failings of big tech companies and what they’re doing to the web. The ethical failings, the transgressions against privacy, the rampant and shameless exclusion of most people from the opportunities that tech creates. Honestly, it is fucking exhausting to think about sometimes, and I get why so many well-intentioned people just give up.

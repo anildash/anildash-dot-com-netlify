@@ -3,7 +3,7 @@ title: Putting the Soul in Console
 slug: putting-the-soul-in-console
 date_published: 2019-05-22 07:53:08+00:00
 date_updated: 2021-08-02 03:10:12+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/playdate-device-interior-80.jpg?v=1669585909286
+image: /images/playdate-device-interior-80.jpg
 tags: [gaming, culture, tech]
 ---
 Playdate, the upcoming indie handheld gaming console from venerable software publisher Panic, is really important. But if you don't know the history of where the little company behind this little device comes from, it might be hard to understand why this isn't just another random gadget like you might see on a crowdfunding site.

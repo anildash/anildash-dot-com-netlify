@@ -9,7 +9,7 @@ Last Friday was my birthday. Hooray! I have a fantastic wife, so she treated me 
 
 Even better, my wife [posted a great writeup](https://web.archive.org/web/20080914005523/http://newyork.seriouseats.com/2008/09/pig-butchering-class-at-the-brooklyn-kitchen-williamsburg-tom-mylan-pork-nyc.html) over on Serious Eats. There’s lots more info on other Brooklyn Kitchen classes and on Tom there. And as I’ve [mentioned before](/2005/04/being-an-expert), I love displays of true competence, especially in regard to knives. And Tom has a [stellar post about choosing knives](http://groceryguy.blogspot.com/2008/07/answers-knife.html) which shows off exactly that kind of expertise.
 
-![American Pork Cuts](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/American_Pork_Cuts.svg?v=1674084659242)
+![American Pork Cuts](/images/American_Pork_Cuts.svg)
 
 There’s a lot of cuts of meat in a pig, as the diagram here shows. (That’s courtesy of the [Wikipedia page on pork](http://en.wikipedia.org/wiki/Pork).) And if you, like me, want to see more examples of the process of breaking down a sizable animal, [Adam Fields has a full photo set](http://www.flickr.com/photos/fields/sets/72157604254578730/), and [The Brooklyn Kitchen’s Flickr account](http://www.flickr.com/photos/95231779@N00/2422004296/) has a photo set on the making of head cheese. Both of those photo albums are probably not for those squeamish about butchering.
 

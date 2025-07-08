@@ -3,8 +3,8 @@ title: Cats Can Has Grammar
 slug: cats_can_has_gr
 date_published: 2007-04-23 17:24:39+00:00
 date_updated: 2021-08-07 04:02:06+00:00
-heroimage: https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256
-image: https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256
+heroimage: /images/lolcats-kitty-pidgin.jpg
+image: /images/lolcats-kitty-pidgin.jpg
 tags: [Best Of, Most Popular, random ha-ha, language, memes]
 ---
 If you spend any time at all observing net culture, then you’ll have been unable to miss the recent explosion in popularity of [lolcats](http://en.wikipedia.org/wiki/Lolcat). This relatively recent phenomenon is the convention of taking pictures of cute animals, most frequently cats, and overlaying absurdist captions on the images.
@@ -19,7 +19,7 @@ The rise of these new subspecies of lolcats are particularly interesting to me b
 
 Incorrect kitty pidgin jumped to my attention the first time I saw [a reference to Dune](https://web.archive.org/web/20090201184317/http://icanhascheezburger.com:80/2007/02/07/the-spice-must-flow/) being used with a lolcat image. The caption on the linked version of the image, “The spice must flow.” is fine, if not particularly cat-like. But the caption on the version I saw first was [much more verbose](http://rev-jo.livejournal.com/132404.html): “I are dunecat. I controls the spice, I controls the universe.” Besides being an awkward attempt at overexplaining the punchline (I’ve never read *Dune* or seen the film, but the joke is obvious) this was just *all wrong*. The fact that we can tell no cat would talk like this shows that kitty pidgin is actually *quite consistent*.
 
-![](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256)
+![](/images/lolcats-kitty-pidgin.jpg)
 
 I was having a conversation with [Ben](http://en.wikipedia.org/wiki/Ben_Cerveny) and [Ben](http://btrott.vox.com/) a few weeks ago where I suggested this consistent grammar for lolcats could be a “cweeole”. Knowing a [bit more](/2007/04/22/pidgins_and_cre) about such things now, I realize this isn’t a creole but more likely a [pidgin](http://en.wikipedia.org/wiki/Pidgin) language, used to help cats talk to humans. And since “pidgin” is already a cutesy spelling of a mispronunciation, there doesn’t seem to be any really cute way to rename it to reflect its uniqueness. “Kitty pidgin” might be the closest thing we have to a name for this new language.
 

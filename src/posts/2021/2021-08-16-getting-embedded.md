@@ -3,7 +3,7 @@ title: Getting Embedded
 slug: getting-embedded
 date_published: 2021-08-16 07:33:12+00:00
 date_updated: 2021-08-16 07:34:48+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/embedded-logo-1.png?v=1669526672667
+image: /images/embedded-logo-1.png
 tags: [tech, web, culture]
 ---
 Amongst the many new publications that's popped up in the current newsletter boom, I've been enjoying Kate Lindsay and Nick Catucci's "Embedded". One of the biggest reasons why is the recurring feature "My Internet", which details the way one person uses all the common aspects of the internet that we all manage every day. And this time around, I got to be the guest for My Internet!

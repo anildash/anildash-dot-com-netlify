@@ -11,7 +11,7 @@ Emily Winfield Martin is the top seller of handmade art on Etsy, selling her dol
 
 ## [Emily Winfield Martin](https://twitter.com/MsEmilyApple)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/0jkgb7fyjq8290v1x9os_normal.jpeg?v=1670738270590)
+![](/images/0jkgb7fyjq8290v1x9os_normal.jpeg)
 
 Projects: **[Black Apple blog](http://theblackapple.typepad.com/)**
 

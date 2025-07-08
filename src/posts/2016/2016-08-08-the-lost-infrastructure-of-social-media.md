@@ -3,7 +3,7 @@ title: The lost infrastructure of social media.
 slug: the-lost-infrastructure-of-social-media
 date_published: 2016-08-08 21:51:00+00:00
 date_updated: 2022-11-17 06:43:38+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tiles.jpeg?v=1669865733893
+image: /images/tiles.jpeg
 tags: [blogging, search, social media, twitter, tech]
 ---
 ### More than a decade ago, the earliest era of blogging provided a set of separate but related technologies that helped the nascent form thrive. Today, most have faded away and been forgotten, but new incarnations of these features could still be valuable.

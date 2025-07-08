@@ -3,7 +3,7 @@ title: Apple is about to do something their programmers definitely don't want.
 slug: apple_is_about_to_do_something_their_programmers_definitely_dont_want
 date_published: 2017-07-28 15:16:44+00:00
 date_updated: 2018-04-08 08:47:43+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-park-donut.jpg?v=1669784455579
+image: /images/apple-park-donut.jpg
 tags: [tech]
 ---
 Apple spent $5 billion on a beautiful new office, Apple Park. So it’s amazing they’re about to make an extremely costly, avoidable mistake: putting their coders in an open-plan layout.

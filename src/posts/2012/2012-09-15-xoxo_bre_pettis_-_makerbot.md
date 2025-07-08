@@ -11,7 +11,7 @@ Bre Pettis is the co-founder and CEO of Makerbot, the first company to bring 3D 
 
 ## [Bre Pettis](https://twitter.com/bre)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bre-1_normal.jpg?v=1670737440610)
+![](/images/bre-1_normal.jpg)
 
 Projects: **[MakerBot](http://www.makerbot.com/)** and **[Thingiverse](http://www.thingiverse.com/)**
 

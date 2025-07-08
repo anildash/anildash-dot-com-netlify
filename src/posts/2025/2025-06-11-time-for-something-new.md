@@ -2,8 +2,8 @@
 title: "It's Time for Something New"
 slug: time-for-something-new
 date_published: 2025-06-11T17:30:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/juliana-malta-BGZU3Xq-Kg0-square.jpeg?v=1749661882675
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/juliana-malta-BGZU3Xq-Kg0-square.jpeg?v=1749661882675
+heroimage: /images/juliana-malta-BGZU3Xq-Kg0-square.jpeg
+image: /images/juliana-malta-BGZU3Xq-Kg0-square.jpeg
 tags: [work]
 ---
 

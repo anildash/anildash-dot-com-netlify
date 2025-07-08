@@ -16,7 +16,7 @@ So, I was pleased to see sparklines-like graphics being used in today’s New Yo
 As Steven mentions in [his post on the story](http://www.stevenberlinjohnson.com/movabletype/archives/000248.html), presenting television as “good for you”, is just savvy marketing when talking to the Times Magazine’s audience. It’s also great promotion for [Everything Bad Is Good For You](http://www.amazon.com/exec/obidos/ASIN/1573223077/2020-20/), Steven’s book from which the article is excerpted.
 
 But one of the things that struck me most about the article was its presentation (Lazyweb: Please scan the print article for me!) because the idea of story arc complexity in TV shows was repeatedly represented by graphics that evoked sparklines in their density and in their opacity about the source data.
-[![NY Times graphic evoking sparklines](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sparkline-ish.png?v=1730094268197)](http://www.nytimes.com/imagepages/2005/04/21/magazine/24tv.chart.2.html)
+[![NY Times graphic evoking sparklines](/images/sparkline-ish.png)](http://www.nytimes.com/imagepages/2005/04/21/magazine/24tv.chart.2.html)
 
 The linked graphic represents the complexity of story lines in Hill Street Blues, but the methods used to determine what constitutes an individual storyline or arc aren’t explained, and the criteria for determining parallelism in storylines aren’t articulated either. Which is great — that’s not the point of the story!
 

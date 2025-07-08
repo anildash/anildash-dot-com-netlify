@@ -3,7 +3,7 @@ title: Comedy Hack Day!
 slug: comedy_hack_day
 date_published: 2015-05-19 16:44:10+00:00
 date_updated: 2015-05-19 16:44:10+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/comedy-hack-day.png?v=1670104491951
+image: /images/comedy-hack-day.png
 tags: [absurdity]
 ---
 I was incredibly honored to asked by the team at Cultivated Wit to be a judge for the latest [Comedy Hack Day](http://www.comedyhackday.org/nyc-2015/). (Thus becoming the first-ever returning judge!) I got to join Michael Ian Black, Aparna Nancherla, and Christina Warren as a judge of an incredible lineup of ludicrously funny parade of completely inane apps.

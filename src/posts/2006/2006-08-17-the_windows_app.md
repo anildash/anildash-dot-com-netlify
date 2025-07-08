@@ -7,7 +7,7 @@ tags: [Most Popular, tech, browsers]
 ---
 One of the interesting things about being a serious Windows user is that very little attention is paid to efficient users of Windows, and that we suffer from a lot of folklore or misinformation that gets passed around.
 
-![Useless Crap](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/clutterdialog.png?v=1730095427415)
+![Useless Crap](/images/clutterdialog.png)
 
 Now, I’m not referring to the alleged power users who like to have every toolbar enabled on every program they use, but more the class of Windows users who are as particular about their operating system as most Mac users are about theirs. I count myself in that group, and I’d say there are roughly as many picky Windows users as there are OS X users.
 

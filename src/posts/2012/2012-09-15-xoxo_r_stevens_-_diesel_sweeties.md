@@ -11,7 +11,7 @@ Richard Stevens has been making Diesel Sweeties for 12 years, pioneering webcomi
 
 ## [R. Stevens](https://twitter.com/danprovost)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/coffeepot-twitter_normal.png?v=1670739086421)
+![](/images/coffeepot-twitter_normal.png)
 
 Project: **[Diesel Sweeties](http://www.dieselsweeties.com/)**
 

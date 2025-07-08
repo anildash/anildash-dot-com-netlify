@@ -3,7 +3,7 @@ title: XOXO and Reckoning With Nice
 slug: xoxo_and_reckoning_with_nice
 date_published: 2013-09-27 17:17:31+00:00
 date_updated: 2013-09-27 17:17:31+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/XOXO-2013-041.jpg?v=1670303614458
+image: /images/XOXO-2013-041.jpg
 tags: [tech, events]
 ---
 This year’s [XOXO festival](http://2013.xoxofest.com/) exceeded its predecessor in every way. It was bigger, smarter, more challenging, more engaging and easily among the best conferences or events I’ve ever participated in.

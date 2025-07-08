@@ -5,7 +5,7 @@ date_published: 2002-09-24 23:58:01+00:00
 date_updated: 2002-09-24 23:58:01+00:00
 tags: [tech]
 ---
-![flowers so you can't hate me](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/flowers.gif?v=1730089607118)[Dave says](http://scriptingnews.userland.com/backissues/2002/09/23#When:8:59:58PM) that RSS is a syndication format, nothing more. And that it has nothing to do with RDF. I am just curious, why does Dave get to make these decisions if these are community standards?
+![flowers so you can't hate me](/images/flowers.gif)[Dave says](http://scriptingnews.userland.com/backissues/2002/09/23#When:8:59:58PM) that RSS is a syndication format, nothing more. And that it has nothing to do with RDF. I am just curious, why does Dave get to make these decisions if these are community standards?
 
 In a similar vein, I’d like to say that HTML is for text. Not images. Sure, you can put in img tags or object tags. But that’s not what it’s for. So leave images out of it. Thank you.
 

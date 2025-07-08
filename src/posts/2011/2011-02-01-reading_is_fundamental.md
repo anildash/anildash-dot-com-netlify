@@ -26,7 +26,7 @@ But Rich and the team at Arc 90 weren’t complacent with all that early success
 - You can read your articles through the truly beautiful web interface at “Readability.com”:[http://Readability.com](http://Readability.com) or by using the iPad/iPhone app (coming soon!) that is powered by Instapaper.
 - If you’re a publisher, you can connect Readability to your site just by embedding a simple button, and make more money and get more information about your readers’ preferences while making them more happy, too. Plus, not incidentally, you can make some actual revenue from your content that’s not from ads.
 
-![Readability split](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/readability-revenues.png?v=1670801829713)
+![Readability split](/images/readability-revenues.png)
 
 These ideas are particularly exciting if you think back a few weeks ago to “[If you didn’t blog it, it didn’t happen](/2011/01/04/if_you_didnt_blog_it_it_didnt_happen)“. The [Clive Thompson article](http://www.wired.com/magazine/2010/12/st_thompson_short_long/) in Wired that inspired that piece, while touching on the importance of permanence in publishing, concluded with some other key points I found evocative:
 

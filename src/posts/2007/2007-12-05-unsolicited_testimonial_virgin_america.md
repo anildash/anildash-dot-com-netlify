@@ -5,7 +5,7 @@ date_published: 2007-12-05T14:00:06.000Z
 date_updated: 2007-12-05T14:00:06.000Z
 ---
 
-![Virgin_America_logo.png](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Virgin_America_logo.png?v=1674866520012)
+![Virgin_America_logo.png](/images/Virgin_America_logo.png)
 
 **What It Is:**[Virgin America](http://www.virginamerica.com/), the latest (and greatest) low-cost, low-hassle air carrier in the United States. It’s an American corporation, though of course it shares its branding and company attitude with Virgin Atlantic.
 
@@ -17,7 +17,7 @@ I generally fly on major carriers — one of the things that’s really distingu
 
 Unlike JetBlue, Virgin is launching with a frequent-flier program from day one. It’s not clear whether it’ll be a substantial perk on top of their experience, but it’s definitely worth watching.
 
-![virgin-cabin.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/virgin-cabin.jpg?v=1674866520426)
+![virgin-cabin.jpg](/images/virgin-cabin.jpg)
 
 Virgin makes up for any overentitled frequent-flier concerns. The planes are fancy as hell — snazzy, fancy, brand-new Airbus 320s. These are the same planes that JetBlue flies, but apparently the state of the art at Airbus has advanced a good bit in the past few years. Every seat is covered in leather. The planes are noticeably quieter than the notoriously loud cabin-noise standard set by other A320s. The interior lights on the VA planes are also, rather famously, a pink-purple color. I’m a Prince fan — this is exactly the sort of over-the-top ridiculousness I appreciate.
 
@@ -27,7 +27,7 @@ How geeky is VA? They not only invited bloggers on their inaugural flight, the i
 
 The touchscreen perks don’t stop there. VA’s US CEO is Fred Reid, the same guy who launched Song at Delta. Song was perhaps best described as “JetGreen”, a major carrier’s attempt to clone the success of JetBlue. Delta has kept the Song planes, and some even still have the Song livery, and the experience on those flights is terrific. I loved it for the great digital seatback system, complete with the ability to play a trivia game against your fellow passengers. (Fast Company did a [great interview with Reid](http://www.fastcompany.com/magazine/120/after-the-virgin-birth.html) with more info, though Reid has since been [required to step down](https://www.v-flyer.com/viewtopic.php?f=4&t=18780&p=18780) as part of Virgin’s certification with the Department of Transportation.)
 
-![virgin-remote.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/virgin-remote.jpg?v=1674866520728)
+![virgin-remote.jpg](/images/virgin-remote.jpg)
 
 VA doesn’t miss a beat in bettering Song. Every armrest has a tethered double-sided handset. One side has a game pad and good (old-school Nintendo-style) controller buttons so you can play a bunch of simple arcade games for free, including Doom. The other side is, incredibly, a tiny little full QWERTY keyboard. That’s so you can use the in-flight chat room to talk to your fellow passengers, and the menus promise you’ll even be able to email, send SMS messages, and surf the web in the future. Kickass!
 

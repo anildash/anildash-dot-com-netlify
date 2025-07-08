@@ -3,7 +3,7 @@ title: My thinking on Covid-19
 slug: my-thinking-on-covid-19
 date_published: 2020-03-11 13:59:00+00:00
 date_updated: 2020-07-30 18:20:10+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dark-clouds.jpeg?v=1670563921858
+image: /images/dark-clouds.jpeg
 tags: [culture, Best Of]
 ---
 (Warning: this will be upsetting; you will not want to read this if you are already stressed.)

@@ -7,7 +7,7 @@ tags: [tech, microsoft]
 ---
 As promised:
 
-![Microsoft Passport](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/mspass.gif?v=1730089612443)
+![Microsoft Passport](/images/mspass.gif)
 
 ### Microsoft Passport Part One: User Experience
 
@@ -27,7 +27,7 @@ An unstated, but likely, goal: **Increasing the number of sites using secure tec
 
 **Increase user comfort:** Remains to be seen. Seeing Microsoft’s name should comfort most users, except possibly Linux users. The strength/weakness of the system is that all Password sites reinforce each others’ images of security or vulnerability.
 
-### ![Passport](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passport.gif?v=1730089615138)    Whipping Out Your Passport
+### ![Passport](/images/passport.gif)    Whipping Out Your Passport
 
 Let’s go deeper into this. The fundamental thing to know about Passport is that it’s a **typical Microsoft web initiative**, equal parts evangelism, assimilation, marketing, and technology. That being said, it also displays Microsoft’s usual knack for *eventually* resulting in end-user benefits by **shamelessly pandering to developers**.
 
@@ -35,7 +35,7 @@ Users (and in this context, I mean end-users on their web browsers at home on a 
 
 User X is new to your site, but desperately wants to see that [New York Times](http://www.nytimes.com)-style "Registration Required" material. So they click on the standard **Passport Sign In Icon** on your page.
 
-![Passport Sign In](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/passsignin.gif?v=1730089615459)
+![Passport Sign In](/images/passsignin.gif)
 
 Your server talks to Microsoft’s, and they work out all the details. (More on the tech stuff tomorrow) **We’re in luck!** User X has a Hotmail account already, so they’re spared the ritual of registering for Passport. (Which isn’t very trying, anyway.)
 

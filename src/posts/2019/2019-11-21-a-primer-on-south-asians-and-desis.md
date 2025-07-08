@@ -3,7 +3,7 @@ title: A primer on South Asians and Desis
 slug: a-primer-on-south-asians-and-desis
 date_published: 2019-11-21 11:30:03+00:00
 date_updated: 2020-11-09 20:38:00+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fort.jpeg?v=1669585048076
+image: /images/fort.jpeg
 tags: [culture]
 ---
 I often talk about South Asian people, or how I identify as being an American of South Asian descent. Many folks outside of our communities don’t always know the details of how to understand our identities, so I wanted to share some generally useful info, in hopes that it answers a bunch of questions that maybe people are uncomfortable asking, or don't quite know how to Google.

@@ -3,7 +3,7 @@ title: Water for Gambhariganda
 slug: water_for_gambhariganda
 date_published: 2016-03-22 03:00:55+00:00
 date_updated: 2018-04-09 20:40:35+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gambarighanda.jpg?v=1669871137848
+image: /images/gambarighanda.jpg
 tags: [water, personal]
 ---
 For my birthday a while back, some of you may remember I asked you all to contribute to a project to build wells to bring clean water to a village in our family's home state of Orissa.

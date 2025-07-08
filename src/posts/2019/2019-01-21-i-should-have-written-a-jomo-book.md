@@ -3,7 +3,7 @@ title: I Should Have Written a JOMO Book.
 slug: i-should-have-written-a-jomo-book
 date_published: 2019-01-21 09:55:26+00:00
 date_updated: 2019-01-21 09:58:46+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/crowd-jomo.jpeg?v=1669611496124
+image: /images/crowd-jomo.jpeg
 tags: [jomo, culture]
 ---
 About seven years ago, inspired by Caterina Fake's seminal essay about [fear of missing out](https://caterina.net/2011/03/15/fomo-and-social-media/), I wrote a bit about the [*Joy* of Missing Out](/2012/07/19/jomo/), and for a little while, JOMO became a thing.

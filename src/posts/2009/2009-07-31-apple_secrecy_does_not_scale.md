@@ -46,7 +46,7 @@ Real artists also expose themselves, making themselves vulnerable through honest
 
 Today’s biggest and most influential artists, from Kanye West to Trent Reznor to Radiohead, are very nearly competing to see who can be *most* transparent. The immediacy and intimacy with which they communicate and create their works is dramatic, and they encourage their communities to get involved in a ritual that Apple used to encourage: **Rip, Mix, Burn.**
 
-![](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/jobs-1984.jpg?v=1730099006383)
+![](/images/jobs-1984.jpg)
 
 The sad truth is that Apple is still stuck in an anachronistic, 1984 mode of communicating with the world. If Apple doesn’t evolve, it’ll become a pathetic-looking giant, constantly playing whack-a-mole with information leaks, diminishing its relevance by antagonizing the very creators it has so long sought to identify with. Worse, while the fashions of 1984 might be back in style, the ability to tightly control a message is never going to come in vogue again, and the one thing Apple’s brand can’t withstand is suddenly becoming uncool. (I’m pretty sure Apple’s also had a word or two to say about why today’s world shouldn’t be like 1984.)
 

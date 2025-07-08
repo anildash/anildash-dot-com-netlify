@@ -3,7 +3,7 @@ title: How do we reform tech?
 slug: how_do_we_reform_tech
 date_published: 2016-10-06 16:59:53+00:00
 date_updated: 2022-01-14 05:35:23+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/screen-of-code.jpeg?v=1669864782607
+image: /images/screen-of-code.jpeg
 tags: [tech, Best Of]
 ---
 In the past, popular movements have forced major industries to confront their need for ethical reform. But today‘s media, policymakers and activists don’t yet seem prepared to fix the tech sector’s problems. So how will reform happen?

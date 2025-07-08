@@ -3,8 +3,8 @@ title: Google's Microsoft Moment
 slug: googles_microsoft_moment
 date_published: 2009-07-09 14:31:53+00:00
 date_updated: 2019-11-14 05:21:45+00:00
-heroimage: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-microsoft-chrome-480.jpg?v=1730096076559
-image: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-microsoft-chrome-480.jpg?v=1730096076559
+heroimage: /images/google-microsoft-chrome-480.jpg
+image: /images/google-microsoft-chrome-480.jpg
 tags: [Best Of, Most Popular, tech, microsoft, google]
 ---
 
@@ -12,7 +12,7 @@ I’m not sure Google’s new [Chrome OS announcement](http://googleblog.blogspo
 
 **This is, for lack of a better term, Google’s “Microsoft Moment”**. This is the point when the difference between their internal conception of the company starts to diverge just a bit too far from the public perception of the company, and even starts to diverge from reality. At this inflection point, the *reasons* for doing new things at Google start to change.
 
-![179-google-microsoft-chrome-480](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-microsoft-chrome-480.jpg?v=1730096076559)
+![179-google-microsoft-chrome-480](/images/google-microsoft-chrome-480.jpg)
 
 Let me be clear: I don’t think Google is “turning evil”. Hell, I’ve caught a lot of flack for the fact that basically I don’t think *Microsoft* was evil. But there are some notable trends going on across Google today that could cause the company to compromise its stated values and that will certainly cause people to *think* Google is being evil, if not corrected. I’ll try to outline a few key cultural indicators from around Google.
 

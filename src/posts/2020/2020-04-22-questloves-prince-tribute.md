@@ -3,7 +3,7 @@ title: Questlove's Prince Tribute
 slug: questloves-prince-tribute
 date_published: 2020-04-22 06:42:00+00:00
 date_updated: 2020-05-07 08:09:37+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-mural.jpeg?v=1669583864980
+image: /images/prince-mural.jpeg
 tags: [music, Prince, questlove]
 ---
 There could be no more fitting remembrance of Prince than Questlove going deep into his catalog and spinning some of Prince's greatest works into a multi-hour DJ set. Unless Quest did that *five nights in a row*. Which he did! It was an absolutely monumental marathon of nightly live streams for the better part of a week, often ending in the wee hours of the morning.

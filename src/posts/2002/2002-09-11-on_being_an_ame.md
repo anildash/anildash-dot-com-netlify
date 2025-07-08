@@ -29,7 +29,7 @@ It was no accident that the primary target, the location deemed most threatening
 
 I realized shortly after the attacks that, while flying, or when crossing one of the bridges or tunnels into Manhattan, or even just in going about the course of my daily life, I might have to show not just that I had no ill intent, but that I might need to prove my “American-ness”. A photo ID or a knowledge of American customs wouldn’t be enough, now that those murderers had tainted those formerly unblemished credentials.
 
-![](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/hbgsenators.gif?v=1730091417760)
+![](/images/hbgsenators.gif)
 
 What came to mind on the times when I wondered about proving myself as an American were the images of my youth spent in Central Pennsylvania. I started to carry around in my wallet some ticket stubs from one magical summer when I was in junior high school, when the then brand-new Harrisburg Senators went from being nonexistent to being Eastern League champs. The proof of my loyalty was my history in Harrisburg, not because I had gone to a few baseball games, but because being American is part of who I am. Anyone can come to our country and eat a hot dog and watch a ball game and stroll along the riverside, but that won’t make him an American. Being able to grow up amongst fellow fans, despite not knowing of the history of the Senators who played in the 50’s, being able to bridge small-town boy and big-city man, being able to live both as a personally conservative son of immigrants and a politically liberal citizen of the United States: these were the proud privileges and cherished rights that made me an American.
 

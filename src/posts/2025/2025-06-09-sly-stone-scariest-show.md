@@ -2,8 +2,8 @@
 title: "Sly Stone and the Scariest Show Ever"
 slug: sly-stone-scariest-show
 date_published: 2025-06-10T03:00:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/sly-stone.jpg?v=1749525309808
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/sly-stone.jpg?v=1749525309808
+heroimage: /images/sly-stone.jpg
+image: /images/sly-stone.jpg
 tags: [music, Sly Stone, Janet Jackson, Prince]
 ---
 

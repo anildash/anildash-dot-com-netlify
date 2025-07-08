@@ -23,7 +23,7 @@ Lots of linking with just the barest amount of original reporting, which is actu
 
 ## What’s Missing?
 
-[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1_friend_connect_image.jpg?v=1670723466768)](http://googleblog.blogspot.com/2008/05/friend-connected-web.html "Google Friend Conenct")
+[![](/images/1_friend_connect_image.jpg)](http://googleblog.blogspot.com/2008/05/friend-connected-web.html "Google Friend Conenct")
 
 As you might expect, nearly every story mentioned that Facebook has a commenting widget similar to what Google is presumably creating. Google and Facebook are competitors, so that’s a wise inclusion. Most also mentioned DIsqus, and sure, that’s relevant since they’re a big independent player. I don’t expect that these stories would be comprehensive overviews of the commenting space, so it’s fine that other minor players might get overlooked.
 

@@ -6,7 +6,7 @@ date_updated: 2007-02-09 05:59:46+00:00
 tags: [tech, blogs]
 ---
 
-![Bring me the head of Clay Shirky!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/the-head-of-clay-shirky.jpg?v=1730097721569) 
+![Bring me the head of Clay Shirky!](/images/the-head-of-clay-shirky.jpg) 
 
 A couple [Clay Shirky](http://www.shirky.com/) links for you today, one of which I just linked to, one of which I should have linked to last week, and all worth reading.
 

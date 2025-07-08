@@ -3,7 +3,7 @@ title: Every Day, A Little Better
 slug: every-day-a-little-better
 date_published: 2019-10-02 18:41:51+00:00
 date_updated: 2019-10-03 04:23:00+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fire-escapes.jpeg?v=1669585474348
+image: /images/fire-escapes.jpeg
 tags: [personal, podcasts]
 ---
 [*CW: mental illness, self-harm*]

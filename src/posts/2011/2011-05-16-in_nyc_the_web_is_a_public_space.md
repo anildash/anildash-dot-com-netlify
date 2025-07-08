@@ -7,7 +7,7 @@ tags: [nyc, tech]
 ---
 This morning, I was extraordinarily excited to get to witness Mayor Bloomberg and our city’s new Chief Digital Office Rachel Sterne unveil New York City’s “Road Map for the Digital City”. It’s an extraordinary document, and as someone who loves the web, civic engagement, public infrastructure and New York City, it feels like a momentous accomplishment, even though it marks the *beginning* of a years-long process, not just the end of a months-long one.
 
-![nyc-bloomberg-sterne.JPG](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-bloomberg-sterne.JPG?v=1670802703096)
+![nyc-bloomberg-sterne.JPG](/images/nyc-bloomberg-sterne.JPG)
 
 But the single biggest lesson I got from the [65-page, 11.8mb PDF](http://www.nyc.gov/html/media/media/PDF/90dayreport.pdf) is a simple one: The greatest city in the world can take shared public spaces online as seriously as it takes its public spaces in the physical world.
 

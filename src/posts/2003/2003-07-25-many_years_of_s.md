@@ -9,7 +9,7 @@ Dear Microsoft: What the fuck?
 
 Ten years ago, Windows 3.1 was the current version of Windows. I’d been using Windows for the better part of a decade then, and was moderately impressed with the system and thought it was pretty decent. Today, I’m running Windows XP service pack 1, the latest desktop operating system you’ve released. On my server is Windows Server 2003, which is even newer and is, overall, a fantastic server OS. But there’s one prominent indication that the lot of you are incompetent morons.
 
-![dumb windows font installation screen](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/fontbox.png?v=1730092134428)
+![dumb windows font installation screen](/images/fontbox.png)
 
 When I go to install a font, I see this bit of idiocy. It’s almost the *exact same [dialog box](http://www.microsoft.com/typography/ttfinst/ttfinst.htm)* that you had eight years ago. When Windows 95 came out, you had the good sense to at least make the font system look as if it were a regular folder, indicating that someday we’d all be able to drag a font in and just have it work, like any sane person would expect. But that’s never happened.
 

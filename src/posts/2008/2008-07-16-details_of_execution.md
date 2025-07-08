@@ -7,7 +7,7 @@ tags: [Best Of, tech]
 ---
 Sometimes if you do something very difficult, and you do it really well, the end result is that your achievement becomes completely invisible.
 
-![Twitter logo](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/twitter.png?v=1674101812607)
+![Twitter logo](/images/twitter.png)
 
 I mentioned a year and a half ago that [I like Twitter](/2007/02/consider-twitte.html). That was a little bit less common a position to take back then, but in the months since, tons of people have taken to the little messaging service, so clearly this was no great insight on my part — it’s just a useful, fun service.
 

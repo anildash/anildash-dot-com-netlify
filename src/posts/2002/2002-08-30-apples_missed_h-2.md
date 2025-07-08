@@ -9,7 +9,7 @@ Apple is committing a grave folly in not taking advantage of their tight OS/hard
 
 Look at Microsoft’s scroll wheel. Say what you want to about their lack of innovation, blah blah blah, but everyone I know who uses one won’t go back to a mouse that doesn’t have one. Even the most diehard Mac zealots I know all plug in either one of the Microsoft optical mice with scroll wheels or the Logitech clones of them. I started using a five button mouse about a year and a half ago (it’s got extra buttons flanking the mouse on either side) and now I can’t go back to 3 buttons because I’m too used to using those extra two to navigate forward and back in my browser or through file folders.
 
-![Microsoft Office Keyboard](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/msoffkbd.jpg?v=1730091421349)microsoft office keyboard
+![Microsoft Office Keyboard](/images/msoffkbd.jpg)microsoft office keyboard
 
 And all of this has succeeded despite Windows’ complete separation of OS and hardware. That separation is necessary, of course, given the incredible variations that are possible when creating systems on the PC platform. But over time, Microsoft has been able to shoehorn support for the scroll wheel and extra buttons on the mouse, and the Windows key and application (menu) key on the keyboard, into Windows itself, first by including driver disks with hardware and then by migrating those functions into the OS in later revisions.
 
@@ -35,7 +35,7 @@ There’s a ton of other functions, of course, like the great Undo and Redo keys
 
 Apple *owns* the APIs for their OS. They punish non-compliant apps heavily. As reward for being good, applications should get features for "free" when they comply with API standards. Microsoft does this well. Applications get the XP Fisher Price look for free if they’re written to the API correctly. They get automatic handling of scroll wheels and application switching keys and all the other frilly horseshit on contemporary desktop hardware. But the overwhelming majority of Apple users are using the *exact same keyboard* and there’s still no benefit accruing to them for doing so.
 
-![Mac OS X Dock](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/macosxdock.jpg?v=1730091419089)mac os x dock
+![Mac OS X Dock](/images/macosxdock.jpg)mac os x dock
 
 Aside from the fact that they keyboards on Macs have been getting progressively *worse*, there’s a tremendous opportunity being ignored. I’ll ignore the obvious complaints about Mac mice, as nobody I know who’s running OS X even *uses* the Apple mouse. But if I write my application to the Cocoa APIs, why shouldn’t the keyboard have a touch-sensitive strip at the top that displays toolbar icons from the program? Back when the program menu in OS 9 listed running programs, why wouldn’t there be an LCD showing the currently running program, next to a wheel that would let me switch between my open apps?
 

@@ -45,7 +45,7 @@ Thanks to [Ben](http://btrott.vox.com/), I was able to crunch the numbers a bit 
 
 If you’re looking for raw data, I’ve got the log file here: [massages.txt](/massages.txt) (750k plain text file). We’ve also got the raw data of counts, as an Excel file. [massages.xls](/massages.xls) (839k Excel spreadsheet). All of this data is from approximately one month ago; There’s a live data feed, but I’ll link to that later.
 
-![Massages Data](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/massages.png?v=1730095160828)
+![Massages Data](/images/massages.png)
 
 ### The bottom line
 

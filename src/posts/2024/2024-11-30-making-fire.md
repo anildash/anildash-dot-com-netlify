@@ -2,8 +2,8 @@
 title: "Lessons learned from burning things."
 slug: making-fire
 date_published: 2024-11-30T14:00:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/flame.jpeg?v=1732993424998
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/flame.jpeg?v=1732993424998
+heroimage: /images/flame.jpeg
+image: /images/flame.jpeg
 tags: [fire, writing]
 ---
 

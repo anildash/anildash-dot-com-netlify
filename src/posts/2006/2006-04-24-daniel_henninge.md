@@ -6,7 +6,7 @@ date_updated: 2006-04-24 04:00:26+00:00
 tags: [Best Of, random ha-ha, blogs]
 ---
 
-![Daniel Henninger has never been proven to eat people](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/daniel-henninger.jpg?v=1730094785501)
+![Daniel Henninger has never been proven to eat people](/images/daniel-henninger.jpg)
 
 Mr. Henninger, I had the good fortune to review [your column](http://www.opinionjournal.com/columnists/dhenninger/?id=110008265), in which you express, at length and in some detail, your extreme distaste for people publishing their own opinions on the Internet. I wanted to let you know that I am glad that you have published your own opinion on this matter. On the Internet.
 

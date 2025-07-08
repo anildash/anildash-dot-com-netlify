@@ -3,7 +3,7 @@ title: Prince's Own Liner Notes On His Greatest Hits
 slug: princes_own_liner_notes_on_his_greatest_hits
 date_published: 2016-05-28 23:55:36+00:00
 date_updated: 2022-11-20 07:23:44+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-the_hits__the_b-sides_a.jpg?v=1669869988585
+image: /images/prince-the_hits__the_b-sides_a.jpg
 tags: [Best Of, music, Prince]
 ---
 When Prince’s first greatest hits collection was released, Prince made private comments as a guide for the liner notes. Later briefly posted on his website thedawn.com in 1996, Prince’s comments have been lost for the last 20 years, but now provide a rare first-person insight into how he saw some of his most famous songs.

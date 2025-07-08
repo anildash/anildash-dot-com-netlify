@@ -3,7 +3,7 @@ title: Tech I'm Watching in 2022
 slug: tech-im-watching-for-2022
 date_published: 2021-12-23 23:34:25+00:00
 date_updated: 2021-12-23 23:34:25+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Ugo-Mendes-Donelli-dice.jpeg?v=1669522133491
+image: /images/Ugo-Mendes-Donelli-dice.jpeg
 tags: [tech, software]
 ---
 Each year, folks ask me for predictions about what's going to happen in tech in the coming year. Generally, what they're really asking is what I hope/expect is going to happen to the five or six biggest companies in the tech industry. That matters, especially in the context of policy and social impact, but in reality, very few of the conversations about their futures are really about *technology*.

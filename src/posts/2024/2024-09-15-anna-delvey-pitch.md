@@ -2,8 +2,8 @@
 title: How I got pitched by Anna Delvey
 slug: anna-delvey-pitch
 date_published: 2024-09-15 12:00:05+00:00
-heroimage: https://cdn.glitch.global/f03d6739-980b-47cc-938b-9f609e337e14/chili-pepper.jpg?v=1726469796258
-image: https://cdn.glitch.global/f03d6739-980b-47cc-938b-9f609e337e14/chili-pepper.jpg?v=1726469796258
+heroimage: /images/chili-pepper.jpg
+image: /images/chili-pepper.jpg
 tags: [absurdity, nyc, tech]
 ---
 Many people will be familiar with Anna Sorokin, also known as Anna Delvey, who was one of the most high-profile of the wave of hipster grifters during the 2010s. Today, she's beginning to pivot into some kind of reality TV/competition game show participant, playing on her celebrity, but back in 2016, she was just a person pitching strangers for her big idea that she was trying to get funded.

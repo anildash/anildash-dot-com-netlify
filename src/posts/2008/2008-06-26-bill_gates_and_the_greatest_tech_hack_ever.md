@@ -9,7 +9,7 @@ Bill Gates has pulled off one of the greatest hacks in technology and business h
 
 On a day when everyone will be noting Gates’ departure from day-to-day involvement in his work at Microsoft, it’s worth noting the work he’s done which will likely be seen as his greatest legacy.  
 
-[![Gates biography](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/gates-bio.jpg?v=1674101945300)](http://www.amazon.com/exec/obidos/ASIN/0671880748/2020-20)
+[![Gates biography](/images/gates-bio.jpg)](http://www.amazon.com/exec/obidos/ASIN/0671880748/2020-20)
 
 The unofficial goal of Microsoft in its early years was to see a computer on every desk and in every home, presumably running Microsoft software. That sort of vision, put forth in a time when the conventional wisdom dictated that personal computers might disappear entirely, was astounding enough. But by the year 2000, just 25 years after its founding, Microsoft had *achieved* that improbable goal, at least in the developed world.  
 The story of the [Gates Foundation](http://www.gatesfoundation.org/) is well-covered, but it’s important to consider the context in which the Foundation was created. What would you do if you defined the most ambitious goal you could imagine, and then achieved it just 25 years later? And what if you had done so while still relatively young, not even fifty years old? That’s the position Gates found himself in just a decade ago.  

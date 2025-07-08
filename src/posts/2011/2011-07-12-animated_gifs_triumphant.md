@@ -3,7 +3,7 @@ title: Animated GIFs Triumphant
 slug: animated_gifs_triumphant
 date_published: 2011-07-12 05:03:16+00:00
 date_updated: 2020-05-11 08:05:52+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr_lo0td2lRdj1qzcq51o1_500.gif?v=1670803207299
+image: /images/tumblr_lo0td2lRdj1qzcq51o1_500.gif
 tags: [tech, design, absurdity, Best Of]
 ---
 “[If you can make it here…](http://fromme-toyou.tumblr.com/post/7384086694/if-you-can-make-it-here)“, Jamie Beck, 2011

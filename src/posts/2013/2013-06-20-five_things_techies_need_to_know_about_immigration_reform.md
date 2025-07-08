@@ -3,7 +3,7 @@ title: Five Things Techies Need To Know About Immigration Reform
 slug: five_things_techies_need_to_know_about_immigration_reform
 date_published: 2013-06-20 14:21:11+00:00
 date_updated: 2013-06-20 14:21:11+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/guide_to_s744_corker_hoeven_final_12-02-13.jpg?v=1670562328685
+image: /images/guide_to_s744_corker_hoeven_final_12-02-13.jpg
 tags: [tech, policy]
 ---
 Hello, Americans who work in the technology industry! Did you know comprehensive immigration reform is coming? This is a thing that is more important than the used game policy on the XBox. And you’re a good person who cares about the world, so let’s get you up to speed on this important issue so you can help immigrants who might otherwise be marginalized by bad policy.

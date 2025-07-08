@@ -5,7 +5,7 @@ date_published: 2007-12-03 13:50:39+00:00
 date_updated: 2007-12-03 13:50:39+00:00
 tags: [tech]
 ---
-![Clear](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/clear-logo.gif?v=1674867225572)
+![Clear](/images/clear-logo.gif)
 
 **What It Is**: The [Clear card](http://flyclear.com/) is designed for frequent travelers, to let you skip the line at airport security (You still have to go through security, of course) in exchange for a fee. This one I was fascinated by as soon as I heard about it. I fly a lot — about a quarter million miles in the past two years alone — and I have a bad case of Flying While Brown, so this was right up my alley.
 
@@ -17,7 +17,7 @@ In all the bad dystopian future scifi movies I’ve ever seen, they never mentio
 
 It gets even better at the airport. I finally got to try out the card itself on my way through airport security today, and it was the worst-case scenario. I was held up and got to the airport a scant 30 minutes before my flight was supposed to take off — *way* late, and this was on an airline where I don’t have frequent flier status, so they probably weren’t inclined to indulge me.
 
-![clear-card.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/clear-card.jpg?v=1674867225119)
+![clear-card.jpg](/images/clear-card.jpg)
 
 I wasn’t even at the place where the security line begins when I took out my Clear card, and a *really* nice guy in a suit and tie came over and shook my hand. He glanced at the card, and immediately greeted me as “Mr. Dash”, and then scurried me past the entire line. He handed me off to another equally formal Clear staffer, who apologized for the fact that I’d have to wait about 30 seconds for another Clear member’s passport to get checked by the TSA. After that, I was whisked to a walk-up Clear security verification machine that looked like it was something out of The Incredibles. (The guy had some nice banter about San Francisco without being annoyingly overbearing on the friendly chit-chat.) A quick scan of my left index finger, and the Clear guy grabbed two of the x-ray trays for me, helped get my laptop into them and made sure all my other stuff was safely on the x-ray belt, and then walked me right up to the metal detector, saying “have a nice flight to San Francisco, Mr. Dash!”
 

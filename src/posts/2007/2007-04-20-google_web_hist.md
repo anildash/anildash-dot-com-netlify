@@ -9,7 +9,7 @@ Many years ago, when the web was a simpler place, one of the scariest monsters c
 
 Today, Google’s released [Google Web History](http://www.google.com/history/). It’s a brilliant, powerful, even insightful tool that will undoubtedly worry those who were concerned about privacy in the early days of the web’s popularity. It doesn’t help that Google now *owns* DoubleClick, and all those worries about cookies are amplified that Google actually stores all of this data on *its* computers, not yours, tied to an identity that might well also be linked to your [email](http://www.gmail.com/), [office documents](/2006/08/28/google_office_g), your instant messages, and of course your browser history itself, courtesy of the [browser toolbar](http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;num=0&amp;client=ca-ref-pub-0956928739115480&amp;adurl=http://services.google.com/toolbar/firefox%3Fai%3DBsMleAx7kRLCYD5ikpALUsOAk0Z7yF83Cx-0BxY23AQAQASDY_bsESKI5UIPj0QKYAZxKoAG1lcj9A7IBDnd3dy5kYXNoZXMuY29tyAEB2gEbaHR0cDovL3d3dy5kYXNoZXMuY29tL2FuaWwvgAIBlQIfMUgK&amp;ai=BmWIpAx7kRLCYD5ikpALUsOAk0Z7yF83Cx-0BxY23AQAQASDY_bsESKI5UKWOnL4EmAGcSqABtZXI_QOyAQ53d3cuZGFzaGVzLmNvbcgBAdoBG2h0dHA6Ly93d3cuZGFzaGVzLmNvbS9hbmlsL4ACAZUCHzFICg).
 
-![Google Web History](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history.png?v=1730095748411)
+![Google Web History](/images/google-web-history.png)
 
 ### Services For Your Web History
 
@@ -21,13 +21,13 @@ As you’d expect, there’s a prominent and simple way to remove those scurrilo
 
 There’s a promising, but (for me, at least) still blank area titled “Interesting Items”, and the reappearance of a feature that first showed up in the excellent Google Reader: **Trends**.
 
-![Google Web History's Trends Display](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history-trends.png?v=1730095747578)
+![Google Web History's Trends Display](/images/google-web-history-trends.png)
 
 Now, Google’s data for my own history is slightly skewed; I tend to use [Blingo](http://www.blingo.com/friends?ref=REsPsB76SFMtgP_fKsYk5kYuLmo) for a lot of basic searches on my computers, and Google’s toolbar doesn’t track that. But the fundamental underpinnings for a remarkably deep look into behavior on the web are already present.
 
 ### The Real World
 
-![Google Web History's Web Activity Chart](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/google-web-history-web-activity.png?v=1730095747940) 
+![Google Web History's Web Activity Chart](/images/google-web-history-web-activity.png) 
 
 Outside of the world of users who gawk at every shiny new thing on the web, though, this is going to give people the heebie-jeebies in a way that we’re probably only used to getting from Microsoft. In fact, it’s probably safe to say that no other major web company *could* release this product today; The backlash from the user community of players like Microsoft, Yahoo, or AOL would simply be too strong.
 

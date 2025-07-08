@@ -3,7 +3,7 @@ title: How Software Works
 slug: how_software_works
 date_published: 2015-01-23 16:32:48+00:00
 date_updated: 2015-01-23 16:32:48+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Pac-Man-thumb-800xauto-419.jpg?v=1669940088745
+image: /images/Pac-Man-thumb-800xauto-419.jpg
 tags: [tech, software]
 ---
 Here’s a lesson in how software development works.

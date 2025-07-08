@@ -3,7 +3,7 @@ title: That broken tech/content culture cycle
 slug: the-stupid-tech-content-culture-cycle
 date_published: 2022-02-09 23:37:22+00:00
 date_updated: 2022-02-10 03:21:38+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/kevin-andre-broken-record.jpeg?v=1669511042979
+image: /images/kevin-andre-broken-record.jpeg
 tags: [tech, web, culture, policy]
 ---
 Here’s how you do it.

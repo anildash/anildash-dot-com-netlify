@@ -9,7 +9,7 @@ I stopped working at Six Apart over a year ago. At the time, I didn’t blog abo
 
 It seems like that next step for the company is [now clear](http://techcrunch.com/2010/09/21/video-egg-will-acquire-six-apart-and-rename-itself-say-media/): Six Apart’s become [part of SAY Media](http://everything.typepad.com/blog/2010/09/six-apart-and-videoegg-create-say-media-a-modern-media-company.html), by being acquired by VideoEgg. I don’t honestly know much about the new entity except that they seem to be primarily focused on doing some clever things with ads, and are well poised to be very successful there, while they’ve also said they’ll be keeping Movable Type and TypePad running along. It’s certainly not the end of what Six Apart has become, but it’s obviously the end of a chapter, and worth observing.
 
-![Six Apart](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/sixapart-logo.png?v=1670813078649)
+![Six Apart](/images/sixapart-logo.png)
 
 For me, I’m taking an optimistic wait-and-see attitude about the new company, but I mostly wanted to mark the moment because the company that Six Apart has been has played such a big role in my career and my personal evolution. I learned a ton about business and life and products and communities in my time there, and made many of my closest friends through that work. So, as someone who is again just a fan, and as a person who was part of the larger blogging community that had such deep affection for a humble little startup called “Six Apart” when we first heard the name back in 2002, I just wanted to take a moment to note a milestone that’s a bit bittersweet for me.
 

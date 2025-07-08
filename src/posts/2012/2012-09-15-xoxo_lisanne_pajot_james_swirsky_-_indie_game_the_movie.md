@@ -11,11 +11,11 @@ Swirsky and Pajot are the directors of the Sundance-award winning documentary tr
 
 ## [James Swirsky](https://twitter.com/jamesswirsky)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/IndieGameTheMovieNewVimeo_normal.png?v=1670738724626)
+![](/images/IndieGameTheMovieNewVimeo_normal.png)
 
 ## [Lisanne Pajot](https://twitter.com/lisannepajot)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RedCarpet_2_normal.jpg?v=1670738755124)
+![](/images/RedCarpet_2_normal.jpg)
 
 Project: **[Indie Game: The Movie](http://indiegamethemovie.com/)**
 

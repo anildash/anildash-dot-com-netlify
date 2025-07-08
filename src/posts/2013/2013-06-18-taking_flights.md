@@ -3,7 +3,7 @@ title: Taking Flights
 slug: taking_flights
 date_published: 2013-06-18 20:05:57+00:00
 date_updated: 2020-09-15 10:11:25+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/theskies.jpg.webp?v=1670562042718
+image: /images/theskies.jpg.webp
 tags: [nyc, culture, books]
 ---
 I read my friend Brendan Koerner’s *[The Skies Belong To Us](http://theskiesbelongtous.com/)* straight through; On its surface, this is a book that tells a riveting true (not inspired-by-true, but *true*) story of two young lovers and the fantastic, farcical way in which they pulled off the longest-distance hijacking of an American airliner in history. That’s reason enough to recommend that you dive into it.

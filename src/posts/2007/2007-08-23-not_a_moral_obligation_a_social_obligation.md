@@ -7,7 +7,7 @@ tags: [tech, blogs]
 ---
 Mitch Wagner has a provocative, comprehensive, and entertaining look at the recent conversations about Apple and the enterprise over at InformationWeek entitled “[Does Apple Have A Moral Obligation To Serve The Enterprise Market?](https://www.informationweek.com/it-leadership/does-apple-have-a-moral-obligation-to-serve-the-enterprise-market-)” Though some part of the conversation is pegged to my [recent](/2007/08/the-enterprise-apple-and-insufficient-ambition.html)[posts](/2007/08/groupware-still-sucks.html) about the topic, I should clarify that, despite my strident tone, I don’t think Apple has a *moral* obligation to create products that meet the requirements of enterprises. I think they have a *social* obligation to bring their tradition of great user experience to more of the business world if they want to really want to have the biggest possible cultural impact.
 
-![apple-iphone.jpg](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/apple-iphone.jpg?v=1712641485525)
+![apple-iphone.jpg](/images/apple-iphone.jpg)
 
 Part of my premise here is that Apple, with its focus on aesthetics and user experience, clearly cares about its intangible impacts on culture. I am fortunate enough to get to talk about these sorts of things as part of my day job, and the the people i work with who do all the smart thinking about it spend time designing for both the best experience *and* the widest adoption. i tried to capture that a bit in my [comment on Mitch’s post](http://www.informationweek.com/blog/main/archives/2007/08/does_apple_have.html;jsessionid=BBSU0ELZDDLAGQSNDLOSKHSCJUNN2JVN#community):
 
@@ -21,7 +21,7 @@ I also enjoyed some additional thoughts over at [The Mac Observer](https://web.a
 > 
 > Thus, if corporations force users to use crappy tools and subjugate them, corporate users should revolt and demand more from the IT managers who are supposed to serve them, according to some. In order to assist in that process, the implication is that Apple has a moral obligation to do the same: make great enterprise products that employees love and still checks all the corporate IT boxes.
 
-![blackberry-curve.jpg](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/blackberry-curve.jpg?v=1712641589634)
+![blackberry-curve.jpg](/images/blackberry-curve.jpg)
 
 I’m not sure John Martellaro is completely accurate in his encapsulation of my viewpoint, but I found it remarkable that he managed to make this, too, a Microsoft-versus-Apple story. Hint: It’s not. It’s about user experience, and I’d point again to the example of Research in Motion and the Blackberry. It’s a phone that, from a feature perspective, does even more than the iPhone, albeit less elegantly for any task that doesn’t involve entering text. However, RIM has made a product that users are passionate about, even *addicted to*, while still meeting all the needs of the enterprise and insinuating themselves deep into corporate (and political) culture. Succinctly, they’ve changed the way people do their jobs, and in doing so, changed the way people live their lives. The iPhone is forced to be “my other phone” for a lot of people whose phones are business tools, and no matter how pretty she is, a sexy mistress is nowhere near as meaningful as a committed marriage.
 

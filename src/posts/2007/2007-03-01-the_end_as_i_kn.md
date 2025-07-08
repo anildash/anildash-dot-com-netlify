@@ -7,7 +7,7 @@ tags: [blogs, books]
 ---
 When I first heard that [Kevin Shay](http://www.kshay.com) was working on a novel, it struck me as a little bit unfair. I know Kevin from his [work with Movable Type](http://www.staggernation.com/); as we [said on the MT blog](http://www.sixapart.com/movabletype/news/2007/02/a_coversation_w.html), he’s been one of the most creative plugin developers around for years.
 
-[![The End As I Know It](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/teaiki.jpg?v=1730097825101)](http://www.amazon.com/exec/obidos/ASIN/0385518218/2020-20)
+[![The End As I Know It](/images/teaiki.jpg)](http://www.amazon.com/exec/obidos/ASIN/0385518218/2020-20)
 
 But to be good at hacking *and* at writing seems a little excessive, like you’re just being talent-greedy. This is the cause of my resentment of folks like [Paul Ford](http://www.ftrain.com/), who may well be the best writer on the web, or even [Ben Trott](http://btrott.vox.com/), who’s one of my favorite music writers in addition to being a better coder than you or me. Kevin’s *[The End As I Know It](http://www.amazon.com/exec/obidos/ASIN/0385518218/2020-20)* puts him firmly into the “even better writer than hacker” camp; The book is excellent. As someone who *never* reads fiction and usually only has the attention span to read a single blog post at a time, it had me reading almost the entire novel in a single sitting.
 

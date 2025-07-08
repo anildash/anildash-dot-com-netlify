@@ -6,7 +6,7 @@ date_updated: 2006-08-31 15:59:59+00:00
 tags: [Best Of, blogs]
 ---
 There are lots of different corners of the web, most of which have the good graces to be supportive and interesting and to act like, well, a *community*. People generally like to be social. But then there’s the high-profile personal websites, full of pundits and supernerds, and the kinds of people who I imagine talk on wireless headsets on their cell phones while at a restaurant. For these people, it’s always August.
-[![August at Shackleford Banks.jpg](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/august-shackleford-banks.jpg?v=1730096185718)](http://www.flickr.com/photos/steveb/220474826/)
+[![August at Shackleford Banks.jpg](/images/august-shackleford-banks.jpg)](http://www.flickr.com/photos/steveb/220474826/)
 
 First, a little background. If you’ve never worked in the publishing or media industries, you might not know that August is officially the month where everyone basically phones it in. Back in New York, people would speak of going to The Hamptons so often that it’s been verbed into “Hamptoning” and used as a generic term for going on vacation. While bigwigs and editors are away cavorting, a makeshift army of interns, temps, and recent college grads generally takes over. These kids usually don’t have much experience, and newspaper editors don’t want to have to do any hard work during the dog days, so the end result is that you get a combination of lazy writing and some *really* crappy journalism.
 

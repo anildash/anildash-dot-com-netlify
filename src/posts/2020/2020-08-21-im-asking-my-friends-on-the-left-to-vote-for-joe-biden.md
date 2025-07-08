@@ -3,7 +3,7 @@ title: "I\u2019m Asking My Friends on the Left to Vote for Joe Biden"
 slug: im-asking-my-friends-on-the-left-to-vote-for-joe-biden
 date_published: 2020-08-21 08:26:41+00:00
 date_updated: 2020-09-02 19:22:04+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fraying-knots.jpeg?v=1669582261896
+image: /images/fraying-knots.jpeg
 tags: [policy, culture]
 ---
 With authoritarianism at our door, the policies that progressives are driving for will be dependent on whether the fundamental institutions of democracy are protected at all. 

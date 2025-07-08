@@ -3,7 +3,7 @@ title: Remembering Brad L. Graham
 slug: remembering_brad_l_graham
 date_published: 2010-01-11 09:21:36+00:00
 date_updated: 2010-01-11 09:21:36+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4201-BatmanilandRobrad.jpg?v=1670808812062
+image: /images/4201-BatmanilandRobrad.jpg
 tags: [personal, blogs]
 ---
 > I don’t believe in life insurance. When I die, I want it to be a bad day for everybody. – Brad L. Graham, February 2002

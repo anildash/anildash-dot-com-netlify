@@ -3,7 +3,7 @@ title: Making Things, Fast
 slug: making-things-fast
 date_published: 2021-01-06 09:51:32+00:00
 date_updated: 2021-01-06 09:51:32+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/workshop-drawers.jpeg?v=1669528992249
+image: /images/workshop-drawers.jpeg
 tags: [web, software]
 ---
 These days, I'm a hobbyist web developer. That used to be a common thing people did; it was like having a crafting hobby, but with web pages. Over the last decade or two, though, making a website became either something done by professional developers using incredibly complex tools, or the province of people using some of the simple services that let you build a website from a template.

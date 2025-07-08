@@ -9,7 +9,7 @@ Understand this: I am an unapologetic Michael Jackson apologist. I was that guy,
 
 Michael Jackson has had a third child, apparently, of unknown maternity. [The child’s name is apparently Prince Michael Jackson II](http://story.news.yahoo.com/news?tmpl=story2&amp;cid=794&amp;e=9&amp;u=/eo/20020821/en_movies_eo/10425). Let me review.
 
-![Michael and Prince I](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/kingandprince.jpg?v=1730091347994) Michael and Prince I
+![Michael and Prince I](/images/kingandprince.jpg) Michael and Prince I
 
 A few years ago, after Michael Jackson divorced (recent Nicholas Cage bride and daughter of Elvis) Lisa Marie Presley, he had a son and then married the boy’s mother, Debbie Rowe. Rowe was a nurse at Michael’s dermatologist and/or plastic surgeon’s office, depending on which source you quote. This child’s name is Prince Michael Jackson Jr.
 

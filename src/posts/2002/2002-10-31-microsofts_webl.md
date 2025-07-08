@@ -13,7 +13,7 @@ That scenario is real.
 
 Weblogs have been steadily gaining in attention and credibility in the 3 or 4 years since they first came to prominence. The power of a distributed, personally created medium with hundreds of thousands of authors spanning all social classes and geographic boundaries triggered excitement, hype, and cynicism that hadn’t been seen since the heights of the Internet boom.
 
-[![Mock Microsoft Weblogger Box](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/msblog.jpg?v=1730091420963)](http://www.wrongwaygoback.com/wetlogarchive/archive.asp?2002_02_17_archive.html#9865330) not the real thing
+[![Mock Microsoft Weblogger Box](/images/msblog.jpg)](http://www.wrongwaygoback.com/wetlogarchive/archive.asp?2002_02_17_archive.html#9865330) not the real thing
 
 These accomplishments came largely on the back of three weblog tool platforms. Pyra’s Blogger and Userland’s Radio came first, followed more recently by Six Apart’s Movable Type. All three companies have an informal, first-person demeanor, with their founders, owners, and employees being weblog writers themselves. This is the case for most of the less-known weblogging platforms, as well. The casual nature of the tool creators’ efforts prompted occasional hand-wringing from time to time as various speculators would ask themselves, “When are the Big Guys going to try to muscle in on this realm?” That question, of course, spawned the [inevitable parody](http://www.wrongwaygoback.com/wetlogarchive/archive.asp?2002_02_17_archive.html#9865330).
 
@@ -31,7 +31,7 @@ Lists, in a word, are weblogs.
 
 Installing SharePoint is fairly easy. The millions of people running Office XP Professional with FrontPage, Office XP Developer, Project Server 2002, or the standalone FrontPage 2002 product already have it, either installed or ready to be installed with a few clicks. These applications shipped, complete with little blue gears logo for the product, in May of 2001. A standard installation Wizard enables it for those who, sensibly, didn’t install FrontPage by default when they set up Office.
 
-[![SharePoint Entry Screen](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sharepointlist_thumb.png?v=1730091428077)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sharepointlist.png?v=1730091428500)sharepoint entry screen
+[![SharePoint Entry Screen](/images/sharepointlist_thumb.png)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/sharepointlist.png?v=1730091428500)sharepoint entry screen
 
 From a technical standpoint, SharePoint uses Microsoft SQL Server to provide data for the pages, all of which are dynamically generated. While the Portal Server uses the full-fledged version of SQL Server, Team Services can run on [MSDE](http://www.microsoft.com/sql/techinfo/development/2000/MSDE2000.asp), a desktop version of the same database engine. All of this back-end configuration can be done through a relatively friendly HTML interface built into the app, and individual pages can be customized with FrontPage. It’s probably possible to do this customization with a text editor and the raw HTML, but given the preponderance of proprietary ActiveX tags, few would be determined and masochistic enough to do so.
 
@@ -47,7 +47,7 @@ The other essential part of corporate integration that SharePoint nails is custo
 
 So should everyone just pack it in and go home? Should today’s weblog software companies cede the enterprise and business markets to Microsoft’s endless cash and brutal marketing? Probably not. There are enough significant vulnerabilities in Microsoft’s strategy for SharePoint that their failure in this market seems *likely*, not just possible. First among these vulnerabilities is the fact that Microsoft is probably going to neuter the product.
 
-![SharePoint's Logo](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/gears.gif?v=1730091415722)sharepoint’s gear logo
+![SharePoint's Logo](/images/gears.gif)sharepoint’s gear logo
 
 They’ve already [announced](http://www.crn.com/Sections/BreakingNews/breakingnews.asp?ArticleID=36329) that SharePoint 2.0 will “integrate” Team Services and the Portal Server. Whether that means closer ties or the actual merging of the code base is still a subject for debate outside of Microsoft’s walls, but the threat such integration poses to a user interface that’s already derided *by a Microsoft employee* as "[too rigid and formal](http://sapid.com/tww/archives/2002/03/26.html)". Some of this clunkiness can be seen in the [Flash demo](http://www.microsoft.com/frontpage/sharepoint/howto.htm) of the application and in the [live mockups](http://www.sharepointsample.com/samplesites.htm) that show some sample installations. Despite the difficulties of use, it becomes clear that it’s easier to make a platform-neutral web product than to tie HTML to one operating system.
 

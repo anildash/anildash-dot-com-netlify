@@ -3,7 +3,7 @@ title: All Dashboards Should be Feeds
 slug: all_dashboards_should_be_feeds
 date_published: 2013-01-08 23:33:12+00:00
 date_updated: 2022-10-03 21:49:56+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-going-viral-expanded.PNG?v=1670399889375
+image: /images/whitehouse-going-viral-expanded.PNG
 tags: [Most Popular, tech, twitter]
 ---
 Last week, we announced the new beta release of [ThinkUp](https://thinkup.com/) (if you’re a geek or developer, try it out!) and one of the reasons I was most excited to [talk about](http://blog.thinkup.com/post/39497204010/thinkup-2-0-getting-better) the new release is because it has a whole new user experience which exemplifies a belief about analytics that I’ve become pretty adamant about.
@@ -17,7 +17,7 @@ There are *lots* and lots of apps that provide a dashboard of analytics these da
 ## Beautiful but Empty
 
 When I talk about “dashboards” here, I don’t mean ones that are already a news feed or stream of posts, like Tumblr, but the old-fashioned kind where you see a bunch of meters and dials and line charts that are supposed to communicate the current status of whatever you’re tracking. You can see Chartbeat’s beautiful set of graphs and charts above, and Facebook’s got a fancy one for insights on their platform; It looks like this:
-![Facebook InsightsCharts](https://cdn.glitch.global/47574a7f-e81d-405a-bdb8-1104be404a72/facebook-charts.png?v=1664818186601)
+![Facebook InsightsCharts](/images/facebook-charts.png)
 
 And you know what? I have *no idea* whether my numbers on those services are good or not. I don’t know what I’m supposed to do about them. In fact, though I love Chartbeat, the information that I get from them that means the most is their push notifications on my phone which tell me when my site is over its maximum monthly number of visitors. *That* is meaningful.
 

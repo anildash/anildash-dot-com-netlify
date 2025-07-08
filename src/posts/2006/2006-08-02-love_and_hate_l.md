@@ -6,7 +6,7 @@ date_updated: 2006-08-02 15:23:31+00:00
 tags: [random ha-ha, links]
 ---
 
-![Admit One](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ticket-purple.jpg?v=1730095209331)
+![Admit One](/images/ticket-purple.jpg)
 
 - [Divebars. Jukeboxes. Allen Iverson. Beerball. Super Mario Kart. NetFlix. LiveFuckingJournal. The way my girl looks in that skirt.](http://inertiacrept.livejournal.com/43187.html) Everything great about America, and everything great about every place else, all in one post. I *love* great writing on the web.
 - [Ticket Generator](http://www.says-it.com/concertticket/). From the genius who brought you the original [Church Sign Generator](http://www.churchsigngenerator.com/), you can grant yourself evidence of admission to anything.

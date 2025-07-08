@@ -4,7 +4,7 @@ slug: the_pushbutton_web_realtime_becomes_real
 date_published: 2009-07-24 12:34:55+00:00
 date_updated: 2009-07-24 12:34:55+00:00
 tags: [Best Of, Most Popular, tech, blogs]
-image: https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589941
+image: /images/pushbutton-delivery.png
 ---
 **Pushbutton** is a name for what I believe will be an upgrade for the web, where any site or application can deliver realtime messages to a web-scale audience, using free and open technologies at low cost and without relying on any single company like Twitter or Facebook. The pieces of this platform have just come together to enable a whole set of new features and applications that would have been nearly impossible for an average web developer to build in the past.
 
@@ -32,7 +32,7 @@ In the best case, the system we have now is analogous to a person coming by your
 
 That’s because Pushbutton-enabled applications will improve upon the current state of affairs by proactively delivering not just the notification that there’s a new message, but the content of the *message itself*. And instead of requiring all those applications to come to your site to read the update, it uses a hub server in the cloud to pass along the message directly to all the receivers that are interested in it.
 
-![pushbutton delivery](https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589539)
+![pushbutton delivery](/images/pushbutton-delivery-1.png)
 
 1. You, the Sender, create a message to be delivered via RSS or Atom
 
@@ -81,7 +81,7 @@ There are a lot of existing technologies that have influenced the creation and e
 
 I have tremendous excitement about the new realtime era of web applications. While I’m fundamentally an optimistic person, I have great skepticism when it comes to mindless hype about new technologies, so it’s with a bit of reluctance that I indulge in some hype myself. But I think the Pushbutton web has the opportunity to give individuals and organizations with distinct and passionate voices the ability to be even more immediate and expressive on the web, and [after ten years](/2009/07/20/ten_years.html) of publishing on the web, that’s the part I love the most.
 
-![Wired's notorious 1997 "Push" cover](https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/wired-push.jpg?v=1671507816907)
+![Wired's notorious 1997 "Push" cover](/images/wired-push.jpg)
 
 I have no doubt that some skeptics will say “Pushbutton is just PubSubHubBub by another name”, just like they said “Ajax is XMLHttpRequest by another name”, and if that’s what the super-geeky guys want to believe, I’m fine with that. And I’m sure there will still be some significant technical details to resolve. But I think by giving the overall concept an approachable, understandable name and (hopefully!) an explanation that can be understood by anyone with an interest, it can catalyze interest in a whole new area of innovation on the web. And to be honest, when I see folks like Brad Fitzpatrick and Dave Winer hacking on the same set of problems, I can’t help but think something interesting will come of it.
 

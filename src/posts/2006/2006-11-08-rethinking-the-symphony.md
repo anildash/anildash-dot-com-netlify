@@ -3,8 +3,8 @@ title: Rethinking the Symphony
 slug: rethinking-the-symphony
 date_published: 2006-11-08 06:00:06+00:00
 date_updated: 2006-11-08 06:00:06+00:00
-heroimage: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/avery-fisher-hall.jpg?v=1729981592676
-image: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/avery-fisher-hall.jpg?v=1729981592676
+heroimage: /images/avery-fisher-hall.jpg
+image: /images/avery-fisher-hall.jpg
 tags: [music]
 ---
 Earlier this year, the [New York Philharmonic](http://nyphil.org/) started distributing some recordings of their works through the iTunes music store. On its own, that’s not a particularly revolutionary achievement; These days, it seems downright obvious.

@@ -3,7 +3,7 @@ title: Goodbye, Prince
 slug: goodbye_prince
 date_published: 2016-04-28 19:40:43+00:00
 date_updated: 2018-04-17 17:54:06+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-final.jpg?v=1669870539295
+image: /images/prince-final.jpg
 tags: [Prince, music, podcasts]
 ---
 I’ve been struggling to find words to express how I feel in the week since Prince died. He’s obviously the artist that’s had the most impact on my life, and was in many ways the lens through which I processed the rest of pop culture and artistic expression.

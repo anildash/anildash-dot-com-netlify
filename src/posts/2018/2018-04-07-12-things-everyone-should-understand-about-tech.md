@@ -3,7 +3,7 @@ title: 12 Things Everyone Should Understand About Tech
 slug: 12-things-everyone-should-understand-about-tech
 date_published: 2018-04-07 04:19:34+00:00
 date_updated: 2021-08-02 04:06:40+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567
+image: /images/cassette.jpeg
 tags: [tech, Best Of, Most Popular]
 ---
 Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it’s essential to understand the principles that determine how tech affects our lives.
@@ -78,7 +78,7 @@ It’s important to understand how tech companies make money if you want to unde
 
 That’s it. Pretty much every company in tech is trying to do one of those three things, and you can understand why they make their choices by seeing how it connects to these three business models
 
-![USB Plug](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-plug.jpeg?v=1669625300721)
+![USB Plug](/images/usb-plug.jpeg)
 
 ## 10. The economic model of big companies skews all of tech.
 

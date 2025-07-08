@@ -2,8 +2,8 @@
 title: "What Would “Good” AI Look Like?"
 slug: what-would-good-ai-look-like
 date_published: 2025-05-02T02:02:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/alexas_fotos-Bg0Qaj38le0-unsplash.jpg?v=1746151950592
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/alexas_fotos-Bg0Qaj38le0-unsplash.jpg?v=1746151950592
+heroimage: /images/alexas_fotos-Bg0Qaj38le0-unsplash.jpg
+image: /images/alexas_fotos-Bg0Qaj38le0-unsplash.jpg
 tags: [ai, tech]
 ---
 

@@ -2,8 +2,8 @@
 title: "The Crafters of “Andor”"
 slug: the-crafters-of-andor
 date_published: 2025-05-23T03:30:00.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andor-concept-art.jpg?v=1747971740176
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/andor-concept-art.jpg?v=1747971740176
+heroimage: /images/andor-concept-art.jpg
+image: /images/andor-concept-art.jpg
 tags: [star wars, film]
 ---
 

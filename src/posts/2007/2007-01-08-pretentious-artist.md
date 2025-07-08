@@ -7,7 +7,7 @@ tags: [design, arts]
 ---
 Those who know me know that I’m pretty much inept at any kind of artistic endeavor. Which makes it all the more amusing that I’ve recently had the chance to pretend to be a real artist a bit lately.
 
-![aiga-boots.jpg](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/aiga-boots.jpg?v=1730097381056)
+![aiga-boots.jpg](/images/aiga-boots.jpg)
 
 First, the [AIGA Collaborate/Celebrate Holiday Party](http://aigany.org/events/details/?event=07HP) last month featured an auction of a number of pairs of customized boots. Alaina and I were asked to contibute, with proceeds from the auction benefitting the AIGA NY Mentoring Program and First Book, which helps low-income families get their children their first books.
 

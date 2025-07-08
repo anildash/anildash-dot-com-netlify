@@ -13,7 +13,7 @@ The fact is, if even citizens who hate the United States of America (as secessio
 
 President Obama should sit down for a “beer summit” with representatives chosen by petitioners who’ve signed the calls for secession, and listen to the grievances which they think require the dissolution of the Union.
 
-![secession-map.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/secession-map.png?v=1670799840699)
+![secession-map.png](/images/secession-map.png)
 
 ## Why A Beer Summit?
 
@@ -25,7 +25,7 @@ And the ostensible secessionists would benefit from the clarity that comes with 
 
 Though I disagree with their stated intentions, I also don’t resent my fellow citizens who’ve signed these petitions. I have a soft spot for extremist views in general, and an appreciation for old-fashioned approaches to questioning the way our government works. But more importantly, I think they’ll benefit most from seeing that government can work the way we all imagine that it might: People with different opinions can come together in conversation, those with unpopular or unusual views can be heard, and the contrast of perspectives can leave both parties wiser for having engaged.
 
-![Beer Summit I](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/afterbeers_LJ-0110.jpg?v=1670799938878)
+![Beer Summit I](/images/afterbeers_LJ-0110.jpg)
 
 ## Ascending The Summit
 

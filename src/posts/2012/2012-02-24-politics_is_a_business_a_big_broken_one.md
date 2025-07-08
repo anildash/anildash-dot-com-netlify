@@ -31,7 +31,7 @@ When new technology-based networks are still young, they can be massively disrup
 
 ## Who’s Going To Step Up?
 
-[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/how-laws-made.jpg?v=1670714904624)](http://www.good.is/post/infographic-how-a-bill-actually-becomes-a-law/)
+[![](/images/how-laws-made.jpg)](http://www.good.is/post/infographic-how-a-bill-actually-becomes-a-law/)
 
 The thing is, there is a *ton* of opportunity in this disruption that’s going to happen. Social networks *will* reshape electoral politics and the world of policymaking in the next half-decade, and it’s just a question of who does it, and on what terms. Even in just the few short years since [Expert Labs](http://expertlabs.org/) was formed, we’ve had to change some of our fundamental assumptions; According to the world we were living in when we started Expert Labs, the widespread, incredibly effective and surprisingly rapid protests against SOPA and PIPA should never have been able to happen. Yet they not only happened, they happened *without* primarily relying on financial sponsorship of alternate candidates as their primary point of influence.
 
@@ -43,7 +43,7 @@ The funny thing is, I’m not actually demonizing the fact that money and busine
 
 Perhaps one of the most overlooked parts of this evolution is that there are going to be *new winners*. Not just new candidates getting elected to office (although that’s great, too!) but new companies which succeed in building thriving new businesses by serving a more responsive, engaged electorate through social networks online. In fact, I’m proud to advise one of the most prominent and promising of them, [Votizen](https://www.votizen.com/), which just got a [pretty formidable set of investors](http://allthingsd.com/20120223/votizen-gets-a-celebrity-round-of-funding-to-connect-social-media-and-politics/) who share my optimism that a better political infrastructure is also a good opportunity for building a business that helps make the world better.
 
-[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/votizen-button.png?v=1670714904162)](http://votizen.com/)
+[![](/images/votizen-button.png)](http://votizen.com/)
 
 I’m not the sort of person who usually ends up advising companies backed by “hot” Silicon Valley investors. (Or Ashton Kutcher. Or Lady Gaga’s manager.) But putting aside my own picky preferences about how the tech industry runs, *I want this one to work*. I want our tech industry to see as much potential, as much excitement, as much glamour, and *far more* meaning in fixing politics and voting and policy as they do in fixing the way we listen to music or organize our photos.
 

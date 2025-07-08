@@ -7,7 +7,7 @@ date_updated: 2008-07-21T15:45:11.000Z
 
 Hey, NowPublic [made a list of the 50 most influential web people in New York](https://web.archive.org/web/20080726065601/http://www.nowpublic.com/world/mostpublic-index), and I’m on it at number six. So, thanks to the folks who made the list, and I appreciate the recognition.
 
-![NowPublic](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/nowpublic-logo.png?v=1674101019721) However, every time a similar list comes out, I have a number of responses that immediately come to mind, and most of my friends who have to suffer through my ranting reply with some variation of “You’re just complaining because you’re not on the list!”
+![NowPublic](/images/nowpublic-logo.png) However, every time a similar list comes out, I have a number of responses that immediately come to mind, and most of my friends who have to suffer through my ranting reply with some variation of “You’re just complaining because you’re not on the list!”
 
 But this time, I *am* on the list. Which means it’s a chance to talk about the reasons, good and bad, why these sorts of lists exist, and what purpose they can serve.
 

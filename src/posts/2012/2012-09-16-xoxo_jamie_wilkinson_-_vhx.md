@@ -11,7 +11,7 @@ Jamie Wilkinson is co-founder of VHX, a new streaming video platform helping fil
 
 ## [Jamie Wilkinson](https://twitter.com/jamiew)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jdubs-headshot-by-irene5_normal.jpg?v=1670739900313)
+![](/images/jdubs-headshot-by-irene5_normal.jpg)
 
 Company: **[VHX](http://www.vhx.tv/)**
 

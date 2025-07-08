@@ -5,7 +5,7 @@ date_published: 2006-11-21 02:40:30+00:00
 date_updated: 2006-11-21 02:40:30+00:00
 tags: [links]
 ---
-![LonelyGirl (19)](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/lonelygirl.jpg?v=1725321409082)
+![LonelyGirl (19)](/images/lonelygirl.jpg)
 
 - I’ve been ruminating about radio a lot lately (more on that later), but one of the most pleasant radio discoveries of late has been XM Radio’s 80s and 90s stations, as well as their “20 on 20” pop hits station. Imagine my delight when I found that [AOL Radio](http://music.aol.com/radioguide/bb.adp) is streaming them for free.
 - Let’s see: Free Jay-Z concert, cute pictures of Shiba Inus, and gratuitous Prince references. [Andrea Harner’s blog](http://www.andreaharner.com/) is apparently what I would get if I commissioned a blogger to make a site for me. For the rest of you, [BuzzFeed](http://www.buzzfeed.com/) will be more to your taste.

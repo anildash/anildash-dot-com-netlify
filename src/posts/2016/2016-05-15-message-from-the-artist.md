@@ -2,8 +2,8 @@
 title: "Message from The Artist"
 slug: message-from-the-artist
 date_published: 2016-05-15T15:00:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/the-dawn-postcard.png?v=1744347797661
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/the-dawn-postcard.png?v=1744347797661
+heroimage: /images/the-dawn-postcard.png
+image: /images/the-dawn-postcard.png
 tags: [Prince, music]
 ---
 
@@ -22,7 +22,7 @@ Twenty years ago, at the height of his battle for control over his musical caree
 <center>
 <p>
 <font size=4>Welcome 2 the Dawn.</font><br>
-U have just accessed the <img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;"> experience.
+U have just accessed the <img src="/images/symbol.gif" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;"> experience.
 <p>
 <hr noshade size=1 width=200>
 <p>
@@ -31,13 +31,13 @@ U have just accessed the <img src="https://cdn.glitch.global/34934a9e-03cb-409c-
 
 <p>
 </center>
-"<img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" height=14 width=15 style="display: inline; border: none; width: 15px; height: 14px;"> has officially given notice to Warner Bros. Records (WBR) of his desire 
+"<img src="/images/symbol.gif" height=14 width=15 style="display: inline; border: none; width: 15px; height: 14px;"> has officially given notice to Warner Bros. Records (WBR) of his desire 
 to terminate his recording agreement with the company.  Over the course of 
 their nearly two decade long relationship, The Artist and WBR have 
 developed irreconcilable differences.  Most recently, the unstable and 
 ever changing management structure within WBR has made it impossible for 
 the company to effectively market and promote its flagship artists, 
-including <img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;">.<p>
+including <img src="/images/symbol.gif" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;">.<p>
 <center>
 <hr noshade size=1 width=200>
 <p>
@@ -49,7 +49,7 @@ the albums are titled: Prince: The Vault - Volumes I, II and III.<p>
 <hr noshade size=1 width=200>
 <p>
 </center>
-<img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;"> will release a new recording entitled Emancipation once he is free from 
+<img src="/images/symbol.gif" height=10 width=12 style="display: inline; border: none; width: 12px; height: 10px;"> will release a new recording entitled Emancipation once he is free from 
 all ties with Time Warner."<p>
 <center>
 <hr noshade size=1 width=200>
@@ -159,7 +159,7 @@ be ultimate control.  Record labels have no right to enslave the creators.<p>
 </center>
 <font size=5>T</font>he first step I have taken towards the ultimate goal of emancipation from 
 the chains that bind me to Warner Bros. was to change my name from Prince 
-to <img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" width=10 height=12 style="display: inline; border: none; width: 10px; height: 12px;">.  Prince is the name that my Mother gave me at birth.  Warner Bros. 
+to <img src="/images/symbol.gif" width=10 height=12 style="display: inline; border: none; width: 10px; height: 12px;">.  Prince is the name that my Mother gave me at birth.  Warner Bros. 
 took the name, trademarked it, and used it as the main marketing tool to 
 promote all of the music that I wrote. The company owns the name Prince 
 and all related music marketed under Prince.  I became merely a pawn used 
@@ -174,7 +174,7 @@ been experienced by other African-Americans over last couple of hundred
 years.  They had turned me into a slave and I wanted no more of it.  The 
 dilemma had only one clear solution.  I was born Prince and did not want 
 to adopt another conventional name.  The only acceptable replacement for 
-my name, and my identity, was <img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/symbol.gif?v=1744349088819" width=10 height=12 style="display: inline; border: none; width: 10px; height: 12px;">, a symbol with no pronunciation, that is a 
+my name, and my identity, was <img src="/images/symbol.gif" width=10 height=12 style="display: inline; border: none; width: 10px; height: 12px;">, a symbol with no pronunciation, that is a 
 representation of me and what my music is about.  This symbol is present 
 in my work over the years; it is a concept that has evolved from my 
 frustration; it is who I am.  It is my name.<p> 

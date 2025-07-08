@@ -3,18 +3,18 @@ title: Underscores, Optimization & Arms Races
 slug: underscores-optimization-arms-races
 date_published: 2017-11-29 21:29:00+00:00
 date_updated: 2021-08-02 04:12:14+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-1.jpeg?v=1669782582770
+image: /images/type-curve-1.jpeg
 tags: [web, google, search, tech]
 ---
 A dozen years ago, the web started to reshape itself around major companies like Google. We can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character.
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/typewriter-keys.jpeg?v=1669782631717)
+![](/images/typewriter-keys.jpeg)
 This is all ancient tech history now, but content management systems used to be one of those competitive markets that tech people watched avidly. (CMSes are the tools people use to publish stuff on the Internet — Medium, where I originally wrote this, is one, and some of the big ones people use today are WordPress or Drupal.)
 
 Back in the early 2000s, I helped create two then-popular CMS tools, Movable Type and TypePad; pretty soon, WordPress and Drupal and other tools came onto the scene solving a similar set of problems. All of these apps basically did the same thing they do today: You type in a box, and hit publish, and it makes a nice-looking web page with whatever you wrote. At first they were used by individual bloggers to keep personal sites, but they quickly took over publishing for almost every media outlet on the web. It was a booming market, and the people working on these tools were some of the first wave of high-profile social media startup founders.
 
 Friendster was around then, and MySpace was growing in prominence. (Facebook didn’t come around until a little later, and was still just for Ivy League kids for a long time.) But the biggest player on the rise in that era was Google. They’d bought Blogger, one of the earliest popular social media tools, in early 2003 and then launched their AdSense advertising platform a few months later. All of a sudden, Google was massively influencing content and monetization in the new world of social media.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys.jpeg?v=1669782630996)
+![](/images/type-keys.jpeg)
 
 ## Drawing a line
 
@@ -32,7 +32,7 @@ The end result? Anybody who used our tools could write a a blog post entitled �
 
 As it would turn out, we’d stumbled across a harbinger of how the entire web was about to change.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-closeup.jpeg?v=1669782582297)
+![](/images/type-closeup.jpeg)
 
 ## The rise of SEO
 
@@ -54,7 +54,7 @@ But once you’ve trained a community that they constantly need to guess at the 
 
 For years, despite Cutts’ clear statement, the choice of punctuation remained such a point of contention and debate that [countless](http://www.ecreativeim.com/blog/2011/03/seo-basics-hyphen-or-underscore-for-seo-urls/)[stories](https://www.seomechanic.com/seo-101-hyphens-underscores-_-urls/) were [written](https://searchengineland.com/9-seo-quirks-you-should-be-aware-of-146465) about how best to appease the fickle Googlebot. Eventually, discussion around hyphens and underscores in web addresses became so fraught and so persistent that *six years after* that initial blog post, Cutts made [an entire YouTube video just about punctuation in web addresses](https://www.youtube.com/watch?v=AQcSFsQyct8) on one of Google’s official channels. About 125,000 people have watched the whole video.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys-line.jpeg?v=1669782630628)
+![](/images/type-keys-line.jpeg)
 
 ## Indexing the web, as it is
 
@@ -72,7 +72,7 @@ For a while, the team I was working on resisted changing our software to use das
 
 At a literal level, the technical differences here were trivial. But the different choices of punctuation reflected very different philosophies about how the web should work. Dashes vs underscores represented a profound question: **Would we change our apps and our content to suit big companies like Google, or should those big companies accommodate us?**
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-punctuation.png?v=1669782631376)
+![](/images/type-punctuation.png)
 
 ## Caving In
 
@@ -102,4 +102,4 @@ Now, the challenge is to reform these systems so that we can hold the big platfo
 
 And ultimately, we have to use the chance we’ve got now to underscore the lessons that we learned from the earliest days of the social web, that still resonate on billions of screens today. So much can come from a decision about just one character on the screen.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-2.jpeg?v=1669782583099)
+![](/images/type-curve-2.jpeg)

@@ -9,4 +9,4 @@ I’ve had friends ask why I have advertising on my site; After all, it’s not 
 
 But today, I have a much better answer. It’s because sometimes that little bit of Google code can make something *magical* happen.
 
-![Me and Snoop](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/me-and-snoop.jpg?v=1730098276928)
+![Me and Snoop](/images/me-and-snoop.jpg)

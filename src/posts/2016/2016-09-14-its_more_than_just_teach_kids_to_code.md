@@ -3,7 +3,7 @@ title: It's more than just "teach kids to code"
 slug: its_more_than_just_teach_kids_to_code
 date_published: 2016-09-14 13:32:04+00:00
 date_updated: 2022-11-20 07:17:58+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/notebook-notebook.jpeg?v=1669865122148
+image: /images/notebook-notebook.jpeg
 tags: [Best Of, tech, policy]
 ---
 I’m skeptical about “teach the kids to code!” as a panacea for all of society’s ills. Yet today, I’m at the White House to participate in a summit on Computer Science for All. Why would a skeptic still think it’s important to make computer science part of everyone’s education?

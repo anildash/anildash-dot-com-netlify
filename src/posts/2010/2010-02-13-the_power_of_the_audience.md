@@ -3,7 +3,7 @@ title: The Power of the Audience
 slug: the_power_of_the_audience
 date_published: 2010-02-13 19:44:56+00:00
 date_updated: 2021-08-19 19:36:16+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/3272079115_2b4df52445_k.jpg?v=1670809557555
+image: /images/3272079115_2b4df52445_k.jpg
 tags: [Best Of, blogs, tech]
 ---
 1. As I write this, the Twittersphere is going through its annual love/hate paroxysms about [TED](http://ted.com/). Every year, the conference seems even more an event perfectly calibrated to inflame the bloggerati: Inarguably great presentations combined with unrepentantly exclusionary structure. A humanitarian aesthetic that shrouds a blatantly classist participation model. But what most vexes outsiders (including myself; I’ve never attended, though I’ve been invited to pay 2/3 the cost to attend one of their remote TV viewings of the event) is the sense of collective delusion that seems to overcome attendees, who fawn over even the least of the talks. It’s sort of like Steve Jobs’ famous Reality Distortion Field, but on more of a peer-to-peer basis. I like the idea of TED, and the people who run it, and the presentations it generates — but what’s up with the groupthink?

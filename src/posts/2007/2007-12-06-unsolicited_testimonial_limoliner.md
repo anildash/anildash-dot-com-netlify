@@ -5,7 +5,7 @@ date_published: 2007-12-06 15:39:06+00:00
 date_updated: 2007-12-06 15:39:06+00:00
 tags: [tech, nyc]
 ---
-![limoliner-logo.gif](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/limoliner-logo.gif?v=1674866464562)
+![limoliner-logo.gif](/images/limoliner-logo.gif)
 
 **What It Is**: [LimoLiner](http://limoliner.com/) is an executive-class bus service from New York to Boston (or vice versa) that gets you from the center of one city to the other in about 4 and a half hours, for less than a hundred bucks. If you count getting to the airport early and taking a cab, it ends up being about the same amount of time as flying, but you’ve got wifi and power and more room.
 

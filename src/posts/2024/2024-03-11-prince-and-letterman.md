@@ -2,8 +2,8 @@
 title: Prince, Letterman and Insufferability
 slug: prince-and-letterman
 date_published: 2024-03-11 20:00:05+00:00
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/prince-letterman.png?v=1710215577245
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/prince-letterman.png?v=1710215577245
+heroimage: /images/prince-letterman.png
+image: /images/prince-letterman.png
 tags: [music, Prince]
 ---
 David Letterman (whose team is doing a wonderful job of presenting and narrating his formidable archives) recently posted an amusing anecdote about Prince's first appearance on his show, in December of 1994. It's a fascinating story, because it reveals a lot about the two men who were so culturally influential in the 80s, and so transformative of their industries in the 90s. And also reminds us of what happens when two very talented, but totally insufferable and spoiled, grown men cross paths in an unexpected way.
@@ -12,7 +12,7 @@ But let's start by taking a look at the actual performance that Prince delivered
 
 This is obviously the emotional context of choosing to perform a song about reincarnation, and the professional and cultural context of saying that "The Gold Experience", the album that contains Dolphin, would "never" be released. ("Never" was about a year later.) This was the beginning of the most active and confrontational part of Prince's battle against his record label, and he'd prepared well for the moment. Ahead of the Letterman taping, he had marshaled those of us who were his fans online. (In those days, Prince coordinated through the weekly fan group chats on AOL, which had a 90s-era equivalent feel to something like a private Discord chat for members of a Patreon now.) He told fans about the upcoming taping, and asked them to gather outside the Ed Sullivan Theater to protest against Warner Brothers holding the "Gold Experience" albumi hostage. We even got a flyer that we were supposed to print out and bring with us. I couldn't make it to the theater in time, but heard breathless accounts from those who were there of a few dozen fans having gathered, though everyone agreed it had not been as impactful a demonstration as they'd hoped it might be.
 
-<img src="https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Prince-The-Gold-Experience-Flyer.jpg?v=1710214871451" alt="Prince's flyer for the 'Gold Experience' album, as intended for the protest during his 1994 Letterman performance, claiming that the album will 'NEVER' be released." />
+<img src="/images/Prince-The-Gold-Experience-Flyer.jpg" alt="Prince's flyer for the 'Gold Experience' album, as intended for the protest during his 1994 Letterman performance, claiming that the album will 'NEVER' be released." />
 
 Within Prince's most engaged fandom, where some of these new songs like Dolphin had been feverishly traded amongst fans, this felt like a huge moment to stick it to the man. It also helped that Prince had been back on the charts just a few months earlier with one of his biggest hits ever — The Most Beautiful Girl in the World — and had managed to do that on an entirely independent release. This was the "Taylor's Version" moment that wouldn't see its mainstream moment with a fandom for another three decades. And then Prince showed up with a killer band and a strong song, and... well, we loved it. But Dave clearly thought it was weird.
 

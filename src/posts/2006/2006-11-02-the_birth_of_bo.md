@@ -7,7 +7,7 @@ tags: [random ha-ha]
 ---
 Interested in the pre-history of the coolest bounty hunter in the Star Wars universe? [The Birth of Boba Fett](http://www.starwars.com/episode-v/bts/article/f20061019/index.html) chronicles some fascinating backstory, including what looks like a downright goofy first screen test for the costume, which was then painted white.
 
-![Boba Fett used to wear a white suit](https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/boba-white.jpg?v=1729981712595)
+![Boba Fett used to wear a white suit](/images/boba-white.jpg)
 
 The article does show how well LucasFilm understands the reasons behind its characters’ popularity:
 

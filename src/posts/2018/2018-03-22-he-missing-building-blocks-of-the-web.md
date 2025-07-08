@@ -3,7 +3,7 @@ title: The Missing Building Blocks of the Web
 slug: he-missing-building-blocks-of-the-web
 date_published: 2018-03-22 21:00:00+00:00
 date_updated: 2021-08-02 03:46:46+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-01.jpeg?v=1669625487351
+image: /images/building-blocks-berries-01.jpeg
 tags: [tech, web, html, blogs]
 ---
 At a time when millions are losing trust in the the web’s biggest sites, it’s worth revisiting the idea that the web was supposed to be made out of countless little sites. Here’s a look at the neglected technologies that were supposed to make it possible.
@@ -24,7 +24,7 @@ But that leads to the other problem. Most complicated web pages these days aren�
 
 Bringing View Source back could empower a new generation of creators to see the web as something they *make*, not just a place where big companies put up sites that we all dump our personal data into.
 
-![Building Blocks berries](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-04.jpeg?v=1669625486996)
+![Building Blocks berries](/images/building-blocks-berries-04.jpeg)
 
 ## Authoring
 
@@ -40,7 +40,7 @@ Notwithstanding Facebook’s current dominance, there are still a lot of ways to
 
 All that could change quickly, though—the barriers are lower than ever to reclaiming the creative capability that the web was supposed to have right from its birth.
 
-![Building Blocks berries](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-03.jpeg?v=1669625486626)
+![Building Blocks berries](/images/building-blocks-berries-03.jpeg)
 
 ## Embedding (Transclusion!)
 
@@ -54,7 +54,7 @@ Those old hypertext theory people had broader ambitions, though. They thought we
 
 There’s no reason that this can’t be done today, especially since the way we build web pages in the modern era often involves generating just partial pages or only sending along the data that’s updated on a particular site. If we can address the security and performance concerns of sharing data this way, we could address one of the biggest unfulfilled promises of the web.
 
-![Building Blocks berries](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-02.jpeg?v=1669625486272)
+![Building Blocks berries](/images/building-blocks-berries-02.jpeg)
 
 ## Your own website at your own address
 
@@ -70,7 +70,7 @@ Now, none of that stuff is simple enough yet. It’s for nerds, or sometimes, it
 
 It’s not impossible that we could still complete the unfinished business that’s left over from the web’s earliest days. And I have to imagine it’ll be kind of fun and well worth the effort to at least give it a try.
 
-![Building Blocks berries](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-05.jpeg?v=1669625485904)
+![Building Blocks berries](/images/building-blocks-berries-05.jpeg)
 
 
 > In a similar vein, you may also enjoy this look at [the lost infrastructure of the early era of social media](/2016/08/08/the-lost-infrastructure-of-social-media/).

@@ -2,8 +2,8 @@
 title: 'Systems: What does a board of directors do?'
 slug: dash-board
 date_published: 2024-06-20 21:00:05+00:00
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg?v=1718931202635
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg?v=1718931202635
+image: /images/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg
+heroimage: /images/yoann-siloine-dyaxQ-aoGWY-unsplash.jpeg
 tags: [systems]
 ---
 Nearly every organization that is designed to have impact has a board of directors, whether that's a small non-profit, or a giant corporation, or anything in between. But having served on a number of boards across that entire range of institutions, I realize that most people who've never been in the boardroom have a lot of questions (and often, anxieties) about what happens on a board, so I wanted to share a very subjective view of what I've seen and learned over the years.

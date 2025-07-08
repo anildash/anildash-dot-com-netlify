@@ -9,4 +9,4 @@ A lot of times my friends stop me and ask me why I carry my [man purse](index.ph
 
 Like yesterday, when a man wearing a suit and tie and a yellow backpack tethered a stationary bike to a street sign in the middle of the road (At Cooper Square, for those of you who know New York City) and mounted a rear-view mirror on the sign post and began pedaling leisurely, sometimes taking a drag off of the cigarette in his hand. He did this for about an hour.
 
-[![vrooom!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/bikersm.jpg?v=1730089599858)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/biker.jpg?v=1730089599395)
+[![vrooom!](/images/bikersm.jpg)](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/biker.jpg?v=1730089599395)

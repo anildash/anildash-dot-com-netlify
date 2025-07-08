@@ -7,7 +7,7 @@ tags: [tech, open source]
 ---
 [Pidgin](http://www.pidgin.im/), formerly GAIM, is the best instant messaging client available; It works with all common IM networks, supports extensions and customizations through plugins, has smart and simple default settings, runs on all common desktop platforms, and is a free open source application. Being so similar to Firefox in so many ways, this leaves the application poised to become the “Firefox of IM”.
 
-![Pidgin](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/pidgin2.png?v=1730098102873)
+![Pidgin](/images/pidgin2.png)
 
 Pidgin has a [somewhat complex history](http://en.wikipedia.org/wiki/Pidgin_%28software%29). Originally named “GTK+ AOL Instant Messenger” after the network it was designed to connect to and the window UI toolkit (!) that it used to display itself, the name of the application has been in flux for years due to legal posturing from AOL. In the intermediate years, the name became somewhat anachronistic anyway, as the application added support for MSN, Yahoo, ICQ, Jabber, and other chat services in addition to AOL’s AIM service.
 

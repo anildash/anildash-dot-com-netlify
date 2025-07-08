@@ -3,7 +3,7 @@ title: Apple's Twitter
 slug: apples_twitter
 date_published: 2011-06-01 03:58:30+00:00
 date_updated: 2011-06-01 03:58:30+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-twitter.png?v=1670802785093
+image: /images/apple-twitter.png
 tags: [tech, apple, twitter]
 ---
 I’ve been waiting a year for someone to write about this, but my laziness has not yet paid off, so here are a few things that we all know about everybody’s favorite Cupertino fruit company:

@@ -2,8 +2,8 @@
 title: ['Systems: What warms the heart?']
 slug: systems-heartwarming-stories
 date_published: 2024-04-09 00:44:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/faded-heart.jpeg?v=1712642743509
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/faded-heart.jpeg?v=1712642743509
+heroimage: /images/faded-heart.jpeg
+image: /images/faded-heart.jpeg
 tags: [systems]
 ---
 I have a lot of thoughts about systems and how they work, and how we can teach systems thinking to others. Maybe one good place we could start is by capturing <a href="https://twitter.com/anildash/status/1103294393686069248">this old tweet of mine</a>, which probably deserves a permanent home since I don't use Twitter anymore:

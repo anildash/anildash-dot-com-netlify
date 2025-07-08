@@ -3,7 +3,7 @@ title: Star Wars Minute!
 slug: star_wars_minute
 date_published: 2017-11-20 18:20:05+00:00
 date_updated: 2022-05-03 19:52:30+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/star-wars-minute.jpg?v=1669783236961
+image: /images/star-wars-minute.jpg
 tags: [star wars, film, podcasts]
 ---
 In advance of the upcoming release of *The Last Jedi*, excitement is building for all things Star Wars, so I’m thrilled to share that I got to be a guest on the inestimable Star Wars Minute podcast. The show tackles the world’s most popular franchise one movie at a time, one *minute* at a time, and I was lucky enough to get to comment on everybody’s second-to-least-favorite Star Wars movie, *Attack of the Clones*.

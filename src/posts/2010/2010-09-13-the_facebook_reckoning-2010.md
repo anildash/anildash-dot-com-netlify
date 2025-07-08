@@ -3,7 +3,7 @@ title: The Facebook Reckoning
 slug: the_facebook_reckoning-2010
 date_published: 2010-09-13 13:42:26+00:00
 date_updated: 2019-04-30 21:27:05+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zuckerberg.jpg?v=1670812944977
+image: /images/zuckerberg.jpg
 tags: [Best Of, Most Popular, tech, facebook]
 ---
 There’s a lengthy, excellent [profile of Mark Zuckerberg](http://www.newyorker.com/reporting/2010/09/20/100920fa_fact_vargas?currentPage=all), and by proxy Facebook, in this week’s issue of the New Yorker, written by Jose Antonio Vargas. In it, I’m quoted saying about Mark, “If you are twenty-six years old, you’ve been a golden child, you’ve been wealthy all your life, you’ve been privileged all your life, you’ve been successful your whole life, of course you don’t think anybody would ever have anything to hide”. That’s an accurate quote, but there’s even more nuance to my feelings about Facebook than merely remarking on the privilege of its CEO.

@@ -11,11 +11,11 @@ Maggie Vail and Jesse Von Doom are the executive directors and cofounders of CAS
 
 ## [Maggie Vail](https://twitter.com/magicbeans)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Photo_113_normal.jpg?v=1670740239795)
+![](/images/Photo_113_normal.jpg)
 
 ## [Jesse Von Doom](https://twitter.com/jessevondoom)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jvd_press_normal.jpg?v=1670740239468)
+![](/images/jvd_press_normal.jpg)
 
 Project: **[CASH Music](http://cashmusic.org/)**
 
@@ -27,7 +27,7 @@ At the same time, the Internet was rising. But in the years since, there has bee
 
 Jesse offers extensive background on Kristin Hersh’s history as a pioneer of independent recording and distribution, especially through use of the Internet, where her career is now supported directly by subscription sales to fans.
 
-![cash-music-slide-bk.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cash-music-slide-bk.jpg?v=1670740289761)  
+![cash-music-slide-bk.jpg](/images/cash-music-slide-bk.jpg)  
 
 There’s a brief explanation of how music licensing breaks down when a song wants to be used by, say, Gossip Girl, and then a segue to explanation of mechanical royalties, and how it is a relic of the player piano era. Maggie has talked to artists who’ve sold hundreds of thousands of records, but have no idea how these things work.  
 

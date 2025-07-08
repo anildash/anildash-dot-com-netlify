@@ -11,7 +11,7 @@ First, where do I favorite? [On Twitter](https://twitter.com/@anildash/favorites
 
 And, perhaps more visibly than anywhere else, I star all kinds of things on [Stellar](http://stellar.io/), which is also where many of these favorites get aggregated and shared with others; It’s my, erm, somewhat enthusiastic use of favoriting on that service (I’m by far the most prolific star-giver in these early days of the awesome little site) which has inspired the most recent “dude, what the hell?” responses from many of my friends. As of 6 weeks ago, [Jason](http://kottke.org/) showed me stats where I had about 1/3 more favorites than the next-highest person on the site.
 
-![davoriting](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/davoriting-hd.png?v=1670819553087)
+![davoriting](/images/davoriting-hd.png)
 
 Why am I so prolific with the stars? Well, one part is that I am just an enthusiastic person: I like lots of stuff! There’s also social expectation; My favorite (see what I did there?) friend [David Jacobs](http://hello.typepad.com/) is a master of favoriting and taught me the wonders of the form years ago. In the early days of (now-defunct) Vox, [David was specifically called out](https://web.archive.org/web/20061023194037/http://team.vox.com/library/post/its-new-release-time.html) when the app added favoriting:
 

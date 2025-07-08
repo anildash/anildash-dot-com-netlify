@@ -3,7 +3,7 @@ title: 'Prince & The Revolution: The COVID-19 Solidarity Response Fund Livestrea
 slug: live-prince-and-the-revolution
 date_published: 2020-05-14 03:57:00+00:00
 date_updated: 2020-05-15 04:02:40+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-skies.jpeg?v=1669582695971
+image: /images/purple-skies.jpeg
 tags: [music, Prince]
 ---
 <iframe width="720" height="540" src="https://www.youtube.com/embed/KRa8ZH_iOXo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,7 +60,7 @@ This arrangement of "Delirious" also shows how "Let's Go Crazy" had sections tha
     <figcaption style="visibility: visible !important; font-size: x-small; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;">Isolated drum machine, vocals and piano of "Let's Go Crazy" extended breakdown</figcaption>
     <audio
         controls
-        src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/del-lgc-middle-section.mp3?v=1669583190595">
+        src="/images/del-lgc-middle-section.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>

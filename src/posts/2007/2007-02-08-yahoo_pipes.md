@@ -6,14 +6,14 @@ date_updated: 2007-02-08 05:36:09+00:00
 tags: [Best Of, Most Popular, tech, yahoo, web2.0]
 ---
 
-![](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes-logo-lg.gif?v=1730097681767)
+![](/images/yahoo-pipes-logo-lg.gif)
 
 **Background:** Yahoo’s launched an interesting and innovative new service, Pipes, which lets users with a relatively low degree of technological expertise combine structured sources of web data such as feeds. In this way, it’s **possible for non-experts to create new web services** for their own use or for public consumption. Pipes combines a remarkably sophisticated development environment with some core social features such as the ability to clone or share the web services you produce. The service is fairly approachable, but somewhat complex once you get just under the surface, and should be moderately successful while radically raising the bar for other tools in its category.
 
 Some quick links if you’re interested in this topic:
 
 - [Plagger](http://plagger.org/): an open-source, installable feed routing system created by Tatsuhiko Miyagawa which performs much of the core functionality of Pipes and is customizable, but lacks the user interface and integrated development environment (IDE) which distinguish Pipes. (Disclaimer, for what it’s worth: I work with Tatsuhiko. But Plagger’s free and not a Six Apart product, so… shrug.)
-[![Ain't a Pipe!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/ceci-nes-pas-une-pipe.jpg?v=1730097541076)](http://www.threadless.com/product/543/This_is_not_a_Pipe?streetteam=anildash)
+[![Ain't a Pipe!](/images/ceci-nes-pas-une-pipe.jpg)](http://www.threadless.com/product/543/This_is_not_a_Pipe?streetteam=anildash)
 - [Ning](http://www.ning.com/): Perhaps the archetypal social application platform for the web. Headed by Gina Bianchini, Ning has thus far defined the feature set for end-user creation of web applications, though the focus has not been on creating web *services*.
 - [An introduction to Unix pipes](http://www.cf.ac.uk/psych/CullingJ/pipes.html). Not merely the inspiration for the name of pipes, the powerful idea of routing data through a series of loosely-connected applications is one of the core concepts that powers most lightweight automation and data processing by non-programmers.
 - The Mario-inspired image you see here is available on a [Threadless T-shirt](http://www.threadless.com/product/543/This_is_not_a_Pipe?streetteam=anildash). My wife has one and it is very cute.
@@ -26,7 +26,7 @@ Okay, with all the introduction out of the way — what the heck is Pipes? Yahoo
 
 In practice, this means you can use Pipes to pick a few feeds or APIs to retrieve data from, set up rules for processing the data which is provided by those feeds, prompt for user input in your processing, and then output the processed results as another feed or object format for use in your own applications. In the simplest case, you can apply some straightforward rules to a feed and then subscribe to the end result.
 
-![yahoo-pipes.gif](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes.gif?v=1730097563804)
+![yahoo-pipes.gif](/images/yahoo-pipes.gif)
 
 Pipes also has a full web-based IDE. Even more amazingly, the IDE is incredibly rich and powerful, with the usual complement of editing tools you’d expect from a visual editor in a desktop application. I’d first seen a browser-based IDE for editing [LiveJournal’s S2 style templates](http://www.livejournal.com/customize/advanced/layers.bml), but even that impressive effort pales next to the Pipes IDE. I’ll never learn all of the Pipes IDE’s features, but I will always admire its gee-whizzery.
 
@@ -38,7 +38,7 @@ There’s also another key accomodation of social functionality: Pipes is *prett
 
 Pipes is attractive without being overly pretty; There are the requisite nods to Web 2.0 design (it’s blue!), but overall the site is refreshingly straightforward. The IDE is, frankly, a little cluttered unless you’re running on a gigantic monitor, but that’s been true of IDEs since [Visual Studio](http://www.amazon.com/exec/obidos/ASIN/B00005RV4Z/2020-20) was still Visual C++.
 
-![yahoo-pipes-ide.png](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/yahoo-pipes-ide.png?v=1730097563415)
+![yahoo-pipes-ide.png](/images/yahoo-pipes-ide.png)
 
 ### The Bottom Line
 

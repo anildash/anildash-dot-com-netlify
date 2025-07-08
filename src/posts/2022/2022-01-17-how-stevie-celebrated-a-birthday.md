@@ -3,7 +3,7 @@ title: How Stevie Celebrates a Birthday
 slug: how-stevie-celebrated-a-birthday
 date_published: 2022-01-17 21:07:00+00:00
 date_updated: 2022-01-19 11:29:39+00:00
-image: https://cdn.glitch.global/98f9ae05-a402-4da9-9cb1-88a05470f35a/Raffaele-Nicolussi-mlk-memorial.jpeg?v=1669498844228
+image: /images/Raffaele-Nicolussi-mlk-memorial.jpeg
 tags: [music, Stevie Wonder, policy]
 ---
 Though he’s one of the most gifted and important artists to have ever created popular music, Stevie’s legacy as a tireless and fearless advocate for justice may he even *more* powerful, and is too often overlooked. We should heed every word he says.

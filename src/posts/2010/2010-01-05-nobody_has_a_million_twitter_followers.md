@@ -47,7 +47,7 @@ That leaves an inescapable conclusion. Nobody has a million followers on Twitter
 
 Here’s the prizes and how to participate:
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/imation-hard-drive.jpg?v=1670808675460)
+![](/images/imation-hard-drive.jpg)
 
 - **Have a question or specific bit of data** that you’d like to know about an account on the Suggested User List? Submit it to Twitter with the hashtag [#sulidea](http://search.twitter.com/search?q=%23sulidea) and one random person who makes a suggestion will get a $25 Amazon gift certificate.
 - **If you’re a programmer**, watch [ThinkTank](http://github.com/ginatrapani/thinktank) on GitHub, commit any updates you have to the project, and one random person who commits code to the project will win a [500 GB portable hard drive](http://www.amazon.com/gp/product/B001CJAZC6?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001CJAZC6).

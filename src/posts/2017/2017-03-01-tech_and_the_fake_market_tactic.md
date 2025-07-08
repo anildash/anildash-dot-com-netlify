@@ -3,7 +3,7 @@ title: Tech and the Fake Market tactic
 slug: tech_and_the_fake_market_tactic
 date_published: 2017-03-01 17:33:44+00:00
 date_updated: 2021-10-25 22:23:14+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/smashed-monitor.jpeg?v=1669786278771
+image: /images/smashed-monitor.jpeg
 tags: [Best Of, Most Popular, tech]
 ---
 In one generation, the Internet went from opening up new free markets to creating a series of Fake Markets that exploit society, without most media or politicians even noticing.
@@ -14,7 +14,7 @@ American culture loves to use the ideal of competitive free markets as the solut
 
 Given that cultural predilection, some of the first things people made in the early days of the web were new markets. Perhaps the canonical example was eBay; anybody (well, almost anybody) could list their ceramic figurines for sale on eBay and participate in a relatively fair market. On one side, a gaggle of figurine aficionados, enthusiastically searching for the best deals. On the other, a bunch of figurine vendors, competing on price, quality and service. In the middle, a neutral market that just helps connect buyers and sellers through instantly updated information. Everybody’s happy!
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-1.png?v=1669786367175)
+![](/images/fake-markets-1.png)
 
 Later, a seller could buy preferred positioning for their products in eBay’s search results, and some product categories started to be dominated by wholesale suppliers, but it still remained a relatively open system. Everybody’s mostly happy!
 
@@ -30,7 +30,7 @@ The inevitable automated gaming of the early open digital markets inadvertently 
 
 The problem inevitably became most pronounced in the most valuable markets. Eventually, in lucrative vertical markets like travel, Google started showing its own flight booking tools ahead of the third-party results from travel booking sites, based on the idea that their experience was better for consumers than the confusing and inconsistent results from third parties. This was true, but it was also pretty damn convenient for Google, which now started to make more money on those links.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-3.png?v=1669786367957)
+![](/images/fake-markets-3.png)
 
 This was the start of a subtle but critically important pattern on the web: A short-term improvement in user experience helped a single dominant tech company to take over a legacy market in the long term.
 
@@ -52,7 +52,7 @@ Uber‘s promise is simple: you use their app to hail a car, and one driver from
 
 But unlike competitive sellers on eBay, Uber drivers can’t set their prices. In fact, prices can be (and regularly have been) changed unilaterally by Uber. And passengers can’t make informed choices about selecting a driver: The algorithm by which a passenger and driver are matched is opaque—to both the passenger and driver. In fact, as Data & Society’s research has shown, Uber has at times deliberately misrepresented the market of available cars by [showing “ghost” cars](http://motherboard.vice.com/read/ubers-phantom-cabs) to users in the Uber app.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-4.png?v=1669786368205)
+![](/images/fake-markets-4.png)
 
 ****It seems this “market” has some awfully weird traits.****
 
@@ -96,7 +96,7 @@ What we have in ride sharing or content publishing is a rapid move to locked-dow
 
 But Uber has already plainly announced its roadmap: Self-driving cars. The much-lauded independent driver-entrepreneurs will be replaced by completely automated service providers as quickly as possible, and not only will those new self-driving cars not have drivers who need to be paid, they will all be owned by Uber itself. When this transition happens over the next decade, we’ll have entire markets of independent contractors displaced by the transition, precisely at the point when the social safety net is being dismantled. In the meantime, politicians across the political spectrum have been presenting these “gig economy” non-jobs as the future of work.
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-5.png?v=1669786368462)
+![](/images/fake-markets-5.png)
 
 Self-driving cars are hard, though. Making a robot that can navigate through a city and deliver a passenger safely and reliably to their destination is an incredibly hard problem that will take a long time to get exactly right.
 

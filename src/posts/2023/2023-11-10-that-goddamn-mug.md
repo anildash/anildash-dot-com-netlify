@@ -2,7 +2,7 @@
 title: That goddamn mug
 slug: that-goddamn-mug
 date_published: 2023-07-13 20:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/white-mug.jpg?v=1699633792846
+image: /images/white-mug.jpg
 tags: [absurdity]
 ---
 I find myself often having to explain to people how our reaction to certain events or actions depends a lot on the existing context where we were relating to someone, and while it's imperfect, there's an analogy I often use to do that job.

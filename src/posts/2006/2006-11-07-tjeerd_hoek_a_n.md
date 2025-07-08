@@ -7,7 +7,7 @@ tags: [tech]
 ---
 Windows Vista’s astoundingly long beta period is winding down (they just sent out the “what did you think of the beta?” surveys to testers), which means a whole wave of analyses of the new user interface is about to be unleashed.
 
-![Windows Interface Guidelines](https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/Layout04.jpg?v=1729981643743) A
+![Windows Interface Guidelines](/images/Layout04.jpg) A
 
 mongst the hand-wringing over the choice of colors and animations, and the inevitable kvetching about the need for new video cards, it’s worth pointing out the rise of some interesting personalities from within Microsoft. In fact, the most notable thing to learn from Microsoft’s recent enormous leaps in the usability and attractiveness of its flagship products is that **there actually *are* personalities at Microsoft**.
 

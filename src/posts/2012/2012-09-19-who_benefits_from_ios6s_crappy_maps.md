@@ -21,7 +21,7 @@ But with iOS 6, Apple decided it was time to rip off the band-aid and replace Go
 
 I’ve been using iOS 6 for a few months, and initially chalked up the problems I’d had to likely bugs that would be worked out as the software matured. Unfortunately, now that we all have access to the release version of iOS 6, it’s evident that fundamental mapping features like venue search and directions are significantly worse than in the Google versions.
 
-![lexington-map.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lexington-map.jpg?v=1670740533850)
+![lexington-map.jpg](/images/lexington-map.jpg)
 
 Here in Manhattan, where I live, basic search by building names is profoundly degraded in Apple’s maps search. “Bloomberg” doesn’t find the Bloomberg Tower; on Google Maps it’s the first result. Searching for its address “731 Lexington Avenue” yields that address on Lexington Avenue in Brooklyn. It’s fine to think that perhaps I wanted the address in Bed-Stuy, but even appending “NY, NY” or “Manhattan, NY” *still* yields the Brooklyn address. Google maps has none of these comprehension issues. I understand this is due to Apple partnering with Tom Tom, whose maps are considered to be lower in quality than other players like Nokia, but I’m not informed enough to say with certainty whether that’s the case.
 

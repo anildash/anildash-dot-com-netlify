@@ -2,8 +2,8 @@
 title: How Oprah will screw up the AI story
 slug: oprah-wrong-ai
 date_published: 2024-08-31 20:00:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/3273911092_5e4cba68dc_k.jpg?v=1725152457994
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/3273911092_5e4cba68dc_k.jpg?v=1725152457994
+heroimage: /images/3273911092_5e4cba68dc_k.jpg
+image: /images/3273911092_5e4cba68dc_k.jpg
 tags: [Oprah, AI]
 ---
 As I write this, we’ve just heard news that Oprah is planning to do a big broadcast special about AI and society. Despite the fact that it hasn’t aired, and I haven’t seen it or talked to anyone who’s seen it, we can reliably predict many of the shortcomings that this show will have. And it didn’t even take an AI chatbot to come up with this list.

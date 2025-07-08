@@ -3,7 +3,7 @@ title: '"The goal is to make you act like less of a jerk online."'
 slug: the_goal_is_to_make_you_act_like_less_of_a_jerk_online
 date_published: 2015-01-02 17:38:18+00:00
 date_updated: 2015-01-02 17:38:18+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/01state-pic-superJumbo.jpg?v=1669942510333
+image: /images/01state-pic-superJumbo.jpg
 tags: [twitter, tech, culture]
 ---
 There’s an oddness to working on a project that most people don’t (yet) understand. And the last year (or years!) of working on [ThinkUp](https://thinkup.com/) has definitely been permeated with that oddness. As fiercely proud as I am of the work, as absurdly convinced I am that this is a product with purpose and meaning, there have been many times I’ve had to reckon with the fact that, well, most people have no idea what the hell we’re doing and why.

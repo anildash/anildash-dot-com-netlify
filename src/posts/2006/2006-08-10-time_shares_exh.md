@@ -6,7 +6,7 @@ date_updated: 2006-08-10 04:00:36+00:00
 tags: [Best Of, nyc, arts]
 ---
 
-[![Time Shares](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/timeshares.png?v=1730095302483)](http://www.rhizome.org/events/timeshares/)
+[![Time Shares](/images/timeshares.png)](http://www.rhizome.org/events/timeshares/)
 
 I’m flattered, somewhat amazed, and more than a little amused to point out that I’m part of [Time Shares](http://www.rhizome.org/events/timeshares/), a series of online exhibitions presented by [Rhizome](http://www.rhizome.org/) and the [New Museum of Contemporary Art](http://newmuseum.org/). Alongside the works of geniuses like Golan Levin and Warren Sack is my own silly [Zidane World Cup Headbutt Animation Festival](/2006/07/11/zidane_world_cu).
 

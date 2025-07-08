@@ -2,8 +2,8 @@
 title: 'Systems: Q&A about boards of directors'
 slug: dash-board
 date_published: 2024-06-26 23:00:05+00:00
-heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg?v=1719461843875
-image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg?v=1719461843875
+heroimage: /images/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg
+image: /images/afthab-ibnu-abbas-ySoLKMiFseM-unsplash.jpg
 tags: [systems]
 ---
 Okay, previously we covered <a href="https://www.anildash.com/2024/06/20/dash-board/">many of the most common things you'd want to know about a board of directors</a> at an organization, including the basics like what a board actually <em>does</em>. Next up, I put out a prompt on my various social media channels to solicit what questions people had about boards, to attempt to answer requests more directly.

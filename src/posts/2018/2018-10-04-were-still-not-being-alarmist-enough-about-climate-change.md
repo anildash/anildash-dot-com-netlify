@@ -3,7 +3,7 @@ title: "We\u2019re (still) not being alarmist enough about climate change"
 slug: were-still-not-being-alarmist-enough-about-climate-change
 date_published: 2018-10-04 07:56:02+00:00
 date_updated: 2021-08-02 03:16:45+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/flooding.jpeg?v=1669624048650
+image: /images/flooding.jpeg
 tags: [climate, nyc]
 ---
 What if we had another 9/11, and nothing happened?

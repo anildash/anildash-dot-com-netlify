@@ -5,7 +5,7 @@ date_published: 2007-02-07 23:59:03+00:00
 date_updated: 2007-02-07 23:59:03+00:00
 tags: [tech]
 ---
-![The Interweb](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/interwebdiagram.jpg?v=1730097512104)
+![The Interweb](/images/interwebdiagram.jpg)
 
 I talk a lot about set theory when explaining things to people. (“Who reads my blog? Imagine the intersection of the set of funk music fans and Microsoft Office geeks.”) So I delight when I see an especially useful Venn diagram. Here’s a few recent hits:
 

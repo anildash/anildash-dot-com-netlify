@@ -3,7 +3,7 @@ title: New York-Style Tech
 slug: new_york-style_tech
 date_published: 2016-07-15 20:00:29+00:00
 date_updated: 2018-04-08 08:23:24+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nypl-room.jpeg?v=1669865990954
+image: /images/nypl-room.jpeg
 tags: [tech, nyc]
 ---
 ## A technology community driven by values, not just profits.

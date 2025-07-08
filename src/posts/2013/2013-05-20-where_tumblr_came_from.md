@@ -3,7 +3,7 @@ title: Where Tumblr Came From
 slug: where_tumblr_came_from
 date_published: 2013-05-20 16:33:32+00:00
 date_updated: 2018-04-21 11:04:27+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr-oct-2007.png?v=1670561542680
+image: /images/tumblr-oct-2007.png
 tags: [tech, blogs, tumblr]
 ---
 Seven years ago, my wife [Alaina Browne](http://alainabrowne.com/) and I were living happily in San Francisco when she went off to NYC to visit with our friends and attend a party. By the time she flew back, we were on a path that not only led to our return to New York City, but to getting a front-row seat to the birth of what would become [Tumblr](http://tumblr.com/). Along the way, I’ve had the chance to see Tumblr from the perspective of a user, a competitor and a fan. Since so much of the conversation today is about the dollar amount of their sale, and the speculation about their future with Yahoo, I thought it’d be nice to look back at a few distinct moments in their evolution, as seen by an interested outsider.

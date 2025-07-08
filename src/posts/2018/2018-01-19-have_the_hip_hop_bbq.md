@@ -3,7 +3,7 @@ title: Have the Hip Hop BBQ
 slug: have_the_hip_hop_bbq
 date_published: 2018-01-19 07:09:53+00:00
 date_updated: 2021-08-02 04:07:53+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/hip-hop-bbq.jpg?v=1669625651678
+image: /images/hip-hop-bbq.jpg
 tags: [music, policy]
 ---
 I keep having to explain a principle I arrived at a few years ago when I realized the modern conservative movement is grounded almost entirely in a contrived sense of grievance, predicated on a false victimhood of its supporters. (That’s not to say some haven’t genuinely suffered some wrongs, but they consistently focus on imaginary ones instead.)

@@ -7,7 +7,7 @@ tags: [Best Of]
 ---
 Five years ago, I said [I work for Six Apart](/2003/04/i-work-for-six). At the time, that sort of thing was a big deal, not because of me, but because so few of us who loved blogging could get a job doing what we loved.
 
-![sixapart-office-locations.gif](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sixapart-office-locations.gif?v=1674628841185)
+![sixapart-office-locations.gif](/images/sixapart-office-locations.gif)
 
 Since then, amazingly, it’s become downright common to work in the blogging business. I have literally *dozens* of friends who work on creating tools and technology for blogs, and dozens more who blog for a living as part or all of their job. I even get to work with the best of them, from San Francisco to Paris to Tokyo. And now I can celebrate the company and industry I support in the city that I love, since we have an office in New York City.
 
@@ -25,7 +25,7 @@ This is more true than ever. I am glad to have stuck with a company, and with bl
 
 And of course, I had some personal goals, too. I wanted to work with good friends, with people I know and trust. I wanted to show people that New York City is, and will be, one of the centers for real, hardcore technology innovation and invention. ([We’re hiring](https://web.archive.org/web/20080527084909/http://www.sixapart.com/about/jobs/)!) I wanted to bring together the worlds of the two things I have always been passionate about, technology and media.
 
-![6a logo white.png](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/6a%20logo%20white.png?v=1674629174358)
+![6a logo white.png](/images/6a%20logo%20white.png)
 
 As is likely obvious from [our announcements](https://web.archive.org/web/20080424221135/http://www.sixapart.com/blog/2008/04/six-apart-services-media.html) this week, we’re close to being all of the things I’d hoped a company like Six Apart might become. In just the past year, we’ve damn near reinvented the company, with Ben and Mena and our CEO Chris Alden have been leading some brave efforts to do what few have the courage to do: **Reimagine a company that’s already successful** and growing, and picture it honoring its innovative roots in a way that’s actually new. We’ve invented, launched, and promoted more things that make the web better in the past year than at any time since the beginning of the company.
 

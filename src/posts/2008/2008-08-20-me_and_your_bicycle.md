@@ -5,7 +5,7 @@ date_published: 2008-08-21T03:46:56.000Z
 date_updated: 2008-08-21T03:46:56.000Z
 ---
 
-[![Obama Bicycle Book](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/obama-bicycle.jpg?v=1674098009666)](http://www.amazon.com/exec/obidos/ASIN/1592404162/2020-20/)
+[![Obama Bicycle Book](/images/obama-bicycle.jpg)](http://www.amazon.com/exec/obidos/ASIN/1592404162/2020-20/)
 
 My friend [Mat Honan](http://www.honan.net/) amused and beguiled you a few months ago with [Barack Obama is Your New Bicycle](http://barackobamaisyournewbicycle.com/). As is the course of such things, he got a book deal for his efforts, despite having been responsible for the onslaught of unfunny ripoffs of the site which followed his success.
 

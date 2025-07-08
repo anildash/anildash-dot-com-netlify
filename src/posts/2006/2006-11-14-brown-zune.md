@@ -3,11 +3,11 @@ title: The Problem Is, The Zune Is Brown
 slug: brown-zune
 date_published: 2006-11-14 06:30:40+00:00
 date_updated: 2018-04-09 16:14:59+00:00
-heroimage: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/brown-zune.jpg?v=1729981342104
-image: https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/brown-zune.jpg?v=1729981342104
+heroimage: /images/brown-zune.jpg
+image: /images/brown-zune.jpg
 tags: [Best Of, tech, microsoft, music]
 ---
-[![brown-zune.jpg](https://cdn.glitch.global/b604f391-5a71-425f-90d1-1cece5139a83/brown-zune.jpg?v=1729981342104)
+[![brown-zune.jpg](/images/brown-zune.jpg)
 ](http://www.amazon.com/gp/product/B000H0QDCC?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000H0QDCC)
 
 Microsoft has just launched the [Zune](http://www.amazon.com/gp/product/B000H0QDCC?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000H0QDCC), which will be one of the most popular digital music players ever made, and *could* have been considered a wild success as a result. Instead, the device has been inevitably and irrevocably compared to [Apple’s iPod](http://www.amazon.com/gp/product/B000EPHP4U?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000EPHP4U), and thus anything less than becoming a cultural icon will be considered failure. There are a couple of reasons why, and a number of lessons to be learned.

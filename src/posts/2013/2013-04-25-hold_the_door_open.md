@@ -3,7 +3,7 @@ title: Hold The Door Open
 slug: hold_the_door_open
 date_published: 2013-04-25 15:44:08+00:00
 date_updated: 2013-04-25 15:44:08+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/peter-herrmann-hT4R4jR7W2s-unsplash.jpg?v=1670559723735
+image: /images/peter-herrmann-hT4R4jR7W2s-unsplash.jpg
 tags: [tech]
 ---
 Though it’s currently in vogue to threaten the President with ricin, the fashion when I was a younger man was to intimidate newspapers with anthrax. During those heady days I happened to work at a newspaper, and as always the terrifying eventually evolved into the mundane, so efforts to protect the staff got reduced to the mailman delivering our packages while wearing latex gloves and a sign being taped inside the main door to our office. The sign had no doubt hastily been prepared in Microsoft Word by someone struggling to deal with the very real possibility of a deadly attack on their coworkers, but by just a few months later, it already seemed an odd artifact of an era of duct tape and color-coded alert levels. The sign said this:

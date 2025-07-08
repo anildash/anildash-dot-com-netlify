@@ -5,7 +5,7 @@ date_published: 2007-12-04 14:00:41+00:00
 date_updated: 2007-12-04 14:00:41+00:00
 tags: [tech]
 ---
-![mozy-logo.png](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/mozy-logo.png?v=1674867059836)
+![mozy-logo.png](/images/mozy-logo.png)
 
 **What It Is**: [Mozy](https://mozy.com/?ref=32M6CD) is an online backup service that runs in the background on your computer, continously backing up your files to Mozy’s servers. It works on Windows and Macs, and you can restore your files either by browsing to them through Mozy software, downloading them in batches from Mozy’s site, or by having Mozy send you DVDs of your files. **Mozy saved my bacon, and it’s the best five bucks I’ve ever spent.**
 

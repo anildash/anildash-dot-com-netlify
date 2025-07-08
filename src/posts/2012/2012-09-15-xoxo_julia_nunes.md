@@ -11,7 +11,7 @@ Julia Nunes started recording ukulele covers in her dorm room for her friends at
 
 ## [Julia Nunes](https://twitter.com/JuliaNunes)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/-3-1_normal.jpg?v=1670738617352)
+![](/images/-3-1_normal.jpg)
 
 Projects: **[JuNu Music](http://www.junumusic.com/)**
 

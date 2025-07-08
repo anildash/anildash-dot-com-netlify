@@ -3,7 +3,7 @@ title: I went to a coffee shop.
 slug: i-went-to-a-coffee-shop
 date_published: 2022-07-18 18:01:22+00:00
 date_updated: 2022-07-20 01:07:15+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oceanside.jpeg?v=1669518300800
+image: /images/oceanside.jpeg
 tags: [personal]
 ---
 [cw: violence] I just wanted to capture this story here once so I don't have to tell it to anyone again. Because, while I am okay now, it is unpleasant to keep having to repeat the story to new people over and over. The short version is, I was violently assaulted by a man who was evidently going through a significant mental health episode, I am physically okay even though the experience was fairly traumatic in the moment, and we are going to try to get the man help if it's possible.

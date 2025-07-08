@@ -3,7 +3,7 @@ title: What I Learned From Twitter's Leaders
 slug: what_i_learned_from_twitters_leaders
 date_published: 2013-11-08 23:48:38+00:00
 date_updated: 2013-11-08 23:48:38+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Twitter-IPO.webp?v=1670302675172
+image: /images/Twitter-IPO.webp
 tags: [Most Popular, tech, twitter]
 ---
 [This piece was originally written [for CNN](http://www.cnn.com/2013/11/08/opinion/dash-learn-from-twitter/index.html?c=&amp;page=0) on the occasion of Twitter’s IPO.]

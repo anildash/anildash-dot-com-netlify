@@ -3,7 +3,7 @@ title: All Over The Web
 slug: all-over-the-web-2
 date_published: 2010-01-20 20:54:20+00:00
 date_updated: 2010-01-20 20:54:20+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1514472-how-anil-dash-applies-the-lessons-of-web-20-to-government-rotator.webp?v=1670809046414
+image: /images/1514472-how-anil-dash-applies-the-lessons-of-web-20-to-government-rotator.webp
 tags: [tech, media]
 ---
 Just a quick roundup of some recent conversations I’ve been having around the web:

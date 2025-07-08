@@ -3,7 +3,7 @@ title: It's me, Bike Dad!
 slug: its_me_bike_dad
 date_published: 2017-02-01 16:47:52+00:00
 date_updated: 2018-04-08 06:05:18+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/E53_St_Citibike_station_loaded_jeh.jpg?v=1669786964129
+image: /images/E53_St_Citibike_station_loaded_jeh.jpg
 tags: [nyc, transit]
 ---
 Until the Citibike bikeshare program launched here in New York City, I’d ridden a bike perhaps once in the prior twenty years. Since it launched, I ride almost daily.

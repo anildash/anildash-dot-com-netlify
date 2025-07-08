@@ -3,7 +3,7 @@ title: The Internet of Tweets
 slug: the_internet_of_tweets
 date_published: 2015-07-11 16:00:00+00:00
 date_updated: 2015-07-11 16:00:00+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/will.i.am-twitter.jpeg?v=1669938481996
+image: /images/will.i.am-twitter.jpeg
 tags: [twitter, tech, culture]
 ---
 > Everybody’s got advice on what Twitter needs to do at its current crossroads. The answer might lie in revisiting the moment they first broke geeks’ hearts.

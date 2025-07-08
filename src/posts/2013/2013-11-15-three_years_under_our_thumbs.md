@@ -3,7 +3,7 @@ title: Three Years Under Our Thumbs
 slug: three_years_under_our_thumbs
 date_published: 2013-11-15 22:00:38+00:00
 date_updated: 2013-11-15 22:00:38+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-bridge.jpeg?v=1670302039375
+image: /images/malcolm-bridge.jpeg
 tags: [Best Of, tech]
 ---
 We’ll spend three years of our lives with our thumbs on our phones. What will we have to show for it?

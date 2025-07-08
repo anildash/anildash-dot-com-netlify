@@ -3,7 +3,7 @@ title: A little less rocking with you...
 slug: a_little_less_rocking_with_you
 date_published: 2015-10-10 16:15:38+00:00
 date_updated: 2022-11-20 07:32:12+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/rock-with-you-single.jpg?v=1669920294288
+image: /images/rock-with-you-single.jpg
 tags: [Best Of, music]
 ---
 After talking to a friend about how Michael Jackson’s “Rock With You” is so romantic if you just focus on the strings, bass and vocals, I was inspired to mix down the tracks to feature just those elements.

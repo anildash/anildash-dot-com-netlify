@@ -7,7 +7,7 @@ tags: [nyc, blogs]
 ---
 **Today’s Blog of the Year Pick:** [Serious Eats](http://www.seriouseats.com).
 
-![Serious Eats](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/serious-eats.png?v=1674864531005)
+![Serious Eats](/images/serious-eats.png)
 
 I love food, but I could never quite put my finger on what was wrong with the food blogs I’d tried to read until Serious Eats came along. As it turns out, I like cooking and I like learning about restaurants, but what it turns out I really *love* is simple: *Eating*.
 

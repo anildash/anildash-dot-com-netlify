@@ -5,7 +5,7 @@ date_published: 2007-05-09 17:14:51+00:00
 date_updated: 2007-05-09 17:14:51+00:00
 tags: [blogs]
 ---
-![fortuitous](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/fortuitous-logo.png?v=1714969736887)
+![fortuitous](/images/fortuitous-logo.png)
 
 When Matt Haughey first described his new site [Fortuitous](http://fortuito.us/), which just [launched](http://fortuito.us/2007/04/launched) two weeks ago, I was particularly excited because this is a new blog that’s actually downright *necessary*. You see, while there’s lots of “Ten Steps for Making Another Boring Web App” articles on Digg, there’s very little that’s written from the perspective of anyone who’s focused on community or content, and even less information that’s being shared by those who’ve actually made something that’s had enduring success.
 

@@ -2,8 +2,8 @@
 title: "It's time for Dolly to record that long-lost Prince song."
 slug: dolly-prince-rescue-me
 date_published: 2025-04-10T23:00:05.000Z
-heroimage: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/Dolly-Parton-Rockstar-recolor.jpg?v=1744340389470
-image: https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/Dolly-Parton-Rockstar-recolor.jpg?v=1744340389470
+heroimage: /images/Dolly-Parton-Rockstar-recolor.jpg
+image: /images/Dolly-Parton-Rockstar-recolor.jpg
 tags: [Prince, Dolly Parton, music]
 ---
 
@@ -49,7 +49,7 @@ Dolly has embraced her status as a living legend. As Tressie McMillan Cottom <a 
   
 Just as important as the musical connections they've made, both of these artists have changed the fabric of the industry they shaped, paving the way for the artists that followed to have more agency, control, and empowerment. Prince said that the quote he most wanted to be remembered for was his pithy articulation about ownership of one's artistic legacy, especially as a Black artist: "If u don't own your masters, then your masters own u." Dolly evoked that exact sentiment, along with their shared gift for being incredibly prolific, in a 2023 interview when she was asked about Prince:
   
-<img src="https://cdn.glitch.global/34934a9e-03cb-409c-b529-b489bc6e5d0a/dolly-on-prince.jpg?v=1744336582819" alt="CC: Someone recently suggested to me that you're the Frank Zappa or Prince of country music based on your musical virtuosity, volume of creative output and the controlled approach to your career.
+<img src="/images/dolly-on-prince.jpg" alt="CC: Someone recently suggested to me that you're the Frank Zappa or Prince of country music based on your musical virtuosity, volume of creative output and the controlled approach to your career.
 Dolly Parton: That's a great, great compliment.
 I don't know if it's true, but I am sincere about my music and about the work and the business end of it and keeping control of it.
 I've always related to Prince because I love what I do, and I write all the time.

@@ -11,7 +11,7 @@ Chris Poole is founder of two of the Internet’s most creative communities, the
 
 #### [Chris Poole](https://twitter.com/moot)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/988HB3KU_400x400.jpg?v=1670739703251)
+![](/images/988HB3KU_400x400.jpg)
 
 Projects: **[4chan](http://www.4chan.org)** and **[Canvas](http://canv.as/)**
 

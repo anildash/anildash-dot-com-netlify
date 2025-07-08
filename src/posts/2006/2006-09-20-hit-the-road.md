@@ -8,7 +8,7 @@ tags: [blogs]
 
 [I’d mentioned](/2006/09/19/lawyers_broadca) that talking to regular people about the potential of blogging is one of my favorite parts of my job, and that’s probably reason enough to pause for an unapologetic plug.
 
-[![Business Blogging](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/business_blogging_promo_ims.gif?v=1730096398626)](http://www.sixapart.com/business/seminars/?cmpid=bbsbadge&amp;source=anil)
+[![Business Blogging](/images/business_blogging_promo_ims.gif)](http://www.sixapart.com/business/seminars/?cmpid=bbsbadge&amp;source=anil)
 
 We’re doing a series of [Six Apart Business Blogging Seminars](http://www.sixapart.com/business/seminars/?cmpid=bbsbadge&amp;source=anil) all over the country. We’d done a number of these seminars earlier in the year, and got some very positive feedback, along with requests to include more cities. So we’re doing exactly that, and teaming up with some experts to help us tell the story. When you show up, you get to meet folks like the [Feedburner](http://www.feedburner.com/fb/a/about/events) team, or [D.L. Byron](http://texturadesign.com/2006/09/chill_to_the_next_episode.htm) or [Alison Byrne Fields](http://wellknowwhenwegetthere.blogspot.com/2006/09/im-speaking.html), and I’ll be attending each event as well.
 

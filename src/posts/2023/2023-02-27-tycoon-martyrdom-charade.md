@@ -2,7 +2,7 @@
 title: The tech tycoon martyrdom charade
 slug: tycoon-martyrdom-charade
 date_published: 2023-02-27 20:00:05+00:00
-image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blindfold.jpg?v=1677543002592
+image: /images/blindfold.jpg
 tags: [tech, twitter]
 ---
 I've been saying this for a few years now, but it's worth recording here for the record: It's impossible to overstate the degree to which many big tech CEOs and venture capitalists are being radicalized by living within their own cultural and social bubble. Their level of paranoia and contrived self-victimization is off the charts, and is getting worse now that they increasingly only consume media that they have funded, created by their own acolytes.

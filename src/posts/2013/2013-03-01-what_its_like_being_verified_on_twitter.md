@@ -3,7 +3,7 @@ title: What It's Like Being Verified on Twitter
 slug: what_its_like_being_verified_on_twitter
 date_published: 2013-03-01 19:57:07+00:00
 date_updated: 2018-07-13 19:53:41+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-10-confirmation.png?v=1670476503039
+image: /images/tverified-10-confirmation.png
 tags: [Best Of, Most Popular, tech, twitter]
 ---
 **Update:** After this post was published, I had a chance to talk about Twitter verification at a live show of the Untitled Kondabolu Brothers Project, with Hari and Ashok Kondabolu. It turned out pretty well.

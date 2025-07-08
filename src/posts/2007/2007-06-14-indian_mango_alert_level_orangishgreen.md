@@ -5,7 +5,7 @@ date_published: 2007-06-14 23:14:52+00:00
 date_updated: 2007-06-14 23:14:52+00:00
 tags: [Best Of, random ha-ha, mango]
 ---
-[![kyu-mango.jpg](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/kyu-mango.jpg?v=1714969461111)](http://www.flickr.com/photos/kathryn/536844897/)
+[![kyu-mango.jpg](/images/kyu-mango.jpg)](http://www.flickr.com/photos/kathryn/536844897/)
 
 Indian mangoes have arrived in the U.S. for the first time, and for me, my family, and my friends, this is a **big freaking deal**. I’ve got a lot to say about the subject, but if you weren’t familiar with the fact that this is the first time in history that we in the United States are able to eat mangoes that are actually from the place that mangoes were born, it’s time to get acquainted.
 

@@ -11,7 +11,7 @@ Chad Dickerson is the CEO and former CTO of Etsy, the world’s largest marketpl
 
 ## [Chad Dickerson](https://twitter.com/chaddickerson)
 
-![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chad01-desaturated_MG_0795.cropped_normal.jpg?v=1670739399753)
+![](/images/chad01-desaturated_MG_0795.cropped_normal.jpg)
 
 Company: **[Etsy](http://www.etsy.com/)**
 
@@ -44,7 +44,7 @@ Quotes from Clinton at the DNC, but says Etsy is already delivering it so they d
 
 They want to make money while having their community make even more money. Etsy took 3.5% of the over half a billion in sales on their platform last year. 800,000 active sellers, $525M in community sales in 201, which is already exceeded in 2012. 40 million visitors a month from 150 countries.
 
-![Chad Dickerson's slide on Etsy metrics](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/chad-dickerson-slide.jpg?v=1670739485210)
+![Chad Dickerson's slide on Etsy metrics](/images/chad-dickerson-slide.jpg)
 
 Chad says Etsy believes in RFK’s [perspective on the GDP](http://www.jfklibrary.org/Research/Ready-Reference/RFK-Speeches/Remarks-of-Robert-F-Kennedy-at-the-University-of-Kansas-March-18-1968.aspx):
 

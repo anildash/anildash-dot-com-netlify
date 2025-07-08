@@ -3,7 +3,7 @@ title: Rat On The Tracks
 slug: rat_on_the_tracks
 date_published: 2014-04-08 13:13:58+00:00
 date_updated: 2014-04-08 13:13:58+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg?v=1670294659242
+image: /images/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg
 tags: [nyc, personal]
 ---
 My [wife](http://alainabrowne.com/), in addition to being wise and kind, is generally made of sterner stuff than I am. This serves us both well, but the contrast does serve to elucidate some important concepts from time to time.

@@ -11,7 +11,7 @@ The accident’s been on my mind a lot lately since the horrible earthquake and 
 
 When I was a kid, “TMI” was synonymous with “Three Mile Island”. It’s only since I’ve been an adult that it’s ironically come to mean “Too Much Information”. Because that’s obviously *not* the case with news coverage of the Fukushima reactors here in the U.S. Fortunately, I did have access to an expert who could truly explain the context and severity of the threat at hand.
 
-[![TMI Radiation XKCD](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/radiation-tmi.png?v=1670802068326)](http://xkcd.com/radiation/)
+[![TMI Radiation XKCD](/images/radiation-tmi.png)](http://xkcd.com/radiation/)
 
 ## An Expert’s Voice
 

@@ -3,7 +3,7 @@ title: 10 Rules of Internet
 slug: rules_of_internet
 date_published: 2013-07-17 21:28:52+00:00
 date_updated: 2018-06-25 17:47:21+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charltonhestonmoses_hdv.jpg?v=1670563705021
+image: /images/charltonhestonmoses_hdv.jpg
 tags: [Best Of, Most Popular, tech, web]
 ---
 In my years working in technology, I have learned a few things. These lessons have become oft-repeated refrains when speaking to people, so I thought I’d collect them so I have a link to send folks when needed.

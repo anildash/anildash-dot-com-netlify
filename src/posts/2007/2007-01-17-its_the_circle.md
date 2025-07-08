@@ -9,7 +9,7 @@ Picture Terry Semel holding a little lion cub up in the air with both arms exten
 
 The story I’m referring to is how each half-decade’s web love story begets its successor for the attention and adoration of the press, the stock market, and the public at large.
 
-![web-circle](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/web-circle.png?v=1730097471427)
+![web-circle](/images/web-circle.png)
 
 In the beginning, there was Netscape, and it was good. But the old-timers among you will recall that Netscape began as Mosaic Communications Corporation, based on the old Mosaic browser. When that name became unusable, the codename for the browser being built was naturally named after the terrible lizard that would cause Mosaic’s demise: Mozilla.
 

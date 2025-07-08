@@ -3,7 +3,7 @@ title: On Being and Tech's Moral Reckoning
 slug: on_being_and_techs_moral_reckoning
 date_published: 2017-01-15 20:11:28+00:00
 date_updated: 2022-11-17 07:18:58+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/on-being.jpg?v=1669787839343
+image: /images/on-being.jpg
 tags: [Best Of, Most Popular, tech, culture, podcasts]
 ---
 Back in November, I got to sit down with the amazing [Krista Tippett](http://www.onbeing.org/) for a lengthy interview in front of an incredibly warm crowd in Easton, MD. Now, that interview has been edited down and is available as [the latest episode](http://www.onbeing.org/program/anil-dash-tech-s-moral-reckoning/9132) of Krista’s hugely popular show, *On Being*.

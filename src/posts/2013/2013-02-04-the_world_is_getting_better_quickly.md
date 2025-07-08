@@ -3,7 +3,7 @@ title: The World is Getting Better. Quickly.
 slug: the_world_is_getting_better_quickly
 date_published: 2013-02-04 21:55:40+00:00
 date_updated: 2013-02-04 21:55:40+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/un-dev-goals.png?v=1670476018247
+image: /images/un-dev-goals.png
 tags: [tech, policy, culture]
 ---
 Last week, I had a chance to sit down with Bill Gates as part of a small group, in a discussion focused around the release of his [annual letter](https://www.gatesfoundation.org/ideas/annual-letters/annual-letter-2013) and the progress that has been made against the United Nations’ [Millennium Development Goals](http://www.un.org/millenniumgoals/). (You can also read his annual letter as a [6.3MB PDF](http://annualletter.gatesfoundation.org/pdf/2013_AL_English.pdf).) I’ll write separately about what it was like having a conversation with Bill Gates, but the biggest highlight that came from the meeting was a simple lesson:
@@ -20,13 +20,13 @@ The results are astounding. Even if we caveat that every measurement is imprecis
 
 - Children are 1/3 less likely to die before age five than they were in 1990. The global childhood mortality rate for kids under 5 has dropped from 88 in 1000 in 1990 to 57 in 1000 in 2010. The global infant mortality rate for kids dying before age one has plunged from 61 in 1000 to 40 in 1000. Now, any child dying is of course one child too many, but this is *astounding* progress to have made in just twenty years.
 
-![Childhood Mortality data](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/childhood-mortality.png?v=1670476141666)
+![Childhood Mortality data](/images/childhood-mortality.png)
 
 - In the past 30 years, the percentage of children who receive key immunizations such as the DTP vaccine has *quadrupled*.
 
-![DTP vaccination rates](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/immunize_rise_line.png?v=1670476140984)
+![DTP vaccination rates](/images/immunize_rise_line.png)
 
-![extreme poverty stats](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/extreme-poverty.png?v=1670476141302)
+![extreme poverty stats](/images/extreme-poverty.png)
 
 - The percentage of people in the world living on less than $1.25 per day has been cut in half since 1990, *ahead* of the schedule of the Millennium Development Goals which hoped to reach this target by 2015.
 

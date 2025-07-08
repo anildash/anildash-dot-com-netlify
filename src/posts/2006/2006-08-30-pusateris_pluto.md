@@ -6,7 +6,7 @@ date_updated: 2006-08-30 13:09:41+00:00
 tags: [random ha-ha]
 ---
 
-![Uranus Is Next!](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/uranusisnext.jpg?v=1730096160112)
+![Uranus Is Next!](/images/uranusisnext.jpg)
 
 There’s been a great hue and cry about the debate over the definition of the word “planet”, and Pluto’s recent change in status. Frankly, I think the whole thing is silly — like a lot of words, “planet” means different things to scientists than to lay people, and that’s where the drama comes in.
 

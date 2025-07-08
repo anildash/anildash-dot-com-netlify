@@ -5,7 +5,7 @@ date_published: 2006-09-20T18:29:03.000Z
 date_updated: 2006-09-20T18:29:03.000Z
 ---
 
-[![The Ghost Map](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/the-ghost-map.jpg?v=1730096428614)](http://www.amazon.com/exec/obidos/ASIN/1594489254/2020-20) 
+[![The Ghost Map](/images/the-ghost-map.jpg)](http://www.amazon.com/exec/obidos/ASIN/1594489254/2020-20) 
 
 The upcoming release of [Steven Johnson](http://www.stevenberlinjohnson.com/)‘s [*The Ghost Map*](http://www.amazon.com/exec/obidos/ASIN/1594489254/2020-20) served as a useful prompt for Steven’s [list of the best books about plagues](http://www.opinionjournal.com/weekend/fivebest/?id=110008921) in the Wall Street Journal.
 
@@ -13,7 +13,7 @@ Steven’s list includes titles such as [*Plagues and Peoples*](http://www.amazo
 
 The HIV pandemic and the threat of malaria or SARS or ebola or avian flu all show that germs can still be a significant danger today. But what’s interesting to me is that there’s been such a dramatic change; For those of us in the developed world, something like smallpox isn’t an everyday concern, let alone a mortal danger. So the looming threat of genocide due to a viral danger is mostly something we can read about as voyeurs without actually being terrified.
 
-[![Guns, Germs and Steel](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/guns-germs-steel.jpg?v=1730096455373)](http://www.amazon.com/exec/obidos/ASIN/0393317552/2020-20)
+[![Guns, Germs and Steel](/images/guns-germs-steel.jpg)](http://www.amazon.com/exec/obidos/ASIN/0393317552/2020-20)
 
 My interest in these books isn’t purely morbid, though. Hundreds or thousands of years ago, the greatest danger that faced societies was the introduction of a foreign culture’s physical threats. I think these books are deeply instructive in a modern context, though, because the greatest threat to cultures today comes from *not* intermingling. Whether it’s expressed in agriculture (“hybrid vigor”), or in the context of a cocktail party (being a “social butterfly”), making an effort to avoid cultural isolation is rewarded by making an individual or a society *more* healthy. That’s not to mention the bonus potential of additional opportunities, higher potential for recognition, a larger market for trade or commercial interests, and a broader audience for communication of messages.
 

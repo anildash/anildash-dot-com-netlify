@@ -3,7 +3,7 @@ title: Conduct Becoming
 slug: conduct_becoming
 date_published: 2015-04-30 22:26:37+00:00
 date_updated: 2015-04-30 22:26:37+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/99u-2015.webp?v=1670104867534
+image: /images/99u-2015.webp
 tags: [tech, events]
 ---
 Tomorrow I’m speaking at the [99U Conference](http://99u.com/conference), which I’m really looking forward to. But one of the reasons I’m already convinced it’s going to be a special event is because of one particular accommodation that Sean Blanda and his team made in the days and months leading up to the event.

@@ -3,7 +3,7 @@ title: The Printer We Need
 slug: the-printer-we-need
 date_published: 2017-09-01 17:58:00+00:00
 date_updated: 2022-01-14 05:42:32+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/office-space-printer.jpeg?v=1669784248477
+image: /images/office-space-printer.jpeg
 tags: [tech]
 ---
 Printers: They don’t work. Here’s my wishlist for one that might.

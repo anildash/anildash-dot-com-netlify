@@ -3,7 +3,7 @@ title: 'Podcast of the Year: Function'
 slug: podcast-of-the-year-function
 date_published: 2019-12-09 19:30:28+00:00
 date_updated: 2019-12-09 19:31:16+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airpods.jpeg?v=1669584885063
+image: /images/airpods.jpeg
 tags: [podcasts]
 ---
 Congratulations to [**Function with Anil Dash**](https://blog.glitch.com/category/function) for being named podcast of the year! In a media landscape absolutely littered with sound-alike tech podcasts rehashing the same tedious iPhone rumors or parroting Facebook's latest defense of abusing your data, Function has stood out as the rare tech podcast that demonstrates a fluency, and even a *comfort* in discussing culture, race, policy, and numerous other areas that are too often glossed over in discussions of technology.

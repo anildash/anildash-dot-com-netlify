@@ -3,7 +3,7 @@ title: What Windows 95 Changed
 slug: what-windows-95-changed
 date_published: 2020-08-25 19:29:46+00:00
 date_updated: 2020-12-14 20:37:49+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/windows-95-future.jpeg?v=1669582109489
+image: /images/windows-95-future.jpeg
 tags: [tech, culture, software]
 ---
 Twenty five years ago today, Microsoft released Windows 95. It was undoubtedly a technical leap forward, but its biggest, most lasting impacts are about how it changed popular culture's relationship to technology.

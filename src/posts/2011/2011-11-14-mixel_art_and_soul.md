@@ -18,7 +18,7 @@ My perspective on Khoi’s work had been that I could obviously tell why he was 
 
 I was struck by how exciting the potential was — though [Khoi’s series of posts about magazines and media on the iPad](http://www.subtraction.com/categories/ipad) are the definitive works on that topic, this wasn’t yet-another-digital-magazine. This was an app with soul, that was joyous to use. It evoked all of the things I’m obsessed with, from creating startups to enabling remix culture to encouraging people to collaborate with others in a community. I couldn’t wait to see what it would become.
 
-[![mixel-strip.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixel-strip.jpg?v=1670804240684)](http://mixel.by/joel-johnson/2011/11/10/5)
+[![mixel-strip.jpg](/images/mixel-strip.jpg)](http://mixel.by/joel-johnson/2011/11/10/5)
 
 ## Getting Dumped
 
@@ -38,7 +38,7 @@ But I had had the advantage of seeing Mixel since its earliest stages. I knew th
 
 ## The Thing That Matters
 
-[![Mixel](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixel-icon.jpg?v=1670804270221)](http://mixel.cc)
+[![Mixel](/images/mixel-icon.jpg)](http://mixel.cc)
 
 Now that Mixel is available for everyone to try, it’s become evident that this was the evolution of the design work that Khoi had been doing for so long. Where he’d been known for black-and-white, regimented grids, Mixel’s logo alone shows sweeping washes of color following fluid curves. Where Khoi’s name had been most associated with the sober, detached tone of the New York Times, Mixel was showing the sheer joy that comes from playing with your child and a box of crayons. Where so much of the conversation about the future of iPad apps had been about how a “lean-back magazine reading experience” was going to evolve, here was a hands-on, let’s-just-see-what-we-can-make place to play that had no rules and wasn’t striving for pixel-perfect results.
 

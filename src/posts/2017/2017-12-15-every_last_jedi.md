@@ -3,7 +3,7 @@ title: Every Last Jedi
 slug: every_last_jedi
 date_published: 2017-12-16 04:34:27+00:00
 date_updated: 2021-08-02 04:08:50+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg?v=1669781859688
+image: /images/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg
 tags: [star wars, film]
 ---
 This is a *spoiler-filled* first set of reactions to Star Wars: The Last Jedi.

@@ -3,7 +3,7 @@ title: The Code Behind The Code
 slug: the-code-behind-the-code
 date_published: 2021-08-05 05:28:33+00:00
 date_updated: 2021-08-05 05:28:33+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Charanjit-Chana-d-pad.jpg?v=1669526899195
+image: /images/Charanjit-Chana-d-pad.jpg
 tags: [gaming, tech, software]
 ---
 The Konami Code is one of the longest-running inside references amongst both gamers and coders, acting as something of a shibboleth for a certain kind of nerd. Up, up, down, down, left, right, left, right, B, A. I never owned a Nintendo Entertainment System, didn't care about most Konami games, and was never really into either that gaming scene or those aspects of programming culture, and yet I still knew the code by heart, like a lot of folks my age.

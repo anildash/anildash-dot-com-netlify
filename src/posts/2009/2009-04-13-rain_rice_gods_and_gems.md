@@ -3,8 +3,8 @@ title: Rain, Rice, Gods and Gems
 slug: rain_rice_gods_and_gems
 date_published: 2009-04-13T15:05:56.000Z
 date_updated: 2009-04-13T15:05:56.000Z
-heroimage: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/shiva-temple-500px.jpg?v=1730098540778
-image: https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/shiva-temple-500px.jpg?v=1730098540778
+heroimage: /images/shiva-temple-500px.jpg
+image: /images/shiva-temple-500px.jpg
 tags: [india]
 ---
 

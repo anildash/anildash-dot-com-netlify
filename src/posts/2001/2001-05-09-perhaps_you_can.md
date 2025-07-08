@@ -7,4 +7,4 @@ date_updated: 2001-05-09T20:08:36.000Z
 
 Perhaps you can get a better idea of my priorities in life if you notice that I have an *entire group* in my Buddy List for [bots](http://whatis.techtarget.com/definition/0,289893,sid9_gci211699,00.html), even though most of them aren’t even functioning right now.
 
-![Bot Buddies](https://cdn.glitch.global/71e5579f-aba0-499a-b200-01549a2a80ce/buddybot.jpg?v=1730089601523)
+![Bot Buddies](/images/buddybot.jpg)

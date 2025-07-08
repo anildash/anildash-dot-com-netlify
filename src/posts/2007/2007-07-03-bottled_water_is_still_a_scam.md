@@ -17,7 +17,7 @@ Meanwhile, the Fast Company article adds an incredible amount of new specifics, 
 > 
 > Meanwhile, one out of six people in the world has no dependable, safe drinking water. The global economy has contrived to deny the most fundamental element of life to 1 billion people, while delivering to us an array of water “varieties” from around the globe, not one of which we actually need. That tension is only complicated by the fact that if we suddenly decided not to purchase the lake of Poland Spring water in Hollis, Maine, none of that water would find its way to people who really are thirsty.
 
-![water-bottle.jpg](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/water-bottle.jpg?v=1714969119748)
+![water-bottle.jpg](/images/water-bottle.jpg)
 
 It’s worth reiterating that **Aquafina and Dasani are just tap water**. There’s nothing wrong with that, since tap water is very good water — it’s just not worth paying 500 times as much for. I don’t have any argument against the convenience factor, either, since it makes perfect sense to take water with you when you’re on the go. You’ll just get something that’s got less bacteria and generally better quality if you fill your bottle from your tap. It’s also worth checking out this story for the slideshows that are displayed alongside it; These usually just seem like blatant attempts for magazines to increase their page views online, but in this case they seem to have actually included original content and research.
 

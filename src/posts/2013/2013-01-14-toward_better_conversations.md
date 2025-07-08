@@ -3,7 +3,7 @@ title: Toward Better Conversations
 slug: toward_better_conversations
 date_published: 2013-01-14 23:00:55+00:00
 date_updated: 2013-01-14 23:00:55+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/branch-screenshot.png?v=1670475285709
+image: /images/branch-screenshot.png
 tags: [tech]
 ---
 Today, my friends at [Branch](http://branch.com/) announced that their fun and pretty little conversation platform is now open to the world, available for you to bring your friends in and talk about what matters to you. (I’m an advisor, and became one because I liked the product when it was in beta.)
@@ -25,5 +25,5 @@ It’s still early. Ideas like being able to highlight parts of a thread in orde
 So as Branch takes its first tentative steps out into the larger world, I’m rooting for it to succeed, and for it to help inspire many other similar efforts, whether within individual sites or on standalone platforms, to provide a way for others to not just get as much out of the web as I was able to in the past, but to make real connections in a way that we couldn’t have imagined.
 
 <video class="video-js vjs-default-skin imgcenter" data-setup="{}" height="476" id="tourvideo" preload="auto" controls="" width="800">
-  <source src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tour-how-d1748b8941de869f55316391701f99e0.mp4?v=1670400966451" type="video/mp4">
+  <source src="/images/tour-how-d1748b8941de869f55316391701f99e0.mp4" type="video/mp4">
 </video>

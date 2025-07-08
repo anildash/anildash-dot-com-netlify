@@ -3,7 +3,7 @@ title: "It's like Shazam \u2014 for your face!"
 slug: its-like-shazam-for-your-face
 date_published: 2018-05-02 18:21:48+00:00
 date_updated: 2021-08-02 04:03:44+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record-player.jpg?v=1669625212456
+image: /images/record-player.jpg
 tags: [music, glitch]
 ---
 Today's most fun new [Glitch](https://glitch.com/) app is Record Player, which lets you upload a photo, then uses Google Cloud's Vision API to recognize the image and play it on Spotify.

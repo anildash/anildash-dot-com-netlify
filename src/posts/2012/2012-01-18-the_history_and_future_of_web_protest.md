@@ -64,7 +64,7 @@ What we’ve gotten so far, with our SOPA and PIPA demonstrations, is a first, r
 
 This final point is my biggest concern and greatest wish for our industry. We now know we have the power bend the law to our will, and to make legislators respect our values, if we can just coordinate our efforts and focus our attentions. But there are many issues which have to do with the soul of our nation that may not galvanize a redditor who’s only concerned with legislation that might interfere with watching movies online.
 
-![Google Waterboarding](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-ghraib.jpg?v=1670714392819)
+![Google Waterboarding](/images/google-ghraib.jpg)
 
 We have discovered that our biggest companies, our most popular sites, or most passionate communities on the web are willing to stand up and have a powerful impact on the laws that govern our country. But we’re on the fence. Google’s spending [somewhere around $10 million dollars](http://techcrunch.com/2011/10/21/facebook-and-google-spent-record-amounts-on-d-c-lobbying-in-q3-2011/) on old-fashioned lobbying this year. Maybe that’s useful — as [Clay said](http://www.informationdiet.com/blog/read/dear-internet-its-no-longer-ok-to-not-know-how-congress-works-), we need to know how the old system works before we can reform it.
 

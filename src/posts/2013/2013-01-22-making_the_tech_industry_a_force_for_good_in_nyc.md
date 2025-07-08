@@ -3,7 +3,7 @@ title: Making the Tech Industry a Force for Good in NYC
 slug: making_the_tech_industry_a_force_for_good_in_nyc
 date_published: 2013-01-22 15:15:41+00:00
 date_updated: 2013-01-22 15:15:41+00:00
-image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bloomberg-nytech.jpg?v=1670475474975
+image: /images/bloomberg-nytech.jpg
 tags: [tech, nyc]
 ---
 In today’s Wall Street Journal there’s a [detailed look at how New York City’s tech industry is looking to influence politics in the city](http://online.wsj.com/article/SB10001424127887324624404578255752537705008.html?mod=googlenews_wsj). I’m happy to be quoted in the story, but wanted to offer more context about some of my comments.
