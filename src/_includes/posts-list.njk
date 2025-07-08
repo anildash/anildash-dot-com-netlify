@@ -22,7 +22,7 @@
     </a>
     <footer class="post-card-meta">
       <div class="">
-        <span class="post-list__meta"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> <span class="bull">•</span>
+        <span class="post-list__meta"><time datetime="{{ post.data.date_published | htmlDateString }}">{{ post.data.date_published | readableDate }}</time> <span class="bull">•</span>
           <span class="post-list__tags">
           {% for tag in post.data.tags %}
             {%- if collections.tagList.indexOf(tag) != -1 -%}

@@ -179,23 +179,31 @@ export default function (eleventyConfig) {
      - Read the Next Steps post to learn how to extend this
   */
   eleventyConfig.addCollection("posts", function (collection) {
-    /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
-       - https://www.11ty.dev/docs/collections/
-    */
-
-    // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
-    // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
     const coll = collection.getFilteredByTag("posts");
 
-    // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
-    // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
+    // Map date_published to date and sort by date_published
+    for (let i = 0; i < coll.length; i++) {
+      if (coll[i].data.date_published) {
+        // Use date_published as the canonical date
+        coll[i].data.date = new Date(coll[i].data.date_published);
+      }
+    }
+
+    // Sort by date_published (now mapped to date)
+    coll.sort((a, b) => {
+      const dateA = new Date(a.data.date_published || a.data.date);
+      const dateB = new Date(b.data.date_published || b.data.date);
+      return dateA - dateB; // Try this if the above shows oldest first
+    });
+
+    // Add prev/next relationships
     for (let i = 0; i < coll.length; i++) {
       const prevPost = coll[i - 1];
       const nextPost = coll[i + 1];
-
       coll[i].data["prevPost"] = prevPost;
       coll[i].data["nextPost"] = nextPost;
     }
+    
     return coll;
   });
 
