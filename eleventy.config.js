@@ -23,6 +23,8 @@ export default function (eleventyConfig) {
   ]);
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy("src/manifest.json");
+  eleventyConfig.addPassthroughCopy("src/sw.js");
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
