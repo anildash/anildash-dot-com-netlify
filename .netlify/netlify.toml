@@ -1,22 +1,13 @@
+functionsDirectory = "/Users/anildash/Developer/anildash-dot-com-netlify/netlify/functions"
+functionsDirectoryOrigin = "default"
 headersOrigin = "config"
-redirects = []
-
-[functions]
-
-[functions."*"]
-
-[[plugins]]
-origin = "ui"
-package = "@netlify/plugin-lighthouse"
-pinned_version = "6"
-
-[plugins.inputs]
 
 [build]
 publish = "/Users/anildash/Developer/anildash-dot-com-netlify/build"
 publishOrigin = "config"
 commandOrigin = "config"
 command = "npm run build"
+functions = "/Users/anildash/Developer/anildash-dot-com-netlify/netlify/functions"
 
 [build.environment]
 NODE_VERSION = "18"
@@ -32,6 +23,17 @@ NODE_VERSION = "18"
 [build.processing.js]
 
 [build.services]
+
+[functions]
+
+[functions."*"]
+
+[[plugins]]
+origin = "ui"
+package = "@netlify/plugin-lighthouse"
+pinned_version = "6"
+
+[plugins.inputs]
 
 [[headers]]
 for = "/*"
@@ -83,3 +85,7647 @@ for = "*.svg"
 
 [headers.values]
 Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+from = "/anil/*"
+to = "/:splat"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/09/10/i_will_cut_you/"
+to = "/2008/09/09/i_will_cut_you/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/01/03/human_web_renaissance/"
+to = "/2024/01/02/human_web_renaissance/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/02/06/wherever_you_get_podcasts/"
+to = "/2024/02/05/wherever_you_get_podcasts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/04/09/systems_heartwarming_stories/"
+to = "/2024/04/08/systems_heartwarming_stories/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/05/29/systems_the_purpose_of_a_system/"
+to = "/2024/04/08/systems_the_purpose_of_a_system/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/06/21/dash_board/"
+to = "/2024/06/26/dash_board/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/03/28/a_bug_report_is_a_gift/"
+to = "/2025/03/27/a_bug_report_is_a_gift/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/04/19/ai_first_is_the_new_return_to_office/"
+to = "/2025/04/29/ai_first_is_the_new_return_to_office/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/05/27/2025-05-27-internet-of-consent/"
+to = "/2025/05/27/internet-of-consent/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/11/facebook_is_gaslighting_the_web.html"
+to = "/2011/11/21/facebook_is_gaslighting_the_web/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/10/22/apple_special_event_liveblog/"
+to = "/2012/10/23/apple_special_event_liveblog/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2013/02/28/what_its_like_being_verified_on_twitter/"
+to = "/2013/03/01/what_its_like_being_verified_on_twitter/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/01/01/the_goal_is_to_make_you_act_like_less_of_a_jerk_online/"
+to = "/2015/01/02/the_goal_is_to_make_you_act_like_less_of_a_jerk_online/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/06/all_in_favor.html"
+to = "/2011/06/09/all_in_favor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/06/11/time-for-something-new/"
+to = "/2025/06/11/time_for_something_new/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/"
+to = "/2019/12/10/link_in_bio_is_how_they_tried_to_kill_the_web/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/05/20/mcp-web20-20/"
+to = "/2025/05/20/mcp_web20_20/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/06/13/my_greatest_mil"
+to = "/2005/06/14/my_greatest_mil/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/06/10/time_for_something_new/"
+to = "/2025/06/11/time_for_something_new/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/19/an_actual_produ/"
+to = "/1999/12/20/an_actual_produ/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/20/i_got_a_message/"
+to = "/1999/12/21/i_got_a_message/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/22/could_this_be_m/"
+to = "/1999/12/23/could_this_be_m/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/22/why_do_i_hate_p/"
+to = "/1999/12/23/why_do_i_hate_p/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/23/oh_i_must_amend/"
+to = "/1999/12/24/oh_i_must_amend/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/1999/12/28/just_got_back_f/"
+to = "/1999/12/29/just_got_back_f/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/01/and_now_the_pri/"
+to = "/2000/01/02/and_now_the_pri/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/04/i_like_the_plas/"
+to = "/2000/01/05/i_like_the_plas/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/04/one_interesting/"
+to = "/2000/01/05/one_interesting/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/04/year2000com_auc/"
+to = "/2000/01/05/year2000com_auc/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/05/shhh_dont_tell/"
+to = "/2000/01/06/shhh_dont_tell/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/05/while_talking_t/"
+to = "/2000/01/06/while_talking_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/09/i_went_to_bosto/"
+to = "/2000/01/10/i_went_to_bosto/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/11/perhaps_the_mos/"
+to = "/2000/01/12/perhaps_the_mos/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/13/why_was_the_int/"
+to = "/2000/01/14/why_was_the_int/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/14/having_been_rem/"
+to = "/2000/01/15/having_been_rem/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/19/a_e_is_showing/"
+to = "/2000/01/20/a_e_is_showing/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/21/its_incredibly/"
+to = "/2000/01/22/its_incredibly/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/22/were_going_to_s/"
+to = "/2000/01/23/were_going_to_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/25/cool_thing_aest/"
+to = "/2000/01/26/cool_thing_aest/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/26/oh_please_oh_pl/"
+to = "/2000/01/27/oh_please_oh_pl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/27/so_i_added_this/"
+to = "/2000/01/28/so_i_added_this/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/01/30/ok_i_hate_suvs/"
+to = "/2000/01/31/ok_i_hate_suvs/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/02/ah_yes_i_can_no/"
+to = "/2000/02/03/ah_yes_i_can_no/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/02/the_superbowl_s/"
+to = "/2000/02/03/the_superbowl_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/13/a_clever_little/"
+to = "/2000/02/14/a_clever_little/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/17/so_ive_been_up/"
+to = "/2000/02/18/so_ive_been_up/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/27/nice_to_see_som/"
+to = "/2000/02/28/nice_to_see_som/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/02/27/sigh_seems_jaso/"
+to = "/2000/02/28/sigh_seems_jaso/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/11/if_he_loses_can/"
+to = "/2000/04/12/if_he_loses_can/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/12/hmmmmm/"
+to = "/2000/04/13/hmmmmm/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/13/cool_from_a_pag/"
+to = "/2000/04/14/cool_from_a_pag/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/13/somehow_i_find/"
+to = "/2000/04/14/somehow_i_find/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/13/while_cruising/"
+to = "/2000/04/14/while_cruising/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/21/news_flash/"
+to = "/2000/04/22/news_flash/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/24/perhaps_youve_a/"
+to = "/2000/04/25/perhaps_youve_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/04/30/go_watch_this/"
+to = "/2000/05/01/go_watch_this/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/05/21/the_city_review/"
+to = "/2000/05/22/the_city_review/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/05/28/i_was_listening/"
+to = "/2000/05/29/i_was_listening/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/07/01/jen_over_at_whi/"
+to = "/2000/07/02/jen_over_at_whi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/07/03/jason_would_pro/"
+to = "/2000/07/04/jason_would_pro/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/07/24/failure_magazin/"
+to = "/2000/07/25/failure_magazin/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/07/29/cool_tool_see_h/"
+to = "/2000/07/30/cool_tool_see_h/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/07/30/great_post_from/"
+to = "/2000/07/31/great_post_from/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/06/what_the_hell_e/"
+to = "/2000/08/07/what_the_hell_e/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/09/apparently_i_wa/"
+to = "/2000/08/10/apparently_i_wa/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/12/wish_id_have_se/"
+to = "/2000/08/13/wish_id_have_se/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/21/demise_of_deepl/"
+to = "/2000/08/22/demise_of_deepl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/27/a_few_ideas_tha/"
+to = "/2000/08/28/a_few_ideas_tha/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/08/30/milliondollar_i/"
+to = "/2000/08/31/milliondollar_i/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/09/02/cool_joint_inte/"
+to = "/2000/09/03/cool_joint_inte/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/09/02/so_blogspot_is/"
+to = "/2000/09/03/so_blogspot_is/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/09/04/milovnl_has_got/"
+to = "/2000/09/05/milovnl_has_got/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/09/19/okay_so_my_fadm/"
+to = "/2000/09/20/okay_so_my_fadm/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/09/24/ev_mentions_tha/"
+to = "/2000/09/25/ev_mentions_tha/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/10/26/bill_gates_othe/"
+to = "/2000/10/27/bill_gates_othe/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/10/26/the_interesting/"
+to = "/2000/10/27/the_interesting/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/11/12/inspired_by_vh1/"
+to = "/2000/11/13/inspired_by_vh1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/11/27/does_anyone_wan/"
+to = "/2000/11/28/does_anyone_wan/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/12/05/first_i_lost_br/"
+to = "/2000/12/06/first_i_lost_br/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/12/16/i_like_inside_u/"
+to = "/2000/12/17/i_like_inside_u/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/12/19/i_want_to_start/"
+to = "/2000/12/20/i_want_to_start/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2000/12/24/so_i_added_a_to/"
+to = "/2000/12/25/so_i_added_a_to/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/01/i_liked_this_ar/"
+to = "/2001/01/02/i_liked_this_ar/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/01/you_know_that_s/"
+to = "/2001/01/02/you_know_that_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/02/hmmm_new_year_a/"
+to = "/2001/01/03/hmmm_new_year_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/07/meg_noticed_mor/"
+to = "/2001/01/08/meg_noticed_mor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/07/so_i_was_going/"
+to = "/2001/01/08/so_i_was_going/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/07/sometimes_peopl/"
+to = "/2001/01/08/sometimes_peopl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/07/well_i_talked_t/"
+to = "/2001/01/08/well_i_talked_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/11/my_stortrooper/"
+to = "/2001/01/12/my_stortrooper/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/11/so_im_posting_t/"
+to = "/2001/01/12/so_im_posting_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/12/peters_got_a_ki/"
+to = "/2001/01/13/peters_got_a_ki/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/13/phew_man_i_have/"
+to = "/2001/01/14/phew_man_i_have/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/16/im_not_surprise/"
+to = "/2001/01/17/im_not_surprise/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/17/i_found_a_new_h/"
+to = "/2001/01/18/i_found_a_new_h/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/18/oh_i_made_a_pag/"
+to = "/2001/01/19/oh_i_made_a_pag/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/18/yeah_so_ive_spe/"
+to = "/2001/01/19/yeah_so_ive_spe/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/19/why_have_the_fo/"
+to = "/2001/01/20/why_have_the_fo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/20/its_amazing_how/"
+to = "/2001/01/21/its_amazing_how/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/22/i_was_looking_b/"
+to = "/2001/01/23/i_was_looking_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/23/mikes_got_an_an/"
+to = "/2001/01/24/mikes_got_an_an/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/23/signs_of_life_a/"
+to = "/2001/01/24/signs_of_life_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/23/steven_den_best/"
+to = "/2001/01/24/steven_den_best/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/27/hmmm_a_tool_to/"
+to = "/2001/01/28/hmmm_a_tool_to/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/01/31/i_didnt_lose_my/"
+to = "/2001/02/01/i_didnt_lose_my/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/05/usability_is_de/"
+to = "/2001/02/06/usability_is_de/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/08/katie_wonders_i/"
+to = "/2001/02/09/katie_wonders_i/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/09/sigh_im_such_a/"
+to = "/2001/02/10/sigh_im_such_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/12/dido_shes_the_n/"
+to = "/2001/02/13/dido_shes_the_n/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/12/i_dont_know_i_t/"
+to = "/2001/02/13/i_dont_know_i_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/12/xbox_is_going_t/"
+to = "/2001/02/13/xbox_is_going_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/16/derek_and_tanya/"
+to = "/2001/02/17/derek_and_tanya/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/17/sometimes_i_for/"
+to = "/2001/02/18/sometimes_i_for/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/21/hey_what_is_thi/"
+to = "/2001/02/22/hey_what_is_thi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/21/sometimes_i_won/"
+to = "/2001/02/22/sometimes_i_won/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/24/quick_take_on_a/"
+to = "/2001/02/25/quick_take_on_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/25/canadians_are_e/"
+to = "/2001/02/26/canadians_are_e/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/26/drubbing_n_drub/"
+to = "/2001/02/27/drubbing_n_drub/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/02/28/over_at_disturb/"
+to = "/2001/03/01/over_at_disturb/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/05/wait_a_minute_i/"
+to = "/2001/03/06/wait_a_minute_i/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/08/conclave_obscur/"
+to = "/2001/03/09/conclave_obscur/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/08/phew_really_bus/"
+to = "/2001/03/09/phew_really_bus/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/15/note_to_those_w/"
+to = "/2001/03/16/note_to_those_w/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/16/i_am_quite_occu/"
+to = "/2001/03/17/i_am_quite_occu/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/16/just_a_reminder/"
+to = "/2001/03/17/just_a_reminder/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/16/somehow_the_int/"
+to = "/2001/03/17/somehow_the_int/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/20/another_mj_pic_1/"
+to = "/2001/03/21/another_mj_pic_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/21/the_rss_cat_is/"
+to = "/2001/03/22/the_rss_cat_is/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/22/animation_legen/"
+to = "/2001/03/23/animation_legen/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/22/you_forget_i_fo/"
+to = "/2001/03/23/you_forget_i_fo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/26/photopc_free_di/"
+to = "/2001/03/27/photopc_free_di/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/27/digital_city_co/"
+to = "/2001/03/28/digital_city_co/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/03/30/drawings_by_mob/"
+to = "/2001/03/31/drawings_by_mob/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/04/on_the_way_to_a/"
+to = "/2001/04/05/on_the_way_to_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/06/as_a_followup_o/"
+to = "/2001/04/07/as_a_followup_o/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/06/hmm_i_got_a_sea/"
+to = "/2001/04/07/hmm_i_got_a_sea/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/12/i_read_jasons_s/"
+to = "/2001/04/13/i_read_jasons_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/12/signs_that_your/"
+to = "/2001/04/13/signs_that_your/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/16/peters_got_a_co/"
+to = "/2001/04/17/peters_got_a_co/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/18/while_wandering/"
+to = "/2001/04/19/while_wandering/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/20/so_uh_sacrifici/"
+to = "/2001/04/21/so_uh_sacrifici/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/21/i_still_like_my/"
+to = "/2001/04/22/i_still_like_my/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/23/just_fyi_adobe/"
+to = "/2001/04/24/just_fyi_adobe/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/04/29/well_i_updated/"
+to = "/2001/04/30/well_i_updated/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/05/04/i_want_the_red/"
+to = "/2001/05/05/i_want_the_red/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/05/06/while_pursuing/"
+to = "/2001/05/07/while_pursuing/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/05/08/ever_the_innova/"
+to = "/2001/05/09/ever_the_innova/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/05/16/yeah_well_when/"
+to = "/2001/05/17/yeah_well_when/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/05/31/thirteen_is_my/"
+to = "/2001/06/01/thirteen_is_my/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/05/over_on_the_lef/"
+to = "/2001/06/06/over_on_the_lef/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/05/those_of_you_wh/"
+to = "/2001/06/06/those_of_you_wh/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/06/looks_like_ill/"
+to = "/2001/06/07/looks_like_ill/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/09/for_your_enjoym/"
+to = "/2001/06/10/for_your_enjoym/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/09/so_ive_been_ref/"
+to = "/2001/06/10/so_ive_been_ref/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/10/anchordesk_are/"
+to = "/2001/06/11/anchordesk_are/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/11/its_summer_i_ju/"
+to = "/2001/06/12/its_summer_i_ju/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/14/can_we_go_to_al/"
+to = "/2001/06/15/can_we_go_to_al/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/17/i_changed_the_f/"
+to = "/2001/06/18/i_changed_the_f/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/18/based_on_his_re/"
+to = "/2001/06/19/based_on_his_re/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/19/did_i_already_l/"
+to = "/2001/06/20/did_i_already_l/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/21/umm_its_a_bit_u/"
+to = "/2001/06/22/umm_its_a_bit_u/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/22/so_google_has_a/"
+to = "/2001/06/23/so_google_has_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/25/taking_press_no/"
+to = "/2001/06/26/taking_press_no/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/06/26/as_part_of_my_r/"
+to = "/2001/06/27/as_part_of_my_r/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/02/a_certain_asian/"
+to = "/2001/07/03/a_certain_asian/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/02/if_youve_got_a_1/"
+to = "/2001/07/03/if_youve_got_a_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/06/because_they_sa/"
+to = "/2001/07/07/because_they_sa/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/07/when_i_was_youn/"
+to = "/2001/07/08/when_i_was_youn/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/18/the_artist_form/"
+to = "/2001/07/19/the_artist_form/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/07/21/oh_this_blog_in/"
+to = "/2001/07/22/oh_this_blog_in/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/07/finally_blogger/"
+to = "/2001/08/08/finally_blogger/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/09/um_youre_all_in/"
+to = "/2001/08/10/um_youre_all_in/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/13/with_one_last_b/"
+to = "/2001/08/14/with_one_last_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/14/and_what_the_he/"
+to = "/2001/08/15/and_what_the_he/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/15/oh_the_pedophil/"
+to = "/2001/08/16/oh_the_pedophil/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/16/blogbuddy_test/"
+to = "/2001/08/17/blogbuddy_test/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/21/damn_internet_a/"
+to = "/2001/08/22/damn_internet_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/21/my_former_cowor/"
+to = "/2001/08/22/my_former_cowor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/24/i_love_the_subw/"
+to = "/2001/08/25/i_love_the_subw/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/24/to_all_who_emai/"
+to = "/2001/08/25/to_all_who_emai/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/08/27/kevin_smith_tel/"
+to = "/2001/08/28/kevin_smith_tel/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/04/ive_been_remiss_1/"
+to = "/2001/09/05/ive_been_remiss_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/05/just_in_case_yo/"
+to = "/2001/09/06/just_in_case_yo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/08/rapatronic_phot/"
+to = "/2001/09/09/rapatronic_phot/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/13/some_good_news/"
+to = "/2001/09/14/some_good_news/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/16/anybody_need_a/"
+to = "/2001/09/17/anybody_need_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/18/sense_of_direct/"
+to = "/2001/09/19/sense_of_direct/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/19/i_think_i_just/"
+to = "/2001/09/20/i_think_i_just/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/21/bea_arthur_meet/"
+to = "/2001/09/22/bea_arthur_meet/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/09/30/terry_wallace_a/"
+to = "/2001/10/01/terry_wallace_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/07/since_ill_proba/"
+to = "/2001/10/08/since_ill_proba/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/13/good_news_i_hav/"
+to = "/2001/10/14/good_news_i_hav/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/15/in_case_you_for/"
+to = "/2001/10/16/in_case_you_for/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/19/hey_cool_looks/"
+to = "/2001/10/20/hey_cool_looks/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/19/it_is_odd_that/"
+to = "/2001/10/20/it_is_odd_that/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/10/24/another_thing_t/"
+to = "/2001/10/25/another_thing_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/11/02/a_bit_more_pros/"
+to = "/2001/11/03/a_bit_more_pros/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/11/06/i_have_always_b/"
+to = "/2001/11/07/i_have_always_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/11/29/as_im_super_bus/"
+to = "/2001/11/30/as_im_super_bus/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/02/yesterday_20000/"
+to = "/2001/12/03/yesterday_20000/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/03/courtesy_of_icy/"
+to = "/2001/12/04/courtesy_of_icy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/03/okay_i_feel_all/"
+to = "/2001/12/04/okay_i_feel_all/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/04/the_morning_new/"
+to = "/2001/12/05/the_morning_new/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/07/so_if_you_read/"
+to = "/2001/12/08/so_if_you_read/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/19/and_for_the_rec/"
+to = "/2001/12/20/and_for_the_rec/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/20/for_dorks_only/"
+to = "/2001/12/21/for_dorks_only/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2001/12/30/those_barrett_b/"
+to = "/2001/12/31/those_barrett_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/01/dirty_little_se/"
+to = "/2002/01/02/dirty_little_se/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/05/there_is_some_a/"
+to = "/2002/01/06/there_is_some_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/13/here_is_a_crypt/"
+to = "/2002/01/14/here_is_a_crypt/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/16/im_glad_sippey/"
+to = "/2002/01/17/im_glad_sippey/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/16/shannon_talks_a/"
+to = "/2002/01/17/shannon_talks_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/18/even_ev_knows_t/"
+to = "/2002/01/19/even_ev_knows_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/22/its_getting_a_l/"
+to = "/2002/01/23/its_getting_a_l/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/27/sean_lennon/"
+to = "/2002/01/28/sean_lennon/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/28/bloggies/"
+to = "/2002/01/29/bloggies/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/01/29/joel_on_softwar/"
+to = "/2002/01/30/joel_on_softwar/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/02/adbusters_corpo/"
+to = "/2002/02/03/adbusters_corpo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/07/dvd_shuffle/"
+to = "/2002/02/08/dvd_shuffle/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/07/work_voicemail/"
+to = "/2002/02/08/work_voicemail/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/18/bloggers_denyin/"
+to = "/2002/02/19/bloggers_denyin/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/20/google_lock/"
+to = "/2002/02/21/google_lock/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/20/wetlog_msblog/"
+to = "/2002/02/21/wetlog_msblog/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/24/robots/"
+to = "/2002/02/25/robots/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/24/uffish_thoughts/"
+to = "/2002/02/25/uffish_thoughts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/25/kottkeorg_comme/"
+to = "/2002/02/26/kottkeorg_comme/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/02/27/corante_microco/"
+to = "/2002/02/28/corante_microco/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/03/04/march_forth/"
+to = "/2002/03/05/march_forth/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/03/18/corrections/"
+to = "/2002/03/19/corrections/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/03/27/in_threes/"
+to = "/2002/03/28/in_threes/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/03/28/sippey_purple_r/"
+to = "/2002/03/29/sippey_purple_r/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/02/recent_harrumph/"
+to = "/2002/04/03/recent_harrumph/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/04/church_of_craft/"
+to = "/2002/04/05/church_of_craft/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/04/scary_mj_pictur/"
+to = "/2002/04/05/scary_mj_pictur/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/08/cereal_recyclin/"
+to = "/2002/04/09/cereal_recyclin/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/15/dos_basic_newsg/"
+to = "/2002/04/16/dos_basic_newsg/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/16/bleached_bangs/"
+to = "/2002/04/17/bleached_bangs/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/17/rubric_paradigm/"
+to = "/2002/04/18/rubric_paradigm/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/18/shes_always_in/"
+to = "/2002/04/19/shes_always_in/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/19/jim_parkinsons/"
+to = "/2002/04/20/jim_parkinsons/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/21/kick_redux/"
+to = "/2002/04/22/kick_redux/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/04/29/poetry/"
+to = "/2002/04/30/poetry/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/02/musician_extrao/"
+to = "/2002/05/03/musician_extrao/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/04/houseless/"
+to = "/2002/05/05/houseless/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/07/intellectual_ve/"
+to = "/2002/05/08/intellectual_ve/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/07/the_911_marines/"
+to = "/2002/05/08/the_911_marines/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/07/voice_personals/"
+to = "/2002/05/08/voice_personals/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/13/blog_books/"
+to = "/2002/05/14/blog_books/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/16/joe_maller_all/"
+to = "/2002/05/17/joe_maller_all/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/18/mimi_smartypant/"
+to = "/2002/05/19/mimi_smartypant/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/18/the_morning_new_1/"
+to = "/2002/05/19/the_morning_new_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/05/30/triumph_on_star/"
+to = "/2002/05/31/triumph_on_star/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/03/kottke_in_xhtml/"
+to = "/2002/06/04/kottke_in_xhtml/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/03/seattles_waterf/"
+to = "/2002/06/04/seattles_waterf/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/13/wither_kmeleon/"
+to = "/2002/06/14/wither_kmeleon/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/17/lock_the_taskba/"
+to = "/2002/06/18/lock_the_taskba/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/18/blogger_comics/"
+to = "/2002/06/19/blogger_comics/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/20/amazon_rocking_1/"
+to = "/2002/06/21/amazon_rocking_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/20/now_playing/"
+to = "/2002/06/21/now_playing/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/21/freshblogscom/"
+to = "/2002/06/22/freshblogscom/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/24/more_movie_stuf/"
+to = "/2002/06/25/more_movie_stuf/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/28/banana_peeling/"
+to = "/2002/06/29/banana_peeling/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/06/28/not_your_advera/"
+to = "/2002/06/29/not_your_advera/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/07/04/independence_da/"
+to = "/2002/07/05/independence_da/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/07/05/xopusorg/"
+to = "/2002/07/06/xopusorg/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/07/09/weblog_handbook/"
+to = "/2002/07/10/weblog_handbook/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/07/10/trackback/"
+to = "/2002/07/11/trackback/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/07/23/clay_shirky_tak/"
+to = "/2002/07/24/clay_shirky_tak/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/03/elphin_magic/"
+to = "/2002/08/04/elphin_magic/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/05/pardon_me_for_g/"
+to = "/2002/08/06/pardon_me_for_g/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/06/god_lovin/"
+to = "/2002/08/07/god_lovin/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/08/we_love_new_yor/"
+to = "/2002/08/09/we_love_new_yor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/21/the_once_and_fu/"
+to = "/2002/08/22/the_once_and_fu/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/21/van_gogh_and_fr/"
+to = "/2002/08/22/van_gogh_and_fr/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/24/the_face_of_ter/"
+to = "/2002/08/25/the_face_of_ter/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/08/30/neale_on_lgf/"
+to = "/2002/08/31/neale_on_lgf/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/09/01/application_met/"
+to = "/2002/09/02/application_met/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/09/02/eulogy_for_the/"
+to = "/2002/09/03/eulogy_for_the/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/09/11/sublime_pleasur/"
+to = "/2002/09/12/sublime_pleasur/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/14/cheap_cdrs/"
+to = "/2002/10/15/cheap_cdrs/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/16/ie_scripting_en/"
+to = "/2002/10/17/ie_scripting_en/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/20/bugger/"
+to = "/2002/10/21/bugger/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/24/whats_new_with/"
+to = "/2002/10/25/whats_new_with/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/27/mental_illness/"
+to = "/2002/10/28/mental_illness/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/10/31/magazine_micros/"
+to = "/2002/11/01/magazine_micros/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/11/13/introducing_microcontent_client/"
+to = "/2002/11/14/introducing_microcontent_client/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/11/19/technology_vs_l/"
+to = "/2002/11/20/technology_vs_l/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/11/25/safety_first/"
+to = "/2002/11/26/safety_first/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/12/10/payment_link_ta/"
+to = "/2002/12/11/payment_link_ta/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2002/12/26/grand_central_a/"
+to = "/2002/12/27/grand_central_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/01/07/another_benefit/"
+to = "/2003/01/08/another_benefit/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/01/08/grease_is_unfor/"
+to = "/2003/01/09/grease_is_unfor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/01/17/theres_no_me_in/"
+to = "/2003/01/18/theres_no_me_in/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/01/27/controlling_des/"
+to = "/2003/01/28/controlling_des/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/01/27/merchant_accoun/"
+to = "/2003/01/28/merchant_accoun/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/02/04/disorganized_re/"
+to = "/2003/02/05/disorganized_re/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/02/13/beyond_power_la/"
+to = "/2003/02/14/beyond_power_la/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/03/08/panda_joke_iv/"
+to = "/2003/03/09/panda_joke_iv/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/03/16/a_little_random/"
+to = "/2003/03/17/a_little_random/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/04/01/von_panels/"
+to = "/2003/04/02/von_panels/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/05/02/gel_writeup/"
+to = "/2003/05/03/gel_writeup/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/05/15/take_a_picture/"
+to = "/2003/05/16/take_a_picture/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/05/18/barley_gettin_b/"
+to = "/2003/05/19/barley_gettin_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/05/21/birthday_girl/"
+to = "/2003/05/22/birthday_girl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/05/30/radical_inventi/"
+to = "/2003/05/31/radical_inventi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/06/02/bad_predictions/"
+to = "/2003/06/03/bad_predictions/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/06/25/braoptional_day_2/"
+to = "/2003/06/26/braoptional_day_2/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/06/29/quick_note_on_t/"
+to = "/2003/06/30/quick_note_on_t/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/06/30/horrible_tragedy/"
+to = "/2003/07/01/horrible_tragedy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/02/chicken/"
+to = "/2003/07/03/chicken/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/14/subtle_overture/"
+to = "/2003/07/15/subtle_overture/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/15/upon_the_demise/"
+to = "/2003/07/16/upon_the_demise/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/18/gardening/"
+to = "/2003/07/19/gardening/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/18/off_the_record/"
+to = "/2003/07/19/off_the_record/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/21/typepad_beta_graphic/"
+to = "/2003/07/22/typepad_beta_graphic/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/07/25/many_years_of_s/"
+to = "/2003/07/26/many_years_of_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/08/08/photo_albums_rock/"
+to = "/2003/08/09/photo_albums_rock/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/08/25/prince_live_dvd/"
+to = "/2003/08/26/prince_live_dvd/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/09/04/whos_the_giver/"
+to = "/2003/09/05/whos_the_giver/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/09/24/emptying_my_hea/"
+to = "/2003/09/25/emptying_my_hea/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/10/07/the_trott_takes/"
+to = "/2003/10/08/the_trott_takes/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/10/17/bringing_it_hom/"
+to = "/2003/10/18/bringing_it_hom/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/11/01/motion_capture/"
+to = "/2003/11/02/motion_capture/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/11/03/home_sweet_home/"
+to = "/2003/11/04/home_sweet_home/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/12/25/new_york_invent/"
+to = "/2003/12/26/new_york_invent/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2003/12/31/orange_you_glad/"
+to = "/2004/01/01/orange_you_glad/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/01/02/the_number_ones_special/"
+to = "/2004/01/03/the_number_ones_special/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/01/11/obsolescence_of/"
+to = "/2004/01/12/obsolescence_of/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/02/03/mellow_funk_instrumentals/"
+to = "/2004/02/04/mellow_funk_instrumentals/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/02/12/got_tix/"
+to = "/2004/02/13/got_tix/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/02/20/compulsion_to_b/"
+to = "/2004/02/21/compulsion_to_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/02/20/i_told_you_were/"
+to = "/2004/02/21/i_told_you_were/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/03/07/karma_and_evolu/"
+to = "/2004/03/08/karma_and_evolu/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/03/12/panda_joke_v/"
+to = "/2004/03/13/panda_joke_v/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/03/15/global_feature/"
+to = "/2004/03/16/global_feature/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/05/19/moving_forward/"
+to = "/2004/05/20/moving_forward/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/05/25/the_sound_of_despair/"
+to = "/2004/05/26/the_sound_of_despair/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/06/27/learning_from_e/"
+to = "/2004/06/28/learning_from_e/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/07/15/i_guess_ill_have_to_call_you_miss_jackson_then/"
+to = "/2004/07/16/i_guess_ill_have_to_call_you_miss_jackson_then/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/08/07/rose_nylund/"
+to = "/2004/08/08/rose_nylund/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/09/12/fontgate_i_supp/"
+to = "/2004/09/13/fontgate_i_supp/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/09/20/fact_checking_o/"
+to = "/2004/09/21/fact_checking_o/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/09/23/on_the_demise_o/"
+to = "/2004/09/24/on_the_demise_o/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/04/its_good_to_hav/"
+to = "/2004/10/05/its_good_to_hav/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/05/respect_for_the/"
+to = "/2004/10/06/respect_for_the/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/06/best_of_best_of/"
+to = "/2004/10/07/best_of_best_of/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/11/an_unkind_commu/"
+to = "/2004/10/12/an_unkind_commu/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/13/spoilt/"
+to = "/2004/10/14/spoilt/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/17/omfg_slcd/"
+to = "/2004/10/18/omfg_slcd/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/17/wither_passport/"
+to = "/2004/10/18/wither_passport/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/18/please_dont_hurt_hammer/"
+to = "/2004/10/19/please_dont_hurt_hammer/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/19/asian_mack_filters_itunes/"
+to = "/2004/10/20/asian_mack_filters_itunes/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/25/confirm_your_ex/"
+to = "/2004/10/26/confirm_your_ex/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/10/28/under_the_cherry_influence/"
+to = "/2004/10/29/under_the_cherry_influence/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/05/blogging_the_ma/"
+to = "/2004/11/06/blogging_the_ma/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/12/seos_cheaper_if/"
+to = "/2004/11/13/seos_cheaper_if/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/15/dear_central_pe/"
+to = "/2004/11/16/dear_central_pe/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/16/amex_nyc/"
+to = "/2004/11/17/amex_nyc/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/17/breaking_news/"
+to = "/2004/11/18/breaking_news/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/18/trying_to_calm/"
+to = "/2004/11/19/trying_to_calm/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/23/gcans_project/"
+to = "/2004/11/24/gcans_project/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/29/amazing_rain/"
+to = "/2004/11/30/amazing_rain/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/11/30/whats_in_your_s/"
+to = "/2004/12/01/whats_in_your_s/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/02/sexy/"
+to = "/2004/12/03/sexy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/12/attention_css_g/"
+to = "/2004/12/13/attention_css_g/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/19/15_milllion_prince_fans_cant_be_wrong/"
+to = "/2004/12/20/15_milllion_prince_fans_cant_be_wrong/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/19/ho_ho_horrifying/"
+to = "/2004/12/20/ho_ho_horrifying/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/20/feels_like_home/"
+to = "/2004/12/21/feels_like_home/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2004/12/21/wishlist_art/"
+to = "/2004/12/22/wishlist_art/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/01/02/speeding_up_ado/"
+to = "/2005/01/03/speeding_up_ado/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/01/06/blogdex_is_0wn3/"
+to = "/2005/01/07/blogdex_is_0wn3/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/01/11/gina_at_the_bee/"
+to = "/2005/01/12/gina_at_the_bee/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/01/16/emulating_an_ip/"
+to = "/2005/01/17/emulating_an_ip/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/01/20/a_theory/"
+to = "/2005/01/21/a_theory/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/02/17/and_jeffrey_sai/"
+to = "/2005/02/18/and_jeffrey_sai/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/02/17/the_grey_lady_b/"
+to = "/2005/02/18/the_grey_lady_b/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/02/19/your_name_your_destiny/"
+to = "/2005/02/20/your_name_your_destiny/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/07/moderates_trium/"
+to = "/2005/03/08/moderates_trium/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/21/land_shark/"
+to = "/2005/03/22/land_shark/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/22/big_will_returns/"
+to = "/2005/03/23/big_will_returns/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/25/i_am_not_an_idl/"
+to = "/2005/03/26/i_am_not_an_idl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/27/everybody_loves/"
+to = "/2005/03/28/everybody_loves/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/03/30/the_man_who_sav/"
+to = "/2005/03/31/the_man_who_sav/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/04/18/depressing/"
+to = "/2005/04/19/depressing/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/04/20/being_an_expert/"
+to = "/2005/04/21/being_an_expert/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/05/02/our_own_sheila_e/"
+to = "/2005/05/03/our_own_sheila_e/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/05/03/controversy_ad/"
+to = "/2005/05/04/controversy_ad/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/05/21/consistently_corny/"
+to = "/2005/05/22/consistently_corny/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/05/30/helping_save_th/"
+to = "/2005/05/31/helping_save_th/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/06/09/economics_prici/"
+to = "/2005/06/10/economics_prici/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/06/21/mit_weblog_surv/"
+to = "/2005/06/22/mit_weblog_surv/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/07/05/dont_be_a_bad_p/"
+to = "/2005/07/06/dont_be_a_bad_p/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/07/07/what_can_i_get_for_zero_dollars/"
+to = "/2005/07/08/what_can_i_get_for_zero_dollars/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/07/18/find_me_a_home/"
+to = "/2005/07/19/find_me_a_home/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/08/06/digging_up_david/"
+to = "/2005/08/07/digging_up_david/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/08/06/u3_for_me_too/"
+to = "/2005/08/07/u3_for_me_too/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/08/30/newcitychicagocom_street_smart_chicago/"
+to = "/2005/08/31/newcitychicagocom_street_smart_chicago/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/09/06/web_development_trends_for_200/"
+to = "/2005/09/07/web_development_trends_for_200/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/09/13/sst_on_itms/"
+to = "/2005/09/14/sst_on_itms/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/10/13/what_its_like_at_web_20/"
+to = "/2005/10/14/what_its_like_at_web_20/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/10/17/blog_songs_playlist/"
+to = "/2005/10/18/blog_songs_playlist/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/10/17/the_flip_2k5/"
+to = "/2005/10/18/the_flip_2k5/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/11/13/everyone_must_have_tags/"
+to = "/2005/11/14/everyone_must_have_tags/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/11/27/colors_brands_and_competition/"
+to = "/2005/11/28/colors_brands_and_competition/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/12/19/how_blogging_aw/"
+to = "/2005/12/20/how_blogging_aw/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/12/21/time_for_excel/"
+to = "/2005/12/22/time_for_excel/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/12/24/off_to_taipei/"
+to = "/2005/12/25/off_to_taipei/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2005/12/26/interview_with_alan_leeds/"
+to = "/2005/12/27/interview_with_alan_leeds/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/01/04/post_2/"
+to = "/2006/01/05/post_2/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/01/18/outlining_a_blo/"
+to = "/2006/01/19/outlining_a_blo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/02/15/undesign/"
+to = "/2006/02/16/undesign/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/02/23/squee/"
+to = "/2006/02/24/squee/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/03/05/reinventing_cop/"
+to = "/2006/03/06/reinventing_cop/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/03/12/cnn_your_mother/"
+to = "/2006/03/13/cnn_your_mother/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/03/15/a_culture_of_cr/"
+to = "/2006/03/16/a_culture_of_cr/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/04/27/the_ultimate_co/"
+to = "/2006/04/28/the_ultimate_co/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/07/05/making_somethin/"
+to = "/2006/07/06/making_somethin/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/07/06/just_the_links/"
+to = "/2006/07/07/just_the_links/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/07/23/sales_numbers/"
+to = "/2006/07/24/sales_numbers/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/07/31/antipedia_links/"
+to = "/2006/08/01/antipedia_links/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/08/14/on_vox_check_the_mailbox_biatch/"
+to = "/2006/08/15/on_vox_check_the_mailbox_biatch/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/08/26/on_vox_excel_lent/"
+to = "/2006/08/27/on_vox_excel_lent/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/09/21/the_software_mo/"
+to = "/2006/09/22/the_software_mo/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/10/21/bitchy_sports_writer_how_to/"
+to = "/2006/10/22/bitchy_sports_writer_how_to/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/11/01/tldr/"
+to = "/2006/11/02/tldr/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/11/12/borat_blogs_and/"
+to = "/2006/11/13/borat_blogs_and/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/11/15/have_some_links/"
+to = "/2006/11/16/have_some_links/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/11/20/more_linking_less_thinking/"
+to = "/2006/11/21/more_linking_less_thinking/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/12/01/surprises_abound/"
+to = "/2006/12/02/surprises_abound/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/12/09/how_to_detect_a/"
+to = "/2006/12/10/how_to_detect_a/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/12/11/ask_metafilter_links/"
+to = "/2006/12/12/ask_metafilter_links/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2006/12/29/find_me_on_beet_2/"
+to = "/2006/12/30/find_me_on_beet_2/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/01/02/getting_by/"
+to = "/2007/01/03/getting_by/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/01/02/news_is_an_appl/"
+to = "/2007/01/03/news_is_an_appl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/01/15/portalization_p/"
+to = "/2007/01/16/portalization_p/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/01/16/cranky_geeks_fr/"
+to = "/2007/01/17/cranky_geeks_fr/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/01/22/a_fourarmed_gri/"
+to = "/2007/01/23/a_fourarmed_gri/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/02/23/the_future_of_w/"
+to = "/2007/02/24/the_future_of_w/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/02/23/the_old_boys_cl/"
+to = "/2007/02/24/the_old_boys_cl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/03/01/the_end_as_i_kn/"
+to = "/2007/03/02/the_end_as_i_kn/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/03/06/do_you_want_lin_1/"
+to = "/2007/03/07/do_you_want_lin_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/03/13/the_called_shot/"
+to = "/2007/03/14/the_called_shot/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/04/06/meet_up_at_podc/"
+to = "/2007/04/07/meet_up_at_podc/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/04/22/pidgins_and_cre/"
+to = "/2007/04/23/pidgins_and_cre/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/05/21/little_guys_care/"
+to = "/2007/05/22/little_guys_care/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/07/01/i_thought_this_was_special/"
+to = "/2007/07/02/i_thought_this_was_special/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/07/09/how_to_visit_new_york_the_mustsees/"
+to = "/2007/07/10/how_to_visit_new_york_the_mustsees/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/07/18/more_on_how_to_see_nyc/"
+to = "/2007/07/19/more_on_how_to_see_nyc/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/07/22/in_the_new_york_times/"
+to = "/2007/07/23/in_the_new_york_times/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/08/12/the_enterprise_apple_and_insufficient_ambition/"
+to = "/2007/08/13/the_enterprise_apple_and_insufficient_ambition/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/08/23/not_a_moral_obligation_a_social_obligation/"
+to = "/2007/08/24/not_a_moral_obligation_a_social_obligation/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/09/07/the_family_of_languages/"
+to = "/2007/09/08/the_family_of_languages/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/09/08/make_it_better/"
+to = "/2007/09/09/make_it_better/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/09/20/crazy_robots/"
+to = "/2007/09/21/crazy_robots/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/10/02/south_side_sounds/"
+to = "/2007/10/03/south_side_sounds/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/10/27/a_last_chance_to_donate_to_music_education/"
+to = "/2007/10/28/a_last_chance_to_donate_to_music_education/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/10/28/smug_ugly/"
+to = "/2007/10/29/smug_ugly/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/11/20/into_the_portal/"
+to = "/2007/11/21/into_the_portal/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2007/12/09/blogs_of_the_year_2007/"
+to = "/2007/12/10/blogs_of_the_year_2007/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/01/03/caucusing_is_antidemocratic/"
+to = "/2008/01/04/caucusing_is_antidemocratic/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/03/31/your_april_fools_day_joke_continues_to_suck/"
+to = "/2008/04/01/your_april_fools_day_joke_continues_to_suck/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/06/01/on_exposure/"
+to = "/2008/06/02/on_exposure/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/06/17/mayor_mikes_not_wearing_his_pajamas/"
+to = "/2008/06/18/mayor_mikes_not_wearing_his_pajamas/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/07/23/what_was_that_about_lists/"
+to = "/2008/07/24/what_was_that_about_lists/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/08/18/nine_years_and_a_new_look/"
+to = "/2008/08/19/nine_years_and_a_new_look/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/08/20/me_and_your_bicycle/"
+to = "/2008/08/21/me_and_your_bicycle/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/09/01/a_pre_history_of_the_google_browser/"
+to = "/2008/09/02/a_pre_history_of_the_google_browser/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/09/04/dangelo_and_the_demons_of_the_new_minstrel_movement/"
+to = "/2008/09/05/dangelo_and_the_demons_of_the_new_minstrel_movement/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/10/04/burying_the_lede/"
+to = "/2008/10/05/burying_the_lede/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/10/08/im_just_mary_im_just_mary_im_just_mary/"
+to = "/2008/10/09/im_just_mary_im_just_mary_im_just_mary/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/10/30/in_defense_of_marriage/"
+to = "/2008/10/31/in_defense_of_marriage/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/11/26/a_red_flag_before_the_white_flag/"
+to = "/2008/11/27/a_red_flag_before_the_white_flag/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/12/22/on_vox_a_change_gon_come/"
+to = "/2008/12/23/on_vox_a_change_gon_come/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2008/12/24/bill_gates_philanthropist/"
+to = "/2008/12/25/bill_gates_philanthropist/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/01/04/the_difference_between_lemons_and_limes/"
+to = "/2009/01/05/the_difference_between_lemons_and_limes/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/01/25/president_obamas_watch/"
+to = "/2009/01/26/president_obamas_watch/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/03/04/re_vision/"
+to = "/2009/03/05/re_vision/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/03/10/exclusive_unboxing_footage/"
+to = "/2009/03/11/exclusive_unboxing_footage/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/06/18/first/"
+to = "/2009/06/19/first/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/07/06/at_ten_years_im_taking_requests/"
+to = "/2009/07/07/at_ten_years_im_taking_requests/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/07/25/more_on_googles_microsoft_moment/"
+to = "/2009/07/26/more_on_googles_microsoft_moment/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/09/17/these_things_are_related/"
+to = "/2009/09/18/these_things_are_related/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/10/21/how_to_run_windows_7_under_mac_os_x_106_for_free/"
+to = "/2009/10/22/how_to_run_windows_7_under_mac_os_x_106_for_free/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/11/16/the_web_in_danger/"
+to = "/2009/11/17/the_web_in_danger/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/11/26/the_rise_of_nations/"
+to = "/2009/11/27/the_rise_of_nations/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2009/12/29/life_on_the_list/"
+to = "/2009/12/30/life_on_the_list/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/01/15/suggested_user_list_ideas/"
+to = "/2010/01/16/suggested_user_list_ideas/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/03/07/youtube_and_the_million_mixer_march/"
+to = "/2010/03/08/youtube_and_the_million_mixer_march/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/04/05/out_and_about_again/"
+to = "/2010/04/06/out_and_about_again/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/05/07/one_more_time_no_ndas/"
+to = "/2010/05/08/one_more_time_no_ndas/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/06/23/three_weeks_in_three_videos/"
+to = "/2010/06/24/three_weeks_in_three_videos/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/09/27/upgrades/"
+to = "/2010/09/28/upgrades/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/10/12/page_weight/"
+to = "/2010/10/13/page_weight/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/11/07/call_and_response_1/"
+to = "/2010/11/08/call_and_response_1/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2010/11/07/facebook_skeletons/"
+to = "/2010/11/08/facebook_skeletons/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/02/18/malcolm_browne_dash/"
+to = "/2011/02/19/malcolm_browne_dash/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/03/05/nyc_mta_ftw/"
+to = "/2011/03/06/nyc_mta_ftw/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/03/16/pen_nerds_and_finding_better_tools/"
+to = "/2011/03/17/pen_nerds_and_finding_better_tools/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/03/28/tmi_fear_fukushima_and_facts/"
+to = "/2011/03/29/tmi_fear_fukushima_and_facts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/04/12/health_graph_open_data/"
+to = "/2011/04/13/health_graph_open_data/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/05/10/sparking_innovation/"
+to = "/2011/05/11/sparking_innovation/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/05/16/in_nyc_the_web_is_a_public_space/"
+to = "/2011/05/17/in_nyc_the_web_is_a_public_space/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/05/31/apples_twitter/"
+to = "/2011/06/01/apples_twitter/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/06/22/the_virtual_startup_taking_flight/"
+to = "/2011/06/23/the_virtual_startup_taking_flight/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/09/06/if_you_blogged_it_it_did_happen/"
+to = "/2011/09/07/if_you_blogged_it_it_did_happen/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/09/11/ten_is_love_and_everything_after/"
+to = "/2011/09/12/ten_is_love_and_everything_after/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/11/15/thinkup_1_0/"
+to = "/2011/11/16/thinkup_1_0/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2011/11/22/gaslighting_the_response/"
+to = "/2011/11/23/gaslighting_the_response/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/01/17/the_history_and_future_of_web_protest/"
+to = "/2012/01/19/the_history_and_future_of_web_protest/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/02/13/eddie_then_and_now/"
+to = "/2012/02/14/eddie_then_and_now/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/03/28/a_golden_era_of_prince_scholarship/"
+to = "/2012/03/29/a_golden_era_of_prince_scholarship/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/08/16/what_twitters_api_announcement_could_have_said/"
+to = "/2012/08/17/what_twitters_api_announcement_could_have_said/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2012/09/15/xoxo_dan_harmon___community/"
+to = "/2012/09/16/xoxo_dan_harmon___community/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2013/09/11/twelve_is_trying/"
+to = "/2013/09/12/twelve_is_trying/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2013/12/13/feminism_corruption_privacy_remix/"
+to = "/2013/12/14/feminism_corruption_privacy_remix/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/01/22/stupid_simple_things_sf_techies_could_do_to_stop_being_hated/"
+to = "/2014/01/23/stupid_simple_things_sf_techies_could_do_to_stop_being_hated/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/02/02/prince_on_new_girl/"
+to = "/2014/02/03/prince_on_new_girl/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/02/25/talking_to_steve_case/"
+to = "/2014/02/26/talking_to_steve_case/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/03/15/the_fake_electronics_show/"
+to = "/2014/03/16/the_fake_electronics_show/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/06/23/my_favorite_floppy_of_all_time/"
+to = "/2014/06/24/my_favorite_floppy_of_all_time/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/07/25/i_know_times_are_changing/"
+to = "/2014/07/26/i_know_times_are_changing/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/08/11/the_semiotics_of_like/"
+to = "/2014/08/12/the_semiotics_of_like/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/11/19/its_hard_to_build_a_good_web/"
+to = "/2014/11/20/its_hard_to_build_a_good_web/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/11/26/peak_dad_twitter/"
+to = "/2014/11/27/peak_dad_twitter/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2014/12/16/circles/"
+to = "/2014/12/17/circles/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/01/05/bad_dad/"
+to = "/2015/01/06/bad_dad/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/02/24/not_a_good_guy/"
+to = "/2015/02/25/not_a_good_guy/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/03/09/nope/"
+to = "/2015/03/10/nope/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/06/30/on_bobby_jindal/"
+to = "/2015/07/01/on_bobby_jindal/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/08/19/it_is_miraculous/"
+to = "/2015/08/20/it_is_miraculous/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2015/12/19/awakenings/"
+to = "/2015/12/20/awakenings/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2016/03/21/water_for_gambhariganda/"
+to = "/2016/03/22/water_for_gambhariganda/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2016/06/18/set_adrift_beneath_the_surface_of_pm_dawn/"
+to = "/2016/06/19/set_adrift_beneath_the_surface_of_pm_dawn/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2017/04/27/dig_if_u_will/"
+to = "/2017/04/28/dig_if_u_will/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2017/12/15/every_last_jedi/"
+to = "/2017/12/16/every_last_jedi/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2019/11/11/the_sound_of_your_voice/"
+to = "/2019/11/12/the_sound_of_your_voice/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2019/12/23/the_peoples_web/"
+to = "/2019/12/24/the_peoples_web/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2020/05/13/live_prince_and_the_revolution/"
+to = "/2020/05/14/live_prince_and_the_revolution/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2020/07/11/the_american_death_cult/"
+to = "/2020/07/12/the_american_death_cult/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/01/04/moynihan_station/"
+to = "/2021/01/05/moynihan_station/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/01/15/the_war_on_cars/"
+to = "/2021/01/16/the_war_on_cars/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/05/20/verifiably_true/"
+to = "/2021/05/21/verifiably_true/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/08/11/then_now/"
+to = "/2021/08/12/then_now/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/09/17/the_spreadsheet_of_prince_recordings/"
+to = "/2021/09/18/the_spreadsheet_of_prince_recordings/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/09/25/cooperative_overlap/"
+to = "/2021/09/26/cooperative_overlap/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/11/14/i_didnt_invent_nfts_but_we_dont_really_have_any_other_way_to_talk_about_tech/"
+to = "/2021/11/15/i_didnt_invent_nfts_but_we_dont_really_have_any_other_way_to_talk_about_tech/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2022/04/21/the_content_moderation_battle_is_a_failure_of_innovation/"
+to = "/2022/04/22/the_content_moderation_battle_is_a_failure_of_innovation/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2022/05/16/everything_u_think_is_true/"
+to = "/2022/05/17/everything_u_think_is_true/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023/03/14/what_was_selling_out/"
+to = "/2023/04/18/what_was_selling_out/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023/08/08/single_puzzle/"
+to = "/2023/08/08/i_am_the_answer_to_the_single_puzzle/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023/09/11/unrecognizable/"
+to = "/2023/09/11/its_unrecognizable/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023/11/10/that_goddamn_mug/"
+to = "/2023/07/13/that_goddamn_mug/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/01/19/tech_news_personal_blogs/"
+to = "/2024/01/19/personal_blogs_tech_news/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/02/06/wherever_you_find_podcasts/"
+to = "/2024/02/06/wherever_you_get_podcasts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/03/10/better_documents/"
+to = "/2024/03/10/make_better_documents/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/05/29/systems_the_purpose_of_a_system/"
+to = "/2024/04/09/systems_the_purpose_of_a_system/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/06/21/dash_board_questions/"
+to = "/2024/06/26/dash_board/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/06/26/dash_board_questions/"
+to = "/2024/06/26/dash_board/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/01/04/doge_procurement_capture/"
+to = "/2025/01/04/DOGE_procurement_capture/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/04/19/ai_first_is_the_new_return_to_office/"
+to = "/2025/04/30/ai_first_is_the_new_return_to_office/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/05/01/what_would_good_ai_look_like/"
+to = "/2025/05/02/what_would_good_ai_look_like/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/05/22/the_crafters_of_andor/"
+to = "/2025/05/23/the_crafters_of_andor/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2025/06/09/sly_stone_scariest_show/"
+to = "/2025/06/10/sly_stone_scariest_show/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/favicon.ico"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/favicon.png"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/apple-touch-icon.png"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/apple-touch-icon-precomposed.png"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/apple-touch-icon-152x152.png"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/apple-touch-icon-152x152-precomposed.png"
+to = "/favicon.svg"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/rss/"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/feed/"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil/atom.xml"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil/index.rdf"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/links/index.rdf"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/links/index.xml"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/links/atom.xml"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil/archives/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/links/archives/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil/*.html"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/.well-known/security.txt"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/about"
+to = "/about/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/posts"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/rss"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/feed"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/rss.xml"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/atom.xml"
+to = "/feed.xml"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/archive"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/archives"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/blog"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2022"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2020"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2024/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2023/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2022/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2021/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/2020/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/wp-admin/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/wp-content/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/wp-includes/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/xmlrpc.php"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/post/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/blog/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/About"
+to = "/about/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/ABOUT"
+to = "/about/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/Posts"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/POSTS"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil-dash/*"
+to = "/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anildash/*"
+to = "/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/tag/*"
+to = "/tags/:splat"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/category/*"
+to = "/tags/:splat"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/categories/*"
+to = "/tags/:splat"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/*.html"
+to = "/:splat"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/index.php"
+to = "/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/robots.txt"
+to = "/robots.txt"
+status = 200.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/sitemap.xml"
+to = "/sitemap.xml"
+status = 200.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/.env"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/.git/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/config/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/admin/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/phpmyadmin/*"
+to = "/"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/page/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/posts/page/*"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/search"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/Search"
+to = "/posts/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/contact"
+to = "/about/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/Contact"
+to = "/about/"
+status = 301.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/api/*"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/20*/*"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/tags/*"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/about"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/posts"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/anil/*"
+to = "/.netlify/functions/log-404"
+status = 404.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]

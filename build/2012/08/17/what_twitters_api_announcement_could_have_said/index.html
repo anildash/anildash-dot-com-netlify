@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <link rel="stylesheet" type="text/css" href="/public/styles.css" />
+    
+    
+    <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
+    
+    
+    <title>What Twitter&apos;s API Announcement Could Have Said - Anil Dash</title>
+
+<meta name="description" content="A blog about making culture. Since 1999.">
+<meta name="robots" content="index,follow">
+<meta name="author" content="Anil Dash">
+
+<link rel="canonical" href="https://www.anildash.com//2012/08/17/what_twitters_api_announcement_could_have_said/">
+
+<meta property="og:title" content="What Twitter&apos;s API Announcement Could Have Said - Anil Dash">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://www.anildash.com//2012/08/17/what_twitters_api_announcement_could_have_said/">
+<meta property="og:description" content="A blog about making culture. Since 1999.">
+<meta property="og:image" content="/image/2025-headshot-square-1600.jpeg">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://www.anildash.com//2012/08/17/what_twitters_api_announcement_could_have_said/">
+<meta name="twitter:title" content="What Twitter&apos;s API Announcement Could Have Said - Anil Dash">
+<meta name="twitter:description" content="A blog about making culture. Since 1999.">
+<meta name="twitter:image" content="/image/2025-headshot-square-1600.jpeg">
+
+
+    
+    
+    <meta name="description" content="A blog about making culture. Since 1999.">
+    <meta name="keywords" content="tech, writing, culture, systems, internet">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#800080">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/favicon.svg" sizes="any">
+    <link rel="apple-touch-icon" href="/favicon.svg">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Anil Dash">
+    <link rel="apple-touch-icon" href="/images/icon-192.png">
+
+    
+    <meta name="color-scheme" content="light dark">
+    
+    
+    <link rel="author" href="https://anildash.com/about">
+    
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(registration => {
+              console.log('SW registered: ', registration);
+            })
+            .catch(registrationError => {
+              console.log('SW registration failed: ', registrationError);
+            });
+        });
+      }
+    </script>
+
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://anildash.com/2012/08/17/what_twitters_api_announcement_could_have_said/"
+      },
+      "headline": "What Twitter's API Announcement Could Have Said",
+      "description": "A blog about making culture. Since 1999."
+      ,
+      "author": {
+        "@type": "Person",
+        "name": "Anil Dash",
+        "url": "https://anildash.com/"
+      },
+      "publisher": {
+        "@type": "Person",
+        "name": "Anil Dash",
+        "image": "https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/headshot-2022-square.jpeg?v=1698766406592"
+      }
+      
+    }
+    </script>
+    
+    
+    
+    
+    
+    <link rel="canonical" href="/2012/08/17/what_twitters_api_announcement_could_have_said/">
+    
+    
+    
+    
+    <meta property="article:tag" content="posts, tech, twitter">
+    
+    
+    
+    
+        <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-touch-icon.png?v=1670219223610">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/favicon-32x32.png?v=1670219224099">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/favicon-16x16.png?v=1670219223859">
+        <link rel="icon" type= "image/x-icon" href="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-touch-icon.png?v=1670219223610">
+    
+    
+    <meta name="generator" content="Eleventy v3.1.2">
+    
+    <meta name="twitter:creator" content="@anildash"/>
+    
+    <meta name="fediverse:creator" content="@anildash@me.dm" />
+  </head>
+  <body>
+    <!-- Add skip link for keyboard navigation -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    
+    <div class="layout-wrapper">
+      <header class="header" role="banner">
+        <div class="header__content">
+          <h1 class="site-title">
+            <a href=/>
+              Anil Dash
+            </a>
+          </h1>
+          <!-- Add proper aria labeling -->
+          <nav class="nav" aria-label="Main navigation">
+            <ul class="nav__list">
+                <li class="nav-item">
+                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+                </li>
+                <li class="nav-item">
+                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+                </li>
+                <li class="nav-item">
+                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+                </li>
+                <li class="nav-item">
+                  <a href="https://anildash.com/about" >about</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      
+      <!-- Add breadcrumbs for SEO and navigation -->
+      
+      <nav aria-label="Breadcrumb" class="breadcrumbs">
+        <ol vocab="https://schema.org/" typeof="BreadcrumbList">
+          <li property="itemListElement" typeof="ListItem">
+            <a property="item" typeof="WebPage" href="/">
+              <span property="name">Home</span>
+            </a>
+            <meta property="position" content="1">
+          </li>
+          
+          <li property="itemListElement" typeof="ListItem">
+            <span property="name">What Twitter&#39;s API Announcement Could Have Said</span>
+            <meta property="position" content="2">
+          </li>
+          
+        </ol>
+      </nav>
+      
+      
+      <!-- Add id for skip link target and role -->
+      <main class="main" id="main-content" role="main">
+        
+<article class="post">
+  <header class="post__header">
+
+    <div class="post__details">
+      <time datetime="2012-08-17">
+        17 Aug 2012
+      </time>
+      <div class="post__tags">
+      
+        
+        <a href="/tags/tech/">tech</a>
+      
+        
+        <a href="/tags/twitter/">twitter</a>
+      
+      </div>
+      <button id="share-link" aria-label="share"></button>
+    </div>
+    
+    
+    
+    <h1>What Twitter&#39;s API Announcement Could Have Said</h1>
+
+
+  </header>
+
+  <main class="post__content">
+    <p>A few years ago, I wrote about the <a href="/2009/06/the-end-of-fail">Law of Fail</a>: Once a web community has decided to dislike a person, topic, or idea, the conversation will shift from criticizing the idea to become a competition about who can be most scathing in their condemnation.</p>
+<p>This is relevant today because Twitter announced some <a href="https://dev.twitter.com/blog/changes-coming-to-twitter-api">upcoming API changes</a>. From my standpoint, these are mostly pretty reasonable, and in fact should have almost no impact on any normal Twitter user. Naturally, super-geeky developers are incensed. And of course, the people who most eagerly participate in the pile-on usually have the least skin in the game — they just want to complain.</p>
+<p>But to be fair, a valid annoyance for developers is that the communication from Twitter about these kinds of changes has been vague enough to leave them uneasy. Combine the tech blogosphere’s Law of Fail behavior with the tendency that crowds have toward assuming the worst rumors in any given situation must be the truth, and you have a recipe for panic.</p>
+<p>So, as an exercise in radical institutional empathy and the real-time exploration of alternate histories of the tech industry, I wrote <em>my own</em> version of the Twitter API 1.1 announcement.</p>
+<p>My goal is to communicate the exact same points, but with the clarity that would inspire the least amount of <a href="/2007/08/inspirational">user-generated discontent</a> possible. It’s also shorter by about 500 words and omits the 2×2 grid of API clients. Edits, corrections or criticisms are welcome!</p>
+<hr>
+<h2>Our biggest Twitter API upgrade ever</h2>
+<p>We have awesome news for Twitter developers: Today we’re announcing the upcoming release of the biggest new set of features and changes to the Twitter API ever, which we’re calling Twitter API version 1.1. We know change is scary, so we’ll talk about what’s new, why we’re making these changes, and when you can expect to see them. Don’t worry — it’ll be worth it!</p>
+<p>The TL;DR version of what’s new:</p>
+<ul>
+<li>More API calls for almost every kind of app, with per-endpoint rate limits</li>
+<li>Better security by extending OAuth to all APIs</li>
+<li>A clear roadmap for Twitter app developers to know what’s encouraged, including detailed instructions on how to show tweets and timelines</li>
+<li>A few new restrictions for people making traditional Twitter clients</li>
+<li>When version 1.1 is officially released, you’ll have six months to migrate from API version 1.0</li>
+</ul>
+<h2>Huge increases in API call limits:</h2>
+<p>In today’s API 1.0, we limit authenticated API requests to 350 per hour. Good news: We’re going to blow that limit away for your apps providing 60 calls per hour per endpoint – so you can literally hit every different endpoint every minute and not go over the rate limits. Endpoints that are <em>really</em> in demand, like Tweet display, profile display, user lookup and user search go all the way up to 720 calls per hour.</p>
+<p>This is a big increase for almost every kind of app, and we’ll give you the full details of the new extra-legroom limits when API 1.1 is released.</p>
+<h2>All Auth Everything</h2>
+<p>The big new API call limits come with only a minor change in what’s required from you: You’ll have to use OAuth for <em>all</em> of your API requests. This shouldn’t be a big deal because it works the same way as the OAuth requests you’re already making. (If you are not yet using OAuth, OMG shame on you, you’ve got until March 2013 to get with the program.)</p>
+<p>An awesome side bonus of this new auth regime is that people who are abusing the Twitter ecosystem we all share by scraping or writing spammy bots or other annoying behaviors will be able to be reined in using their auth tokens, instead of the brute-force block-by-IP method we’re stuck with now. Here’s crossing our fingers for less spam!</p>
+<h2>We Love Your App!</h2>
+<p>Sure, there’s been some hand-wringing about what direction we’re headed with our API, and whether third party developers are “safe” working on Twitter. Good news: Your app is welcome here, and we appreciate you developing on Twitter.</p>
+<p>In order to make sure we don’t ever get the community worried again (and to hopefully stamp out some of the scarier rumors that pop up in the ever-reliable tech press), we want to give some detailed outlines of how to make sure you’re in the clear while working on the Twitter API.</p>
+<p>Obviously, our greatest wish is that your app is hugely successful on Twitter, and we of course need to make sure to support our business model, including promoted tweets and sponsored tweets and whatever else we come up with.</p>
+<p>So, the first thing we’re doing is offering up detailed documentation of how tweets and timelines have to be displayed when using the new 1.1 API. This is mostly to ensure a consistent, simple interface for users who are hopefully switching between lots of cool Twitter-powered apps, including yours. But this also cuts down on apps that introduce confusing buttons or UI to try to pull people out of their Twitter experience, and makes sure the advertisers who actually pay for this whole thing to run get what they’re expecting, too.</p>
+<p>You can read <a href="https://dev.twitter.com/terms/display-guidelines">the guidelines</a> on your own, but the bottom line is that Tweets will start to look really consistent everywhere. That also means that apps which deliberately try to change the way Tweets or the Twitter UI looks can be shut down, so don’t do that.</p>
+<p>Oh, and if you need a <em>lot</em> of user tokens (like, more than 100,000), get in touch with us and we’ll take care of you personally. If you try to make that volume of calls without a special request, you might get shut off.</p>
+<h2>A Note On Traditional Twitter Clients</h2>
+<p>The only kind of Twitter app which has real constraints under API 1.1 is traditional Twitter posting clients — ones that offer the basic reading and writing experience and little else. While we appreciate these apps (our own official Twitter clients started out as one of these!), the reality is it’s going to take more effort for third parties to maintain these apps than it has in the past, because we’re going to be very strict about requiring updates to make sure your clients are in compliance with the user experience standards we set in our own first-party apps.</p>
+<p>Put simply: If you have made a traditional Twitter client, you’re going to be expected to hew very closely to our new display guidelines and will regularly be asked to make updates about the way you display content, sometimes with short notice. We recognize that might cause additional costs or stresses that make it less rewarding or more frustrating for this small but important community of developers, but this is essential for building a robust, successful Twitter business to support us all, and for us to shut down the small but persistent number of developers who use this kind of access to make spammy apps that degrade the Twitter experience for everybody. Client apps that don’t keep up with these standards or that fail to immediately reflect changes that are required will have API access cut off.</p>
+<p>That being said, many third-party Twitter clients have dedicated user communities and passionate developers, and with focus on keeping in step with our evolution, they should continue to thrive with their audiences.</p>
+<p>People making stats apps and analytics tools and social media marketing platforms all have absolutely nothing to worry about — the vast majority of Twitter client apps will move to the new 1.1 API with no changes expect better auth and higher API limits.</p>
+<h2>More To Come!</h2>
+<p>We’re excited about the apps you’re going to build on the new APIs, and we’ll be unveiling even more powerful features for you to incorporate features like Twitter Cards which will make your apps and sites even more engaging. In the meantime, if anything in this announcement is unclear, let us know in the forums or by @replying to us on Twitter, and we’ll answer any questions you have.</p>
+
+  </main>
+
+  <aside class="post__aside">
+
+    <nav class="post__pagination">
+
+        <a href="/2012/08/16/you_cant_start_the_revolution_from_the_country_club/">
+          <span>←</span>
+          <span>You Can&#39;t Start the Revolution from the Country Club</span>
+        </a>
+
+      
+
+        <a href="/2012/08/28/temple_of_ego_and_links/">
+          <span>Temple of Ego and Links</span>
+          <span>→</span>
+        </a>
+
+      
+      
+    </nav>
+  </aside>
+
+</article>
+
+  <script>
+    const shareData = {
+      title: 'What Twitter&#39;s API Announcement Could Have Said',
+      url: 'https://anildash.com/2012/08/17/what_twitters_api_announcement_could_have_said/'
+    }
+
+    const btn = document.querySelector('#share-link');
+
+    // Share must be triggered by "user activation"
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.share(shareData);
+      } catch (err) {
+      }
+    });  
+  </script>
+      </main>
+      <footer class="footer" role="contentinfo">
+        <div class="footer__content">
+          <!-- Add proper aria labeling -->
+          <nav aria-label="Footer navigation">
+            <ul class="hero__social-links">
+                <li>
+                  <a href="/search/" >Search</a>
+                </li>
+                <li>
+                  <a href="/posts/" >All Posts</a>
+                </li>
+                <!-- Theme toggle button -->
+                <li class="theme-toggle-container">
+                  <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="theme-toggle-light" aria-hidden="true">☀️</span>
+                    <span class="theme-toggle-dark" aria-hidden="true">🌙</span>
+                  </button>
+                </li>
+                <li>
+                  <a href="/feed.xml" target="_blank" rel="noopener noreferrer" aria-label="RSS Feed">
+                    <img src="/images/rss.svg" alt="RSS Feed" width="16" height="16" id="rss-icon" />
+                  </a>
+                </li>
+            </ul>
+          </nav>
+          
+          <!-- Add copyright info -->
+          <div class="copyright">
+            <p>&copy; 1999–2025 Anil Dash. Virtually no rights reserved. Just ask nicely.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <!-- Add dark mode toggle script -->
+    <script>
+      // Theme toggle functionality
+      document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        
+        // Function to set theme
+        const setTheme = (theme) => {
+          html.setAttribute('data-theme', theme);
+          localStorage.setItem('theme', theme);
+        };
+        
+        // Check for saved theme preference or use system preference
+        const savedTheme = localStorage.getItem('theme');
+        
+        if (savedTheme) {
+          // Use saved preference if available
+          setTheme(savedTheme);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          // Use system preference if no saved preference
+          setTheme('dark');
+        } else {
+          // Default to light mode
+          setTheme('light');
+        }
+        
+        // Toggle theme when button is clicked
+        themeToggle.addEventListener('click', () => {
+          const currentTheme = html.getAttribute('data-theme');
+          const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+          setTheme(newTheme);
+        });
+        
+        // Listen for system preference changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+          if (!localStorage.getItem('theme')) {
+            // Only update if user hasn't set a preference
+            setTheme(e.matches ? 'dark' : 'light');
+          }
+        });
+      });
+    </script>
+    
+    <!-- Add basic JavaScript for accessibility enhancements -->
+    <script>
+      // Handle focus management for keyboard users
+      document.addEventListener('DOMContentLoaded', function() {
+        const skipLink = document.querySelector('.skip-link');
+        if (skipLink) {
+          skipLink.addEventListener('focus', function() {
+            this.style.transform = 'translateY(0)';
+          });
+          skipLink.addEventListener('blur', function() {
+            this.style.transform = 'translateY(-100%)';
+          });
+        }
+      });
+    </script>
+  </body>
+</html>

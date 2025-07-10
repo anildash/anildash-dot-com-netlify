@@ -23,8 +23,11 @@ export default function (eleventyConfig) {
   ]);
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/manifest.json");
+  eleventyConfig.addPassthroughCopy("src/favicon.svg");
   eleventyConfig.addPassthroughCopy("src/sw.js");
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
@@ -82,7 +85,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addGlobalData("helpers", {
     currentYear: () => new Date().getFullYear(),
   });
-
+  
   // Enhanced excerpt functionality for meta descriptions
   eleventyConfig.addFilter("excerpt", function (content) {
     if (!content) return "";
@@ -180,33 +183,52 @@ export default function (eleventyConfig) {
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
   */
-  eleventyConfig.addCollection("posts", function (collection) {
-    const coll = collection.getFilteredByTag("posts");
-
-    // Map date_published to date and sort by date_published
-    for (let i = 0; i < coll.length; i++) {
-      if (coll[i].data.date_published) {
-        // Use date_published as the canonical date
-        coll[i].data.date = new Date(coll[i].data.date_published);
-      }
-    }
-
-    // Sort by date_published (now mapped to date)
-    coll.sort((a, b) => {
-      const dateA = new Date(a.data.date_published || a.data.date);
-      const dateB = new Date(b.data.date_published || b.data.date);
-      return dateA - dateB; // Try this if the above shows oldest first
-    });
-
-    // Add prev/next relationships
-    for (let i = 0; i < coll.length; i++) {
-      const prevPost = coll[i - 1];
-      const nextPost = coll[i + 1];
-      coll[i].data["prevPost"] = prevPost;
-      coll[i].data["nextPost"] = nextPost;
-    }
+     eleventyConfig.addCollection("posts", function (collection) {
+      const coll = collection.getFilteredByTag("posts");
+        
+      // Sort by date_published (but don't override the date field)
+      coll.sort((a, b) => {
+        const dateA = new Date(a.data.date_published || a.data.date);
+        const dateB = new Date(b.data.date_published || b.data.date);
+        return dateA - dateB; // Try this if the above shows oldest first
+      });
     
-    return coll;
+      // Keep the prev/next logic
+      for (let i = 0; i < coll.length; i++) {
+        const prevPost = coll[i - 1];
+        const nextPost = coll[i + 1];
+        coll[i].data["prevPost"] = prevPost;
+        coll[i].data["nextPost"] = nextPost;
+      }
+      
+      return coll;
+    });
+    
+  // Add this before your return statement
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    date: (data) => {
+      // For posts, use date_published as the date
+      if (data.date_published && data.tags && data.tags.includes("posts")) {
+        return new Date(data.date_published);
+      }
+      return data.date;
+    },
+    
+    permalink: (data) => {
+  // For posts, generate permalink from date_published
+      if (data.date_published && data.slug && data.tags && data.tags.includes("posts")) {
+        const date = new Date(data.date_published);
+        const year = date.getUTCFullYear();
+        const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+        const day = String(date.getUTCDate()).padStart(2, '0');
+        
+        // Ensure slug keeps underscores - don't let Eleventy convert them
+        const slug = data.slug.replace(/-/g, '_'); // Convert any hyphens to underscores
+        
+        return `/${year}/${month}/${day}/${slug}/`;
+      }
+      return data.permalink;
+    }
   });
 
   return {
