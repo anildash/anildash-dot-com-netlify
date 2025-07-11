@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,7 +243,34 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="1">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">Sixteen is Letting Go Again</span>
+    <span data-pagefind-meta="date">11 Sep 2017</span>
+    <span data-pagefind-meta="date_iso">2017-09-11</span>
+    <span data-pagefind-sort="date">2017-09-11</span>
+    
+    <span data-pagefind-meta="heroimage">/images/oculus-roof.jpeg</span>
+    
+    
+    <span data-pagefind-meta="tags">nyc</span>
+    
+    <span data-pagefind-meta="excerpt">A couple of times a week, I end up walking by the World Trade Center, either the new train station at the site, or one of the new malls that’s sprung up flanki...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">1</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -191,10 +281,17 @@
       
         
         <a href="/tags/nyc/">nyc</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">nyc</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/oculus-roof.jpeg);">
@@ -202,12 +299,13 @@
     </figure>
     
     
-    <h1>Sixteen is Letting Go Again</h1>
-
+    
+    <h1 data-pagefind-weight="1.5">Sixteen is Letting Go Again</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>A couple of times a week, I end up walking by the World Trade Center, either the new train station at the site, or one of the new malls that’s sprung up flanking the memorial. It’s a normal part of my day now, not a tentative and fraught moment that forces me to catch my breath. It’s just part of my day.</p>
 <p>And people are just suspicious of me in public places, like the airport or any place that’s got a metal detector. Even if I still resent it, I’ve stopped wishing it would stop. It’s just a normal part of my day, even when it angers me.</p>
 <p>So, like <a href="/2007/09/11/six-is-letting-go">ten years ago</a>, I’m letting go. Trying not to project my feelings onto this anniversary, just quietly remembering that morning and how it felt. My son asked me a couple of months ago, “I heard there was another World Trade Center before this one?” and I had to find a version of the story that I could share with him. In this telling, losing those towers was unimaginably sad and showed that there are incredibly hurtful people in the world, but there are still so many good people, and they can make wonderful things together.</p>
@@ -328,6 +426,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -362,6 +461,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -405,10 +507,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -421,6 +523,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

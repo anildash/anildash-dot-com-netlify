@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -135,22 +138,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -175,7 +238,32 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="1">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">International Lip Synching</span>
+    <span data-pagefind-meta="date">12 Nov 2003</span>
+    <span data-pagefind-meta="date_iso">2003-11-12</span>
+    <span data-pagefind-sort="date">2003-11-12</span>
+    
+    
+    <span data-pagefind-meta="tags">music</span>
+    
+    <span data-pagefind-meta="excerpt">I finally got around to seeing  Finding Nemo  this weekend. It’s pretty good, not great, but I suppose I’d appreciate it a lot more if I were a parent. In summ...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">1</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -186,6 +274,8 @@
       
         
         <a href="/tags/music/">music</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">music</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
@@ -193,12 +283,18 @@
     
     
     
-    <h1>International Lip Synching</h1>
-
+    
+    
+    
+    
+    
+    
+    <h1 data-pagefind-weight="1.5">International Lip Synching</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>I finally got around to seeing <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B00005JM02/2020-20">Finding Nemo</a> this weekend. It’s pretty good, not great, but I suppose I’d appreciate it a lot more if I were a parent. In summary, the story is not as good as Monsters, Inc. but the animation, as one might expect, is the best yet. The immediate prompt for me to watch the movie was having had a chance to meet <a href="http://www.magicalears.com/films/animation/Art/DylanBrown.php">Dylan Brown</a> while I was in Barcelona last month.</p>
 <p>Dylan was <a href="http://www.cgnetworks.com/story_custom.php?story_id=1389&amp;page=4">supervising animator</a> on Nemo, and as is often the case, I found myself much more interested and engaged in a work when I know someone who was involved in creating it. But the supplementary material on the Nemo disc is actually quite compelling without that connection, and one part in particular caught my eye. A scene which features dialog from a seagull is shown in more than a dozen different languages, showing the translation effort that goes into an international release. Of course, since seagulls don’t have lips, there wasn’t a lot of work necessary to sync up the dialogue with the animation.</p>
 <p>But most American films and television shows that travel overseas feature <em>humans</em>, and the fact that they were originally speaking a different language becomes acutely obvious. Last month, I was in Germany, France and Spain, and at least a third of all prime time programming that I saw was American movies and TV being dubbed into the local language. It has me wondering if there’s an entire generation of European kids growing up never having seen lips move in tandem with dialogue on screen. Not to mention the fact that entire soundtracks have to be dubbed, so you tend to get long silent spots when there’s no talking, or really fake-sounding car doors and bird chirps.</p>
@@ -246,6 +342,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -280,6 +377,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -323,10 +423,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -339,6 +439,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

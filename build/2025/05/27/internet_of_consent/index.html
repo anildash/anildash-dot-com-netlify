@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,7 +243,36 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="8">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">The Internet of Consent</span>
+    <span data-pagefind-meta="date">27 May 2025</span>
+    <span data-pagefind-meta="date_iso">2025-05-27</span>
+    <span data-pagefind-sort="date">2025-05-27</span>
+    
+    <span data-pagefind-meta="heroimage">/images/moralis-tsai-MpKdCe4YXF0.jpg</span>
+    
+    
+    <span data-pagefind-meta="tags">internet, web, consent, tos</span>
+    
+    <span data-pagefind-meta="excerpt">Click “I agree” to continue. 
+ You didn’t click it, though. Or maybe you did? I don’t know, it doesn’t matter. 
+ The concept of consent doesn’t exist on the mo...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">8</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -191,19 +283,32 @@
       
         
         <a href="/tags/internet/">internet</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">internet</div>
       
         
         <a href="/tags/web/">web</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">web</div>
       
         
         <a href="/tags/consent/">consent</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">consent</div>
       
         
         <a href="/tags/tos/">tos</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">tos</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/moralis-tsai-MpKdCe4YXF0.jpg);">
@@ -211,12 +316,13 @@
     </figure>
     
     
-    <h1>The Internet of Consent</h1>
-
+    
+    <h1 data-pagefind-weight="1.5">The Internet of Consent</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>Click “I agree” to continue.</p>
 <p>You didn’t click it, though. Or maybe you did? I don’t know, it doesn’t matter.</p>
 <p>The concept of consent doesn’t exist on the modern internet. You didn’t read the terms of service. You didn’t agree to accept cookies. I didn’t consent to having my site pulled into the training model for that artificial intelligence system that’s going to use to sell the fruit of my labor for profit. I didn’t agree to have my activity tracked across all these different websites and cobbled together into a creepy and inaccurate profile of my preferences that gets sold without my permission. Nobody asks for anything, they just take it. There’s not even an <em>acknowledgement</em>, that any of this stuff is happening let alone a conversation about it.</p>
@@ -274,6 +380,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -308,6 +415,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -351,10 +461,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -367,6 +477,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

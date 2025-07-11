@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -135,22 +138,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -175,7 +238,32 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="1">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">Thirteen is Understanding</span>
+    <span data-pagefind-meta="date">11 Sep 2014</span>
+    <span data-pagefind-meta="date_iso">2014-09-11</span>
+    <span data-pagefind-sort="date">2014-09-11</span>
+    
+    
+    <span data-pagefind-meta="tags">nyc</span>
+    
+    <span data-pagefind-meta="excerpt">They say the best way to see if you really understand something is to try to explain it to another person. I’ll never  really  understand what happened to my b...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">1</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -186,6 +274,8 @@
       
         
         <a href="/tags/nyc/">nyc</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">nyc</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
@@ -193,12 +283,18 @@
     
     
     
-    <h1>Thirteen is Understanding</h1>
-
+    
+    
+    
+    
+    
+    
+    <h1 data-pagefind-weight="1.5">Thirteen is Understanding</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>They say the best way to see if you really understand something is to try to explain it to another person. I’ll never <em>really</em> understand what happened to my beloved city thirteen years ago today, of course, but I’ve had in mind that my young son is now old enough that I’ll soon have to answer <em>some</em> question about 9/11. Already, he’s been downtown and we’ve looked at the new World Trade Center tower and admired the sleek new skyscraper. It won’t be too many more visits until he asks why they built this new skyscraper, or what was here before, or what those big reflecting pools are for.</p>
 <p>There’s no part of that day that one should ever have to explain to a child, but I realized for the first time this year that, when the time comes, I’ll be ready. Enough time has passed that I could recite the facts, without simply dissolving into a puddle of my own unresolved questions. I look back at past years, at my own observances of this anniversary, and see how I veered from crushingly sad to fiercely angry to tentatively optimistic, and in each of those moments I was living in one part of what I felt. Maybe I’m ready to see this thing in a bigger picture, or at least from a perspective outside of just myself.</p>
 <p>At a darker level, there’s also the understanding that horrible things will happen again. I’ve accepted that the events of 9/11 did not catalyze enough change to meaningfully alter our path as a culture. We can promise to Never Forget all that we want, but that won’t stop people from being in pain, from suffering, from attacking or being attacked. We can bemoan surveillance culture and compromises in our civil liberties, but even these wrongs have not substantially changed who we are. It does not diminish the memory of that day to remind ourselves that this kind of horror is not unique. And truly taking that belief to heart is, to me, the first sign that I’ve contextualized the events of 9/11 into my own life with perhaps some of the perspective that others have been able to arrive at more quickly.</p>
@@ -305,6 +401,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -339,6 +436,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -382,10 +482,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -398,6 +498,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

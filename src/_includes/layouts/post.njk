@@ -3,21 +3,67 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 
-<article class="post">
+{# Calculate weights based on content categories and date #}
+{% set hasBestOf = "Best Of" in tags %}
+{% set hasMostPopular = "Most Popular" in tags %}
+{% set titleWeight = tags | titleWeight %}
+{% set contentWeight = tags | contentWeight %}
+{% set overallWeight = tags | searchWeight(page.date) %}
+
+<article class="post" data-pagefind-body data-pagefind-weight="{{ overallWeight }}">
+  {# Hidden metadata for Pagefind to extract - must be inside data-pagefind-body #}
+  <div style="display: none;">
+    <span data-pagefind-meta="title">{{ title }}</span>
+    <span data-pagefind-meta="date">{{ page.date | readableDate }}</span>
+    <span data-pagefind-meta="date_iso">{{ page.date | htmlDateString }}</span>
+    <span data-pagefind-sort="date">{{ page.date | htmlDateString }}</span>
+    {% if heroimage %}
+    <span data-pagefind-meta="heroimage">{{ heroimage }}</span>
+    {% elif image %}
+    <span data-pagefind-meta="heroimage">{{ image }}</span>
+    {% endif %}
+    {% if tags %}
+    <span data-pagefind-meta="tags">{{ tags | pageTags | join(", ") }}</span>
+    {% endif %}
+    <span data-pagefind-meta="excerpt">{{ content | excerpt | safe }}</span>
+    
+    {# Add priority metadata for debugging/display #}
+    {% if hasBestOf %}
+    <span data-pagefind-meta="best_of">true</span>
+    {% endif %}
+    {% if hasMostPopular %}
+    <span data-pagefind-meta="most_popular">true</span>
+    {% endif %}
+    <span data-pagefind-meta="search_weight">{{ overallWeight }}</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
-      <time datetime="{{ date_published | htmlDateString }}">
-        {{ date_published | readableDate }}
+      <time datetime="{{ page.date | htmlDateString }}">
+        {{ page.date | readableDate }}
       </time>
       <div class="post__tags">
       {% for tag in tags | pageTags %}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}">{{ tag }}</a>
+        {# Add Pagefind filters for better search categorization #}
+        <div data-pagefind-filter="tag" style="display: none;">{{ tag }}</div>
       {% endfor %}
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    {# Add category filters for premium content #}
+    {% if hasBestOf %}
+    <div data-pagefind-filter="category" style="display: none;">Best Of</div>
+    {% endif %}
+    {% if hasMostPopular %}
+    <div data-pagefind-filter="category" style="display: none;">Most Popular</div>
+    {% endif %}
+    {% if hasBestOf and hasMostPopular %}
+    <div data-pagefind-filter="category" style="display: none;">Premium Content</div>
+    {% endif %}
     
     {% if heroimage %}
     <figure class="heroimage" style="background-image: url({{heroimage}});">
@@ -29,19 +75,19 @@ templateClass: tmpl-home
     </figure>
     {% endif %}
     
-    <h1>{{ title }}</h1>
-
+    {# Weight the title based on content category #}
+    <h1 data-pagefind-weight="{{ titleWeight }}">{{ title }}</h1>
 
   </header>
 
-  <main class="post__content">
+  {# Weight the main content based on content category #}
+  <main class="post__content" data-pagefind-weight="{{ contentWeight }}">
     {{ content | safe }}
   </main>
 
   <aside class="post__aside">
 
     <nav class="post__pagination">
-
 
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
       {%- if previousPost %}
@@ -83,3 +129,4 @@ templateClass: tmpl-home
       }
     });  
   </script>
+  

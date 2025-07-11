@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -135,22 +138,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -175,7 +238,35 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="5">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">All In Favor</span>
+    <span data-pagefind-meta="date">09 Jun 2011</span>
+    <span data-pagefind-meta="date_iso">2011-06-09</span>
+    <span data-pagefind-sort="date">2011-06-09</span>
+    
+    
+    <span data-pagefind-meta="tags">tech, blogs, twitter, Best Of</span>
+    
+    <span data-pagefind-meta="excerpt">By request , a bit of explanation of how and why I favorite things on the internet. (Or favor them. Or like them. Whatever.) 
+ First, where do I favorite?  On...</span>
+    
+    
+    
+    <span data-pagefind-meta="best_of">true</span>
+    
+    
+    <span data-pagefind-meta="search_weight">5</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -186,15 +277,23 @@
       
         
         <a href="/tags/tech/">tech</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">tech</div>
       
         
         <a href="/tags/blogs/">blogs</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">blogs</div>
       
         
         <a href="/tags/twitter/">twitter</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">twitter</div>
       
         
         <a href="/tags/Best Of/">Best Of</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">Best Of</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
@@ -202,12 +301,20 @@
     
     
     
-    <h1>All In Favor</h1>
-
+    <div data-pagefind-filter="category" style="display: none;">Best Of</div>
+    
+    
+    
+    
+    
+    
+    
+    <h1 data-pagefind-weight="3">All In Favor</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="2">
     <p><a href="https://twitter.com/ginatrapani/status/78977435894431744">By request</a>, a bit of explanation of how and why I favorite things on the internet. (Or favor them. Or like them. Whatever.)</p>
 <p>First, where do I favorite? <a href="https://twitter.com/@anildash/favorites">On Twitter</a>, certainly: I love lots of tweets! <a href="https://www.facebook.com/anil.dash">On Facebook</a>! That’s mostly for liking things <em>outside</em> of Facebook, around the web. I like lots of videos on YouTube and on Vimeo, the latter of which probably has the most satisfying like/favoriting animation on the web. I judiciously like things on <a href="http://mlkshk.com/">MLKSHK</a>. I suppose I still favorite things on Google Reader from time to time, which always involves me starring, sharing, +1ing and clicking 10 other buttons in their UI, since I don’t really know which one does what. YouTube has both liking and favoriting, too, but somehow that redundancy doesn’t bother me as much.</p>
 <p>And, perhaps more visibly than anywhere else, I star all kinds of things on <a href="http://stellar.io/">Stellar</a>, which is also where many of these favorites get aggregated and shared with others; It’s my, erm, somewhat enthusiastic use of favoriting on that service (I’m by far the most prolific star-giver in these early days of the awesome little site) which has inspired the most recent “dude, what the hell?” responses from many of my friends. As of 6 weeks ago, <a href="http://kottke.org/">Jason</a> showed me stats where I had about 1/3 more favorites than the next-highest person on the site.</p>
@@ -283,6 +390,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -317,6 +425,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -360,10 +471,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -376,6 +487,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

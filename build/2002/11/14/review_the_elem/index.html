@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -135,22 +138,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -175,7 +238,32 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="1">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">Review: The Elements of User Experience</span>
+    <span data-pagefind-meta="date">14 Nov 2002</span>
+    <span data-pagefind-meta="date_iso">2002-11-14</span>
+    <span data-pagefind-sort="date">2002-11-14</span>
+    
+    
+    <span data-pagefind-meta="tags">magazine, tech</span>
+    
+    <span data-pagefind-meta="excerpt">The Elements of User Experience  is not just the first book to list all of the related skills and disciplines involved in the creation of web sites, but to cr...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">1</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -186,9 +274,13 @@
       
         
         <a href="/tags/magazine/">magazine</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">magazine</div>
       
         
         <a href="/tags/tech/">tech</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">tech</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
@@ -196,12 +288,18 @@
     
     
     
-    <h1>Review: The Elements of User Experience</h1>
-
+    
+    
+    
+    
+    
+    
+    <h1 data-pagefind-weight="1.5">Review: The Elements of User Experience</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p><a href="http://www.amazon.com/exec/obidos/ASIN/0735712026/ref=nosim/2020-20/">The Elements of User Experience</a> is not just the first book to list all of the related skills and disciplines involved in the creation of web sites, but to create a complete model of the way those practices combine to create and affect a user’s experience on the web. This structure, based on the seminal <a href="http://www.jjg.net/ia/elements.pdf">diagram of the Elements</a>, is accessible enough to be useful for high-level decision makers who need to learn about the processes involved, but still relevant enough to inform the hands-on people charged with contructing the site. The clarity with which <em>Elements</em> describes these processes makes this book not just a useful tool for a team building a site, but an important reference for anyone interested in web user experiences.</p>
 <p><a href="http://www.jjg.net/elements/elements_simpleplanes.pdf"><img src="/images/simpleelements.gif" alt="Simple PDF diagram of the Elements"></a>simple diagram of the elements</p>
 <p>At barely a dozen pages into the book, we encounter one of the first diagrams that’s used, which appears to be a stylized Fisher Price figure staring at a site architecture diagram that evokes some of the best illustrations in <a href="http://www.jnd.org/">Don Norman</a>‘s essential <a href="http://www.amazon.com/exec/obidos/ASIN/0385267746/ref=nosim/2020-20/">Design of Everyday Things</a>. Both evocations do justice to the tone and friendliness with which this book presents its sometimes abstract set of ideas.</p>
@@ -266,6 +364,7 @@ So, there are clear examples and lucid writing, and the book’s a terrific asse
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -300,6 +399,9 @@ So, there are clear examples and lucid writing, and the book’s a terrific asse
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -343,10 +445,10 @@ So, there are clear examples and lucid writing, and the book’s a terrific asse
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -359,6 +461,76 @@ So, there are clear examples and lucid writing, and the book’s a terrific asse
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

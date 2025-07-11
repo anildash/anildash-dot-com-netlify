@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,7 +243,36 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="5">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">Heaven, Hell, Marvin, Prince and the Party</span>
+    <span data-pagefind-meta="date">04 Jan 2013</span>
+    <span data-pagefind-meta="date_iso">2013-01-04</span>
+    <span data-pagefind-sort="date">2013-01-04</span>
+    
+    <span data-pagefind-meta="heroimage">/images/barnes-sugarshack1.jpg</span>
+    
+    
+    <span data-pagefind-meta="tags">Best Of, music, Prince, Marvin Gaye</span>
+    
+    <span data-pagefind-meta="excerpt">Every great career in rhythm and blues leads only to heaven or hell. The path to hell is obvious: From Sam Cooke gunned down to James Brown leading a multi-sta...</span>
+    
+    
+    
+    <span data-pagefind-meta="best_of">true</span>
+    
+    
+    <span data-pagefind-meta="search_weight">5</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -191,19 +283,34 @@
       
         
         <a href="/tags/Best Of/">Best Of</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">Best Of</div>
       
         
         <a href="/tags/music/">music</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">music</div>
       
         
         <a href="/tags/Prince/">Prince</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">Prince</div>
       
         
         <a href="/tags/Marvin Gaye/">Marvin Gaye</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">Marvin Gaye</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    <div data-pagefind-filter="category" style="display: none;">Best Of</div>
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/barnes-sugarshack1.jpg);">
@@ -211,12 +318,13 @@
     </figure>
     
     
-    <h1>Heaven, Hell, Marvin, Prince and the Party</h1>
-
+    
+    <h1 data-pagefind-weight="3">Heaven, Hell, Marvin, Prince and the Party</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="2">
     <p>Every great career in rhythm and blues leads only to heaven or hell. The path to hell is obvious: From Sam Cooke gunned down to James Brown leading a multi-state police chase to Sly Stone strung out on crack and living in a van to Whitney Houston’s body lying dead as the industry partied a few floors below, our culture’s never treated the shining lights of our most soulful genre with kindness. The archetype of this path is Marvin Gaye, facing his demons at the wrong end of a gun aimed by the man who gave him his name and his life.</p>
 <p>But heaven doesn’t look much better. Whether it’s Al Green leading rote singalongs of his greatest hits, or Stevie Wonder’s once-essential annual albums slowing down to a trickle of treacle, or Aretha Franklin being used largely as set decoration to signify which events are deemed Worthy Of A Legend. We start to understand why someone like me who loves Lauryn Hill or D’Angelo (or even Dave Chappelle, a comedian who’s lived the career of a soul singer) often want to tell them “I’ve gotten all I ever need from you; Go take care of yourself.” Even my beloved Prince has taken to generously sprinkling a still-vital and compelling live show with bowdlerized medleys of greatest hits, interpreting his ever-present religious fixation as a compulsion to undo the ferocity and provocation that earned him his audience three decades ago.</p>
 <p>I always thought Michael was going to buy his way to heaven, but held a grim conviction that he might meet his end at the hands of a crazed fan. With the hindsight of a few years, it would appear that, in a way, he did. Those on the heavenly path of an R&amp;B legend are of course faced with the constant temptations of fate and fame; Given enough success, you can just keep paying doctors on retainer until you find the one who’s greedy and starstruck enough to not quit in protest when you ask for a lethal dose of anesthetic.</p>
@@ -294,6 +402,7 @@
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -328,6 +437,9 @@
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -371,10 +483,10 @@
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -387,6 +499,76 @@
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,7 +243,34 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="2">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">There is nothing to remember.</span>
+    <span data-pagefind-meta="date">11 Sep 2022</span>
+    <span data-pagefind-meta="date_iso">2022-09-11</span>
+    <span data-pagefind-sort="date">2022-09-11</span>
+    
+    <span data-pagefind-meta="heroimage">/images/tomas-martinez-wtc.jpeg</span>
+    
+    
+    <span data-pagefind-meta="tags">nyc</span>
+    
+    <span data-pagefind-meta="excerpt">The only time someone remembered September 11, 2001 to me in the last year was when a stranger mentioned it as part of the reason he was  trying to assault me...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">2</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -191,10 +281,17 @@
       
         
         <a href="/tags/nyc/">nyc</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">nyc</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/tomas-martinez-wtc.jpeg);">
@@ -202,12 +299,13 @@
     </figure>
     
     
-    <h1>There is nothing to remember.</h1>
-
+    
+    <h1 data-pagefind-weight="1.5">There is nothing to remember.</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>The only time someone remembered September 11, 2001 to me in the last year was when a stranger mentioned it as part of the reason he was <a href="/2022/07/18/i-went-to-a-coffee-shop/">trying to assault me</a>. So it's clear that the events of that day have fully passed into myth, useful only as rhetoric in a culture war, or as justifications for violence. Nothing epitomizes this more than the fact that, while the memory has faded in culture broadly, it's only brought to the fore in situations like those where most New Yorkers would be targeted.</p>
 <p>I talked about this a bit last year, in noting that <a href="/2021/09/11/twenty-is-myth/">Twenty is a Myth</a>. I don't expect young people to understand what the moment meant culturally; it's only something that exists in recent history for them, processed entirely through the lens of media (and the social media that the event helped catalyze). But for those of us who <em>were</em> adults then, it's unforgiveable how we've let the meaning and the lessons be lost, or worse, twisted.</p>
 <p>So, I have no remembrance this year, and maybe I'll let go of this tradition. If you ever want to know what it was like to be there that day, ask those who were present. I expect their experience will be completely different from the historical narrative that's been contrived in the years since.</p>
@@ -345,6 +443,7 @@ Over the four hundred years it’s taken for this city to evolve into its curren
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -379,6 +478,9 @@ Over the four hundred years it’s taken for this city to evolve into its curren
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -422,10 +524,10 @@ Over the four hundred years it’s taken for this city to evolve into its curren
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -438,6 +540,76 @@ Over the four hundred years it’s taken for this city to evolve into its curren
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

@@ -1,87 +1,345 @@
 ---
 layout: layouts/base.njk
 templateClass: tmpl-search
+title: Search
+description: Search through 25+ years of posts about technology, culture, and society.
+permalink: /search/
+eleventyExcludeFromCollections: true
 ---
 
 <header class="hero">
   <div class="hero-content">
-    <div class="intro">
-      {{ content | safe }}
-    </div>
-
+    <h1>Search</h1>
+    <p>Search through 25+ years of posts about technology, culture, and society.</p>
   </div>
-
 </header>
 
-<h2>
-  Search this site
-</h2>
+<!-- Pagefind search UI -->
+<div id="search" style="margin-top: 2rem;"></div>
 
+<!-- Note: Pagefind CSS/JS already loaded by base template when page.url == '/search/' -->
 
-<form autocomplete="on" id="search" method="POST">
-    <label for="search-input"></label>
-    <input aria-label="Search" id="search-input" minlength="3" name="query" placeholder="blogs" type="search">
-</form>
-
-  <section class="post-list__wrapper">
-    <div class="post-feed">
-      <div id="search-results">
-
-
-  {% set postslist = collections.posts | head(-12) %}
-  {% include "posts-list.njk" %}
-
-      </div>
+<!-- Fallback: Show recent posts when no search is performed -->
+<section class="post-list__wrapper">
+  <div class="post-feed">
+    <div id="recent-posts">
+      <h3>Recent Posts</h3>
+      {% set postslist = collections.posts | head(-12) %}
+      {% include "posts-list.njk" %}
     </div>
-  </section>
+  </div>
+</section>
+
+<div class="search-help">
+  <h2>Search Tips</h2>
+  <ul>
+    <li><strong>Ctrl+K</strong> (or Cmd+K) to quickly focus the search box</li>
+    <li>Search for topics like "prince", "tech", "nyc", or "systems"</li>
+    <li>Results are ranked by relevance, with "Best Of" content prioritized</li>
+    <li>Use quotes for exact phrases: "social media"</li>
+  </ul>
+</div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const searchInput = document.getElementById("search-input");
-    const resultsContainer = document.getElementById("search-results");
-
-    let index = [];
-
-    // Fetch the search index
-    fetch("/search.json")
-      .then(response => response.json())
-      .then(data => index = data)
-      .catch(err => console.error("Error loading search index:", err));
-
-    // Filter and display results
-    searchInput.addEventListener("input", function () {
-      const query = searchInput.value.toLowerCase();
-      const results = index.filter(post =>
-        post.title.toLowerCase().includes(query) ||
-        post.content.toLowerCase().includes(query) ||
-        (post.tags && post.tags.join(" ").toLowerCase().includes(query))
-      );
-
-      displayResults(results);
-    });
-
-    function displayResults(results) {
-      resultsContainer.innerHTML = results.map(post => `
-
-        <article class="post-card post">
-          <a class="post-card-image-link" href="${post.url}">
-            <img class="post-card-image image" src="${post.image}" alt="${post.title}" loading="lazy" />
-          </a>
-          <div class="post-card-content">
-            <a class="post-card-content-link" href="${post.url}">
-              <header class="post-card-header">
-                <h2 class="post-card-title">${post.title}</h2>
-              </header>
-              <section class="post-card-excerpt">
-                <p>${post.content}</p>
-              </section>
-            </a>
-          </div>
-
-        </article>
-
-      `).join("");
+  // Enhanced script with better sorting and result handling
+  document.addEventListener('DOMContentLoaded', function() {
+    const recentPosts = document.getElementById('recent-posts');
+    const searchContainer = document.getElementById('search');
+    let customResultsContainer = null;
+    let lastSearchValue = '';
+    let isCreatingResults = false;
+    
+    // Debounce function to prevent excessive calls
+    function debounce(func, wait) {
+      let timeout;
+      return function executedFunction(...args) {
+        const later = () => {
+          clearTimeout(timeout);
+          func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+      };
     }
+    
+    // Function to get full result data including metadata
+    async function getResultData(result) {
+      try {
+        const resultData = await result.data();
+        return resultData;
+      } catch (error) {
+        console.error('Error getting result data:', error);
+        return null;
+      }
+    }
+    
+    // Function to sort results by date (newest first) when relevance is similar
+    function sortResultsByDateAndRelevance(results) {
+      return results.sort((a, b) => {
+        // First sort by score (relevance) - higher scores first
+        const scoreDiff = b.score - a.score;
+        
+        // If scores are very close (within 0.1), then sort by date
+        if (Math.abs(scoreDiff) < 0.1) {
+          // Extract dates for comparison
+          const dateA = a.data?.meta?.date_iso || '1900-01-01';
+          const dateB = b.data?.meta?.date_iso || '1900-01-01';
+          return new Date(dateB) - new Date(dateA); // Newer first
+        }
+        
+        return scoreDiff; // Otherwise sort by relevance
+      });
+    }
+    
+    // Function to create custom results with proper metadata and sorting
+    async function createCustomResults() {
+      if (isCreatingResults) return;
+      
+      const searchInput = searchContainer.querySelector('input');
+      if (!searchInput || !searchInput.value.trim()) return;
+      
+      const currentSearchValue = searchInput.value.trim();
+      if (currentSearchValue === lastSearchValue && customResultsContainer) {
+        return;
+      }
+      
+      isCreatingResults = true;
+      lastSearchValue = currentSearchValue;
+      
+      try {
+        const pagefindModule = await import('/pagefind/pagefind.js');
+        const search = await pagefindModule.search(currentSearchValue, {
+          sort: { date: "desc" } // Try to sort by date descending
+        });
+        
+        if (!search.results || !search.results.length) {
+          isCreatingResults = false;
+          return;
+        }
+        
+        // Remove existing custom results and count
+        if (customResultsContainer) {
+          customResultsContainer.remove();
+        }
+        const existingResultsCount = searchContainer.querySelector('.custom-results-count');
+        if (existingResultsCount) {
+          existingResultsCount.remove();
+        }
+        
+        // Get result data for all results first
+        const resultsWithData = [];
+        for (const result of search.results) {
+          const data = await getResultData(result);
+          if (data) {
+            resultsWithData.push({
+              ...result,
+              data: data
+            });
+          }
+        }
+        
+        // Sort results by relevance and date
+        const sortedResults = sortResultsByDateAndRelevance(resultsWithData);
+        
+        // Create new container
+        customResultsContainer = document.createElement('div');
+        customResultsContainer.className = 'post-feed';
+        customResultsContainer.id = 'custom-search-results';
+        
+        const fragment = document.createDocumentFragment();
+        
+        // Show first 10 results
+        const resultsToShow = sortedResults.slice(0, 25);
+        const totalResults = sortedResults.length;
+        
+        // Process sorted results
+        for (const result of resultsToShow) {
+          const data = result.data;
+          
+          const postCard = document.createElement('article');
+          postCard.className = 'post-card post';
+          
+          // Extract metadata
+          const title = data.meta?.title || data.content || 'Untitled';
+          const heroImage = data.meta?.heroimage;
+          const date = data.meta?.date || '';
+          const dateIso = data.meta?.date_iso || '';
+          const tags = data.meta?.tags || '';
+          const excerpt = data.meta?.excerpt || data.excerpt;
+          const searchWeight = data.meta?.search_weight || '';
+          const bestOf = data.meta?.best_of === 'true';
+          const mostPopular = data.meta?.most_popular === 'true';
+          
+          // Create image element or placeholder
+          let imageHtml = `<div style="width:100%;height:100%;background:var(--secondary);display:flex;align-items:center;justify-content:center;color:var(--accent);font-size:2rem;">📄</div>`;
+          if (heroImage) {
+            imageHtml = `<img class="post-card-image heroimage" src="${heroImage}" alt="${title}" loading="lazy" />`;
+          }
+          
+          // Create tags HTML with priority indicators
+          let tagsHtml = '';
+          if (tags) {
+            const tagList = tags.split(', ').map(tag => 
+              `<a href="/tags/${encodeURIComponent(tag.toLowerCase())}/">${tag}</a>`
+            ).join(' ');
+            tagsHtml = `<span class="post-list__tags">${tagList}</span>`;
+          }
+          
+          // Add priority indicator for Best Of / Most Popular
+          let priorityIndicator = '';
+          if (bestOf && mostPopular) {
+            priorityIndicator = `<span style="background: var(--accent); color: var(--background); padding: 2px 6px; border-radius: 3px; font-size: 0.8rem; margin-right: 0.5rem;">⭐ Reader Favorite</span>`;
+          } else if (bestOf) {
+            priorityIndicator = `<span style="background: var(--accent); color: var(--background); padding: 2px 6px; border-radius: 3px; font-size: 0.8rem; margin-right: 0.5rem;">✨ Best Of</span>`;
+          } else if (mostPopular) {
+            priorityIndicator = `<span style="background: var(--accent); color: var(--background); padding: 2px 6px; border-radius: 3px; font-size: 0.8rem; margin-right: 0.5rem;">🔥 Most Popular</span>`;
+          }
+          
+          postCard.innerHTML = `
+            <a class="post-card-image-link" href="${data.url}">
+              ${imageHtml}
+            </a>
+            <div class="post-card-content">
+              <a class="post-card-content-link" href="${data.url}">
+                <header class="post-card-header">
+                  <h2 class="post-card-title">${title}</h2>
+                </header>
+                <section class="post-card-excerpt">
+                  <p>${excerpt}</p>
+                </section>
+              </a>
+              <footer class="post-card-meta">
+                <div class="">
+                  <span class="post-list__meta">
+                    ${priorityIndicator}
+                    ${date ? `<time datetime="${dateIso}">${date}</time>` : ''}
+                    ${date && tags ? '<span class="bull">•</span>' : ''}
+                    ${tagsHtml}
+                  </span>
+                </div>
+              </footer>
+            </div>
+          `;
+          
+          fragment.appendChild(postCard);
+        }
+        
+        customResultsContainer.appendChild(fragment);
+        
+        // Add "Load More" button if there are more results
+        if (totalResults > 10) {
+          const loadMoreButton = document.createElement('div');
+          loadMoreButton.style.textAlign = 'center';
+          loadMoreButton.style.marginTop = '2rem';
+          loadMoreButton.innerHTML = `
+            <button class="pagefind-ui__button" onclick="alert('Load more functionality would go here')">
+              Load More Results (${totalResults - 10} remaining)
+            </button>
+          `;
+          customResultsContainer.appendChild(loadMoreButton);
+        }
+        
+        // Add results count with sorting info
+        const resultsCount = document.createElement('div');
+        resultsCount.className = 'custom-results-count';
+        resultsCount.style.cssText = `
+          color: var(--color);
+          opacity: 1;
+          text-align: left;
+          padding: 1rem 0 0.5rem 0;
+          font-style: normal;
+          font-size: var(--text-lg);
+          font-weight: 500;
+          margin-bottom: 1rem;
+        `;
+        resultsCount.innerHTML = `Found ${totalResults} result${totalResults === 1 ? '' : 's'} <span style="font-size: 0.9rem; opacity: 0.8;">(sorted by relevance, then date)</span>`;
+        
+        // Insert results count before the results
+        searchContainer.appendChild(resultsCount);
+        searchContainer.appendChild(customResultsContainer);
+        
+      } catch (error) {
+        console.error('Error creating custom results:', error);
+      } finally {
+        isCreatingResults = false;
+      }
+    }
+    
+    // Debounced result creation
+    const debouncedCreateResults = debounce(createCustomResults, 500);
+    
+    // Simple function to handle search state changes
+    function handleSearchChange() {
+      const searchInput = searchContainer.querySelector('input');
+      const hasSearchValue = searchInput && searchInput.value.trim().length > 0;
+      const hasResults = searchContainer.querySelector('.pagefind-ui__result');
+      
+      if (hasSearchValue && hasResults) {
+        recentPosts.style.display = 'none';
+        debouncedCreateResults();
+      } else {
+        recentPosts.style.display = 'block';
+        lastSearchValue = '';
+        if (customResultsContainer) {
+          customResultsContainer.remove();
+          customResultsContainer = null;
+        }
+        const customResultsCount = searchContainer.querySelector('.custom-results-count');
+        if (customResultsCount) {
+          customResultsCount.remove();
+        }
+      }
+    }
+    
+    // Listen for input changes and URL parameters
+    setTimeout(() => {
+      const searchInput = searchContainer.querySelector('input');
+      if (searchInput) {
+        searchInput.addEventListener('input', handleSearchChange);
+        
+        // Check for URL parameter and auto-search
+        const urlParams = new URLSearchParams(window.location.search);
+        const queryParam = urlParams.get('q');
+        
+        if (queryParam) {
+          let attempts = 0;
+          const maxAttempts = 20;
+          
+          const trySearch = async () => {
+            attempts++;
+            
+            const pagefindInput = searchContainer.querySelector('.pagefind-ui__search-input');
+            
+            if (pagefindInput) {
+              pagefindInput.value = queryParam;
+              pagefindInput.dispatchEvent(new Event('input', { bubbles: true }));
+              pagefindInput.dispatchEvent(new Event('keyup', { bubbles: true }));
+              pagefindInput.dispatchEvent(new Event('change', { bubbles: true }));
+              
+              setTimeout(async () => {
+                lastSearchValue = '';
+                await createCustomResults();
+              }, 500);
+              
+            } else if (attempts < maxAttempts) {
+              setTimeout(trySearch, 250);
+            }
+          };
+          
+          trySearch();
+        }
+      }
+    }, 500);
+    
+    // Minimal observer for Pagefind UI
+    const observer = new MutationObserver(function(mutations) {
+      if (!customResultsContainer && searchContainer.querySelector('.pagefind-ui__result')) {
+        handleSearchChange();
+      }
+    });
+    
+    observer.observe(searchContainer, {
+      childList: true
+    });
   });
 </script>
-

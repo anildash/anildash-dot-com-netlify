@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,27 +243,69 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="5">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">Set Adrift: Beneath the Surface of P.M. Dawn</span>
+    <span data-pagefind-meta="date">18 Jun 2016</span>
+    <span data-pagefind-meta="date_iso">2016-06-18</span>
+    <span data-pagefind-sort="date">2016-06-18</span>
+    
+    <span data-pagefind-meta="heroimage">/images/prince-be-silhouette.png</span>
+    
+    
+    <span data-pagefind-meta="tags">music, Best Of, PM Dawn</span>
+    
+    <span data-pagefind-meta="excerpt">Today, P.M. Dawn exists as a faded memory for most music fans, if they’re remembered at all. But Attrell Cordes made songs like nothing that came before. Beaut...</span>
+    
+    
+    
+    <span data-pagefind-meta="best_of">true</span>
+    
+    
+    <span data-pagefind-meta="search_weight">5</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
-      <time datetime="2016-06-19">
-        19 Jun 2016
+      <time datetime="2016-06-18">
+        18 Jun 2016
       </time>
       <div class="post__tags">
       
         
         <a href="/tags/music/">music</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">music</div>
       
         
         <a href="/tags/Best Of/">Best Of</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">Best Of</div>
       
         
         <a href="/tags/PM Dawn/">PM Dawn</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">PM Dawn</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    <div data-pagefind-filter="category" style="display: none;">Best Of</div>
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/prince-be-silhouette.png);">
@@ -208,12 +313,13 @@
     </figure>
     
     
-    <h1>Set Adrift: Beneath the Surface of P.M. Dawn</h1>
-
+    
+    <h1 data-pagefind-weight="3">Set Adrift: Beneath the Surface of P.M. Dawn</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="2">
     <p>Today, P.M. Dawn exists as a faded memory for most music fans, if they’re remembered at all. But Attrell Cordes made songs like nothing that came before. Beautiful, sweeping melodies paired with lyrics of regret, remorse, heartache and profound loss. And then there were those surreal, recurring images of water.</p>
 <p>To casual fans, P.M. Dawn was “the big guy and the other guy.” The big guy was Attrell Cordes, known as Prince Be, who passed away yesterday. The other guy was his brother Jarrett, who usually went by DJ Minutemix until scandal pushed him from the group in the mid-90s. They grew up in Jersey City, which may be the only part of their story that sounds like a regular rap group. The standout moments of the group’s history are like no other group in hip-hop — enormous pop hits and groundbreaking production work, a deep catalog of songs suffused not just with pathos but often with genuine despair, a notorious and absurd run-in with a hip-hop legend, and a stream of profound moments of personal and professional tragedy.</p>
 <p>P.M. Dawn’s unique mix of extraordinary success, deep influence on current sounds, and a relentlessly heartbroken outlook raises the question: What on earth inspired Attrell Cordes in the first place?</p>
@@ -399,6 +505,7 @@ ON THE ALTAR lay an open Bible. Inside the triangle were containers with water, 
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -433,6 +540,9 @@ ON THE ALTAR lay an open Bible. Inside the triangle were containers with water, 
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -476,10 +586,10 @@ ON THE ALTAR lay an open Bible. Inside the triangle were containers with water, 
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -492,6 +602,76 @@ ON THE ALTAR lay an open Bible. Inside the triangle were containers with water, 
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

@@ -8,6 +8,9 @@
     <link rel="stylesheet" type="text/css" href="/public/styles.css" />
     
     
+    
+    
+    
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Anil Dash RSS Feed">
     
     
@@ -140,22 +143,82 @@
           <!-- Add proper aria labeling -->
           <nav class="nav" aria-label="Main navigation">
             <ul class="nav__list">
-                <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
-                </li>
-                <li class="nav-item">
-                    <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
-                </li>
-                <li class="nav-item">
-                  <a href="https://anildash.com/about" >about</a>
-                </li>
+              <li class="nav-item">
+                <a rel="me" href="https://me.dm/@anildash" aria-label="Mastodon profile">mastodon</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://bsky.app/profile/anildash.com" aria-label="Bluesky profile">bluesky</a>
+              </li>
+              <li class="nav-item">
+                <a rel="me" href="https://www.threads.net/@anildash" aria-label="Threads profile">threads</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://anildash.com/about" >about</a>
+              </li>
+              <!-- Expandable Search -->
+              <li class="nav-item">
+                <div class="expandable-search" id="expandable-search">
+                  <button 
+                    class="search-toggle" 
+                    id="search-toggle"
+                    aria-label="Open search"
+                    aria-expanded="false"
+                    aria-controls="search-input-container"
+                  >
+                    <svg viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                  </button>
+                  <div class="search-input-container" id="search-input-container" role="search">
+                    <input 
+                      type="search" 
+                      placeholder="Search..."
+                      aria-label="Search"
+                      id="header-search-input"
+                    >
+                    <button 
+                      class="search-close" 
+                      id="search-close"
+                      aria-label="Close search"
+                    >×</button>
+                  </div>
+                </div>
+              </li>
             </ul>
           </nav>
         </div>
       </header>
+      
+      <!-- Compact Newsletter Signup Banner -->
+      <div class="newsletter-banner" id="newsletter-banner">
+        <div class="newsletter-content">
+          <p class="newsletter-text">Get new posts by email (free, no spam)</p>
+          <form 
+            class="newsletter-form" 
+            action="https://buttondown.email/api/emails/embed-subscribe/anildash"
+            method="post"
+            target="_blank"
+          >
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="your@email.com" 
+              required 
+              aria-label="Email for newsletter"
+            >
+            <input type="hidden" value="1" name="embed" />
+            <button type="submit">Subscribe</button>
+          </form>
+          <button 
+            class="newsletter-dismiss" 
+            onclick="dismissNewsletter()" 
+            aria-label="Dismiss newsletter signup"
+            title="Dismiss"
+          >×</button>
+        </div>
+      </div>
+      
       
       <!-- Add breadcrumbs for SEO and navigation -->
       
@@ -180,7 +243,34 @@
       <!-- Add id for skip link target and role -->
       <main class="main" id="main-content" role="main">
         
-<article class="post">
+
+
+
+
+
+
+
+<article class="post" data-pagefind-body data-pagefind-weight="6">
+  
+  <div style="display: none;">
+    <span data-pagefind-meta="title">23: What was 9/11?</span>
+    <span data-pagefind-meta="date">11 Sep 2024</span>
+    <span data-pagefind-meta="date_iso">2024-09-11</span>
+    <span data-pagefind-sort="date">2024-09-11</span>
+    
+    <span data-pagefind-meta="heroimage">/images/lerone-pieters-MU_OlJ_EQWU-unsplash.jpg</span>
+    
+    
+    <span data-pagefind-meta="tags">nyc</span>
+    
+    <span data-pagefind-meta="excerpt">It’s hard to really take in, after all these years, that most people have no memory of the day. The majority of people in the world were either not born, or no...</span>
+    
+    
+    
+    
+    <span data-pagefind-meta="search_weight">6</span>
+  </div>
+  
   <header class="post__header">
 
     <div class="post__details">
@@ -191,10 +281,17 @@
       
         
         <a href="/tags/nyc/">nyc</a>
+        
+        <div data-pagefind-filter="tag" style="display: none;">nyc</div>
       
       </div>
       <button id="share-link" aria-label="share"></button>
     </div>
+    
+    
+    
+    
+    
     
     
     <figure class="heroimage" style="background-image: url(/images/lerone-pieters-MU_OlJ_EQWU-unsplash.jpg);">
@@ -202,12 +299,13 @@
     </figure>
     
     
-    <h1>23: What was 9/11?</h1>
-
+    
+    <h1 data-pagefind-weight="1.5">23: What was 9/11?</h1>
 
   </header>
 
-  <main class="post__content">
+  
+  <main class="post__content" data-pagefind-weight="1">
     <p>It’s hard to really take in, after all these years, that most people have no memory of the day. The majority of people in the world were either not born, or not old enough to be aware of what was going on, and then many who would recall are either gone or their memories have faded. But I was in New York City on September 11, 2001, and I can say definitively: The constructed cultural narrative around the day bears almost no resemblance to the actual lived experience of anyone I know who was here that day. So maybe it’s worth telling a little bit of what I actually saw.</p>
 <p>At the time, I <a href="https://www.anildash.com/2024/06/14/the-new-alt-media/">worked at the Village Voice</a>, which was the most famous alt-weekly media outlet, a then highly-influential news outlet for people who cared about culture and the arts and progressive politics. I suspect that much of my perspective on the day and the days that followed were informed by working in a newsroom alongside people who were witnessing the most dramatic aspects of the event.</p>
 <p>I’d gone to bed at 2 or 3 in the morning, working on some problem with the website whose specifics I’ve since forgotten. I didn’t remember to turn off my alarm, so it went off as usual a little before 9AM. My alarm was set to play a local radio station, and as I started to wake up and get ready, they interrupted the broadcast to mention that a plane had hit one of the World Trade Center towers. It was mentioned like a serious traffic crash, something significant but not overly worrisome; there were always small planes around NYC airspace and it wasn’t that unusual to have accidents from time to time. Until a few months prior I’d worked at the Empire State Building, and one of the first bits of lore they shared when you worked in the building was about all the weird incidents with planes and dirigibles that had tangled with the building. I didn’t honestly think much about it, and assumed it was some hapless private pilot that had messed up while sightseeing.</p>
@@ -374,6 +472,7 @@ Over the four hundred years it’s taken for this city to evolve into its curren
       }
     });  
   </script>
+  
       </main>
       <footer class="footer" role="contentinfo">
         <div class="footer__content">
@@ -408,6 +507,9 @@ Over the four hundred years it’s taken for this city to evolve into its curren
         </div>
       </footer>
     </div>
+    
+    
+    
     
     <!-- Add dark mode toggle script -->
     <script>
@@ -451,10 +553,10 @@ Over the four hundred years it’s taken for this city to evolve into its curren
           }
         });
       });
-    </script>
-    
-    <!-- Add basic JavaScript for accessibility enhancements -->
-    <script>
+      
+      
+      
+
       // Handle focus management for keyboard users
       document.addEventListener('DOMContentLoaded', function() {
         const skipLink = document.querySelector('.skip-link');
@@ -467,6 +569,76 @@ Over the four hundred years it’s taken for this city to evolve into its curren
           });
         }
       });
+
+      // search functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const expandableSearch = document.getElementById('expandable-search');
+        const searchToggle = document.getElementById('search-toggle');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('header-search-input');
+        
+        if (!expandableSearch || !searchToggle || !searchInput) return;
+        
+        function openSearch() {
+          expandableSearch.classList.add('expanded');
+          searchToggle.setAttribute('aria-expanded', 'true');
+          searchToggle.setAttribute('aria-label', 'Close search');
+          // Focus the input after animation completes
+          setTimeout(() => searchInput.focus(), 300);
+        }
+        
+        function closeSearch() {
+          expandableSearch.classList.remove('expanded');
+          searchToggle.setAttribute('aria-expanded', 'false');
+          searchToggle.setAttribute('aria-label', 'Open search');
+          searchInput.value = '';
+        }
+        
+        // Toggle search on button click
+        searchToggle.addEventListener('click', function() {
+          if (expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        });
+        
+        // Close search when close button is clicked
+        if (searchClose) {
+          searchClose.addEventListener('click', closeSearch);
+        }
+        
+        // Close search on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+            searchToggle.focus(); // Return focus to toggle button
+          }
+        });
+        
+        // Handle search submission
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' && this.value.trim()) {
+            e.preventDefault();
+            // Redirect to search page with query
+            const searchQuery = encodeURIComponent(this.value.trim());
+            window.location.href = `/search/?q=${searchQuery}`;
+          }
+        });
+        
+        // Close search when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!expandableSearch.contains(e.target) && expandableSearch.classList.contains('expanded')) {
+            closeSearch();
+          }
+        });
+        
+        // Prevent search container clicks from closing
+        searchInput.parentElement.addEventListener('click', function(e) {
+          e.stopPropagation();
+        });
+      });
+
     </script>
   </body>
 </html>

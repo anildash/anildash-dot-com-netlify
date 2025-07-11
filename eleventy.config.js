@@ -1,10 +1,11 @@
 import { DateTime } from "luxon";
 import fs, { readFileSync } from "fs";
+import { execSync } from "child_process"; // Add this import
 import pluginSEO from "eleventy-plugin-seo";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import Image from "@11ty/eleventy-img";
+
 const seo = JSON.parse(readFileSync("./src/seo.json", "utf-8"));
-const NOT_FOUND_PATH = "/app/build/404.html";
 
 export default function (eleventyConfig) {
   eleventyConfig.setTemplateFormats([
@@ -32,8 +33,7 @@ export default function (eleventyConfig) {
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
   Adds SEO settings to the top of all pages
-  The "glitch-default" bit allows someone to set the url in seo.json while
-  still letting it have a proper glitch.me address via PROJECT_DOMAIN
+
   */
 
   if (seo.url === "glitch-default") {
@@ -180,6 +180,206 @@ export default function (eleventyConfig) {
       });
   });
 
+  // Date-based weighting for search results
+  eleventyConfig.addFilter("dateWeight", function(dateObj) {
+    if (!dateObj) return 1;
+    
+    const postDate = new Date(dateObj);
+    const currentDate = new Date();
+    const daysDifference = (currentDate - postDate) / (1000 * 60 * 60 * 24);
+    
+    // Weight calculation for recency:
+    // - Posts from last 30 days: weight 10
+    // - Posts from last 6 months: weight 8
+    // - Posts from last year: weight 6
+    // - Posts from last 2 years: weight 4
+    // - Posts from last 5 years: weight 2
+    // - Older posts: weight 1
+    
+    if (daysDifference <= 30) {
+      return 10;
+    } else if (daysDifference <= 180) { // 6 months
+      return 8;
+    } else if (daysDifference <= 365) { // 1 year
+      return 6;
+    } else if (daysDifference <= 730) { // 2 years
+      return 4;
+    } else if (daysDifference <= 1825) { // 5 years
+      return 2;
+    } else {
+      return 1;
+    }
+  });
+
+  // Combined weight calculation for content priority
+  eleventyConfig.addFilter("searchWeight", function(tags, dateObj) {
+    if (!tags || !Array.isArray(tags)) return 1;
+    
+    const hasBestOf = tags.includes("Best Of");
+    const hasMostPopular = tags.includes("Most Popular");
+    const dateWeight = this.getFilter("dateWeight")(dateObj);
+    
+    // Base multipliers for content categories
+    let categoryMultiplier = 1;
+    
+    if (hasBestOf && hasMostPopular) {
+      // Highest priority: both Best Of AND Most Popular
+      categoryMultiplier = 5;
+    } else if (hasBestOf) {
+      // High priority: Best Of content
+      categoryMultiplier = 3;
+    } else if (hasMostPopular) {
+      // High priority: Most Popular content
+      categoryMultiplier = 3;
+    }
+    
+    // Combine category importance with recency
+    // For premium content (Best Of/Most Popular), even old posts should rank well
+    if (categoryMultiplier > 1) {
+      // Premium content: minimum weight of 5, maximum weight of 50
+      return Math.max(5, Math.min(50, categoryMultiplier * dateWeight));
+    } else {
+      // Regular content: use date weight as-is (1-10)
+      return dateWeight;
+    }
+  });
+
+  // Content type weights for different elements
+  eleventyConfig.addFilter("titleWeight", function(tags) {
+    if (!tags || !Array.isArray(tags)) return 1.5;
+    
+    const hasBestOf = tags.includes("Best Of");
+    const hasMostPopular = tags.includes("Most Popular");
+    
+    if (hasBestOf && hasMostPopular) {
+      return 5; // Super high title weight
+    } else if (hasBestOf || hasMostPopular) {
+      return 3; // High title weight
+    } else {
+      return 1.5; // Normal title weight
+    }
+  });
+
+  eleventyConfig.addFilter("contentWeight", function(tags) {
+    if (!tags || !Array.isArray(tags)) return 1;
+    
+    const hasBestOf = tags.includes("Best Of");
+    const hasMostPopular = tags.includes("Most Popular");
+    
+    if (hasBestOf && hasMostPopular) {
+      return 3; // High content weight
+    } else if (hasBestOf || hasMostPopular) {
+      return 2; // Medium-high content weight
+    } else {
+      return 1; // Normal content weight
+    }
+  });
+// Add these filters to your existing eleventy.config.js
+// Insert after your existing filters, before the collections
+
+// Date-based weighting for search results
+eleventyConfig.addFilter("dateWeight", function(dateObj) {
+  if (!dateObj) return 1;
+  
+  const postDate = new Date(dateObj);
+  const currentDate = new Date();
+  const daysDifference = (currentDate - postDate) / (1000 * 60 * 60 * 24);
+  
+  // Weight calculation for recency
+  if (daysDifference <= 30) {
+    return 10;
+  } else if (daysDifference <= 180) { // 6 months
+    return 8;
+  } else if (daysDifference <= 365) { // 1 year
+    return 6;
+  } else if (daysDifference <= 730) { // 2 years
+    return 4;
+  } else if (daysDifference <= 1825) { // 5 years
+    return 2;
+  } else {
+    return 1;
+  }
+});
+
+// Combined weight calculation for content priority
+eleventyConfig.addFilter("searchWeight", function(tags, dateObj) {
+  if (!tags || !Array.isArray(tags)) return 1;
+  
+  const hasBestOf = tags.includes("Best Of");
+  const hasMostPopular = tags.includes("Most Popular");
+  
+  // Calculate date weight manually here to avoid filter reference issues
+  let dateWeight = 1;
+  if (dateObj) {
+    const postDate = new Date(dateObj);
+    const currentDate = new Date();
+    const daysDifference = (currentDate - postDate) / (1000 * 60 * 60 * 24);
+    
+    if (daysDifference <= 30) {
+      dateWeight = 10;
+    } else if (daysDifference <= 180) {
+      dateWeight = 8;
+    } else if (daysDifference <= 365) {
+      dateWeight = 6;
+    } else if (daysDifference <= 730) {
+      dateWeight = 4;
+    } else if (daysDifference <= 1825) {
+      dateWeight = 2;
+    } else {
+      dateWeight = 1;
+    }
+  }
+  
+  // Base multipliers for content categories
+  let categoryMultiplier = 1;
+  
+  if (hasBestOf && hasMostPopular) {
+    categoryMultiplier = 5;
+  } else if (hasBestOf) {
+    categoryMultiplier = 3;
+  } else if (hasMostPopular) {
+    categoryMultiplier = 3;
+  }
+  
+  // Combine category importance with recency
+  if (categoryMultiplier > 1) {
+    return Math.max(5, Math.min(50, categoryMultiplier * dateWeight));
+  } else {
+    return dateWeight;
+  }
+});
+
+// Content type weights for different elements
+eleventyConfig.addFilter("titleWeight", function(tags) {
+  if (!tags || !Array.isArray(tags)) return 1.5;
+  
+  const hasBestOf = tags.includes("Best Of");
+  const hasMostPopular = tags.includes("Most Popular");
+  
+  if (hasBestOf && hasMostPopular) {
+    return 5;
+  } else if (hasBestOf || hasMostPopular) {
+    return 3;
+  } else {
+    return 1.5;
+  }
+});
+
+eleventyConfig.addFilter("contentWeight", function(tags) {
+  if (!tags || !Array.isArray(tags)) return 1;
+  
+  const hasBestOf = tags.includes("Best Of");
+  const hasMostPopular = tags.includes("Most Popular");
+  
+  if (hasBestOf && hasMostPopular) {
+    return 3;
+  } else if (hasBestOf || hasMostPopular) {
+    return 2;
+  } else {
+    return 1;
+  }
+});
+
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
   */
@@ -230,6 +430,19 @@ export default function (eleventyConfig) {
       return data.permalink;
     }
   });
+
+    eleventyConfig.on('eleventy.after', () => {
+    try {
+      execSync(`npx pagefind --site build --glob "**/*.html"`, {
+        encoding: 'utf-8',
+        stdio: 'inherit' // This will show the output
+      });
+      console.log('✅ Pagefind index created successfully');
+    } catch (error) {
+      console.error('❌ Pagefind indexing failed:', error.message);
+    }
+  });
+
 
   return {
     dir: {
