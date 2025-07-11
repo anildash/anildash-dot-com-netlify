@@ -1,6 +1,9 @@
 _site/
 node_modules/
+build/
 .cache
+*.log
+.DS_Store
 
 # Local Netlify folder
 .netlify
